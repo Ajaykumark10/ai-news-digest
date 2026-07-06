@@ -46,7 +46,7 @@ async function callClaude(promptText) {
     },
     body: JSON.stringify({
       model: "claude-sonnet-5",
-      max_tokens: 1500,
+      max_tokens: 4096,
       messages: [{ role: "user", content: promptText }]
     })
   });
@@ -181,7 +181,15 @@ async function main() {
   const prompt = buildPrompt(picked);
   const raw = await callClaude(prompt);
   const clean = raw.replace(/```json|```/g, "").trim();
-  const drafts = JSON.parse(clean);
+
+  let drafts;
+  try {
+    drafts = JSON.parse(clean);
+  } catch (err) {
+    console.error("Failed to parse Claude's response as JSON. Raw response below:");
+    console.error(clean);
+    throw err;
+  }
 
   const issueBody = formatIssueBody(picked, drafts);
   const issueTitle = `Content Digest — ${new Date().toISOString().slice(0, 10)}`;
