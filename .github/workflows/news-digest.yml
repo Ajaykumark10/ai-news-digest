@@ -1,0 +1,43 @@
+name: News Pool + Content Digest
+
+on:
+  schedule:
+    # Runs every 6 hours to keep the news pool fresh
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab, for testing
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update-and-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch latest news into the pool
+        run: npm run fetch
+
+      - name: Generate content digest (only fires every 2 days)
+        run: npm run digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated pool/state files
+        run: |
+          git config user.name "news-digest-bot"
+          git config user.email "actions@github.com"
+          git add news-pool.json digest-state.json 2>/dev/null || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update news pool / digest state [skip ci]"
+          git push

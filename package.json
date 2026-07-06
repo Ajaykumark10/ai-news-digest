@@ -1,0 +1,13 @@
+{
+  "name": "ai-news-digest",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fetch": "node fetch-news.js",
+    "digest": "node generate-digest.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
