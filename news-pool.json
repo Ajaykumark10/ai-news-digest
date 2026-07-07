@@ -8,13 +8,6 @@
       "snippet": "Open-source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life-cycle."
     },
     {
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-07T19:58:20.000Z",
-      "snippet": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
-    },
-    {
       "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
       "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -174,13 +167,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-02T23:38:10.000Z",
       "snippet": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
-    },
-    {
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-02T20:11:59.000Z",
-      "snippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
     }
   ],
   "cloud": [
@@ -213,13 +199,6 @@
       "snippet": "Being more proactive continues to be a leading goal for security organizations. As AI accelerates the pace of vulnerability discovery and exploitation, organizations will rely on the personalization of their security investments to help prioritize their defenses.\nTo help you be more proactive by matching your real-world exposures with real-time adversary activity, we’ve begun integration efforts b"
     },
     {
-      "title": "Report: 83% of organizations need to upgrade their infrastructure to support agentic AI",
-      "link": "https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/",
-      "source": "Cloud Blog",
-      "published": "2026-07-07T16:00:00.000Z",
-      "snippet": "For years, enterprise AI has been synonymous with conversational AI — the customer service bots and digital assistants we interact with every day. But today, the market has shifted. We’ve officially moved from moving from AI that answers through simple chats, to AI that takes action, automated workflows, and executes complex tasks on its own. While this unlocks entirely new use cases, there’s a ca"
-    },
-    {
       "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-labs-accelerate-ai-with-cloud-run/",
       "source": "Cloud Blog",
@@ -249,13 +228,6 @@
     }
   ],
   "hardware": [
-    {
-      "title": "South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand",
-      "link": "https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T17:27:41.000Z",
-      "snippet": "The ₩1,350 trillion total combines a $520 billion semiconductor program with AI data center and robotics spending, mostly made up of corporate capex."
-    },
     {
       "title": "Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand — Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year",
       "link": "https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year",
@@ -292,7 +264,7 @@
       "snippet": "A Change.org petition urging Sony to keep making physical PlayStation games has passed 172,000 signatures."
     },
     {
-      "title": "Brain-Inspired Light Sensor Could Speed AI image Processing",
+      "title": "Brain-Inspired Light Sensor Could Speed AI Image Processing",
       "link": "https://spectrum.ieee.org/hybrid-phototransistor",
       "source": "IEEE Spectrum",
       "published": "2026-07-07T13:00:01.000Z",
@@ -735,13 +707,6 @@
       "snippet": "Insider Brief PRESS RELEASE — The U.S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational system. By bringing these three capabilities together for the first time, Project Triad will move quantum technology out of the lab and into real-world use […]"
     },
     {
-      "title": "Oratomic Raises $300 Million Series A",
-      "link": "https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T17:38:03.000Z",
-      "snippet": "Insider Brief Oratomic has raised a $300 million Series A financing round as the quantum computing startup moves to accelerate development of a fault-tolerant quantum computer that it says could reach commercial utility before the end of the decade. According to a company blog post, the financing was co-led by ARCH Venture Partners, Spark Capital […]"
-    },
-    {
       "title": "Photonic Names Orlagh Neary and Briony Shipman to Executive Roles",
       "link": "https://thequantuminsider.com/2026/07/07/photonic-appoints-marketing-government-affairs-leaders/",
       "source": "The Quantum Insider",
@@ -890,13 +855,6 @@
     }
   ],
   "education": [
-    {
-      "title": "Most districts still struggle to fill specialist roles",
-      "link": "https://www.eschoolnews.com/educational-leadership/2026/07/07/most-districts-still-struggle-to-fill-specialist-roles/",
-      "source": "eSchool News",
-      "published": "2026-07-07T10:01:00.000Z",
-      "snippet": "As school districts prepare for the 2026–27 academic year, new national data from BlazerWorks reveals a growing staffing crisis across K–12 education, with more than 90% of district leaders reporting increased demand for specialist staff."
-    },
     {
       "title": "5 Questions About Security Debt for Higher Ed Institutions",
       "link": "https://edtechmagazine.com/higher/article/2026/07/5-questions-about-security-debt-higher-ed-institutions",
