@@ -2,7 +2,7 @@ import fs from "fs/promises";
 
 const POOL_FILE = "news-pool.json";
 const STATE_FILE = "digest-state.json";
-const DIGEST_INTERVAL_HOURS = 48; // "post once every 2 days"
+const DIGEST_INTERVAL_HOURS = 12; // "at least 2 digests per 24 hours"
 
 const CATEGORY_LABELS = {
   ai: "AI",
@@ -61,53 +61,73 @@ async function callClaude(promptText) {
   return textBlock ? textBlock.text : "";
 }
 
-function buildPrompt(picked) {
-  const storyLines = Object.entries(picked)
-    .map(([cat, item]) => {
-      if (!item) return `${CATEGORY_LABELS[cat]}: (no fresh story available this cycle)`;
-      return `${CATEGORY_LABELS[cat]}: "${item.title}" — ${item.snippet} (Source: ${item.source}, ${item.link})`;
+function buildPrompt(candidates) {
+  const sections = Object.entries(candidates)
+    .map(([cat, items]) => {
+      const label = CATEGORY_LABELS[cat];
+      if (!items.length) return `### ${label}\n(no candidates available this cycle)`;
+      const lines = items
+        .map((item, i) => `[${i}] "${item.title}" — ${item.snippet} (Source: ${item.source}, published: ${item.published}, link: ${item.link})`)
+        .join("\n");
+      return `### ${label}\n${lines}`;
     })
     .join("\n\n");
 
-  return `You are a social media assistant for a startup COO who posts on X (Twitter) and LinkedIn once every 2 days about the latest developments in tech. Below are the most important recent stories in five categories: AI, Cloud, Hardware, Quantum Computing, and Education/EdTech.
+  return `You are a social media assistant for a startup COO who posts on X (Twitter) and LinkedIn once every 2 days about the latest developments in tech.
 
-For EACH category below that has a story, write:
-1. An X post (under 280 characters, punchy, no hashtag spam — max 2 hashtags, include the source link)
-2. A LinkedIn post (3-5 short paragraphs, professional but conversational tone, explain WHY this matters and who benefits — e.g. cloud users, AI startups/learners, hardware engineers, educators — end with a question to spark discussion, include the source link)
+Below are up to 5 recent candidate stories in each of five categories: AI, Cloud, Hardware, Quantum Computing, and Education/EdTech.
+
+For EACH category:
+1. Judge the candidates by genuine SIGNIFICANCE, not just recency — prioritize major product launches, funding rounds, research breakthroughs, notable policy/regulatory shifts, or anything with broad impact on the field. Deprioritize minor incremental updates, routine patch notes, or low-impact announcements UNLESS nothing better is available.
+2. Pick the single most significant candidate by its bracketed index (e.g. 0, 1, 2...).
+3. If NONE of the candidates in a category feel genuinely significant or newsworthy, set "selected_index" to null for that category rather than forcing a weak pick.
+4. For the category's selected story, write:
+   - An X post (under 280 characters, punchy, no hashtag spam — max 2 hashtags, include the source link)
+   - A LinkedIn post (3-5 short paragraphs, professional but conversational tone, explain WHY this matters and who benefits — e.g. cloud users, AI startups/learners, hardware engineers, educators — end with a question to spark discussion, include the source link)
 
 Respond ONLY with valid JSON, no markdown fences, no preamble, in this exact shape:
 {
-  "ai": { "x_post": "...", "linkedin_post": "..." },
-  "cloud": { "x_post": "...", "linkedin_post": "..." },
-  "hardware": { "x_post": "...", "linkedin_post": "..." },
-  "quantum": { "x_post": "...", "linkedin_post": "..." },
-  "education": { "x_post": "...", "linkedin_post": "..." }
+  "ai": { "selected_index": 0, "x_post": "...", "linkedin_post": "..." },
+  "cloud": { "selected_index": 0, "x_post": "...", "linkedin_post": "..." },
+  "hardware": { "selected_index": 0, "x_post": "...", "linkedin_post": "..." },
+  "quantum": { "selected_index": 0, "x_post": "...", "linkedin_post": "..." },
+  "education": { "selected_index": 0, "x_post": "...", "linkedin_post": "..." }
 }
-If a category has no story, set its value to null.
+If a category has "selected_index": null, omit "x_post" and "linkedin_post" (or set them to null) for that category.
 
-Stories:
-${storyLines}`;
+Candidates:
+${sections}`;
 }
 
-function pickBestPerCategory(pool) {
-  const picked = {};
+function getCandidatesPerCategory(pool, maxPerCategory = 5) {
+  const candidates = {};
   for (const cat of Object.keys(CATEGORY_LABELS)) {
-    const items = pool[cat] || [];
-    const newest = items[0]; // pool is already sorted newest-first
-    if (!newest) {
+    const items = pool[cat] || []; // already sorted newest-first
+    const limit = FRESHNESS_HOURS[cat] ?? 72;
+    const fresh = items.filter(item => {
+      const ageHours = (Date.now() - new Date(item.published).getTime()) / 3600000;
+      return ageHours <= limit;
+    });
+    candidates[cat] = fresh.slice(0, maxPerCategory);
+  }
+  return candidates;
+}
+
+function resolvePicks(candidates, drafts) {
+  const picked = {};
+  const resolvedDrafts = {};
+  for (const cat of Object.keys(CATEGORY_LABELS)) {
+    const draft = drafts[cat];
+    const idx = draft ? draft.selected_index : null;
+    if (idx === null || idx === undefined || !candidates[cat] || !candidates[cat][idx]) {
       picked[cat] = null;
+      resolvedDrafts[cat] = null;
       continue;
     }
-    const ageHours = (Date.now() - new Date(newest.published).getTime()) / 3600000;
-    const limit = FRESHNESS_HOURS[cat] ?? 72;
-    if (ageHours > limit) {
-      console.log(`[${cat}] newest story is ${ageHours.toFixed(0)}h old (limit ${limit}h) — skipping, nothing genuinely new.`);
-      picked[cat] = null;
-    } else {
-      picked[cat] = newest;
-    }
+    picked[cat] = candidates[cat][idx];
+    resolvedDrafts[cat] = { x_post: draft.x_post, linkedin_post: draft.linkedin_post };
   }
-  return picked;
+  return { picked, resolvedDrafts };
 }
 
 function removeUsedItems(pool, picked) {
@@ -171,27 +191,34 @@ async function main() {
   }
 
   const pool = await readJson(POOL_FILE, {});
-  const picked = pickBestPerCategory(pool);
+  const candidates = getCandidatesPerCategory(pool);
 
-  if (Object.values(picked).every(v => v === null)) {
-    console.log("No stories available in the pool yet. Skipping digest.");
+  if (Object.values(candidates).every(list => list.length === 0)) {
+    console.log("No candidates available in the pool yet. Skipping digest.");
     return;
   }
 
-  const prompt = buildPrompt(picked);
+  const prompt = buildPrompt(candidates);
   const raw = await callClaude(prompt);
   const clean = raw.replace(/```json|```/g, "").trim();
 
-  let drafts;
+  let rawDrafts;
   try {
-    drafts = JSON.parse(clean);
+    rawDrafts = JSON.parse(clean);
   } catch (err) {
     console.error("Failed to parse Claude's response as JSON. Raw response below:");
     console.error(clean);
     throw err;
   }
 
-  const issueBody = formatIssueBody(picked, drafts);
+  const { picked, resolvedDrafts } = resolvePicks(candidates, rawDrafts);
+
+  if (Object.values(picked).every(v => v === null)) {
+    console.log("Claude didn't find any candidate significant enough this cycle. Skipping digest.");
+    return;
+  }
+
+  const issueBody = formatIssueBody(picked, resolvedDrafts);
   const issueTitle = `Content Digest — ${new Date().toISOString().slice(0, 10)}`;
   const issue = await createGithubIssue(issueTitle, issueBody);
   console.log(`Created issue: ${issue.html_url}`);
