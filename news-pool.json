@@ -1,6 +1,34 @@
 {
   "ai": [
     {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-07T20:04:32.000Z",
+      "snippet": "Open-source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life-cycle."
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-07T19:58:20.000Z",
+      "snippet": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
+    },
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-07T19:28:38.000Z",
+      "snippet": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem."
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-07T16:27:18.000Z",
+      "snippet": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed."
+    },
+    {
       "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
       "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -153,37 +181,58 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-02T20:11:59.000Z",
       "snippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
-    },
-    {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-02T18:44:02.000Z",
-      "snippet": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
-    },
-    {
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-02T18:31:09.000Z",
-      "snippet": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-07-02T15:37:08.000Z",
-      "snippet": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to…"
-    },
-    {
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-02T15:20:51.000Z",
-      "snippet": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom."
     }
   ],
   "cloud": [
+    {
+      "title": "20 questions for the Agentic Enterprise (and how Agent Platform can help)",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
+      "source": "Cloud Blog",
+      "published": "2026-07-07T16:00:00.000Z",
+      "snippet": "If you’re an IT leader, you might be getting a lot of questions about how to build and deploy agents. \nThe pressure to move fast is intense, but the engineering reality is incredibly complex. Where do your teams even begin? How do you untangle a fragmented mess of disconnected tools? And as things grow, how do you ensure your agents don’t accidentally leak sensitive data, or burn through your toke"
+    },
+    {
+      "title": "A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
+      "source": "Cloud Blog",
+      "published": "2026-07-07T16:00:00.000Z",
+      "snippet": "Software-as-a-service (SaaS) is evolving into Agents-as-a-service (AaaS).\nInstead of isolated applications, developers are creating AI agents that interoperate using standardized open protocols such as the Agent2Agent (A2A) protocol and can be orchestrated through centralized agent platforms like Gemini Enterprise Agent Platform.\nWhen building for your specific use case, we believe the goal should"
+    },
+    {
+      "title": "BGP route policies: Top 3 use cases by customer demand",
+      "link": "https://cloud.google.com/blog/products/networking/bgp-route-policies-top-3-use-cases-by-customer-demand/",
+      "source": "Cloud Blog",
+      "published": "2026-07-07T16:00:00.000Z",
+      "snippet": "When we first made BGP route policies for Cloud Router generally available over a year ago, our goal was to give network administrators deep, programmable control over how network paths are evaluated and propagated. Since then, we’ve been watching closely how our customers have adopted this feature. We've seen network engineering teams build incredibly sophisticated, resilient routing architecture"
+    },
+    {
+      "title": "Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM",
+      "link": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
+      "source": "Cloud Blog",
+      "published": "2026-07-07T16:00:00.000Z",
+      "snippet": "Being more proactive continues to be a leading goal for security organizations. As AI accelerates the pace of vulnerability discovery and exploitation, organizations will rely on the personalization of their security investments to help prioritize their defenses.\nTo help you be more proactive by matching your real-world exposures with real-time adversary activity, we’ve begun integration efforts b"
+    },
+    {
+      "title": "Report: 83% of organizations need to upgrade their infrastructure to support agentic AI",
+      "link": "https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/",
+      "source": "Cloud Blog",
+      "published": "2026-07-07T16:00:00.000Z",
+      "snippet": "For years, enterprise AI has been synonymous with conversational AI — the customer service bots and digital assistants we interact with every day. But today, the market has shifted. We’ve officially moved from moving from AI that answers through simple chats, to AI that takes action, automated workflows, and executes complex tasks on its own. While this unlocks entirely new use cases, there’s a ca"
+    },
+    {
+      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-labs-accelerate-ai-with-cloud-run/",
+      "source": "Cloud Blog",
+      "published": "2026-07-07T14:00:00.000Z",
+      "snippet": "Moving Beyond the Prototype\nThe AI landscape has shifted. While \"vibe coding\" with tools like Antigravity and AI Studio lets you build and deploy complex agents in minutes, the real work begins on \"Day 2\". Moving from a magical prototype to a hardened, production-grade application requires professional AI engineering. We’re excited to bring back the Accelerate AI with Cloud Run roadshow for 2026. "
+    },
+    {
+      "title": "The ‘Ghost’ in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
+      "source": "Cloud Blog",
+      "published": "2026-07-07T14:00:00.000Z",
+      "snippet": "Written by: Shebin Mathew\n\n\nIntroduction \nThe \"Golden SAML\" technique, first described by CyberArk researchers in 2017, and further detailed by Mandiant researchers in 2021, remains one of the most effective methods for threat actors to forge identity assertions in the Microsoft ecosystem. By obtaining the private key of an ADFS token-signing certificate, an attacker can authenticate as any user t"
+    },
     {
       "title": "Shift into high gear with agents: Securing the software-defined vehicle",
       "link": "https://cloud.google.com/blog/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/",
@@ -197,16 +246,30 @@
       "source": "AWS News Blog",
       "published": "2026-07-06T15:46:43.000Z",
       "snippet": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the AWS Startups team, listening to stories of founders talking about the problems they’re actually solving. One story that stayed with me came […]"
-    },
-    {
-      "title": "Meet Brain: The AI system behind Azure reliability",
-      "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-07-02T16:00:00.000Z",
-      "snippet": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates.\nThe post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog."
     }
   ],
   "hardware": [
+    {
+      "title": "South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand",
+      "link": "https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-07T17:27:41.000Z",
+      "snippet": "The ₩1,350 trillion total combines a $520 billion semiconductor program with AI data center and robotics spending, mostly made up of corporate capex."
+    },
+    {
+      "title": "Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand — Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year",
+      "link": "https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-07T16:13:09.000Z",
+      "snippet": "Chinese memory and storage manufacturer Longsys expects to post a massive increase in profits due to the AI-driven chip shortage."
+    },
+    {
+      "title": "Save nearly $2,000 on this RTX 5090 OLED gaming laptop right now — massive discount on powerhouse 16-inch Lenovo rig with 240Hz refresh rate, 32GB DDR5 RAM, 2TB SSD, and a 24-core Intel CPU, all for $3,199",
+      "link": "https://www.tomshardware.com/pc-components/save-nearly-usd2-000-on-this-rtx-5090-oled-gaming-laptop-right-now-massive-discount-on-powerhouse-16-inch-lenovo-rig-with-240hz-refresh-rate-32gb-ddr5-ram-2tb-ssd-and-a-24-core-intel-cpu-all-for-usd3-199",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-07T14:52:28.000Z",
+      "snippet": "Grab this Lenovo Legion Pro 7i gaming laptop with an RTX 5090 for just $3,199 right now at B&H Photo, saving you $1,800."
+    },
     {
       "title": "AVX-512 support is reportedly returning with Intel's next-gen Nova Lake CPUs — Latest Linux kernel patches reveal P-cores and E-cores will gain native 512-bit execution",
       "link": "https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution",
@@ -664,6 +727,34 @@
     }
   ],
   "quantum": [
+    {
+      "title": "NSF Launches Project Triad to Advance Quantum Technology For Real-World Applications",
+      "link": "https://thequantuminsider.com/2026/07/07/nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-07T19:30:41.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — The U.S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational system. By bringing these three capabilities together for the first time, Project Triad will move quantum technology out of the lab and into real-world use […]"
+    },
+    {
+      "title": "Oratomic Raises $300 Million Series A",
+      "link": "https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-07T17:38:03.000Z",
+      "snippet": "Insider Brief Oratomic has raised a $300 million Series A financing round as the quantum computing startup moves to accelerate development of a fault-tolerant quantum computer that it says could reach commercial utility before the end of the decade. According to a company blog post, the financing was co-led by ARCH Venture Partners, Spark Capital […]"
+    },
+    {
+      "title": "Photonic Names Orlagh Neary and Briony Shipman to Executive Roles",
+      "link": "https://thequantuminsider.com/2026/07/07/photonic-appoints-marketing-government-affairs-leaders/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-07T15:22:43.000Z",
+      "snippet": "Insider Brief Press release – Photonic Inc., a global leader in distributed quantum computing, today announced the appointments of Orlagh Neary as Chief Marketing Officer (CMO), and Briony Shipman as Vice President, Global Government Affairs. The strategic appointments of Neary and Shipman follow the final close of Photonic’s investment round in May 2026 of over $200M USD ($275M CAD) strengthening"
+    },
+    {
+      "title": "University of Pretoria Expands South Africa’s Quantum Research Capacity",
+      "link": "https://thequantuminsider.com/2026/07/07/university-pretoria-quantum-research-hub/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-07T14:14:30.000Z",
+      "snippet": "Insider Brief As countries around the world race to secure leadership in quantum technologies – an emerging field expected to transform computing, healthcare, manufacturing, agriculture and cybersecurity – the University of Pretoria (UP) has been selected to play a significant role in South Africa’s next step into the quantum era. The University will host a new node […]"
+    },
     {
       "title": "SEALSQ Corp Reports Revenue Up 120% in Preliminary H1 2026 Results",
       "link": "https://thequantuminsider.com/2026/07/07/sealsq-corp-reports-revenue-up-120-in-preliminary-h1-2026-results/",
