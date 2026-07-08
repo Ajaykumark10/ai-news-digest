@@ -1,11 +1,32 @@
 {
   "ai": [
     {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T08:00:00.000Z",
+      "snippet": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
+    },
+    {
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-07T22:18:10.000Z",
+      "snippet": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities."
+    },
+    {
       "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
       "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-07T20:04:32.000Z",
-      "snippet": "Open-source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life-cycle."
+      "snippet": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-07T19:58:20.000Z",
+      "snippet": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
     },
     {
       "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
@@ -160,13 +181,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-03T18:43:00.000Z",
       "snippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-    },
-    {
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-02T23:38:10.000Z",
-      "snippet": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
     }
   ],
   "cloud": [
@@ -229,6 +243,13 @@
   ],
   "hardware": [
     {
+      "title": "Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator — unreleased graphics cards shown with 10-17% higher TGP over original models",
+      "link": "https://www.tomshardware.com/pc-components/gpus/unannounced-nvidia-rtx-50-super-gpus-appear-in-seasonic-psu-calculator-unreleased-graphics-cards-shown-with-10-17-percent-higher-tgp-over-original-models",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-07T21:34:05.000Z",
+      "snippet": "Total graphics power figures for Nvidia's unanounced, unreleased RTX 50 Super-series graphics cards have appeared in Seasonic's PSU capacity calculator, revealing potentially higher TGPs of those products."
+    },
+    {
       "title": "Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand — Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year",
       "link": "https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year",
       "source": " Latest from Tom's Hardware ",
@@ -268,7 +289,7 @@
       "link": "https://spectrum.ieee.org/hybrid-phototransistor",
       "source": "IEEE Spectrum",
       "published": "2026-07-07T13:00:01.000Z",
-      "snippet": "A new type of imaging sensor inspired by the functioning of the human brain can detect light and store data at the same time. What’s more, the device can forget the data it no longer needs, paving the way for future breakthroughs in robotic vision efficiency.\nToday’s digital cameras rely on complementary metal-oxide-semiconductors (CMOS) or charge coupled devices (CCDs), which convert photons into"
+      "snippet": "A new type of imaging sensor inspired by the functioning of the human brain can detect light and store data at the same time. What’s more, the device can forget the data it no longer needs, paving the way for future breakthroughs in robotic-vision efficiency.\nToday’s digital cameras rely on complementary metal-oxide-semiconductors (CMOS) or charge coupled devices (CCDs), which convert photons into"
     },
     {
       "title": "Steam Machines with the ‘Red Line of Death’ get a simple, official cure: Clear the CMOS — clearing the CMOS can revive flat(red)-lining cubes",
@@ -699,6 +720,13 @@
     }
   ],
   "quantum": [
+    {
+      "title": "Fraunhofer ILT Develops Laser System for 2,000-Qubit Neutral-Atom Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/07/08/fraunhofer-ilt-develops-laser-system-for-2000-qubit-neutral-atom-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T08:02:37.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with sub-micrometer precision in the computer’s highly compact vacuum chamber. To do […]"
+    },
     {
       "title": "NSF Launches Project Triad to Advance Quantum Technology For Real-World Applications",
       "link": "https://thequantuminsider.com/2026/07/07/nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications/",
