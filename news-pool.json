@@ -1,11 +1,25 @@
 {
   "ai": [
     {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T12:00:00.000Z",
+      "snippet": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley."
+    },
+    {
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-08T08:00:00.000Z",
       "snippet": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T07:16:00.000Z",
+      "snippet": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
     },
     {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
@@ -185,6 +199,13 @@
   ],
   "cloud": [
     {
+      "title": "Meet the 33 cybersecurity startups joining the Gemini Startup Forum",
+      "link": "https://cloud.google.com/blog/products/identity-security/meet-the-33-cybersecurity-startups-joining-the-gemini-startup-forum/",
+      "source": "Cloud Blog",
+      "published": "2026-07-08T13:30:00.000Z",
+      "snippet": "Startups are at the forefront of tackling some of the world’s most complex challenges, especially in cybersecurity, where new ideas and adaptability are always needed. These companies are embracing AI as a powerful tool, enabling them to scale their impact. \nGoogle believes that enabling the next generation of AI-native cybersecurity startups will have a positive impact across the globe. Today, we"
+    },
+    {
       "title": "20 questions for the Agentic Enterprise (and how Agent Platform can help)",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
       "source": "Cloud Blog",
@@ -211,6 +232,13 @@
       "source": "Cloud Blog",
       "published": "2026-07-07T16:00:00.000Z",
       "snippet": "Being more proactive continues to be a leading goal for security organizations. As AI accelerates the pace of vulnerability discovery and exploitation, organizations will rely on the personalization of their security investments to help prioritize their defenses.\nTo help you be more proactive by matching your real-world exposures with real-time adversary activity, we’ve begun integration efforts b"
+    },
+    {
+      "title": "Report: 83% of organizations need to upgrade their infrastructure to support agentic AI",
+      "link": "https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/",
+      "source": "Cloud Blog",
+      "published": "2026-07-07T16:00:00.000Z",
+      "snippet": "For years, enterprise AI has been synonymous with conversational AI — the customer service bots and digital assistants we interact with every day. But today, the market has shifted. We’ve officially moved from moving from AI that answers through simple chats, to AI that takes action, automated workflows, and executes complex tasks on its own. While this unlocks entirely new use cases, there’s a ca"
     },
     {
       "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
@@ -243,11 +271,109 @@
   ],
   "hardware": [
     {
+      "title": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% — Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/power-company-hikes-data-center-bills-by-30-percent-cuts-residential-electricity-costs-by-1-3-percent-oregon-approves-change-through-power-act-pushes-developments-using-more-than-20-megawatts-of-power-to-pay-their-fair-share",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T13:56:27.000Z",
+      "snippet": "Oregon approves the 29.7% price hike that Portland General Electric (PGE), the state's largest power provider, will impose on users that consume 20MW or more. This move is backed by Oregon's POWER Act, which helps ensure that data centers in PGE's coverage area pay their fair share."
+    },
+    {
+      "title": "'Slopfix' software team charges $10,000 a week to delete AI-generated code bloat — ironically, the team uses AI agents to trim messy repositories by up to 65%",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-team-of-engineers-called-slopfix-charges-10000-a-week-to-delete-ai-generated-code-using-ai-agents",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T13:19:17.000Z",
+      "snippet": "A software house known as 'Slopfix' has launched a fixed-price service that refactors AI-generated codebases, charging $10,000 for one week of work."
+    },
+    {
+      "title": "Fi Ultra becomes first dog tracker powered by Starlink satellites – the Fi Ultra Dog Tracker makes Fido trackable via satellite, onboard GPS, and LTE connectivity",
+      "link": "https://www.tomshardware.com/peripherals/wearable-tech/fi-ultra-becomes-first-dog-tracker-powered-by-starlink-satellites-the-fi-ultra-dog-tracker-makes-fido-trackable-via-satellite-onboard-gps-and-lte-connectivity",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T13:11:25.000Z",
+      "snippet": "Smart pet technology firm Fi has launched the Fi Ultra Dog Tracker today, the first such device with Starlink connectivity."
+    },
+    {
+      "title": "Cooler Master V4 and V8 3DHP Review: A masterful engineering achievement",
+      "link": "https://www.tomshardware.com/pc-components/air-cooling/cooler-master-v4-and-v8-3dhp-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T13:02:20.000Z",
+      "snippet": "Cooler Master’s 3DHP heatpipes, in its Master V4 and V8 coolers, are the biggest advancement in air cooling technology in years. But early adoption comes at a price."
+    },
+    {
+      "title": "Cracked version of Assassin’s Creed Black Flag Resynced leaked days prior to official release despite Denuvo DRM protection — Denuvo unable to stop crackers, with some finding ways to completely remove it from other titles",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/cracked-version-of-assassins-creed-black-flag-resynced-leaked-days-prior-to-official-release-despite-denuvo-drm-protection-denuvo-unable-to-stop-crackers-with-some-finding-ways-to-completely-remove-it-from-other-titles",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T12:29:12.000Z",
+      "snippet": "Ubisoft's remake of the 2013 game has been circulating online more than a month before its official release date, despite Denuvo DRM protection. Incident questions the effectivity of anti-piracy app, which causes performance hits and requires intrusive online check-ins."
+    },
+    {
+      "title": "Modding tool 'DLSS Swapper' might infect your PC with malware if you download the wrong files — App creator warns against using random, user-submitted DLLs",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/modding-tool-dlss-swapper-might-infect-your-pc-with-malware-if-you-download-the-wrong-files-app-creator-warns-against-using-random-user-submitted-dlls",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T12:18:47.000Z",
+      "snippet": "The creator of DLSS Swapper is warning against using random DLLs that claim to fix issues pertaining to DLSS, FSR, or XeSS, even if said file is available on the app's GitHub repo."
+    },
+    {
+      "title": "Save $527 on this 1440p gaming PC from Newegg with a 16GB RTX 5060 Ti right now — huge discount for high-end performance rig with an Intel Core i7-14700F, 32GB DDR5, and a 1TB SSD",
+      "link": "https://www.tomshardware.com/peripherals/gaming-mice/save-usd527-on-this-1440p-gaming-pc-from-newegg-with-a-16gb-rtx-5060-ti-right-now-huge-discount-for-high-end-performance-rig-with-an-intel-core-i7-14700f-32gb-ddr5-and-a-1tb-ssd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T11:44:32.000Z",
+      "snippet": "This great value gaming PC from Newegg's ABS brand features a 16GB RTX 5060 Ti GPU and 32GB of DDR5-6400 RAM, giving you a rig ready for 1440p gaming."
+    },
+    {
+      "title": "Valve releases drivers, notes to make Windows work on Steam hardware, but refuses to support it — tells users it doesn’t offer support for ‘Windows on Steam Hardware,’ gaming company provides resources ‘as is’",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/valve-releases-drivers-notes-to-make-windows-work-on-steam-hardware-but-refuses-to-support-it-tells-users-it-doesnt-offer-support-for-windows-on-steam-hardware-gaming-company-provides-resources-as-is",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T11:20:00.000Z",
+      "snippet": "These drivers will make it easier for your Steam Deck or Steam Machine to play nicely with Windows 11. However, Valve says it does not offer customer support for 'Windows on Steam Hardware,' and instead points stuck users to the SteamOS recovery instructions."
+    },
+    {
+      "title": "8Bitdo's wireless Pro 2 gaming controller falls to all-time low price — hall-effect gamepad is 38% off, just $37.19",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/8bitdos-wireless-pro-2-gaming-controller-falls-to-all-time-low-price-hall-effect-gamepad-is-38-percent-off-just-usd37-19",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T11:18:06.000Z",
+      "snippet": "Hitting an all-time low price at Amazon, 8Bitdo's wireless Pro 2 gaming controller with hall-effect joysticks is 38% off for Prime members."
+    },
+    {
+      "title": "Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, reveals next-gen 'Rigel' Arm CPU cores — frames chip as a 'max single-threaded CPU at scale,' not a parallel monster",
+      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T11:00:00.000Z",
+      "snippet": "Nvidia lifts the veil a little bit more on its Vera CPU and reveals a single-thread performance monster — company claims a 1.8x uplift versus x86 competition in agentic workloads and 1.5x in coding."
+    },
+    {
+      "title": "Arrest and extradition of Scattered Spider hacker shines light on how Windows telemetry GDIDs can identify and track users — Microsoft device identifier is just one digital fingerprint in a software world rife with them",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/arrest-and-extradition-of-scattered-spider-hacker-shines-light-on-how-windows-telemetry-gdids-can-identify-users-microsoft-device-identifier-is-just-one-digital-fingerprint-in-a-software-world-rife-with-them",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T10:30:00.000Z",
+      "snippet": "While the use of Windows' GDID to catch Scattered Spider hacking group member Peter Stokes is unusual, that device identifier is only one bit of telemetry that can be used to fingerprint a user across the wider Internet these days."
+    },
+    {
+      "title": "Stacking Chips Sideways Gives AI More Memory",
+      "link": "https://spectrum.ieee.org/stacking-chips-sideways",
+      "source": "IEEE Spectrum",
+      "published": "2026-07-08T10:00:02.000Z",
+      "snippet": "GPUs and other big AI chips just can’t get enough memory. Today’s datacenter computers stack DRAM 12 dies high. But as memory makers try to build higher stacks to pack in more bits and bandwidth, experts worry this highbandwidth-memory (HBM) will trap enough heat to cook itself into oblivion. That will be especially true if GPU-makers choose to start stacking HBM atop their already hot processors "
+    },
+    {
+      "title": "Space Force gets first mobile high-powered electromagnetic beam weapon to cripple enemy satellites — plans to deploy 32 ‘Meadowlands’ units to detect, deny, disrupt, and degrade hostile space assets",
+      "link": "https://www.tomshardware.com/tech-industry/space/space-force-gets-first-mobile-high-powered-electromagnetic-beam-weapon-to-cripple-enemy-satellites-plans-to-deploy-32-meadowlands-units-to-detect-deny-disrupt-and-degrade-hostile-space-assets",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T10:00:00.000Z",
+      "snippet": "Space Force has announced that the first high-energy 'Meadowlands' electronic warfare system has been delivered for operational duty."
+    },
+    {
       "title": "Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator — unreleased graphics cards shown with 10-17% higher TGP over original models",
       "link": "https://www.tomshardware.com/pc-components/gpus/unannounced-nvidia-rtx-50-super-gpus-appear-in-seasonic-psu-calculator-unreleased-graphics-cards-shown-with-10-17-percent-higher-tgp-over-original-models",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-07T21:34:05.000Z",
       "snippet": "Total graphics power figures for Nvidia's unanounced, unreleased RTX 50 Super-series graphics cards have appeared in Seasonic's PSU capacity calculator, revealing potentially higher TGPs of those products."
+    },
+    {
+      "title": "South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand",
+      "link": "https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-07T17:27:41.000Z",
+      "snippet": "The ₩1,350 trillion total combines a $520 billion semiconductor program with AI data center and robotics spending, mostly made up of corporate capex."
     },
     {
       "title": "Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand — Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year",
@@ -696,30 +822,79 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-03T14:45:33.000Z",
       "snippet": "Intel confirms price increases for Core Ultra 200S Plus, Xeon 6 processors, cites market dynamics, rising costs, soaring demand."
-    },
-    {
-      "title": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases",
-      "link": "https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-03T14:13:04.000Z",
-      "snippet": "17 plaintiffs sued Samsung, SK hynix, and Micron in the U.S. District Court for the Northern District of California in late June."
-    },
-    {
-      "title": "Brand new Steam Machine hit with 'red line of death' GPU failure after playing No Man's Sky for just five minutes — console 'bricked itself' following update in failure that echoes the horror of the Xbox 360's infamous RROD",
-      "link": "https://www.tomshardware.com/video-games/console-gaming/brand-new-steam-machine-hit-with-red-line-of-death-gpu-failure-after-playing-no-mans-sky-for-just-five-minutes-console-bricked-itself-following-update-in-incident-eerily-reminiscent-of-xbox-360-launch",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-03T13:58:19.000Z",
-      "snippet": "A Redditor experience the deadly \"Red Line of Death\" on their Steam Machine, indicating GPU failure. They've just been playing for five minutes and then updated the console before experiencing the issue."
-    },
-    {
-      "title": "HP OmniBook Ultra 14 review: Potent Snapdragon performance, great endurance, premium pricing",
-      "link": "https://www.tomshardware.com/laptops/hp-omnibook-ultra-14-snapdragon-x2-elite-2026-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-03T13:34:57.000Z",
-      "snippet": "HP hits the mark on performance and battery life, but you’ll pay a hefty price for its OmniBook Ultra with Qualcomm Snapdragon X2 Elite."
     }
   ],
   "quantum": [
+    {
+      "title": "SEALSQ and GlobalFoundries Partner on Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/07/08/sealsq-globalfoundries-post-quantum-cryptography-partnership/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T13:11:27.000Z",
+      "snippet": "Insider Brief Press release – SEALSQ Corp (Nasdaq: LAES) (“SEALSQ“) and GlobalFoundries (Nasdaq: GFS) (GF) today announced a strategic Memorandum of Understanding (MoU) to co-develop across secure semiconductor platforms, Post-Quantum Cryptography (PQC) and emerging semiconductor-based quantum computing technologies. The partnership leverages GF’s process technology leadership and manufacturing ca"
+    },
+    {
+      "title": "New Optical Technique Captures Three Material Properties in a Single Measurement",
+      "link": "https://thequantuminsider.com/2026/07/08/new-optical-technique-captures-three-material-properties-in-a-single-measurement/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T13:09:52.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — An international team of researchers has developed an optical technique that measures the chemical, structural, and mechanical properties of a material at the same time, from a single point, and without touching or labeling the sample. The work, published in Nature Communications, is led by Milan-based deep-tech company Specto Photonics […]"
+    },
+    {
+      "title": "BTQ Technologies Completes Acquisition of QPerfect to Expand Quantum Software Capabilities",
+      "link": "https://thequantuminsider.com/2026/07/08/btq-technologies-completes-qperfect-acquisition-quantum-software-capabilities/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T13:01:22.000Z",
+      "snippet": "Insider Brief Press release – BTQ Technologies Corp. (“BTQ” or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, is pleased to announce that it has completed the acquisition of QPerfect SA (“QPerfect“), a French quantum computing company based in Strasbourg specializing in quantum software, emulation, digital twin capabi"
+    },
+    {
+      "title": "CSIRO Builds Quantum Light Sources to Counter GPS Jamming and Spoofing",
+      "link": "https://thequantuminsider.com/2026/07/08/csiro-builds-quantum-light-sources-to-detect-gnss-signal-tampering/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T12:29:46.000Z",
+      "snippet": "Insider Brief GPS signals are weak by the time they reach Earth. That weakness is why they are increasingly being disrupted – blocked through jamming, or overridden with false signals through spoofing. GPS is the best-known satellite timing system in Australia and the United States, but it is one of several systems that together make […]"
+    },
+    {
+      "title": "IQM to Deliver Quantum Computer for Europe’s LUMI AI Factory",
+      "link": "https://thequantuminsider.com/2026/07/08/lumi-ai-factory-iqm-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T11:48:48.000Z",
+      "snippet": "Insider Brief Press release – The LUMI AI Factory, led by CSC – IT Center for Science, has selected IQM Quantum Computers (Nasdaq: IQMX) to deliver IQM Halocene H4, an advanced quantum computer aimed at accelerating hybrid high-performance computing, artificial intelligence, and quantum computing capabilities. IQM Halocene H4 is the first and most advanced on-premises […]"
+    },
+    {
+      "title": "Guest Post – QSE Expands Post-Quantum Cryptography Solutions for Enterprise Quantum Security Migration",
+      "link": "https://thequantuminsider.com/2026/07/08/qse-post-quantum-security-southeast-asia/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T10:08:15.000Z",
+      "snippet": "Insider Brief Guest Post by QSE – Quantum Secure Encryption Corp. Equity Insider News Commentary, One of the quieter but more consequential races in technology is the effort to rebuild the world’s encryption before quantum computers grow powerful enough to break it. Governments and standards bodies have set migration deadlines, regulators are turning quantum risk into […]"
+    },
+    {
+      "title": "European QUARTERNEXT Consortium Advances Quantum-Safe Communication Systems",
+      "link": "https://thequantuminsider.com/2026/07/08/quarternext-quantum-safe-communications/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T09:40:58.000Z",
+      "snippet": "Insider Brief Press release – QUARTERNEXT, a European-funded consortium dedicated to advancing quantum-safe communication technologies toward certifiable, industrial-grade systems, has officially launched. Bringing together six leading organizations across Spain, Austria, and the Netherlands, the project aims to mature quantum technologies for widespread commercial adoption and secure formal certi"
+    },
+    {
+      "title": "Rice University and Max Planck Society Launch Quantum Materials Research Partnership",
+      "link": "https://thequantuminsider.com/2026/07/08/rice-university-and-the-max-planck-society-establish-a-partnership-on-quantum-materials/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T09:30:03.000Z",
+      "snippet": "Insider Brief Press release – Rice University and the Max Planck Society officially launched the Quantum Materials – Rice and Max Planck Partnership (Q-RaMP) June 19, aimed at supporting the identification and development of quantum materials that will support breakthroughs in sustainability, energy efficiency and quantum and classical information processing. “Breakthrough technologies begin with "
+    },
+    {
+      "title": "Argonne Brings Together Leaders to Discuss Quantum Technology Opportunities",
+      "link": "https://thequantuminsider.com/2026/07/08/argonne-quantum-prairie-economic-symposium/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T09:24:37.000Z",
+      "snippet": "Insider Brief The U.S. Department of Energy’s Argonne National Laboratory convened leaders from business, government, academia and nonprofit organizations in May for the inaugural Quantum Prairie Economic Symposium, bringing together nearly 100 participants to examine how advances in quantum science could drive regional economic growth, workforce development and technological innovation. Held at H"
+    },
+    {
+      "title": "QpiAI Launches Open Quantum SDK for Developers and Researchers",
+      "link": "https://thequantuminsider.com/2026/07/08/qpiai-launches-open-quantum-sdk-for-developers-and-researchers/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T09:13:39.000Z",
+      "snippet": "Insider Brief Press release – QpiAI, a globally leading full-stack quantum computing company, today released the QpiAI Quantum SDK as open-source software. Available now at https://github.com/qpiai/quantum-sdk, the QpiAI Quantum SDK gives developers, researchers, and startups an accessible, developer-friendly toolkit to build and run quantum algorithms and to connect their quantum development work"
+    },
     {
       "title": "Fraunhofer ILT Develops Laser System for 2,000-Qubit Neutral-Atom Quantum Computer",
       "link": "https://thequantuminsider.com/2026/07/08/fraunhofer-ilt-develops-laser-system-for-2000-qubit-neutral-atom-quantum-computer/",
@@ -884,6 +1059,20 @@
   ],
   "education": [
     {
+      "title": "5 ways to rest, reflect, and recharge this summer",
+      "link": "https://www.eschoolnews.com/sel/2026/07/08/5-ways-to-rest-reflect-and-recharge-this-summer/",
+      "source": "eSchool News",
+      "published": "2026-07-08T10:00:00.000Z",
+      "snippet": "Summer break has finally arrived, and if you're like most educators, you're probably feeling a lot of conflicting emotions. There's relief that the school year is behind you, pride in everything you've accomplished, but also exhaustion from months of pouring your time, energy, and heart into your students."
+    },
+    {
+      "title": "Most districts still struggle to fill specialist roles",
+      "link": "https://www.eschoolnews.com/educational-leadership/2026/07/07/most-districts-still-struggle-to-fill-specialist-roles/",
+      "source": "eSchool News",
+      "published": "2026-07-07T10:01:00.000Z",
+      "snippet": "As school districts prepare for the 2026–27 academic year, new national data from BlazerWorks reveals a growing staffing crisis across K–12 education, with more than 90% of district leaders reporting increased demand for specialist staff."
+    },
+    {
       "title": "5 Questions About Security Debt for Higher Ed Institutions",
       "link": "https://edtechmagazine.com/higher/article/2026/07/5-questions-about-security-debt-higher-ed-institutions",
       "source": "EdTech Higher Magazine",
@@ -896,13 +1085,6 @@
       "source": "eSchool News",
       "published": "2026-07-06T10:00:00.000Z",
       "snippet": "What does it actually mean to prepare students for the future? What skills do they need to succeed in tomorrow’s workforce?"
-    },
-    {
-      "title": "Data-driven decision-making is the key to unlocking K-12 district success",
-      "link": "https://www.eschoolnews.com/educational-leadership/2026/07/03/data-driven-decision-making-is-the-key-to-unlocking-k-12-district-success/",
-      "source": "eSchool News",
-      "published": "2026-07-03T10:00:00.000Z",
-      "snippet": "Today’s K-12 school districts have numerous responsibilities, from managing staff resources, to ensuring student safety, to fostering a learning environment where all students flourish."
     }
   ]
 }
