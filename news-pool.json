@@ -1,6 +1,69 @@
 {
   "ai": [
     {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T19:30:16.000Z",
+      "snippet": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models."
+    },
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T19:19:15.000Z",
+      "snippet": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data."
+    },
+    {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T18:30:08.000Z",
+      "snippet": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos."
+    },
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T17:47:55.000Z",
+      "snippet": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behi"
+    },
+    {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T17:11:18.000Z",
+      "snippet": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use."
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T17:00:00.000Z",
+      "snippet": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation."
+    },
+    {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T16:22:38.000Z",
+      "snippet": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs."
+    },
+    {
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T15:41:06.000Z",
+      "snippet": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
+    },
+    {
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T13:00:00.000Z",
+      "snippet": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behi"
+    },
+    {
       "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
       "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -19,7 +82,7 @@
       "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-08T07:16:00.000Z",
-      "snippet": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
+      "snippet": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
     },
     {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
@@ -188,16 +251,30 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-03T21:20:00.000Z",
       "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
-    },
-    {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-03T18:43:00.000Z",
-      "snippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
     }
   ],
   "cloud": [
+    {
+      "title": "Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
+      "source": "Cloud Blog",
+      "published": "2026-07-08T16:00:00.000Z",
+      "snippet": "In the agentic era, AI is evolving from answering questions to reasoning and taking action. Companies who want to lead in this next phase of AI need computing infrastructure that’s designed and optimized for these new requirements, helping them innovate faster, deliver compelling user and customer experiences, and optimize for cost and energy efficiency — all at massive scale.\nToday, we are please"
+    },
+    {
+      "title": "New ways to keep Google Cloud certifications current and boost your career",
+      "link": "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current/",
+      "source": "Cloud Blog",
+      "published": "2026-07-08T16:00:00.000Z",
+      "snippet": "If you’re reading this, you’ve likely already done the hard work to prove your qualifications with a Google Cloud certification. And good for you — research shows that’ll help you get ahead. Certified individuals report more responses from recruiters, faster promotions, and higher salaries. In fact, 81% of organizations say certifications from Google Cloud increase their confidence in a job candid"
+    },
+    {
+      "title": "Gemini Enterprise for Education named a Commander in Tambellini StarChart™: 2026 AI Agents for Administrative Efficiency—Agent Platforms",
+      "link": "https://cloud.google.com/blog/topics/public-sector/gemini-enterprise-for-education-named-a-commander-in-tambellini-starchart-2026-ai-agents-for-administrative-efficiencyagent-platforms/",
+      "source": "Cloud Blog",
+      "published": "2026-07-08T15:14:00.000Z",
+      "snippet": "The agentic AI era is here, transforming how higher education institutions innovate, operate, and fundamentally empower learners, faculty, and researchers. AI agents can deliver unprecedented efficiency, academic innovation, and mission effectiveness as institutions seek to diversify pedagogy, accelerate research, and automate campus operations.\nThat’s why we are proud to share that The Tambellini"
+    },
     {
       "title": "Meet the 33 cybersecurity startups joining the Gemini Startup Forum",
       "link": "https://cloud.google.com/blog/products/identity-security/meet-the-33-cybersecurity-startups-joining-the-gemini-startup-forum/",
@@ -270,6 +347,55 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Rapidus fab roadmap examined — first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T16:29:26.000Z",
+      "snippet": "Rapidus is building Japan's entire return to leading-edge logic on one fab in Chitose, Hokkaido."
+    },
+    {
+      "title": "China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' — Gov't claims Claude sends sensitive information to remote servers without consent",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T15:54:14.000Z",
+      "snippet": "China is warning against the use of Claude Code versions released between April and June 2026 after it's revealed that hidden code is sending sensitive user information to remote servers. The government told users to uninstall the app or use its latest version, despite the fact that the AI tool is not approved for use in China."
+    },
+    {
+      "title": "Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers — Chinese company's firmware allows admin access without a password",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T15:16:25.000Z",
+      "snippet": "CERT/CC has disclosed a critical authentication backdoor affecting multiple Tenda router firmware versions. Tracked as CVE-2026-11405, the flaw grants full administrator access without valid credentials, and no vendor patch is currently available after CERT failed to reach Tenda."
+    },
+    {
+      "title": "Budget smartphone market collapses under the weight of memory shortages, sales expected to drop 22% — memory alone now comprises up to 64% of the total cost of lower-tier smartphones",
+      "link": "https://www.tomshardware.com/phones/budget-smartphone-market-collapses-under-the-weight-of-memory-shortages-sales-expected-to-drop-22-percent-memory-alone-now-comprises-up-to-64-percent-of-the-total-cost-of-lower-tier-smartphones",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T15:15:36.000Z",
+      "snippet": "The global AI memory squeeze is pricing cheap phones out of existence and forcing mid-range devices to compromise on hardware."
+    },
+    {
+      "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs — Narrow 512-bit interface enables dropping expensive interposers for organic substrates",
+      "link": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T15:03:33.000Z",
+      "snippet": "SPHBM4 promises HBM4-class bandwidth without usage of silicon interposer and CoWoS-like packaging."
+    },
+    {
+      "title": "Global consumer Wi-Fi router shipments fell 6% in Q1 2026, down 34% from 2021 peak — mesh systems and gaming routers still prove popular",
+      "link": "https://www.tomshardware.com/networking/routers/global-consumer-wi-fi-router-shipments-fell-6-percent-in-q1-2026-mesh-systems-and-gaming-routers-still-prove-popular",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T14:49:27.000Z",
+      "snippet": "Global consumer Wi-Fi router shipments have declined 34 percent from their peak in 2021"
+    },
+    {
+      "title": "SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU — 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process",
+      "link": "https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-08T14:44:59.000Z",
+      "snippet": "How a limited run CPU could open the right doors for Europe's first HPC processors on markets its developers barely hoped to address any time soon."
+    },
     {
       "title": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% — Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/power-company-hikes-data-center-bills-by-30-percent-cuts-residential-electricity-costs-by-1-3-percent-oregon-approves-change-through-power-act-pushes-developments-using-more-than-20-megawatts-of-power-to-pay-their-fair-share",
@@ -801,30 +927,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-04T10:00:00.000Z",
       "snippet": "Companies on social media are coming together to mock Sony's decision of ceasing production of physical discs for PlayStation games. These brands are shifting to a digital-only model in an even more absurd manner."
-    },
-    {
-      "title": "Turtle Beach KP7 Review: The accessory that does everything",
-      "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-kp7-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-03T16:26:03.000Z",
-      "snippet": "Turtle Beach's KP7 keypad can be used with its KB7 keyboard or as a standalone macropad. And it's nice — but pricey."
-    },
-    {
-      "title": "Intel reportedly adding two new 22-core SKUs with game-boosting cache to Nova Lake-S lineup — 125W unlocked and 65W locked part rumored to be part of single-tile Core Ultra 5 tier",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-adding-two-new-22-core-skus-with-game-boosting-cache-to-nova-lake-s-lineup-125w-unlocked-and-65w-locked-part-rumored-to-be-part-of-single-tile-core-ultra-5-tier",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-03T15:44:10.000Z",
-      "snippet": "Intel is apparently cooking up two new 22-core Nova Lake-S SKUs with up to 144MB of bLLC. One is a locked 65W variant and one is an unlocked 125W part, and both are said to be part of the Core Ultra 5 tier."
-    },
-    {
-      "title": "Intel confirms price hikes on select consumer and server CPUs citing supply costs and demand — select Xeon processors now over $1,000 more expensive",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-price-hikes-on-select-consumer-and-server-cpus-citing-supply-costs-and-demand-select-xeon-processors-now-over-usd1-000-more-expensive",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-03T14:45:33.000Z",
-      "snippet": "Intel confirms price increases for Core Ultra 200S Plus, Xeon 6 processors, cites market dynamics, rising costs, soaring demand."
     }
   ],
   "quantum": [
+    {
+      "title": "White House Quantum Summit Exclusive: America’s Commitment to a Quantum Future",
+      "link": "https://thequantuminsider.com/2026/07/08/white-house-quantum-summit-exclusive-americas-commitment-to-a-quantum-future/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-08T14:49:43.000Z",
+      "snippet": "Insider Brief The invitation came in plain language. A summit from the White House on American quantum innovation, a Tuesday in July, eleven in the morning. I have spent years in rooms where quantum is the subject, most of them nothing like this one. I accepted without hesitation. Nearly every major quantum company in the […]"
+    },
     {
       "title": "SEALSQ and GlobalFoundries Partner on Post-Quantum Security",
       "link": "https://thequantuminsider.com/2026/07/08/sealsq-globalfoundries-post-quantum-cryptography-partnership/",
@@ -1058,6 +1170,13 @@
     }
   ],
   "education": [
+    {
+      "title": "4 Critical Security Considerations for AI in Higher Education",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/4-critical-security-considerations-ai-higher-education",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-08T17:57:47.000Z",
+      "snippet": "Generative artificial intelligence is revolutionizing how colleges and universities operate, streamlining workflows, supporting research and enhancing learning. But as adoption grows, so do the risks.\nHigher education institutions manage sensitive student data, proprietary research and intellectual property. Without the right guardrails in place, AI systems can expose this information or violate c"
+    },
     {
       "title": "5 ways to rest, reflect, and recharge this summer",
       "link": "https://www.eschoolnews.com/sel/2026/07/08/5-ways-to-rest-reflect-and-recharge-this-summer/",
