@@ -1,11 +1,18 @@
 {
   "ai": [
     {
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T19:30:16.000Z",
-      "snippet": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models."
+      "published": "2026-07-08T22:41:33.000Z",
+      "snippet": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported."
+    },
+    {
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-08T20:37:03.000Z",
+      "snippet": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake."
     },
     {
       "title": "This startup thinks robotics is about to have its ChatGPT moment",
@@ -244,22 +251,15 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-04T15:51:32.000Z",
       "snippet": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
-    },
-    {
-      "title": "The only AI glossary you’ll need this year",
-      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-03T21:20:00.000Z",
-      "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
     }
   ],
   "cloud": [
     {
-      "title": "Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
+      "title": "C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads",
+      "link": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
       "source": "Cloud Blog",
-      "published": "2026-07-08T16:00:00.000Z",
-      "snippet": "In the agentic era, AI is evolving from answering questions to reasoning and taking action. Companies who want to lead in this next phase of AI need computing infrastructure that’s designed and optimized for these new requirements, helping them innovate faster, deliver compelling user and customer experiences, and optimize for cost and energy efficiency — all at massive scale.\nToday, we are please"
+      "published": "2026-07-08T20:00:00.000Z",
+      "snippet": "As organizations scale modern workloads — from high-throughput databases and network/security appliances to real-time analytics and AI/ML inference — network and block storage performance can quickly become a bottleneck. Standard virtual machines often struggle to balance compute efficiency with the high-volume data-transfer demands of these applications.\nAt Google Cloud Next ‘26, we announced C4N"
     },
     {
       "title": "New ways to keep Google Cloud certifications current and boost your career",
@@ -374,13 +374,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-08T15:15:36.000Z",
       "snippet": "The global AI memory squeeze is pricing cheap phones out of existence and forcing mid-range devices to compromise on hardware."
-    },
-    {
-      "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs — Narrow 512-bit interface enables dropping expensive interposers for organic substrates",
-      "link": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T15:03:33.000Z",
-      "snippet": "SPHBM4 promises HBM4-class bandwidth without usage of silicon interposer and CoWoS-like packaging."
     },
     {
       "title": "Global consumer Wi-Fi router shipments fell 6% in Q1 2026, down 34% from 2021 peak — mesh systems and gaming routers still prove popular",
@@ -931,13 +924,6 @@
   ],
   "quantum": [
     {
-      "title": "White House Quantum Summit Exclusive: America’s Commitment to a Quantum Future",
-      "link": "https://thequantuminsider.com/2026/07/08/white-house-quantum-summit-exclusive-americas-commitment-to-a-quantum-future/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T14:49:43.000Z",
-      "snippet": "Insider Brief The invitation came in plain language. A summit from the White House on American quantum innovation, a Tuesday in July, eleven in the morning. I have spent years in rooms where quantum is the subject, most of them nothing like this one. I accepted without hesitation. Nearly every major quantum company in the […]"
-    },
-    {
       "title": "SEALSQ and GlobalFoundries Partner on Post-Quantum Security",
       "link": "https://thequantuminsider.com/2026/07/08/sealsq-globalfoundries-post-quantum-cryptography-partnership/",
       "source": "The Quantum Insider",
@@ -1170,13 +1156,6 @@
     }
   ],
   "education": [
-    {
-      "title": "4 Critical Security Considerations for AI in Higher Education",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/4-critical-security-considerations-ai-higher-education",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-07-08T17:57:47.000Z",
-      "snippet": "Generative artificial intelligence is revolutionizing how colleges and universities operate, streamlining workflows, supporting research and enhancing learning. But as adoption grows, so do the risks.\nHigher education institutions manage sensitive student data, proprietary research and intellectual property. Without the right guardrails in place, AI systems can expose this information or violate c"
-    },
     {
       "title": "5 ways to rest, reflect, and recharge this summer",
       "link": "https://www.eschoolnews.com/sel/2026/07/08/5-ways-to-rest-reflect-and-recharge-this-summer/",
