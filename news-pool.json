@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-11T14:13:00.000Z",
+      "snippet": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
+    },
+    {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -8,18 +15,18 @@
       "snippet": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
     },
     {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-10T21:00:29.000Z",
+      "snippet": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
+    },
+    {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
       "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-10T19:00:00.000Z",
       "snippet": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]"
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-10T17:17:12.000Z",
-      "snippet": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
     },
     {
       "title": "Hugging Face’s CEO on why companies are done renting their AI",
@@ -300,90 +307,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-07T16:27:18.000Z",
       "snippet": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed."
-    },
-    {
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-07T12:00:00.000Z",
-      "snippet": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday."
-    },
-    {
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-07-07T11:10:52.000Z",
-      "snippet": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the…"
-    },
-    {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-07T09:00:00.000Z",
-      "snippet": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine."
-    },
-    {
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-06T23:56:14.000Z",
-      "snippet": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested."
-    },
-    {
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-06T23:21:03.000Z",
-      "snippet": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday."
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-06T19:49:10.000Z",
-      "snippet": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch."
-    },
-    {
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-06T19:01:59.000Z",
-      "snippet": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI."
-    },
-    {
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-06T18:35:00.000Z",
-      "snippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
-    },
-    {
-      "title": "Your family’s $300 stake in OpenAI",
-      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-07-06T18:00:00.000Z",
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…"
-    },
-    {
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-06T17:04:58.000Z",
-      "snippet": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models."
-    },
-    {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-06T15:32:43.000Z",
-      "snippet": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest."
-    },
-    {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-06T15:22:08.000Z",
-      "snippet": "In the AI era, platforms have no choice but to fight fire with fire to cull spam."
     }
   ],
   "cloud": [
@@ -519,23 +442,79 @@
       "source": "Cloud Blog",
       "published": "2026-07-07T14:00:00.000Z",
       "snippet": "Written by: Shebin Mathew\n\n\nIntroduction \nThe \"Golden SAML\" technique, first described by CyberArk researchers in 2017, and further detailed by Mandiant researchers in 2021, remains one of the most effective methods for threat actors to forge identity assertions in the Microsoft ecosystem. By obtaining the private key of an ADFS token-signing certificate, an attacker can authenticate as any user t"
-    },
-    {
-      "title": "Shift into high gear with agents: Securing the software-defined vehicle",
-      "link": "https://cloud.google.com/blog/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/",
-      "source": "Cloud Blog",
-      "published": "2026-07-06T16:00:00.000Z",
-      "snippet": "The automotive industry is at a pivotal crossroads as it hits the gas on adopting new technology. The era of the traditional connected vehicle has shifted into the age of the software-defined vehicle (SDV), notable for rapid innovation with many new capabilities delivered over the air.\nBy integrating AI and agents, the next generation of SDVs will be capable of turning raw telemetry into actionabl"
-    },
-    {
-      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
-      "source": "AWS News Blog",
-      "published": "2026-07-06T15:46:43.000Z",
-      "snippet": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the AWS Startups team, listening to stories of founders talking about the problems they’re actually solving. One story that stayed with me came […]"
     }
   ],
   "hardware": [
+    {
+      "title": "Sotheby’s video showcases working Apple-1 serial number 01-0033 — part of its upcoming History of Science & Technology sale",
+      "link": "https://www.tomshardware.com/desktops/sothebys-video-showcases-working-apple-1-serial-number-01-0033-part-of-its-upcoming-history-of-science-and-technology-sale",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-12T13:08:56.000Z",
+      "snippet": "Sotheby’s is preparing a blockbuster History of Science & Technology sale packed with amazing artifacts and collectors’ items which includes a working Apple-1, serial number 01-0033."
+    },
+    {
+      "title": "Windows 95 didn’t detect installers, it ‘guessed’ based on the file name, says veteran dev — it simply checked for words like setup, install, inst, or localized equivalents",
+      "link": "https://www.tomshardware.com/software/windows/windows-95-detected-installers-by-scanning-program-names-for-the-word-setup",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-12T12:48:34.000Z",
+      "snippet": "The full match list ran to six terms: setup, install, inst, imposta, ayarla, and felrak."
+    },
+    {
+      "title": "Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing",
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-12T12:05:00.000Z",
+      "snippet": "The fourth revision of Cooler Master’s renowned mainstream series, coming with verified Gold efficiency, a native 12V-2x6 connector, and GPU Shield current monitoring in a compact 140 mm chassis at a mainstream price."
+    },
+    {
+      "title": "This 3D-printed electric motorbike folds into your luggage — creator warns it is 'super fast... way too fast'",
+      "link": "https://www.tomshardware.com/3d-printing/ivan-miranda-releases-files-for-a-3d-printed-electric-motorbike-that-fits-in-a-suitcase",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-11T17:21:53.000Z",
+      "snippet": "Ivan Miranda has released the design files for the Mirandetta, a 3D-printed electric scooter that breaks down to fit inside a suitcase."
+    },
+    {
+      "title": "Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is still accessible if you have access to Nvidia's internal MODS tool — Nvidia RTX 5070 Ti caught throttling at 107°C over poor TIM application",
+      "link": "https://www.tomshardware.com/pc-components/gpus/hotspot-temperature-sensor-on-nvidias-blackwell-gaming-gpus-is-still-accessible-if-you-have-access-to-nvidias-internal-mods-tool-nvidia-rtx-5070-ti-caught-throttling-at-107-c-over-poor-tim-application",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-11T16:18:59.000Z",
+      "snippet": "Nvidia decided to hide the hotspot temperature on its RTX 50 series, but internal diagnostic tools, such as Nvidia's own \"MODS,\" can still read it. The resulting data reveals how some GPUs can overheat and throttle easily, which could be why the sensor was kept hidden in the first place."
+    },
+    {
+      "title": "Newegg packs Ryzen 5 9600X and 16GB DDR5 into a $520 combo — bundles also include a B650 motherboard and 240mm AIO liquid cooler",
+      "link": "https://www.tomshardware.com/pc-components/newegg-packs-ryzen-5-9600x-and-16gb-ddr5-into-a-usd520-combo-bundles-also-include-a-b650-motherboard-and-240mm-aio-liquid-cooler",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-11T15:29:17.000Z",
+      "snippet": "Gamers looking to build a budget-friendly AM5 PC can pick up a Ryzen 5 9600X, a Gigabyte B650M motherboard, and a Corsair DDR5 memory bundle, with a free 240mm liquid cooler included."
+    },
+    {
+      "title": "Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games — tech giant ordered to restore Xbox account with all games and pay $400 in damages",
+      "link": "https://www.tomshardware.com/video-games/xbox/brazilian-court-orders-microsoft-to-restore-a-gamers-account-and-digital-library-after-it-told-him-to-rebuy-his-games",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-11T14:52:11.000Z",
+      "snippet": "A Brazilian gamer who lost his Microsoft account and all his digital games has won a court order requiring the company to return them."
+    },
+    {
+      "title": "Bambu Lab collabs with Insta360 for epic design contest — win thousands in 3D printers, Luna Ultra cameras, and gift cards",
+      "link": "https://www.tomshardware.com/3d-printing/bambu-lab-collabs-with-insta360-for-epic-design-contest-win-thousands-in-3d-printers-luna-ultra-cameras-and-gift-cards",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-11T14:31:45.000Z",
+      "snippet": "Your design concept could win a next-gen camera and 3D printer."
+    },
+    {
+      "title": "AMD RX 9070 GRE collapses to $499 to save 1440p gaming — RDNA 4 price slips 9% to steal a piece of Nvidia's mid-range pie",
+      "link": "https://www.tomshardware.com/pc-components/gpus/amd-rx-9070-gre-collapses-to-usd499-to-save-1440p-gaming-rdna-4-price-slips-9-percent-to-steal-a-piece-of-nvidias-mid-range-pie",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-11T14:23:57.000Z",
+      "snippet": "AMD's Radeon RX 9070 GRE has received its first price cut since launching outside China, making the 1440p-focused RDNA 4 graphics card a more compelling alternative to Nvidia's RTX 5060 Ti 16GB."
+    },
+    {
+      "title": "SK Hynix says 2027 will be the 'worst year' for memory shortage, forecasts crunch to last until 2030 — CEO shares grim outlook on the day SK Hynix gets listed on Nasdaq",
+      "link": "https://www.tomshardware.com/pc-components/dram/sk-hynix-says-2027-will-be-the-worst-year-for-memory-shortage-forecasts-crunch-to-last-until-2030-ceo-shares-grim-outlook-on-the-day-sk-hynix-gets-listed-on-nasdaq",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-11T13:00:00.000Z",
+      "snippet": "SK Hynix CEO Kwak Noh-jung says the memory shortage will get even worse in 2027, and claiming the RAM crunch will last at least until the turn of the decade."
+    },
     {
       "title": "Microsoft struggles to fulfill its 2030 sustainability promise amid carbon-heavy AI expansions — the company's chief sustainability officer claims the target is still feasible",
       "link": "https://www.tomshardware.com/tech-industry/big-tech/microsoft-struggles-to-fulfill-its-2030-sustainability-promise-amid-carbon-heavy-ai-expansions-the-companys-chief-sustainability-officer-claims-the-target-is-still-feasible",
@@ -1011,125 +990,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-07T14:38:31.000Z",
       "snippet": "A Change.org petition urging Sony to keep making physical PlayStation games has passed 172,000 signatures."
-    },
-    {
-      "title": "Brain-Inspired Light Sensor Could Speed AI Image Processing",
-      "link": "https://spectrum.ieee.org/hybrid-phototransistor",
-      "source": "IEEE Spectrum",
-      "published": "2026-07-07T13:00:01.000Z",
-      "snippet": "A new type of imaging sensor inspired by the functioning of the human brain can detect light and store data at the same time. What’s more, the device can forget the data it no longer needs, paving the way for future breakthroughs in robotic-vision efficiency.\nToday’s digital cameras rely on complementary metal-oxide-semiconductors (CMOS) or charge coupled devices (CCDs), which convert photons into"
-    },
-    {
-      "title": "Steam Machines with the ‘Red Line of Death’ get a simple, official cure: Clear the CMOS — clearing the CMOS can revive flat(red)-lining cubes",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/steam-machines-with-the-red-line-of-death-get-a-simple-official-cure-clear-the-cmos-clearing-the-cmos-can-revive-flat-red-lining-cubes",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T12:55:43.000Z",
-      "snippet": "Valve’s official account on Reddit has responded to RLOD victims with simple step-by-step instructions to get any affected Steam Machine up and running again."
-    },
-    {
-      "title": "UK gives data centers option to apply for 'national importance' status that overrides local regulations, cuts timeline by a year — eligible projects to bypass local councils, save more than a billion dollars in NIMBY fights",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T12:34:12.000Z",
-      "snippet": "The British government ruled that nationally significant infrastructure projects, which include data centers, can bypass local council approvals. This move is expected to speed up developments by up to a year and save more than a billion dollars."
-    },
-    {
-      "title": "Snag 32GB of DDR5 memory, Ryzen 7 9800X3D, and Gigabyte X870E motherboard for $233 off — deal includes 'free' AIO in a four-item combo from Newegg",
-      "link": "https://www.tomshardware.com/pc-components/snag-32gb-of-ddr5-memory-ryzen-7-9800x3d-and-gigabyte-x870e-motherboard-for-usd233-off-deal-includes-free-aio-in-a-four-item-combo-from-newegg",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T12:01:22.000Z",
-      "snippet": "Missed Prime Day? You can still soften the blow of buying PC parts with this three-item AM5 Newegg combo - 32GB of DDR5, 9800X3D, Gigabyte X870E motherboard, and a free AIO to take the sting out of buying"
-    },
-    {
-      "title": "Hands-on with Corsair's 2800X RS-R ARGB Micro-ATX PC Case – smaller footprint, roomy internals, includes three fans",
-      "link": "https://www.tomshardware.com/pc-components/pc-cases/corsair-2800x-rs-r-argb-micro-atx-pc-case-hands-on",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T12:00:00.000Z",
-      "snippet": "Corsair’s 2800X RS-R ARGB brings a compact MicroATX design with room for full-size hardware, strong cooling support, and three pre-installed ARGB fans. Priced under $90, it offers solid value for a small-form-factor chassis."
-    },
-    {
-      "title": "Dev ports Linux to Atari's notorious Jaguar console from 1993 — the first 64-bit console features 2MB of RAM, 13.3 MHz CPU, and Tom and Jerry co-processors; the Jag was notoriously difficult to program and flopped",
-      "link": "https://www.tomshardware.com/software/linux/dev-ports-linux-to-ataris-notorious-jaguar-console-from-1993-the-first-64-bit-console-features-2mb-of-ram-13-3-mhz-cpu-and-tom-and-jerry-co-processors-the-jag-was-notoriously-difficult-to-program-and-flopped",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T11:53:39.000Z",
-      "snippet": "A developer has ported Linux to the Atari Jaguar console. To succeed at the task, they had to overcome severe memory limits, the lack of an MMU, and face off against a handful of unusual hardware quirks."
-    },
-    {
-      "title": "Record-low price on this 10-port PoE+ switch with gigabit speeds and up to 60W of power, save 24% — $38 for Ugreen switch that unlocks an extra eight power-delivery ports for cameras and Wi-Fi extenders",
-      "link": "https://www.tomshardware.com/networking/network-switches/record-low-price-on-this-10-port-poe-switch-with-gigabit-speeds-and-up-to-60w-of-power-save-24-percent-usd38-for-ugreen-switch-that-unlocks-an-extra-eight-power-delivery-ports-for-cameras-and-wi-fi-extenders",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T11:39:52.000Z",
-      "snippet": "This Ugreen 10-port unmanaged Ethernet switch is on sale for just $37.97 right now, delivering eight PoE+ ports for up to 60W of power delivery for cameras and WiFi extenders, along with two extra ports for Gigabit uplink to your existing network."
-    },
-    {
-      "title": "Kioxia and Sandisk sample world's densest 3D NAND — new 332-Layer beats Samsung’s 400-Layer NAND",
-      "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-sample-worlds-densest-3d-nand-new-332-layer-beats-samsungs-400-layer-nand",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T11:10:00.000Z",
-      "snippet": "Kioxia, Sandisk begin to sample BiCS10 3D NAND: 332 active layers and over 29 Gb/mm2 areal capacity."
-    },
-    {
-      "title": "Unix copyright code infringement lawsuit is back from the dead — IBM still under fire from Xinuos over 2003-era bytes",
-      "link": "https://www.tomshardware.com/software/linux/unix-copyright-code-infringement-lawsuit-is-back-from-the-dead-ibm-still-under-fire-from-xinuos-about-2003-era-bytes",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T10:45:00.000Z",
-      "snippet": "Unix copyright code infringement back from the dead — IBM is still under fire from Xinuos about 2003-era bytes, with a hearing as recent as June 22."
-    },
-    {
-      "title": "Modder builds 8,192-core GPU at home out of RISC-V microcontrollers — full \"graphics card\" draws over 2,000 watts of power, requires a 3D printer to program",
-      "link": "https://www.tomshardware.com/maker-stem/modder-creates-8-192-core-gpu-at-home-out-of-risc-v-microcontrollers-full-graphics-card-will-draw-over-2-000-watts-of-power-requires-a-3d-printer-to-program",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T10:20:00.000Z",
-      "snippet": "Well-known engineer Matthias Balwierz (aka Bitluni) designed and created an 8,192-core RISC-V GPU at home."
-    },
-    {
-      "title": "Intel patent reveals new XBM memory architecture that ditches HBM's costly silicon interposer — backend-transistor DRAM stack uses UCIe links and built-in repair to ease AI's memory bottleneck",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T10:00:00.000Z",
-      "snippet": "Intel’s XBM patent proposes an HBM alternative that uses backend-transistor DRAM, UCIe chiplet links, and repair logic to reduce packaging costs and complexity."
-    },
-    {
-      "title": "Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit",
-      "link": "https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T09:30:00.000Z",
-      "snippet": "Brokerage consensus puts Samsung's full-year 2026 operating profit near 300 trillion won."
-    },
-    {
-      "title": "China-made CXMT memory now supports faster speeds on MSI's AMD motherboards — new BIOS adds DDR5-8200 validation on dual-DIMM, DDR5-7200 on quad-DIMM models",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/china-made-cxmt-memory-now-supports-faster-speeds-on-msis-amd-motherboards-new-bios-adds-ddr5-8200-validation-on-dual-dimm-ddr5-7200-on-quad-dimm-models",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-06T16:20:37.000Z",
-      "snippet": "MSI has officially validated region-bound Chinese RAM using CXMT modules to run at up to 8,200 MT/s on its AM5 motherboards. Models with two RAM slots can handle these high frequencies a bit better than four-DIMM variants."
-    },
-    {
-      "title": "Microsoft 'resets' Xbox by cutting 3,200 jobs this year, divesting five game studios — firm cites 'margins that are 3-10x lower than comparable platform and publishing businesses'",
-      "link": "https://www.tomshardware.com/video-games/xbox/microsoft-resets-xbox-by-cutting-3-200-jobs-this-year-divesting-five-game-studios-firm-cites-margins-that-are-3-10x-lower-than-comparable-platform-and-publishing-businesses",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-06T15:39:52.000Z",
-      "snippet": "Xbox CEO Asha Sharma announced that Microsoft's gaming division will cut 3,200 jobs throughout FY27 and is spinning out studios but not canceling any games."
-    },
-    {
-      "title": "Working prototype of open-source printer that promises user-repairability and no subscriptions appears in first video — DRM-free 'Open Printer' inkjet still has no announced price, ship date, or print speed, nine months after it first appeared",
-      "link": "https://www.tomshardware.com/peripherals/printers/raspberry-pi-powered-open-source-printer-earns-design-award-nomination-but-still-has-no-price-nine-months-after-reveal",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-06T15:30:17.000Z",
-      "snippet": "Open Tools, a Paris-based startup, has announced that its Open Printer has been nominated for two French Design Awards."
-    },
-    {
-      "title": "AMD Ryzen AI Halo review: AMD builds a DGX Spark of its own",
-      "link": "https://www.tomshardware.com/pc-components/gpus/embargo-mon-july-6-8am-pt-1100-edt-amd-ryzen-ai-halo-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-06T15:00:15.000Z",
-      "snippet": "The Ryzen AI Halo is a turn-key AMD local AI box that’s backed up with first-party software support, handy utilities, and plenty of documentation for local AI explorers. But the performance and application compatibility of the Ryzen AI Max+ 395 (aka Strix Halo) SoC still trails Nvidia’s GB10, and it’s pricey for what it offers."
-    },
-    {
-      "title": "You can now use your Sony headphones as a free real-time head tracker for race and flight simulators on PC, several hundred games already supported — enthusiast creates open-source app that translates live sensor data into in-game camera controls",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/you-can-now-use-your-sony-headphones-as-a-real-time-head-tracker-for-race-and-flight-simulators-on-pc-several-hundred-games-already-supported-enthusiast-creates-open-source-app-that-translates-live-sensor-data-into-in-game-camera-controls",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-06T14:36:21.000Z",
-      "snippet": "A new open-source app called Sony Head Tracker, developed by Nicholas Slattery, reads raw sensor data from Sony headphones and earbuds and converts them into something OpenTrack can understand. From there, it can be used for head tracking in over 200 PC games."
     }
   ],
   "quantum": [
@@ -1148,18 +1008,18 @@
       "snippet": "Insider Brief Most quantum computing discussions start with superconducting chips in dilution refrigerators, or ion traps in vacuum chambers the size of a washing machine. Diamond NV centers are a different story. The qubit is a defect in a carbon crystal. It runs at room temperature. It fits in your hand and in 2026, it […]"
     },
     {
+      "title": "QC Design Publishes Plaquette Framework for Fault-Tolerant Quantum Computer Design",
+      "link": "https://thequantuminsider.com/2026/07/10/qc-design-publishes-plaquette-hardware-aware-design-platform-for-fault-tolerant-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-10T16:47:26.000Z",
+      "snippet": "Insider Brief Press release – QC Design today announced the publication of “Plaquette: A hardware-aware design platform for fault-tolerant quantum computers”, the paper presenting the theoretical framework and software suite behind its flagship product. The paper describes how Plaquette computes the logical performance of fault-tolerant architectures directly from the physics of a device’s actual "
+    },
+    {
       "title": "NordLocker Prepares Encrypted Cloud Storage for the Post-Quantum Era",
       "link": "https://thequantuminsider.com/2026/07/10/nordlocker-rebuilds-its-encrypted-cloud-storage-from-the-ground-up/",
       "source": "The Quantum Insider",
       "published": "2026-07-10T14:49:03.000Z",
       "snippet": "Insider Brief Press release –  NordLocker, the encrypted cloud storage service behind the creators of Nord Security, has announced the most significant architectural upgrade in its history. Codenamed “Project Renaissance,” the upgrade completely reimagines how encrypted data is structured, moving from a traditional locker-based file tree to a modern “journaling” approach. A new core engine […]"
-    },
-    {
-      "title": "BTQ Technologies and ICTK Complete Design of Quantum-Secure QCIM Security Chip",
-      "link": "https://thequantuminsider.com/2026/07/10/btq-technologies-ictk-complete-design-next-generation-qcim-security-chip-integrating-puf-technology/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-10T14:03:52.000Z",
-      "snippet": "Insider Brief Press release – BTQ Technologies Corp. (“BTQ“ or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, today announced that it has completed the design of its next-generation QCIM + PUF security chip for the quantum era in collaboration with ICTK Co., Ltd. (“ICTK”) (KOSDAQ: 456010), a leading Korean […]"
     },
     {
       "title": "SEALSQ and Quobly Sign $5 Million Agreement to Secure Silicon Quantum Computers",
@@ -1349,65 +1209,9 @@
       "source": "The Quantum Insider",
       "published": "2026-07-07T13:49:35.000Z",
       "snippet": "Insider Brief Press release – Alfred University, the State University of New York College of Ceramics at Alfred University, and Classiq today announced a joint quantum computing initiative using Classiq’s quantum software engineering platform to support engineering education, applied energy systems research and preparation for the emerging quantum workforce. The initiative brings together Alfred U"
-    },
-    {
-      "title": "Pasqal and MegazoneCloud Partner to Bring Quantum Computing to South Korea",
-      "link": "https://thequantuminsider.com/2026/07/07/pasqal-megazonecloud-quantum-computing-korea/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T12:35:23.000Z",
-      "snippet": "Insider Brief Press release – Pasqal, a global leader in neutral-atom quantum computing, and MegazoneCloud, South Korea’s leading cloud and AI transformation company, have signed a Memorandum of Understanding (MoU) to jointly explore a series of quantum computing initiatives designed to accelerate enterprise adoption, expand commercial deployment capabilities, and strengthen quantum technology dev"
-    },
-    {
-      "title": "QuSecure Appoints Former Navy Rear Admiral Doug Small to Federal Advisory Board",
-      "link": "https://thequantuminsider.com/2026/07/07/qusecure-doug-small-federal-advisory-board/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T12:26:46.000Z",
-      "snippet": "Insider Brief Press release – QuSecure, Inc., a leader in post-quantum cryptography (PQC) and cryptographic agility, today announced that U.S. Navy Rear Admiral Doug Small has joined its Federal Advisory Board (FAB). Admiral Small (Ret.) joins QuSecure as federal agencies move from planning to execution on PQC migration initiatives, in part driven by official directives. Last month, […]"
-    },
-    {
-      "title": "USC Researcher Explores Quantum Computing for Database Optimization",
-      "link": "https://thequantuminsider.com/2026/07/07/usc-quantum-augmented-database-research/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T11:49:47.000Z",
-      "snippet": "Insider Brief Modern database systems are struggling to maintain real-time performance as data volumes and workloads continue to grow exponentially. Without more efficient optimization, the systems responsible for processing massive amounts of data will face significant delays and scalability challenges. For decades, database systems have relied on rigid, pre-set guidelines programmed by humans, i"
-    },
-    {
-      "title": "Governments Face a New Quantum Reality as IBM Report Urges Broader Strategy Beyond Computing",
-      "link": "https://thequantuminsider.com/2026/07/07/governments-face-a-new-quantum-reality-as-ibm-report-urges-broader-strategy-beyond-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T11:29:12.000Z",
-      "snippet": "Insider Brief Governments that focus narrowly on quantum computing risk falling behind in a technology race that increasingly encompasses communications, sensing, cybersecurity and international partnerships, according to a new report from the IBM Center for The Business of Government. The report concludes that maintaining leadership in quantum technology will require sustained investment, workfor"
-    },
-    {
-      "title": "IBM Adds Post-Quantum Security Features to New z17 and LinuxONE Systems",
-      "link": "https://thequantuminsider.com/2026/07/07/ibm-z17-linuxone-post-quantum-cryptography/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T11:26:13.000Z",
-      "snippet": "Insider Brief Press release – IBM (NYSE: IBM) today announces new IBM z17 and IBM LinuxONE 5 configurations, marking the first time IBM is offering rack mount alongside single frame systems across its full Z and LinuxONE portfolio. The expanded IBM z17 and LinuxONE 5 portfolios now offer a wide range of deployment options, engineered with […]"
-    },
-    {
-      "title": "White House to Convene Quantum Industry Summit as Administration Pushes Innovation Agenda",
-      "link": "https://thequantuminsider.com/2026/07/07/white-house-to-convene-quantum-industry-summit-as-administration-pushes-innovation-agenda/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T07:45:12.000Z",
-      "snippet": "Insider Brief The White House is set to bring together government leaders and representatives of the U.S. quantum industry on Tuesday for a summit focused on advancing quantum information science and technology, according to NextGov. The White House Summit on Quantum Innovation is scheduled to begin at 11 a.m. in the Eisenhower Executive Office Building, […]"
-    },
-    {
-      "title": "Guest Post: Why Chemistry Could Be Quantum Computing’s First Foothold",
-      "link": "https://thequantuminsider.com/2026/07/07/guest-post-why-chemistry-could-be-quantum-computings-first-foothold/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T07:31:48.000Z",
-      "snippet": "By Dr. Kris Naudts, Zeynep Koruturk and Donald Harmitt @ Firgun Ventures. Firgun Ventures is a VC firm investing in Series A/B quantum scale-ups globally. Among the futures promised for quantum computing, chemistry has the strongest claim to arriving first, and being the most direct line to human health. Bringing a new drug to market […]"
     }
   ],
   "education": [
-    {
-      "title": "Future-Ready Strategies for Technology Leaders in Higher Education",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/future-ready-strategies-technology-leaders-higher-education",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-07-10T19:00:20.000Z",
-      "snippet": "Higher education technology leaders face an increasingly difficult balancing act. Enrollment pressures, tighter budgets and rising expectations around artificial intelligence (AI) are forcing institutions to modernize while proving the value of every technology investment. At the same time, aging infrastructure, fragmented data and staffing constraints leave little room for missteps.\nResearch from"
-    },
     {
       "title": "Rethinking MTSS: How schools can turn student data into meaningful support",
       "link": "https://www.eschoolnews.com/uncategorized/2026/07/10/rethinking-mtss-how-schools-can-turn-student-data-into-meaningful-support/",
@@ -1456,13 +1260,6 @@
       "source": "eSchool News",
       "published": "2026-07-08T10:00:00.000Z",
       "snippet": "Summer break has finally arrived, and if you're like most educators, you're probably feeling a lot of conflicting emotions. There's relief that the school year is behind you, pride in everything you've accomplished, but also exhaustion from months of pouring your time, energy, and heart into your students."
-    },
-    {
-      "title": "Most districts still struggle to fill specialist roles",
-      "link": "https://www.eschoolnews.com/educational-leadership/2026/07/07/most-districts-still-struggle-to-fill-specialist-roles/",
-      "source": "eSchool News",
-      "published": "2026-07-07T10:01:00.000Z",
-      "snippet": "As school districts prepare for the 2026–27 academic year, new national data from BlazerWorks reveals a growing staffing crisis across K–12 education, with more than 90% of district leaders reporting increased demand for specialist staff."
     }
   ]
 }
