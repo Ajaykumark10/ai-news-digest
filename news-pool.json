@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-13T14:18:16.000Z",
+      "snippet": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps."
+    },
+    {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -15,18 +22,18 @@
       "snippet": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
     },
     {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-10T21:00:29.000Z",
-      "snippet": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
-    },
-    {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
       "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-10T19:00:00.000Z",
       "snippet": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]"
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-10T17:17:12.000Z",
+      "snippet": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
     },
     {
       "title": "Hugging Face’s CEO on why companies are done renting their AI",
@@ -244,78 +251,15 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-08T15:41:06.000Z",
       "snippet": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
-    },
-    {
-      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-      "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T13:00:00.000Z",
-      "snippet": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behi"
-    },
-    {
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T12:00:00.000Z",
-      "snippet": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley."
-    },
-    {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T08:00:00.000Z",
-      "snippet": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
-    },
-    {
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T07:16:00.000Z",
-      "snippet": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
-    },
-    {
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-07T22:18:10.000Z",
-      "snippet": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities."
-    },
-    {
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-07T20:04:32.000Z",
-      "snippet": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
-    },
-    {
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-07T19:58:20.000Z",
-      "snippet": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
-    },
-    {
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-07T19:28:38.000Z",
-      "snippet": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem."
-    },
-    {
-      "title": "Claude Cowork expands to mobile and web",
-      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-07T16:27:18.000Z",
-      "snippet": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed."
     }
   ],
   "cloud": [
     {
-      "title": "Contributing to U.K. financial sector resilience as a critical third party",
-      "link": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
+      "title": "Key findings from the 2026 Public Sector M-Trends report and beyond",
+      "link": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
       "source": "Cloud Blog",
-      "published": "2026-07-10T17:00:00.000Z",
-      "snippet": "At Google Cloud, we take our role in the financial ecosystem very seriously. We firmly believe that operational resilience is essential to driving and sustaining responsible innovation.\nToday, we mark a milestone in our ongoing commitment to the financial sector that’s directly relevant to our customers in the U.K. On July 10, the U.K. Treasury designated Google Cloud EMEA as a critical third part"
+      "published": "2026-07-13T16:00:00.000Z",
+      "snippet": "In 2026, the public sector is no longer defending a traditional perimeter. Instead, they are defending a complex web of interconnected trust relationships against adversaries that now operate at machine speed. We recently published the 2026 Public Sector Threat Landscape: M-Trends and Beyond report, which distills more than 500,000 hours of frontline incident investigations conducted by Mandiant i"
     },
     {
       "title": "Frontier and Center: Who evaluates the evaluations?",
@@ -332,11 +276,25 @@
       "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nJul 6 - Ju"
     },
     {
+      "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
+      "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-07-09T17:00:00.000Z",
+      "snippet": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry.\nThe post Frontier models and production agents: Advancing Microsoft Foundry for the agentic era appeared first on Microsoft Azure Blog."
+    },
+    {
       "title": "Safely run AI-generated code in Cloud Run sandboxes",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
       "source": "Cloud Blog",
       "published": "2026-07-09T16:30:00.000Z",
       "snippet": "Here’s a question we hear often at Google Cloud: How do you safely run AI-generated code or untrusted binaries without putting your host application, data, and cloud credentials at risk? In other words, how do you give AI-written programs a safe space to run — one that keeps them completely separate from your trusted programs with higher privileges?\nUntil now, developers had to build complex sandb"
+    },
+    {
+      "title": "Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
+      "source": "Cloud Blog",
+      "published": "2026-07-09T16:00:00.000Z",
+      "snippet": "Many of the most challenging and valuable problems in the world are related to optimization. Now, AI is now making these problems tractable. If you've ever tried to design a microchip, plan a delivery network, or optimize a training architecture for a large AI model, you know how hard it is to find the most optimized code. Traditional coding methods often cannot explore all the possible algorithms"
     },
     {
       "title": "Autopilot Clusters with GKE managed DRANET: GPUs and TPUs",
@@ -379,72 +337,79 @@
       "source": "Cloud Blog",
       "published": "2026-07-08T15:14:00.000Z",
       "snippet": "The agentic AI era is here, transforming how higher education institutions innovate, operate, and fundamentally empower learners, faculty, and researchers. AI agents can deliver unprecedented efficiency, academic innovation, and mission effectiveness as institutions seek to diversify pedagogy, accelerate research, and automate campus operations.\nThat’s why we are proud to share that The Tambellini"
-    },
-    {
-      "title": "Meet the 33 cybersecurity startups joining the Gemini Startup Forum",
-      "link": "https://cloud.google.com/blog/products/identity-security/meet-the-33-cybersecurity-startups-joining-the-gemini-startup-forum/",
-      "source": "Cloud Blog",
-      "published": "2026-07-08T13:30:00.000Z",
-      "snippet": "Startups are at the forefront of tackling some of the world’s most complex challenges, especially in cybersecurity, where new ideas and adaptability are always needed. These companies are embracing AI as a powerful tool, enabling them to scale their impact. \nGoogle believes that enabling the next generation of AI-native cybersecurity startups will have a positive impact across the globe. Today, we"
-    },
-    {
-      "title": "20 questions for the Agentic Enterprise (and how Agent Platform can help)",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
-      "source": "Cloud Blog",
-      "published": "2026-07-07T16:00:00.000Z",
-      "snippet": "If you’re an IT leader, you might be getting a lot of questions about how to build and deploy agents. \nThe pressure to move fast is intense, but the engineering reality is incredibly complex. Where do your teams even begin? How do you untangle a fragmented mess of disconnected tools? And as things grow, how do you ensure your agents don’t accidentally leak sensitive data, or burn through your toke"
-    },
-    {
-      "title": "A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
-      "source": "Cloud Blog",
-      "published": "2026-07-07T16:00:00.000Z",
-      "snippet": "Software-as-a-service (SaaS) is evolving into Agents-as-a-service (AaaS).\nInstead of isolated applications, developers are creating AI agents that interoperate using standardized open protocols such as the Agent2Agent (A2A) protocol and can be orchestrated through centralized agent platforms like Gemini Enterprise Agent Platform.\nWhen building for your specific use case, we believe the goal should"
-    },
-    {
-      "title": "BGP route policies: Top 3 use cases by customer demand",
-      "link": "https://cloud.google.com/blog/products/networking/bgp-route-policies-top-3-use-cases-by-customer-demand/",
-      "source": "Cloud Blog",
-      "published": "2026-07-07T16:00:00.000Z",
-      "snippet": "When we first made BGP route policies for Cloud Router generally available over a year ago, our goal was to give network administrators deep, programmable control over how network paths are evaluated and propagated. Since then, we’ve been watching closely how our customers have adopted this feature. We've seen network engineering teams build incredibly sophisticated, resilient routing architecture"
-    },
-    {
-      "title": "Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM",
-      "link": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
-      "source": "Cloud Blog",
-      "published": "2026-07-07T16:00:00.000Z",
-      "snippet": "Being more proactive continues to be a leading goal for security organizations. As AI accelerates the pace of vulnerability discovery and exploitation, organizations will rely on the personalization of their security investments to help prioritize their defenses.\nTo help you be more proactive by matching your real-world exposures with real-time adversary activity, we’ve begun integration efforts b"
-    },
-    {
-      "title": "Report: 83% of organizations need to upgrade their infrastructure to support agentic AI",
-      "link": "https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/",
-      "source": "Cloud Blog",
-      "published": "2026-07-07T16:00:00.000Z",
-      "snippet": "For years, enterprise AI has been synonymous with conversational AI — the customer service bots and digital assistants we interact with every day. But today, the market has shifted. We’ve officially moved from moving from AI that answers through simple chats, to AI that takes action, automated workflows, and executes complex tasks on its own. While this unlocks entirely new use cases, there’s a ca"
-    },
-    {
-      "title": "External key management for Azure Managed HSM is now in public preview",
-      "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-07-07T16:00:00.000Z",
-      "snippet": "Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key.\nThe post External key management for Azure Managed HSM is now in public preview appeared first on Microsoft Azu"
-    },
-    {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-labs-accelerate-ai-with-cloud-run/",
-      "source": "Cloud Blog",
-      "published": "2026-07-07T14:00:00.000Z",
-      "snippet": "Moving Beyond the Prototype\nThe AI landscape has shifted. While \"vibe coding\" with tools like Antigravity and AI Studio lets you build and deploy complex agents in minutes, the real work begins on \"Day 2\". Moving from a magical prototype to a hardened, production-grade application requires professional AI engineering. We’re excited to bring back the Accelerate AI with Cloud Run roadshow for 2026. "
-    },
-    {
-      "title": "The ‘Ghost’ in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
-      "source": "Cloud Blog",
-      "published": "2026-07-07T14:00:00.000Z",
-      "snippet": "Written by: Shebin Mathew\n\n\nIntroduction \nThe \"Golden SAML\" technique, first described by CyberArk researchers in 2017, and further detailed by Mandiant researchers in 2021, remains one of the most effective methods for threat actors to forge identity assertions in the Microsoft ecosystem. By obtaining the private key of an ADFS token-signing certificate, an attacker can authenticate as any user t"
     }
   ],
   "hardware": [
+    {
+      "title": "AMD FSR Multi-Frame Generation with 8x mode spotted — experimental driver settings could hint at FSR's next evolution",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-fsr-multi-frame-generation-with-8x-mode-spotted-experimental-driver-settings-could-hint-at-fsrs-next-evolution",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T12:30:06.000Z",
+      "snippet": "Experimental options discovered in AMD's latest Radeon driver suggest the company is preparing next-generation FSR technologies, but there's no confirmation whether 8x Multi-Frame Generation mode will ever ship in its current form."
+    },
+    {
+      "title": "Flashforge Creator 5 review: Basic and affordable tool changer",
+      "link": "https://www.tomshardware.com/3d-printing/flashforge-creator-5-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T12:05:00.000Z",
+      "snippet": "The Flashforge Creator 5 tool changer is basic, budget, and nearly perfect."
+    },
+    {
+      "title": "Apple's rumored M7 Ultra targets 1.5TB of memory and Blackwell-class AI performance, report claims — monster 2028 offering would depend on memory shortage easing",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T12:02:52.000Z",
+      "snippet": "Apple's planned M7 Ultra chip is being designed to support up to 1.5 TB of unified memory and to push AI performance toward the class of Nvidia's Blackwell accelerators."
+    },
+    {
+      "title": "Save $544 on a new RTX 5080-packed Cyberpower gaming PC — also features AMD's 9800X3D, 32GB of DDR5 RAM, and a 2TB SSD for $2,744",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd544-on-a-new-rtx-5080-packed-cyberpower-gaming-pc-also-features-amds-9800x3d-32gb-of-ddr5-ram-and-a-2tb-ssd-for-usd2-744",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T11:18:31.000Z",
+      "snippet": "Save over $544 on a new high-powered gaming rig from Cyberpower. High-end graphics and frame rates, thanks to the included RTX 5080 and Ryzen 7 9800X3D hardware inside."
+    },
+    {
+      "title": "Valve confirms Steam Machine red light overheating warning is showing earlier than it should; BIOS fix on the way — will raise temperature warning threshold to 100 Degrees Celsius",
+      "link": "https://www.tomshardware.com/pc-components/cooling/valve-confirms-steam-machine-red-light-overheating-warning-is-showing-earlier-than-it-should-bios-fix-on-the-way-will-raise-temperature-warning-threshold-to-100-degrees-celsius",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T11:04:37.000Z",
+      "snippet": "Valve has confirmed that the Steam Machine's red light bar warning is being triggered prematurely."
+    },
+    {
+      "title": "Grab 32GB of Corsair Vengeance DDR5 for just $236, $150 cheaper than the best standalone price — epic Newegg combo deal saves you $234 overall and comes with an AMD Ryzen 7 9800X3D and a Gigabyte X870 motherboard",
+      "link": "https://www.tomshardware.com/pc-components/grab-32gb-of-corsair-vengeance-ddr5-for-just-usd236-usd150-cheaper-than-the-best-standalone-price-epic-newegg-combo-deal-saves-you-usd234-overall-and-comes-with-an-amd-ryzen-7-9800x3d-and-a-gigabyte-x870-motherboard",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T10:56:38.000Z",
+      "snippet": "Get the AMD Ryzen 7 9800X3D, 32GB of fast DDR5 RAM, and a Gigabyte X870E motherboard for $1,064.98, with the RAM costing you just $236."
+    },
+    {
+      "title": "Lenovo's Legion 7a gaming laptop now comes with an RTX 5070 12GB GPU option — but it costs $3,375 paired with a Ryzen AI 9 CPU, SKU was previously limited to RTX 5060",
+      "link": "https://www.tomshardware.com/laptops/lenovos-legion-7a-gaming-laptop-now-comes-with-an-rtx-5070-12gb-gpu-option-but-it-costs-usd3-375-paired-with-a-ryzen-ai-9-cpu-sku-was-previously-limited-to-rtx-5060",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-12T15:46:18.000Z",
+      "snippet": "Lenovo has added the RTX 5070 12GB GPU to its Legion 7a gaming laptop, allowing you finally configure it with something better than an RTX 5060. It's very expensive at $3,375 but you're getting a genuinely premium machine for that price and an upgraded RTX 5070 that's not limited to just 8GB of VRAM."
+    },
+    {
+      "title": "Ireland’s data centers consumed nearly as much electricity as every home in the country combined in 2025 — server farms gulped 23% of national power despite years of grid restrictions",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-12T15:12:09.000Z",
+      "snippet": "Ireland’s data centers consumed 23% of the country’s electricity in 2025, rising 10% in one year despite restrictions on new grid connections."
+    },
+    {
+      "title": "Sega Dreamcast driver fixes appear in Linux 7.2-rc3 — fabled console remains in favor while iconic computing architectures like i486 fall by the wayside",
+      "link": "https://www.tomshardware.com/software/linux/sega-dreamcast-driver-fixes-appear-in-linux-7-2-rc3-fabled-console-remains-in-favor-while-iconic-computing-architectures-like-i486-fall-by-the-wayside",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-12T14:51:53.000Z",
+      "snippet": "A set of updates for Sega Dreamcast hardware has been merged into the Linux 7.2-rc3 kernel this weekend."
+    },
+    {
+      "title": "Grab a blazing-fast dual-interface M.2 SSD enclosure for just $59 on Amazon — Asus' tool-less ROG Strix Aiolos is 14% off right now, featuring transfer speeds up to 20 Gbps",
+      "link": "https://www.tomshardware.com/pc-components/grab-a-blazing-fast-dual-interface-m-2-ssd-enclosure-for-just-usd59-on-amazon-asus-tool-less-rog-strix-aiolos-is-14-percent-off-right-now-featuring-transfer-speeds-up-to-20-gbps",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-12T14:02:10.000Z",
+      "snippet": "Asus' fancy dual-interface M.2 enclosure is marked down to its lowest price ever on Amazon right now. Not only is it fast, but it also looks clean and has extra on-the-go convenience thanks to its metal hook and strap."
+    },
     {
       "title": "Sotheby’s video showcases working Apple-1 serial number 01-0033 — part of its upcoming History of Science & Technology sale",
       "link": "https://www.tomshardware.com/desktops/sothebys-video-showcases-working-apple-1-serial-number-01-0033-part-of-its-upcoming-history-of-science-and-technology-sale",
@@ -458,6 +423,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-12T12:48:34.000Z",
       "snippet": "The full match list ran to six terms: setup, install, inst, imposta, ayarla, and felrak."
+    },
+    {
+      "title": "FCC approves orbital space mirrors, first test satellites will launch this year — large spacecraft reflects sunlight to Earth’s surface for construction sites, search-and-rescue lighting, and more",
+      "link": "https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-12T12:20:20.000Z",
+      "snippet": "A startup that aims to bring sunlight on Earth after dark just received approval from the FCC to launch its experimental satellite. Critics say that the project could adversely affect astronomy and the environment, but the regulator says that their complaints are outside of its jursidiction."
     },
     {
       "title": "Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing",
@@ -843,156 +815,30 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-08T14:49:27.000Z",
       "snippet": "Global consumer Wi-Fi router shipments have declined 34 percent from their peak in 2021"
-    },
-    {
-      "title": "SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU — 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process",
-      "link": "https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T14:44:59.000Z",
-      "snippet": "How a limited run CPU could open the right doors for Europe's first HPC processors on markets its developers barely hoped to address any time soon."
-    },
-    {
-      "title": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% — Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/power-company-hikes-data-center-bills-by-30-percent-cuts-residential-electricity-costs-by-1-3-percent-oregon-approves-change-through-power-act-pushes-developments-using-more-than-20-megawatts-of-power-to-pay-their-fair-share",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T13:56:27.000Z",
-      "snippet": "Oregon approves the 29.7% price hike that Portland General Electric (PGE), the state's largest power provider, will impose on users that consume 20MW or more. This move is backed by Oregon's POWER Act, which helps ensure that data centers in PGE's coverage area pay their fair share."
-    },
-    {
-      "title": "'Slopfix' software team charges $10,000 a week to delete AI-generated code bloat — ironically, the team uses AI agents to trim messy repositories by up to 65%",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-team-of-engineers-called-slopfix-charges-10000-a-week-to-delete-ai-generated-code-using-ai-agents",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T13:19:17.000Z",
-      "snippet": "A software house known as 'Slopfix' has launched a fixed-price service that refactors AI-generated codebases, charging $10,000 for one week of work."
-    },
-    {
-      "title": "Fi Ultra becomes first dog tracker powered by Starlink satellites – the Fi Ultra Dog Tracker makes Fido trackable via satellite, onboard GPS, and LTE connectivity",
-      "link": "https://www.tomshardware.com/peripherals/wearable-tech/fi-ultra-becomes-first-dog-tracker-powered-by-starlink-satellites-the-fi-ultra-dog-tracker-makes-fido-trackable-via-satellite-onboard-gps-and-lte-connectivity",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T13:11:25.000Z",
-      "snippet": "Smart pet technology firm Fi has launched the Fi Ultra Dog Tracker today, the first such device with Starlink connectivity."
-    },
-    {
-      "title": "Cooler Master V4 and V8 3DHP Review: A masterful engineering achievement",
-      "link": "https://www.tomshardware.com/pc-components/air-cooling/cooler-master-v4-and-v8-3dhp-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T13:02:20.000Z",
-      "snippet": "Cooler Master’s 3DHP heatpipes, in its Master V4 and V8 coolers, are the biggest advancement in air cooling technology in years. But early adoption comes at a price."
-    },
-    {
-      "title": "Cracked version of Assassin’s Creed Black Flag Resynced leaked days prior to official release despite Denuvo DRM protection — Denuvo unable to stop crackers, with some finding ways to completely remove it from other titles",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/cracked-version-of-assassins-creed-black-flag-resynced-leaked-days-prior-to-official-release-despite-denuvo-drm-protection-denuvo-unable-to-stop-crackers-with-some-finding-ways-to-completely-remove-it-from-other-titles",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T12:29:12.000Z",
-      "snippet": "Ubisoft's remake of the 2013 game has been circulating online more than a month before its official release date, despite Denuvo DRM protection. Incident questions the effectivity of anti-piracy app, which causes performance hits and requires intrusive online check-ins."
-    },
-    {
-      "title": "Modding tool 'DLSS Swapper' might infect your PC with malware if you download the wrong files — App creator warns against using random, user-submitted DLLs",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/modding-tool-dlss-swapper-might-infect-your-pc-with-malware-if-you-download-the-wrong-files-app-creator-warns-against-using-random-user-submitted-dlls",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T12:18:47.000Z",
-      "snippet": "The creator of DLSS Swapper is warning against using random DLLs that claim to fix issues pertaining to DLSS, FSR, or XeSS, even if said file is available on the app's GitHub repo."
-    },
-    {
-      "title": "Save $527 on this 1440p gaming PC from Newegg with a 16GB RTX 5060 Ti right now — huge discount for high-end performance rig with an Intel Core i7-14700F, 32GB DDR5, and a 1TB SSD",
-      "link": "https://www.tomshardware.com/peripherals/gaming-mice/save-usd527-on-this-1440p-gaming-pc-from-newegg-with-a-16gb-rtx-5060-ti-right-now-huge-discount-for-high-end-performance-rig-with-an-intel-core-i7-14700f-32gb-ddr5-and-a-1tb-ssd",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T11:44:32.000Z",
-      "snippet": "This great value gaming PC from Newegg's ABS brand features a 16GB RTX 5060 Ti GPU and 32GB of DDR5-6400 RAM, giving you a rig ready for 1440p gaming."
-    },
-    {
-      "title": "Valve releases drivers, notes to make Windows work on Steam hardware, but refuses to support it — tells users it doesn’t offer support for ‘Windows on Steam Hardware,’ gaming company provides resources ‘as is’",
-      "link": "https://www.tomshardware.com/video-games/console-gaming/valve-releases-drivers-notes-to-make-windows-work-on-steam-hardware-but-refuses-to-support-it-tells-users-it-doesnt-offer-support-for-windows-on-steam-hardware-gaming-company-provides-resources-as-is",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T11:20:00.000Z",
-      "snippet": "These drivers will make it easier for your Steam Deck or Steam Machine to play nicely with Windows 11. However, Valve says it does not offer customer support for 'Windows on Steam Hardware,' and instead points stuck users to the SteamOS recovery instructions."
-    },
-    {
-      "title": "8Bitdo's wireless Pro 2 gaming controller falls to all-time low price — hall-effect gamepad is 38% off, just $37.19",
-      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/8bitdos-wireless-pro-2-gaming-controller-falls-to-all-time-low-price-hall-effect-gamepad-is-38-percent-off-just-usd37-19",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T11:18:06.000Z",
-      "snippet": "Hitting an all-time low price at Amazon, 8Bitdo's wireless Pro 2 gaming controller with hall-effect joysticks is 38% off for Prime members."
-    },
-    {
-      "title": "Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, reveals next-gen 'Rigel' Arm CPU cores — frames chip as a 'max single-threaded CPU at scale,' not a parallel monster",
-      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T11:00:00.000Z",
-      "snippet": "Nvidia lifts the veil a little bit more on its Vera CPU and reveals a single-thread performance monster — company claims a 1.8x uplift versus x86 competition in agentic workloads and 1.5x in coding."
-    },
-    {
-      "title": "Arrest and extradition of Scattered Spider hacker shines light on how Windows telemetry GDIDs can identify and track users — Microsoft device identifier is just one digital fingerprint in a software world rife with them",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/arrest-and-extradition-of-scattered-spider-hacker-shines-light-on-how-windows-telemetry-gdids-can-identify-users-microsoft-device-identifier-is-just-one-digital-fingerprint-in-a-software-world-rife-with-them",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T10:30:00.000Z",
-      "snippet": "While the use of Windows' GDID to catch Scattered Spider hacking group member Peter Stokes is unusual, that device identifier is only one bit of telemetry that can be used to fingerprint a user across the wider Internet these days."
-    },
-    {
-      "title": "Stacking Chips Sideways Gives AI More Memory",
-      "link": "https://spectrum.ieee.org/stacking-chips-sideways",
-      "source": "IEEE Spectrum",
-      "published": "2026-07-08T10:00:02.000Z",
-      "snippet": "GPUs and other big AI chips just can’t get enough memory. Today’s data center computers stack DRAM 12 dies high. But as memory makers try to build higher stacks to pack in more bits and bandwidth, experts worry this high bandwidth-memory (HBM) will trap enough heat to cook itself into oblivion. That will be especially true if GPU makers choose to start stacking HBM atop their already hot processor"
-    },
-    {
-      "title": "Space Force gets first mobile high-powered electromagnetic beam weapon to cripple enemy satellites — plans to deploy 32 ‘Meadowlands’ units to detect, deny, disrupt, and degrade hostile space assets",
-      "link": "https://www.tomshardware.com/tech-industry/space/space-force-gets-first-mobile-high-powered-electromagnetic-beam-weapon-to-cripple-enemy-satellites-plans-to-deploy-32-meadowlands-units-to-detect-deny-disrupt-and-degrade-hostile-space-assets",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T10:00:00.000Z",
-      "snippet": "Space Force has announced that the first high-energy 'Meadowlands' electronic warfare system has been delivered for operational duty."
-    },
-    {
-      "title": "Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator — unreleased graphics cards shown with 10-17% higher TGP over original models",
-      "link": "https://www.tomshardware.com/pc-components/gpus/unannounced-nvidia-rtx-50-super-gpus-appear-in-seasonic-psu-calculator-unreleased-graphics-cards-shown-with-10-17-percent-higher-tgp-over-original-models",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T21:34:05.000Z",
-      "snippet": "Total graphics power figures for Nvidia's unanounced, unreleased RTX 50 Super-series graphics cards have appeared in Seasonic's PSU capacity calculator, revealing potentially higher TGPs of those products."
-    },
-    {
-      "title": "South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand",
-      "link": "https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T17:27:41.000Z",
-      "snippet": "The ₩1,350 trillion total combines a $520 billion semiconductor program with AI data center and robotics spending, mostly made up of corporate capex."
-    },
-    {
-      "title": "Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand — Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year",
-      "link": "https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T16:13:09.000Z",
-      "snippet": "Chinese memory and storage manufacturer Longsys expects to post a massive increase in profits due to the AI-driven chip shortage."
-    },
-    {
-      "title": "Save nearly $2,000 on this RTX 5090 OLED gaming laptop right now — massive discount on powerhouse 16-inch Lenovo rig with 240Hz refresh rate, 32GB DDR5 RAM, 2TB SSD, and a 24-core Intel CPU, all for $3,199",
-      "link": "https://www.tomshardware.com/pc-components/save-nearly-usd2-000-on-this-rtx-5090-oled-gaming-laptop-right-now-massive-discount-on-powerhouse-16-inch-lenovo-rig-with-240hz-refresh-rate-32gb-ddr5-ram-2tb-ssd-and-a-24-core-intel-cpu-all-for-usd3-199",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T14:52:28.000Z",
-      "snippet": "Grab this Lenovo Legion Pro 7i gaming laptop with an RTX 5090 for just $3,199 right now at B&H Photo, saving you $1,800."
-    },
-    {
-      "title": "AVX-512 support is reportedly returning with Intel's next-gen Nova Lake CPUs — Latest Linux kernel patches reveal P-cores and E-cores will gain native 512-bit execution",
-      "link": "https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T14:47:47.000Z",
-      "snippet": "It looks like Intel is adding back AVX-512 support to its client CPUs starting from the upcoming Nova Lake desktop lineup. Previously, we expected to see AVX-256 debut on a consumer family, allowing E-cores to execute 256-bit code, but now it seems that even the E-cores will gain native 512-bit registers."
-    },
-    {
-      "title": "Companies are now using automatic Windows installers to display Adware through the Microsoft Store when you install new hardware — customer immediately gets McAfee ads on their PC after connecting new LG monitor; here's how to block the new ads",
-      "link": "https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T14:46:20.000Z",
-      "snippet": "LG monitors apparently auto-install an app on your PC when you first connect them, all thanks to the Microsoft Store."
-    },
-    {
-      "title": "PlayStation disc petition approaches 200,000 signatures as backlash grows over Sony's decision to stop producing new physical media — firm still plans to produce optical media for existing titles, but new games will be digital only",
-      "link": "https://www.tomshardware.com/video-games/playstation/playstation-disc-petition-approaches-200000-signatures",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-07T14:38:31.000Z",
-      "snippet": "A Change.org petition urging Sony to keep making physical PlayStation games has passed 172,000 signatures."
     }
   ],
   "quantum": [
+    {
+      "title": "JIC Venture Growth Investments And Toyota Invention Partners Join Yaqumo Seed Extension Round",
+      "link": "https://thequantuminsider.com/2026/07/13/jic-venture-growth-investments-and-toyota-invention-partners-join-yaqumo-seed-extension-round/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-13T08:41:01.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Yaqumo Inc. (“Yaqumo”), a Japanese startup developing neutral-atom quantum computers, today announced that it has raised funding in a seed extension round from JIC Venture Growth Investments Co., Ltd. (“JIC VGI”) and Toyota Invention Partners,Inc. (“TIP”).  This investment marks JIC VGI’s first investment in a quantum computing hardware startup. Through JIC VGI’s part"
+    },
+    {
+      "title": "Quantum Companies Help Develop Hybrid AI for Immune-Targeting Peptides",
+      "link": "https://thequantuminsider.com/2026/07/13/quantum-companies-help-develop-hybrid-ai-for-immune-targeting-peptides/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-13T08:30:29.000Z",
+      "snippet": "Insider Brief A hybrid quantum-classical artificial intelligence system generated short protein fragments that attached to immune-system proteins, with the largest gains appearing for genetic variants that are poorly represented in existing data, according to a preprint posted on bioRxiv. The findings suggest quantum-generated patterns could help AI systems search more effectively for vaccine and "
+    },
+    {
+      "title": "Israeli Quantum Startups Eye Wall Street as SPAC Interest Accelerates",
+      "link": "https://thequantuminsider.com/2026/07/13/israeli-quantum-startups-eye-wall-street-as-spac-interest-accelerates/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-13T07:59:14.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — wo of Israel’s best-funded quantum computing companies are in advanced discussions to go public on Wall Street through mergers with special purpose acquisition companies, underscoring growing investor demand for a sector that remains largely pre-revenue but is attracting multibillion-dollar valuations. According to YNet News, citing information first obtained by Calca"
+    },
     {
       "title": "Why Quantum Computing Needs Strong Ecosystems to Scale",
       "link": "https://thequantuminsider.com/2026/07/11/why-quantum-computing-needs-national-ecosystems-to-scale/",
@@ -1020,6 +866,13 @@
       "source": "The Quantum Insider",
       "published": "2026-07-10T14:49:03.000Z",
       "snippet": "Insider Brief Press release –  NordLocker, the encrypted cloud storage service behind the creators of Nord Security, has announced the most significant architectural upgrade in its history. Codenamed “Project Renaissance,” the upgrade completely reimagines how encrypted data is structured, moving from a traditional locker-based file tree to a modern “journaling” approach. A new core engine […]"
+    },
+    {
+      "title": "BTQ Technologies and ICTK Complete Design of Quantum-Secure QCIM Security Chip",
+      "link": "https://thequantuminsider.com/2026/07/10/btq-technologies-ictk-complete-design-next-generation-qcim-security-chip-integrating-puf-technology/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-10T14:03:52.000Z",
+      "snippet": "Insider Brief Press release – BTQ Technologies Corp. (“BTQ“ or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, today announced that it has completed the design of its next-generation QCIM + PUF security chip for the quantum era in collaboration with ICTK Co., Ltd. (“ICTK”) (KOSDAQ: 456010), a leading Korean […]"
     },
     {
       "title": "SEALSQ and Quobly Sign $5 Million Agreement to Secure Silicon Quantum Computers",
@@ -1090,128 +943,16 @@
       "source": "The Quantum Insider",
       "published": "2026-07-09T15:05:00.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Quantum Rings, a leader in quantum developer tools whose toolchain lets any developer run quantum workloads anywhere, and qBraid (Chicago, Illinois), a leader in quantum-cloud computing, announced a partnership today to make Quantum Rings’ Open Quantum platform available within qBraid Lab. Through this collaboration, tens of thousands of qBraid users […]"
-    },
-    {
-      "title": "SEALSQ and GlobalFoundries Partner on Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/07/08/sealsq-globalfoundries-post-quantum-cryptography-partnership/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T13:11:27.000Z",
-      "snippet": "Insider Brief Press release – SEALSQ Corp (Nasdaq: LAES) (“SEALSQ“) and GlobalFoundries (Nasdaq: GFS) (GF) today announced a strategic Memorandum of Understanding (MoU) to co-develop across secure semiconductor platforms, Post-Quantum Cryptography (PQC) and emerging semiconductor-based quantum computing technologies. The partnership leverages GF’s process technology leadership and manufacturing ca"
-    },
-    {
-      "title": "New Optical Technique Captures Three Material Properties in a Single Measurement",
-      "link": "https://thequantuminsider.com/2026/07/08/new-optical-technique-captures-three-material-properties-in-a-single-measurement/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T13:09:52.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — An international team of researchers has developed an optical technique that measures the chemical, structural, and mechanical properties of a material at the same time, from a single point, and without touching or labeling the sample. The work, published in Nature Communications, is led by Milan-based deep-tech company Specto Photonics […]"
-    },
-    {
-      "title": "BTQ Technologies Completes Acquisition of QPerfect to Expand Quantum Software Capabilities",
-      "link": "https://thequantuminsider.com/2026/07/08/btq-technologies-completes-qperfect-acquisition-quantum-software-capabilities/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T13:01:22.000Z",
-      "snippet": "Insider Brief Press release – BTQ Technologies Corp. (“BTQ” or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global quantum technology company focused on securing mission-critical networks, is pleased to announce that it has completed the acquisition of QPerfect SA (“QPerfect“), a French quantum computing company based in Strasbourg specializing in quantum software, emulation, digital twin capabi"
-    },
-    {
-      "title": "CSIRO Builds Quantum Light Sources to Counter GPS Jamming and Spoofing",
-      "link": "https://thequantuminsider.com/2026/07/08/csiro-builds-quantum-light-sources-to-detect-gnss-signal-tampering/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T12:29:46.000Z",
-      "snippet": "Insider Brief GPS signals are weak by the time they reach Earth. That weakness is why they are increasingly being disrupted – blocked through jamming, or overridden with false signals through spoofing. GPS is the best-known satellite timing system in Australia and the United States, but it is one of several systems that together make […]"
-    },
-    {
-      "title": "IQM to Deliver Quantum Computer for Europe’s LUMI AI Factory",
-      "link": "https://thequantuminsider.com/2026/07/08/lumi-ai-factory-iqm-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T11:48:48.000Z",
-      "snippet": "Insider Brief Press release – The LUMI AI Factory, led by CSC – IT Center for Science, has selected IQM Quantum Computers (Nasdaq: IQMX) to deliver IQM Halocene H4, an advanced quantum computer aimed at accelerating hybrid high-performance computing, artificial intelligence, and quantum computing capabilities. IQM Halocene H4 is the first and most advanced on-premises […]"
-    },
-    {
-      "title": "Guest Post – QSE Expands Post-Quantum Cryptography Solutions for Enterprise Quantum Security Migration",
-      "link": "https://thequantuminsider.com/2026/07/08/qse-post-quantum-security-southeast-asia/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T10:08:15.000Z",
-      "snippet": "Insider Brief Guest Post by QSE – Quantum Secure Encryption Corp. Equity Insider News Commentary, One of the quieter but more consequential races in technology is the effort to rebuild the world’s encryption before quantum computers grow powerful enough to break it. Governments and standards bodies have set migration deadlines, regulators are turning quantum risk into […]"
-    },
-    {
-      "title": "European QUARTERNEXT Consortium Advances Quantum-Safe Communication Systems",
-      "link": "https://thequantuminsider.com/2026/07/08/quarternext-quantum-safe-communications/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T09:40:58.000Z",
-      "snippet": "Insider Brief Press release – QUARTERNEXT, a European-funded consortium dedicated to advancing quantum-safe communication technologies toward certifiable, industrial-grade systems, has officially launched. Bringing together six leading organizations across Spain, Austria, and the Netherlands, the project aims to mature quantum technologies for widespread commercial adoption and secure formal certi"
-    },
-    {
-      "title": "Rice University and Max Planck Society Launch Quantum Materials Research Partnership",
-      "link": "https://thequantuminsider.com/2026/07/08/rice-university-and-the-max-planck-society-establish-a-partnership-on-quantum-materials/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T09:30:03.000Z",
-      "snippet": "Insider Brief Press release – Rice University and the Max Planck Society officially launched the Quantum Materials – Rice and Max Planck Partnership (Q-RaMP) June 19, aimed at supporting the identification and development of quantum materials that will support breakthroughs in sustainability, energy efficiency and quantum and classical information processing. “Breakthrough technologies begin with "
-    },
-    {
-      "title": "Argonne Brings Together Leaders to Discuss Quantum Technology Opportunities",
-      "link": "https://thequantuminsider.com/2026/07/08/argonne-quantum-prairie-economic-symposium/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T09:24:37.000Z",
-      "snippet": "Insider Brief The U.S. Department of Energy’s Argonne National Laboratory convened leaders from business, government, academia and nonprofit organizations in May for the inaugural Quantum Prairie Economic Symposium, bringing together nearly 100 participants to examine how advances in quantum science could drive regional economic growth, workforce development and technological innovation. Held at H"
-    },
-    {
-      "title": "QpiAI Launches Open Quantum SDK for Developers and Researchers",
-      "link": "https://thequantuminsider.com/2026/07/08/qpiai-launches-open-quantum-sdk-for-developers-and-researchers/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T09:13:39.000Z",
-      "snippet": "Insider Brief Press release – QpiAI, a globally leading full-stack quantum computing company, today released the QpiAI Quantum SDK as open-source software. Available now at https://github.com/qpiai/quantum-sdk, the QpiAI Quantum SDK gives developers, researchers, and startups an accessible, developer-friendly toolkit to build and run quantum algorithms and to connect their quantum development work"
-    },
-    {
-      "title": "Fraunhofer ILT Develops Laser System for 2,000-Qubit Neutral-Atom Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/07/08/fraunhofer-ilt-develops-laser-system-for-2000-qubit-neutral-atom-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-08T08:02:37.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with sub-micrometer precision in the computer’s highly compact vacuum chamber. To do […]"
-    },
-    {
-      "title": "NSF Launches Project Triad to Advance Quantum Technology For Real-World Applications",
-      "link": "https://thequantuminsider.com/2026/07/07/nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T19:30:41.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — The U.S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational system. By bringing these three capabilities together for the first time, Project Triad will move quantum technology out of the lab and into real-world use […]"
-    },
-    {
-      "title": "Photonic Names Orlagh Neary and Briony Shipman to Executive Roles",
-      "link": "https://thequantuminsider.com/2026/07/07/photonic-appoints-marketing-government-affairs-leaders/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T15:22:43.000Z",
-      "snippet": "Insider Brief Press release – Photonic Inc., a global leader in distributed quantum computing, today announced the appointments of Orlagh Neary as Chief Marketing Officer (CMO), and Briony Shipman as Vice President, Global Government Affairs. The strategic appointments of Neary and Shipman follow the final close of Photonic’s investment round in May 2026 of over $200M USD ($275M CAD) strengthening"
-    },
-    {
-      "title": "University of Pretoria Expands South Africa’s Quantum Research Capacity",
-      "link": "https://thequantuminsider.com/2026/07/07/university-pretoria-quantum-research-hub/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T14:14:30.000Z",
-      "snippet": "Insider Brief As countries around the world race to secure leadership in quantum technologies – an emerging field expected to transform computing, healthcare, manufacturing, agriculture and cybersecurity – the University of Pretoria (UP) has been selected to play a significant role in South Africa’s next step into the quantum era. The University will host a new node […]"
-    },
-    {
-      "title": "SEALSQ Corp Reports Revenue Up 120% in Preliminary H1 2026 Results",
-      "link": "https://thequantuminsider.com/2026/07/07/sealsq-corp-reports-revenue-up-120-in-preliminary-h1-2026-results/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T14:01:59.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or “Company”), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced its preliminary unaudited financial results for the six-month period ended June 30, 2026 (“H1 2026”). The Company also provided an update on key strategic […]"
-    },
-    {
-      "title": "Quantum X Labs Advances Development of Quantum Atomic Clock Technology",
-      "link": "https://thequantuminsider.com/2026/07/07/quantum-x-labs-ramsey-cpt-atomic-clock/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T13:59:12.000Z",
-      "snippet": "Insider Brief Press release –Quantum X Labs Inc. Ltd. (Nasdaq: QXL) (“Quantum X” or the “Company”) today announced the successful demonstration by its wholly-owned subsidiary, Quantum X Labs Ltd. (“Quantum X Labs”), a developer of advanced quantum technologies, of a high-sensitivity atomic clock based on Quantum X Labs’s Ramsey Coherent Population Trapping (“Ramsey-CPT”) platform. The […]"
-    },
-    {
-      "title": "Alfred University and Classiq Launch Quantum Computing Initiative",
-      "link": "https://thequantuminsider.com/2026/07/07/alfred-university-and-classiq-launch-quantum-computing-initiative/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-07T13:49:35.000Z",
-      "snippet": "Insider Brief Press release – Alfred University, the State University of New York College of Ceramics at Alfred University, and Classiq today announced a joint quantum computing initiative using Classiq’s quantum software engineering platform to support engineering education, applied energy systems research and preparation for the emerging quantum workforce. The initiative brings together Alfred U"
     }
   ],
   "education": [
+    {
+      "title": "Future-Ready Strategies for Technology Leaders in Higher Education",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/future-ready-strategies-technology-leaders-higher-education",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-10T19:00:20.000Z",
+      "snippet": "Higher education technology leaders face an increasingly difficult balancing act. Enrollment pressures, tighter budgets and rising expectations around artificial intelligence (AI) are forcing institutions to modernize while proving the value of every technology investment. At the same time, aging infrastructure, fragmented data and staffing constraints leave little room for missteps.\nResearch from"
+    },
     {
       "title": "Rethinking MTSS: How schools can turn student data into meaningful support",
       "link": "https://www.eschoolnews.com/uncategorized/2026/07/10/rethinking-mtss-how-schools-can-turn-student-data-into-meaningful-support/",
@@ -1253,13 +994,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-07-08T17:57:47.000Z",
       "snippet": "Generative artificial intelligence is revolutionizing how colleges and universities operate, streamlining workflows, supporting research and enhancing learning. But as adoption grows, so do the risks.\nHigher education institutions manage sensitive student data, proprietary research and intellectual property. Without the right guardrails in place, AI systems can expose this information or violate c"
-    },
-    {
-      "title": "5 ways to rest, reflect, and recharge this summer",
-      "link": "https://www.eschoolnews.com/sel/2026/07/08/5-ways-to-rest-reflect-and-recharge-this-summer/",
-      "source": "eSchool News",
-      "published": "2026-07-08T10:00:00.000Z",
-      "snippet": "Summer break has finally arrived, and if you're like most educators, you're probably feeling a lot of conflicting emotions. There's relief that the school year is behind you, pride in everything you've accomplished, but also exhaustion from months of pouring your time, energy, and heart into your students."
     }
   ]
 }
