@@ -1,11 +1,74 @@
 {
   "ai": [
     {
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-14T02:46:42.000Z",
+      "snippet": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more."
+    },
+    {
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-14T00:45:00.000Z",
+      "snippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice."
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-13T23:31:18.000Z",
+      "snippet": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors."
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-13T20:59:00.000Z",
+      "snippet": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses."
+    },
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-13T18:22:10.000Z",
+      "snippet": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims."
+    },
+    {
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-07-13T18:00:00.000Z",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…"
+    },
+    {
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-13T17:28:37.000Z",
+      "snippet": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\""
+    },
+    {
+      "title": "Should AI help you get away with killing your spouse?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-13T16:31:23.000Z",
+      "snippet": "What does a world of total user-aligned AI actually look like?"
+    },
+    {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-13T15:34:59.000Z",
+      "snippet": "Claude users in India are starting to see Indian rupee-denominated subscription plans."
+    },
+    {
       "title": "Waze adds new AI-powered features and customization updates",
       "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-13T14:18:16.000Z",
-      "snippet": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps."
+      "snippet": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps."
     },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -20,6 +83,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-10T23:55:07.000Z",
       "snippet": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-10T21:00:29.000Z",
+      "snippet": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
     },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
@@ -188,78 +258,43 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-09T12:00:00.000Z",
       "snippet": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India."
-    },
-    {
-      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T22:41:33.000Z",
-      "snippet": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported."
-    },
-    {
-      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T20:37:03.000Z",
-      "snippet": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake."
-    },
-    {
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T19:19:15.000Z",
-      "snippet": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data."
-    },
-    {
-      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T18:30:08.000Z",
-      "snippet": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos."
-    },
-    {
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T17:47:55.000Z",
-      "snippet": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behi"
-    },
-    {
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T17:11:18.000Z",
-      "snippet": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use."
-    },
-    {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T17:00:00.000Z",
-      "snippet": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation."
-    },
-    {
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T16:22:38.000Z",
-      "snippet": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs."
-    },
-    {
-      "title": "These AI startups are growing  revenue at faster and faster rates",
-      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-08T15:41:06.000Z",
-      "snippet": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
     }
   ],
   "cloud": [
+    {
+      "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/",
+      "source": "AWS News Blog",
+      "published": "2026-07-13T18:13:57.000Z",
+      "snippet": "On July 13, 2006, we launched Amazon Simple Queue Service (Amazon SQS) as one of the first three services available to customers, alongside Amazon EC2 and Amazon S3. We had learned firsthand that distributed systems need a reliable way to pass messages between components without creating tight dependencies. If one service called another directly and […]"
+    },
+    {
+      "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/",
+      "source": "AWS News Blog",
+      "published": "2026-07-13T16:18:20.000Z",
+      "snippet": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community profiles, and a toolbox into a full ecosystem with sandbox environments, workshops, Spaces, and a Builders’ Library. To mark the anniversary, Rick Suttles published a full feature timeline covering […]"
+    },
     {
       "title": "Key findings from the 2026 Public Sector M-Trends report and beyond",
       "link": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
       "source": "Cloud Blog",
       "published": "2026-07-13T16:00:00.000Z",
       "snippet": "In 2026, the public sector is no longer defending a traditional perimeter. Instead, they are defending a complex web of interconnected trust relationships against adversaries that now operate at machine speed. We recently published the 2026 Public Sector Threat Landscape: M-Trends and Beyond report, which distills more than 500,000 hours of frontline incident investigations conducted by Mandiant i"
+    },
+    {
+      "title": "Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV",
+      "link": "https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
+      "source": "Cloud Blog",
+      "published": "2026-07-13T16:00:00.000Z",
+      "snippet": "The automotive industry is moving from building hardware-centric platforms toward building their own sophisticated Software-Defined Vehicle (SDV) architectures. For OEMs, a vehicle is no longer just a way to go from point A to point B, but an intelligent, connected node within an AI-native ecosystem! \nWith its partners, Google’s Android and Google Cloud are at the forefront of this transition. And"
+    },
+    {
+      "title": "Contributing to U.K. financial sector resilience as a critical third party",
+      "link": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
+      "source": "Cloud Blog",
+      "published": "2026-07-10T17:00:00.000Z",
+      "snippet": "At Google Cloud, we take our role in the financial ecosystem very seriously. We firmly believe that operational resilience is essential to driving and sustaining responsible innovation.\nToday, we mark a milestone in our ongoing commitment to the financial sector that’s directly relevant to our customers in the U.K. On July 10, the U.K. Treasury designated Google Cloud EMEA as a critical third part"
     },
     {
       "title": "Frontier and Center: Who evaluates the evaluations?",
@@ -302,44 +337,51 @@
       "source": "Cloud Blog",
       "published": "2026-07-09T07:00:00.000Z",
       "snippet": "Google Kubernetes Engine (GKE) managed DRANET supports both GPUs and TPUs. There are several configurations to use this implementation, including standard cluster (where you have full control) and autopilot cluster (where Google does the heavy configs for you). I've been exploring the capabilities and in this blog we will explore setting up for autopilot clusters.\n\n\nAutopilot and managed DRANET\nGK"
-    },
-    {
-      "title": "C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads",
-      "link": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
-      "source": "Cloud Blog",
-      "published": "2026-07-08T20:00:00.000Z",
-      "snippet": "As organizations scale modern workloads — from high-throughput databases and network/security appliances to real-time analytics and AI/ML inference — network and block storage performance can quickly become a bottleneck. Standard virtual machines often struggle to balance compute efficiency with the high-volume data-transfer demands of these applications.\nAt Google Cloud Next ‘26, we announced C4N"
-    },
-    {
-      "title": "New ways to keep Google Cloud certifications current and boost your career",
-      "link": "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current/",
-      "source": "Cloud Blog",
-      "published": "2026-07-08T16:00:00.000Z",
-      "snippet": "If you’re reading this, you’ve likely already done the hard work to prove your qualifications with a Google Cloud certification. And good for you — research shows that’ll help you get ahead. Certified individuals report more responses from recruiters, faster promotions, and higher salaries. In fact, 81% of organizations say certifications from Google Cloud increase their confidence in a job candid"
-    },
-    {
-      "title": "Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
-      "source": "Cloud Blog",
-      "published": "2026-07-08T16:00:00.000Z",
-      "snippet": "In the agentic era, AI is evolving from answering questions to reasoning and taking action. Companies who want to lead in this next phase of AI need computing infrastructure that’s designed and optimized for these new requirements, helping them innovate faster, deliver compelling user and customer experiences, and optimize for cost and energy efficiency — all at massive scale.\nToday, we are please"
-    },
-    {
-      "title": "Built to bounce back: How Azure resiliency evolved",
-      "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-07-08T16:00:00.000Z",
-      "snippet": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints.\nThe post Built to bounce back: How Azure resiliency evolved appeared first on Microsoft Azure Blog."
-    },
-    {
-      "title": "Gemini Enterprise for Education named a Commander in Tambellini StarChart™: 2026 AI Agents for Administrative Efficiency—Agent Platforms",
-      "link": "https://cloud.google.com/blog/topics/public-sector/gemini-enterprise-for-education-named-a-commander-in-tambellini-starchart-2026-ai-agents-for-administrative-efficiencyagent-platforms/",
-      "source": "Cloud Blog",
-      "published": "2026-07-08T15:14:00.000Z",
-      "snippet": "The agentic AI era is here, transforming how higher education institutions innovate, operate, and fundamentally empower learners, faculty, and researchers. AI agents can deliver unprecedented efficiency, academic innovation, and mission effectiveness as institutions seek to diversify pedagogy, accelerate research, and automate campus operations.\nThat’s why we are proud to share that The Tambellini"
     }
   ],
   "hardware": [
+    {
+      "title": "Amazon Prime members can get this Asus RTX 5060 for just $2 above MSRP — upgrade to Blackwell gaming power for less than the cost of an RTX 3060",
+      "link": "https://www.tomshardware.com/pc-components/gpus/amazon-prime-members-can-get-this-asus-rtx-5060-for-just-usd2-above-msrp-upgrade-to-blackwell-gaming-power-for-less-than-the-cost-of-an-rtx-3060",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T18:53:10.000Z",
+      "snippet": "Amazon is giving some Prime customers a deep discount on Asus's Prime RTX 5060 8GB OC, bringing its price to just $2 above MSRP and beating the Prime Day deals we saw on these cards."
+    },
+    {
+      "title": "Tesla's AI5 with 2nm-class node tapes out at Samsung Foundry — production starts soon, months after TSMC tape out",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/teslas-ai5-with-2nm-class-node-tapes-out-at-samsung-foundry-production-starts-soon-months-after-tsmc-tape-out",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T17:59:55.000Z",
+      "snippet": "Samsung Foundry soon to join TSMC in production of Tesla's AI5 processor, a LinkedIn post reveals."
+    },
+    {
+      "title": "Upcoming MSI Afterburner update adds heatmap to V/F curve editor to show your GPU's boosting behavior — new feature shoots for better overclocks with more data",
+      "link": "https://www.tomshardware.com/pc-components/gpus/upcoming-msi-afterburner-update-adds-heatmap-to-v-f-curve-editor-to-show-your-gpus-boosting-behavior-new-feature-shoots-for-better-overclocks-with-more-data",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T17:39:47.000Z",
+      "snippet": "MSI Afterburner is soon getting a new heatmap in its V/F curve editor that shows the GPU's boosting behavior in real workloads."
+    },
+    {
+      "title": "Intel's new space-grade Starfire chip is a Panther Lake SoC that puts an 18A CPU into orbit — chip designed for the US government leverages Intel 3 for the GPU",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-shows-off-starfire-space-grade-chip",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T16:09:33.000Z",
+      "snippet": "Intel has unveiled Starfire, a space-grade system-on-chip designed for the U.S. government."
+    },
+    {
+      "title": "Cooler Master HAF II 500 Case Review: New HAF delivers on its name, with impressive airflow and a roomy chassis",
+      "link": "https://www.tomshardware.com/pc-components/pc-cases/cooler-master-haf-ii-500-case-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T15:00:00.000Z",
+      "snippet": "Cooler Master’s HAF II 500 revives the HAF legacy with massive 220mm fans, excellent airflow, and solid thermal performance. Its cooling capability, spacious interior, flexible building options, and quiet operation make it an intriguing option for around $200."
+    },
+    {
+      "title": "Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates — says it plans to invest over $1 billion in local infrastructure improvements",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-13T13:25:32.000Z",
+      "snippet": "Meta is expanding Hyperion from 2 GW to 5 GW, lifting its Louisiana investment above $50 billion as it races to secure more AI computing capacity."
+    },
     {
       "title": "AMD FSR Multi-Frame Generation with 8x mode spotted — experimental driver settings could hint at FSR's next evolution",
       "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-fsr-multi-frame-generation-with-8x-mode-spotted-experimental-driver-settings-could-hint-at-fsrs-next-evolution",
@@ -773,51 +815,30 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-09T10:00:00.000Z",
       "snippet": "A Reddit user named u/Slawrfp shared on the r/pcmasterrace subreddit that Chinese courts have allowed heirs to inherit games and other digital assets after the original user has since passed on. While Chinese inheritance law hasn't explicitly covered digital properties, multiple rulings have already set precedent."
-    },
-    {
-      "title": "Rapidus fab roadmap examined — first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T16:29:26.000Z",
-      "snippet": "Rapidus is building Japan's entire return to leading-edge logic on one fab in Chitose, Hokkaido."
-    },
-    {
-      "title": "China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' — Gov't claims Claude sends sensitive information to remote servers without consent",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T15:54:14.000Z",
-      "snippet": "China is warning against the use of Claude Code versions released between April and June 2026 after it's revealed that hidden code is sending sensitive user information to remote servers. The government told users to uninstall the app or use its latest version, despite the fact that the AI tool is not approved for use in China."
-    },
-    {
-      "title": "Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers — Chinese company's firmware allows admin access without a password",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T15:16:25.000Z",
-      "snippet": "CERT/CC has disclosed a critical authentication backdoor affecting multiple Tenda router firmware versions. Tracked as CVE-2026-11405, the flaw grants full administrator access without valid credentials, and no vendor patch is currently available after CERT failed to reach Tenda."
-    },
-    {
-      "title": "Budget smartphone market collapses under the weight of memory shortages, sales expected to drop 22% — memory alone now comprises up to 64% of the total cost of lower-tier smartphones",
-      "link": "https://www.tomshardware.com/phones/budget-smartphone-market-collapses-under-the-weight-of-memory-shortages-sales-expected-to-drop-22-percent-memory-alone-now-comprises-up-to-64-percent-of-the-total-cost-of-lower-tier-smartphones",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T15:15:36.000Z",
-      "snippet": "The global AI memory squeeze is pricing cheap phones out of existence and forcing mid-range devices to compromise on hardware."
-    },
-    {
-      "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs — Narrow 512-bit interface enables dropping expensive interposers for organic substrates",
-      "link": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T15:03:33.000Z",
-      "snippet": "SPHBM4 promises HBM4-class bandwidth without usage of silicon interposer and CoWoS-like packaging."
-    },
-    {
-      "title": "Global consumer Wi-Fi router shipments fell 6% in Q1 2026, down 34% from 2021 peak — mesh systems and gaming routers still prove popular",
-      "link": "https://www.tomshardware.com/networking/routers/global-consumer-wi-fi-router-shipments-fell-6-percent-in-q1-2026-mesh-systems-and-gaming-routers-still-prove-popular",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-08T14:49:27.000Z",
-      "snippet": "Global consumer Wi-Fi router shipments have declined 34 percent from their peak in 2021"
     }
   ],
   "quantum": [
+    {
+      "title": "Q-PLANET Begins Development of European Pilot Line for Neutral Atom Quantum Chips",
+      "link": "https://thequantuminsider.com/2026/07/13/launch-of-q-planet-european-pilot-line-to-industrialize-neutral-atom-quantum-chips/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-13T16:54:32.000Z",
+      "snippet": "Insider Brief Press release – Last two days marked the official kick-off of Q-PLANET (Quantum Pilot Line for production of Advanced chips for Neutral atom European Technologies), one of the 6 European Quantum Chip Stability Pilot Lines co-founded by the European Union and the Chips Joint Undertaking and National and Regional Authorities of the participating […]"
+    },
+    {
+      "title": "Imec and Diraq Demonstrate Eight-Qubit Silicon Spin Array on CMOS-Compatible Platform",
+      "link": "https://thequantuminsider.com/2026/07/13/imec-diraq-eight-qubit-silicon-spin-qubit-array/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-13T16:41:44.000Z",
+      "snippet": "Insider Brief Press release – Imec, a world-leading research and innovation hub for advanced semiconductor technologies, and Diraq, a pioneer of silicon-based quantum computing, today announce they have demonstrated the coherent operation and readout of an eight silicon MOS spin-qubit array designed and fabricated on imec’s advanced 300mm spin-qubit technology platform using a CMOS-compatible proc"
+    },
+    {
+      "title": "Study Finds Imaginary Numbers May Not Be Essential to Quantum Mechanics",
+      "link": "https://thequantuminsider.com/2026/07/13/physicists-say-quantum-mechanics-may-not-need-imaginary-numbers-after-all/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-13T14:01:40.000Z",
+      "snippet": "Insider Brief Press release – Physicists at Heinrich Heine University Düsseldorf (HHU), in collaboration with the German Aerospace Center (DLR), have been investigating a fundamental property of quantum mechanics. In the journal Physical Review Letters, they show that this theory does not necessarily have to be formulated with imaginary numbers, but that this is also […]"
+    },
     {
       "title": "JIC Venture Growth Investments And Toyota Invention Partners Join Yaqumo Seed Extension Round",
       "link": "https://thequantuminsider.com/2026/07/13/jic-venture-growth-investments-and-toyota-invention-partners-join-yaqumo-seed-extension-round/",
@@ -947,6 +968,27 @@
   ],
   "education": [
     {
+      "title": "Translating Higher Education Cybersecurity Into Business Value",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/translating-higher-education-cybersecurity-business-value",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-13T21:52:56.000Z",
+      "snippet": "For years, cybersecurity has been treated as a technical problem and an unavoidable cost of doing business. In higher education, that framing is no longer workable. Universities are competing for students, grants and reputation in an environment where outages and breaches have direct consequences on retention, research dollars and institutional credibility.\nThe conversation has shifted. Cybersecur"
+    },
+    {
+      "title": "Rethinking Managed Security Services in Higher Ed: From Ticket Closers to Strategic Partners",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/managed-security-service-provider-higher-education-strategy",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-13T21:45:20.000Z",
+      "snippet": "Managed Security Service Providers used to be seen as a way to “outsource the pain” of monitoring and incident response. For many universities — where small teams are tasked with protecting sprawling, open and highly connected environments — that was reason enough to consider them.\nBut in today’s threat landscape, simply shipping logs to a vendor and measuring them by ticket closure rates is no lo"
+    },
+    {
+      "title": "Children learn best on paper: We need better technology, not less of it",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/13/children-learn-best-on-paper-we-need-better-technology-not-less-of-it/",
+      "source": "eSchool News",
+      "published": "2026-07-13T10:00:00.000Z",
+      "snippet": "It is an odd thing to hear from someone who builds education technology for a living, but the most important tool in an elementary classroom is still a pencil. The learning science says so."
+    },
+    {
       "title": "Future-Ready Strategies for Technology Leaders in Higher Education",
       "link": "https://edtechmagazine.com/higher/article/2026/07/future-ready-strategies-technology-leaders-higher-education",
       "source": "EdTech Higher Magazine",
@@ -980,20 +1022,6 @@
       "source": "eSchool News",
       "published": "2026-07-09T10:00:00.000Z",
       "snippet": "Our schools face a paradoxical challenge: chronic absenteeism, which is being treated as an attendance problem, actually isn’t."
-    },
-    {
-      "title": "Rethinking Managed Security Services in Higher Ed: From Ticket Closers to Strategic Partners",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/managed-security-service-provider-higher-education-strategy",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-07-08T21:06:15.000Z",
-      "snippet": "Managed Security Service Providers used to be seen as a way to “outsource the pain” of monitoring and incident response. For many universities — where small teams are tasked with protecting sprawling, open and highly connected environments — that was reason enough to consider them.\nBut in today’s threat landscape, simply shipping logs to a vendor and measuring them by ticket closure rates is no lo"
-    },
-    {
-      "title": "4 Critical Security Considerations for AI in Higher Education",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/4-critical-security-considerations-ai-higher-education",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-07-08T17:57:47.000Z",
-      "snippet": "Generative artificial intelligence is revolutionizing how colleges and universities operate, streamlining workflows, supporting research and enhancing learning. But as adoption grows, so do the risks.\nHigher education institutions manage sensitive student data, proprietary research and intellectual property. Without the right guardrails in place, AI systems can expose this information or violate c"
     }
   ]
 }
