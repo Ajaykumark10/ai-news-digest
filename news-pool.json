@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-16T04:00:00.000Z",
+      "snippet": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
+    },
+    {
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -27,6 +34,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-15T18:06:05.000Z",
       "snippet": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-15T18:04:06.000Z",
+      "snippet": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view."
     },
     {
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
@@ -325,6 +339,13 @@
       "snippet": "AlloyDB powers enterprise-grade search for some of the largest organizations, providing robust hybrid search capabilities that combine text, vector, and keyword searches into a simple ranked SQL query. And with our recent launch of RUM index support, AlloyDB customers now have even more powerful full-text search capabilities at their fingertips. \nHowever, database developers often face limitations"
     },
     {
+      "title": "IDC: Why the right networking approach is foundational to agentic AI",
+      "link": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
+      "source": "Cloud Blog",
+      "published": "2026-07-15T16:00:00.000Z",
+      "snippet": "Editor’s note: Today we hear from IDC on the results of its 2026 AI in Networking Special Report Survey exploring the enterprises' concerns about networking infrastructure to support the rise of agentic AI in their organizations. The survey was sponsored by Google Cloud.\nEnterprises are moving quickly on AI pilots, but the move from pilot to production remains uneven. While AI models remain import"
+    },
+    {
       "title": "The Risk of Exposed Cloud Functions and How to Harden",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
       "source": "Cloud Blog",
@@ -402,6 +423,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-15T16:11:45.000Z",
       "snippet": "ASRock has entered the cooling market with the Phantom Gaming 360 LCD and Steel Legend 360 LCD AIOs. We’ve tested both liquid coolers with AMD’s Ryzen 9 9950X3D to benchmark their thermal proficiency."
+    },
+    {
+      "title": "Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV — select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-15T15:33:13.000Z",
+      "snippet": "Intel is using ASML’s High-NA EUV tools to pattern select Panther Lake layers, marking the technology’s first use in high-volume logic production"
     },
     {
       "title": "Grab a DJI Osmo camera at some of lowest US prices ever",
@@ -854,6 +882,20 @@
   ],
   "quantum": [
     {
+      "title": "Mind Success Unveils Quantum Materials Discovery Platform, Digital Twin Software for Hardware Development",
+      "link": "https://thequantuminsider.com/2026/07/16/mind-success-unveils-quantum-materials-discovery-platform-digital-twin-software-for-hardware-development/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-16T07:25:41.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Mind Success, a startup focused on predictive modeling for quantum technologies, has launched two software platforms aimed at accelerating quantum hardware development by helping researchers identify new materials and reduce environmental noise that affects qubit performance. The company, based in Saudi Arabia and the United States, said the offerings include […]"
+    },
+    {
+      "title": "QED-C Brings Quantum Industry to Capitol Hill for 2026 Technology Showcase",
+      "link": "https://thequantuminsider.com/2026/07/15/qed-c-brings-quantum-industry-to-capitol-hill-for-2026-technology-showcase/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-15T18:01:04.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Following a landmark year for U.S. quantum policy and innovation, the Quantum Economic Development Consortium (QED-C®) brought together senior government officials, bipartisan members of Congress, federal agency leaders and leading quantum companies Tuesday for the 2026 Quantum Technology Showcase on the Hill. Held just weeks after President Donald Trump signed Execut"
+    },
+    {
       "title": "QuSecure Lists QuProtect R3 on AWS Marketplace for U.S. Intelligence Community",
       "link": "https://thequantuminsider.com/2026/07/15/qusecure-quprotect-r3-listed-in-aws-icmp-for-the-us-federal-government/",
       "source": "The Quantum Insider",
@@ -1048,13 +1090,6 @@
       "source": "The Quantum Insider",
       "published": "2026-07-13T07:59:14.000Z",
       "snippet": "Insider Brief PRESS RELEASE — wo of Israel’s best-funded quantum computing companies are in advanced discussions to go public on Wall Street through mergers with special purpose acquisition companies, underscoring growing investor demand for a sector that remains largely pre-revenue but is attracting multibillion-dollar valuations. According to YNet News, citing information first obtained by Calca"
-    },
-    {
-      "title": "Why Quantum Computing Needs Strong Ecosystems to Scale",
-      "link": "https://thequantuminsider.com/2026/07/11/why-quantum-computing-needs-national-ecosystems-to-scale/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-11T07:49:00.000Z",
-      "snippet": "Guest Post by Yonathan Cohen, Co-Founder and Chief Technology Officer of Quantum Machines. Something is changing in the quantum industry. Not long ago, most conversations focused almost entirely on qubits: fidelities, coherence times, error rates, and which hardware modality might eventually win. Those questions are clearly critical and stand at the heart of bringing quantum computers to […]"
     }
   ],
   "education": [
