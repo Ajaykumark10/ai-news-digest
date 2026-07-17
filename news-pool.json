@@ -8,6 +8,13 @@
       "snippet": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions"
     },
     {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "AI | VentureBeat",
+      "published": "2026-07-16T19:02:38.000Z",
+      "snippet": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is "
+    },
+    {
       "title": "Google Vids now lets you star in your own AI videos",
       "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -402,6 +409,13 @@
   ],
   "cloud": [
     {
+      "title": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
+      "source": "Cloud Blog",
+      "published": "2026-07-16T19:00:00.000Z",
+      "snippet": "For the second consecutive year, Google has been named a Leader in the Gartner® Magic Quadrant™ for Conversational AI Platforms. Google received the furthest and highest in positioning on the \"Vision\" and \"Execution\" axes and is now ranked #1 in three out of four Critical Capabilities Use Cases. We believe this recognition reflects our continued investment in frontier AI research, enterprise infra"
+    },
+    {
       "title": "Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
       "source": "Cloud Blog",
@@ -544,6 +558,13 @@
       "snippet": "AMD's newest CPU, the Ryzen 7 7700X3D, costs $329 and is available exclusively at Newegg in Canada and the United States till the end of Q3 2026. It's a great gaming performer but there are better options if you want a good all-rounder chip for professional tasks as well."
     },
     {
+      "title": "Tower Semiconductor revives shuttered Panasonic-era fab in $3 billion Japan photonics expansion — METI-backed plan targets $3.6 billion revenue by 2028",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-16T15:39:09.000Z",
+      "snippet": "Tower Semiconductor has announced a dual-track expansion of its 300mm silicon photonics, silicon germanium, and advanced packaging operations in Japan"
+    },
+    {
       "title": "Lenovo announces world's first laptop with inkjet-printed OLED — the Legion R9000P is equipped with a 240 Hz IJP panel from TCL CSOT",
       "link": "https://www.tomshardware.com/monitors/lenovo-announces-worlds-first-laptop-with-inkjet-printed-oled-the-legion-r9000p-is-equipped-with-a-240-hz-ijp-panel-from-tcl-csot",
       "source": " Latest from Tom's Hardware ",
@@ -628,7 +649,7 @@
       "snippet": "A CRT emulation project has implemented percussive maintenance support. Just hit it for a chance to improve the picture."
     },
     {
-      "title": "75% of all PS3 games reportedly now run on PC via open-source emulator RPCS3 — announcement comes weeks after Sony's plan to shutter the PlayStation Store for PS3 and PS Vita by",
+      "title": "75% of all PS3 games reportedly now run on PC via open-source emulator RPCS3 — announcement comes weeks after Sony's plan to shutter the PlayStation Store for PS3 and PS Vita by 2027",
       "link": "https://www.tomshardware.com/video-games/playstation/open-source-ps3-emulator-says-its-now-compatible-with-over-75-percent-of-all-ps3-games-on-pc-rpcs3-announcement-comes-weeks-after-sony-announced-the-shuttering-of-the-playstation-store-for-ps3-and-ps-vita-by-july-2027",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-16T09:00:00.000Z",
@@ -1057,6 +1078,13 @@
       "snippet": "Insider Brief Press release – Bloq Quantum, a leading provider of enterprise quantum software infrastructure, today announced a strategic partnership with MIUUL, a premier technology training and skilling ecosystem based in Turkey. This collaboration marks Bloq Quantum’s official entry into the Turkish market, establishing MIUUL as an official training partner for the region’s rapidly growing […]"
     },
     {
+      "title": "PsiQuantum Strengthens Executive Leadership with New Appointments",
+      "link": "https://thequantuminsider.com/2026/07/16/psiquantum-strengthens-executive-leadership-with-new-appointments/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-16T08:46:08.000Z",
+      "snippet": "Insider Brief Press release – PsiQuantum today announced the appointments of Rob Soderbery as Executive Vice President and Sriram Sitaraman as Chief Information Officer, adding two veteran technology leaders to the executive team as the company continues scaling its engineering, operational, and commercial capabilities. The appointments come as Victor Peng is named Chief Executive Officer, […]"
+    },
+    {
       "title": "ESA Brings Quantum Computing System to Earth Observation Research Centre",
       "link": "https://thequantuminsider.com/2026/07/16/esas-first-quantum-computer-will-shift-computing-frontiers-in-space/",
       "source": "The Quantum Insider",
@@ -1296,6 +1324,13 @@
     }
   ],
   "education": [
+    {
+      "title": "Why Higher Ed’s Pandemic Playbook Is the Blueprint for AI Infrastructure",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/why-higher-eds-pandemic-playbook-blueprint-ai-infrastructure",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-16T17:02:53.000Z",
+      "snippet": "Higher ed IT leaders grappling with integrating rapidly accelerating artificial intelligence throughout their campuses need only flip back a few pages in their playbooks to the pandemic. Institutions that invested in hybrid cloud flexibility and business continuity before 2020 pivoted to remote work and hybrid learning far more quickly than those still in legacy environments. Universities that lea"
+    },
     {
       "title": "WorkKeys is lowering the bar on student proficiency",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/16/workkeys-is-lowering-the-bar-on-student-proficiency/",
