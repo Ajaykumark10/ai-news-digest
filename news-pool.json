@@ -1,18 +1,25 @@
 {
   "ai": [
     {
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-17T12:00:00.000Z",
+      "snippet": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals."
+    },
+    {
+      "title": "The risk of weather data sabotage is rising",
+      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-07-17T08:57:32.000Z",
+      "snippet": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use…"
+    },
+    {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
       "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
       "source": "AI | VentureBeat",
       "published": "2026-07-16T19:16:48.000Z",
       "snippet": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions"
-    },
-    {
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "source": "AI | VentureBeat",
-      "published": "2026-07-16T19:02:38.000Z",
-      "snippet": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is "
     },
     {
       "title": "Google Vids now lets you star in your own AI videos",
@@ -409,13 +416,6 @@
   ],
   "cloud": [
     {
-      "title": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
-      "source": "Cloud Blog",
-      "published": "2026-07-16T19:00:00.000Z",
-      "snippet": "For the second consecutive year, Google has been named a Leader in the Gartner® Magic Quadrant™ for Conversational AI Platforms. Google received the furthest and highest in positioning on the \"Vision\" and \"Execution\" axes and is now ranked #1 in three out of four Critical Capabilities Use Cases. We believe this recognition reflects our continued investment in frontier AI research, enterprise infra"
-    },
-    {
       "title": "Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
       "source": "Cloud Blog",
@@ -536,6 +536,69 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Lawmakers want US government to ban memory chips from China, even in allied supply chains — citing 'unacceptable risk' to national, economic, and supply chain security",
+      "link": "https://www.tomshardware.com/pc-components/dram/lawmakers-want-us-government-to-ban-memory-chips-from-china-even-in-allied-supply-chains-citing-unacceptable-risk-to-national-economic-and-supply-chain-security",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T13:05:44.000Z",
+      "snippet": "U.S. lawmakers demand Commerce Secretary Howard Lutnick to ban imports of memory chips from China to the U.S., ask allies to do the same."
+    },
+    {
+      "title": "AI data centers must produce as much power as they use, Australia PM says — new national AI framework will also ensure water efficiency and protect intellectual property rights",
+      "link": "https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T12:16:03.000Z",
+      "snippet": "Australian Prime Minister Anthony Albanese announced the \"Australian Standards for A.I.,\" which will serve as a national framework for data center developments related to AI. The government plans to set this legislative agenda as more AI hyperscalers are setting their sights on the country for its vast land and abundant renewable energy sources."
+    },
+    {
+      "title": "Intel Nova Lake leak points to Core Ultra Series 400 branding, staggered release next year — hotly anticipated flagship 52-core desktop CPU might not arrive until late 2027",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-nova-lake-leak-points-to-core-ultra-series-400-branding-staggered-release-next-year-hotly-anticipated-flagship-52-core-desktop-cpu-might-not-arrive-until-late-2027",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T12:08:13.000Z",
+      "snippet": "Intel's upcoming Nova Lake desktop processors continue to gather momentum, with fresh reports hinting at Core Ultra Series 400 branding and a phased launch timeline."
+    },
+    {
+      "title": "Score $1,100 off this OLED gaming laptop with RTX 5070 Ti, the ultimate Back to School powerhouse — also features a 24-core Ultra 9 290HX, 32GB of RAM, and a 1TB SSD",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/score-usd1-100-off-this-oled-gaming-laptop-with-rtx-5070-ti-the-ultimate-back-to-school-powerhouse-also-features-a-24-core-ultra-9-290hx-32gb-of-ram-and-a-1tb-ssd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T11:24:25.000Z",
+      "snippet": "Get $1,100 off this HP Omen Max laptop with OLED display, Ultra 9 290HX, 32GB of RAM, and RTX 5070 Ti."
+    },
+    {
+      "title": "Get AMD’s new Ryzen 7 7700X3D with 16GB of RAM and a motherboard for just $450 — save 31% on a B650M Micro ATX and G.Skill DDR5 for an epic small build",
+      "link": "https://www.tomshardware.com/laptops/get-amds-new-ryzen-7-7700x3d-with-16gb-of-ram-and-a-motherboard-for-just-usd450-save-31-percent-on-a-b650m-micro-atx-and-g-skill-ddr5-for-an-epic-small-build",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T11:22:31.000Z",
+      "snippet": "Save over 31% on the price of this Newegg 7700X3D bundle. CPU, motherboard, and RAM combo is just $450 after discounts."
+    },
+    {
+      "title": "MSI MAG Z890 Tomahawk Wifi II motherboard review: Loses features from the original, but shaves a few dollars off the price",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/msi-mag-z890-tomahawk-wifi-ii-motherboard-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T11:10:00.000Z",
+      "snippet": "SI’s Z890 Tomahawk Wifi II trims a couple of connectivity features, but at its sub-$200 price, it’s still a reasonably equipped budget Z890 board."
+    },
+    {
+      "title": "ASML looks to increase prices of its Low-NA EUV tools beyond existing productivity-based model — company wants to capture the value of all the advantages its tools offer, not just wafer throughput improvements",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-looks-to-increase-prices-of-its-low-na-euv-tools-beyond-existing-productivity-based-model-company-wants-to-capture-the-value-of-all-the-advantages-its-tools-offer-not-just-wafer-throughput-improvements",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T10:30:00.000Z",
+      "snippet": "ASML's comments point to intentions to increase prices, though the company is expected to maintain its value-based approach to price setting. Yet, TSMC is reportedly unhappy about the potential plan."
+    },
+    {
+      "title": "Mario Kart Wii recompiled for PC using AI, with 4K potential and uncapped frame rates — 'first static recompilation of a Wii game' supports over 200 tracks thanks to Retro Rewind compatibility",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/mario-kart-wii-recompiled-for-pc-using-ai-with-4k-potential-and-uncapped-frame-rates-first-static-recompilation-of-a-wii-game-supports-over-200-tracks-thanks-to-retro-rewind-compatibility",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T10:00:33.000Z",
+      "snippet": "Mario Kart Wiicompiled, a claimed 'first static recompilation of a Wii game,' is scheduled to be released in August."
+    },
+    {
+      "title": "Robot vacuum flaw lets one stolen certificate run root commands on other Shark robovacs in the same AWS region — unpatched flaw exposes live camera feeds, stored home maps, and Wi-Fi credentials",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/shark-robot-vacuum-flaw-lets-one-stolen-certificate-run-root-commands-on-others-in-the-same-aws-region",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T10:00:00.000Z",
+      "snippet": "The problem is an over-permissive AWS IoT policy."
+    },
     {
       "title": "Linus Torvalds rebukes anti-AI stances in the Linux kernel code review process, says 'Linux is not one of those anti-AI projects' — creator embraces AI as just a tool and 'clearly a useful one'",
       "link": "https://www.tomshardware.com/software/linux/linus-torvalds-rebukes-anti-ai-stances-in-the-linux-kernel-code-review-process-says-linux-is-not-one-of-those-anti-ai-projects-creator-embraces-ai-as-just-a-tool-and-clearly-a-useful-one",
@@ -1018,37 +1081,23 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-12T14:02:10.000Z",
       "snippet": "Asus' fancy dual-interface M.2 enclosure is marked down to its lowest price ever on Amazon right now. Not only is it fast, but it also looks clean and has extra on-the-go convenience thanks to its metal hook and strap."
-    },
-    {
-      "title": "Sotheby’s video showcases working Apple-1 serial number 01-0033 — part of its upcoming History of Science & Technology sale",
-      "link": "https://www.tomshardware.com/desktops/sothebys-video-showcases-working-apple-1-serial-number-01-0033-part-of-its-upcoming-history-of-science-and-technology-sale",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-12T13:08:56.000Z",
-      "snippet": "Sotheby’s is preparing a blockbuster History of Science & Technology sale packed with amazing artifacts and collectors’ items which includes a working Apple-1, serial number 01-0033."
-    },
-    {
-      "title": "Windows 95 didn’t detect installers, it ‘guessed’ based on the file name, says veteran dev — it simply checked for words like setup, install, inst, or localized equivalents",
-      "link": "https://www.tomshardware.com/software/windows/windows-95-detected-installers-by-scanning-program-names-for-the-word-setup",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-12T12:48:34.000Z",
-      "snippet": "The full match list ran to six terms: setup, install, inst, imposta, ayarla, and felrak."
-    },
-    {
-      "title": "FCC approves orbital space mirrors, first test satellites will launch this year — large spacecraft reflects sunlight to Earth’s surface for construction sites, search-and-rescue lighting, and more",
-      "link": "https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-12T12:20:20.000Z",
-      "snippet": "A startup that aims to bring sunlight on Earth after dark just received approval from the FCC to launch its experimental satellite. Critics say that the project could adversely affect astronomy and the environment, but the regulator says that their complaints are outside of its jursidiction."
-    },
-    {
-      "title": "Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-12T12:05:00.000Z",
-      "snippet": "The fourth revision of Cooler Master’s renowned mainstream series, coming with verified Gold efficiency, a native 12V-2x6 connector, and GPU Shield current monitoring in a compact 140 mm chassis at a mainstream price."
     }
   ],
   "quantum": [
+    {
+      "title": "Tennessee Launches K-12 Quantum Education Program Through TN QuantumWorks",
+      "link": "https://thequantuminsider.com/2026/07/17/tn-quantumworks-k12-quantum-education-program/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-17T12:31:06.000Z",
+      "snippet": "Insider Brief Press release – As quantum technology reshapes industries ranging from cybersecurity and advanced manufacturing to healthcare, logistics, finance, energy and artificial intelligence, Tennessee is taking a bold step to prepare its future workforce. Today, the Chattanooga Quantum Collaborative (CQC) announced the launch of TN QuantumWorks, a K–12 quantum technology and career awareness"
+    },
+    {
+      "title": "pQCee Raises US$3.9 Million in Latest Seed Funding Round",
+      "link": "https://thequantuminsider.com/2026/07/17/pqcee-raises-us3-9-million-in-latest-seed-funding-round/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-17T07:34:11.000Z",
+      "snippet": "Insider Brief pQCee Pte Ltd (pQCee), a leading provider of quantum‑safe cybersecurity technologies, today announced that it has raised US$3.9 million in its latest Seed funding round. The round was co‑led by SGInnovate and Lotus One Investment, with participation from In Group Holdings, Wavemaker Partners, SUTD Ventures Holdings, and Apsara Investments. This marks pQCee’s second […]"
+    },
     {
       "title": "Quantum Source and Israel’s DDR&D Demonstrate Robust Single-Atom Source for Real-World Quantum Communication",
       "link": "https://thequantuminsider.com/2026/07/16/quantum-source-robust-entangled-photon-source-quantum-networks/",
@@ -1325,11 +1374,11 @@
   ],
   "education": [
     {
-      "title": "Why Higher Ed’s Pandemic Playbook Is the Blueprint for AI Infrastructure",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/why-higher-eds-pandemic-playbook-blueprint-ai-infrastructure",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-07-16T17:02:53.000Z",
-      "snippet": "Higher ed IT leaders grappling with integrating rapidly accelerating artificial intelligence throughout their campuses need only flip back a few pages in their playbooks to the pandemic. Institutions that invested in hybrid cloud flexibility and business continuity before 2020 pivoted to remote work and hybrid learning far more quickly than those still in legacy environments. Universities that lea"
+      "title": "A second language is more than an elective—it’s a workforce skill",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/17/a-second-language-is-more-than-an-elective-its-a-workforce-skill/",
+      "source": "eSchool News",
+      "published": "2026-07-17T10:00:00.000Z",
+      "snippet": "When I taught Spanish, students would often ask, “Why do I need to learn this?” Many thought that learning a new language would only be useful if they wanted to become interpreters or work abroad."
     },
     {
       "title": "WorkKeys is lowering the bar on student proficiency",
