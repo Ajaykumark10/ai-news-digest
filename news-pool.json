@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-17T17:45:46.000Z",
+      "snippet": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […"
+    },
+    {
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-17T15:21:17.000Z",
+      "snippet": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training."
+    },
+    {
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-17T14:00:00.000Z",
+      "snippet": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […"
+    },
+    {
       "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
       "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -20,6 +41,13 @@
       "source": "AI | VentureBeat",
       "published": "2026-07-16T19:16:48.000Z",
       "snippet": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions"
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "AI | VentureBeat",
+      "published": "2026-07-16T19:02:38.000Z",
+      "snippet": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is "
     },
     {
       "title": "Google Vids now lets you star in your own AI videos",
@@ -416,6 +444,34 @@
   ],
   "cloud": [
     {
+      "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+      "source": "Cloud Blog",
+      "published": "2026-07-17T16:00:00.000Z",
+      "snippet": "Earlier this year, we introduced Gemini Enterprise Agent Platform, where you can build, scale, govern, and optimize agents. Today, we’re sharing 13 demos that walk you through what Agent Platform can do. Each one teaches a concept, a pattern, or an architecture you can put to work immediately.\nThe best part? You don't have to follow them step-by-step. Install Agents CLI into your favorite coding a"
+    },
+    {
+      "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
+      "source": "Cloud Blog",
+      "published": "2026-07-17T16:00:00.000Z",
+      "snippet": "Many BigQuery customers rely on policy tags for protecting their sensitive information in BigQuery. Policy tags were the go-to solution for applying column-level access controls, allowing only users with the right permission to view sensitive columns like personally identifiable information (PII). It was a robust and effective system — for its time.\nHowever, data ecosystems have grown in complexit"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-07-17T16:00:00.000Z",
+      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nJul 13 - J"
+    },
+    {
+      "title": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
+      "source": "Cloud Blog",
+      "published": "2026-07-16T19:00:00.000Z",
+      "snippet": "For the second consecutive year, Google has been named a Leader in the Gartner® Magic Quadrant™ for Conversational AI Platforms. Google received the furthest and highest in positioning on the \"Vision\" and \"Execution\" axes and is now ranked #1 in three out of four Critical Capabilities Use Cases. We believe this recognition reflects our continued investment in frontier AI research, enterprise infra"
+    },
+    {
       "title": "Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
       "source": "Cloud Blog",
@@ -537,6 +593,41 @@
   ],
   "hardware": [
     {
+      "title": "ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC — lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asmls-planned-low-na-euv-machine-price-hikes-reportedly-frustrate-tsmc-lithography-machine-maker-comes-knocking-to-make-bank-on-tsmcs-profitable-fabs-potentially-costing-the-taiwanese-chipmaker-billions",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T15:57:16.000Z",
+      "snippet": "ASML says that the increased productivity of its Low-NA EUV tools gives it an option to increase the prices of these scanners in the future. The move may have a drastic effect on TSMC's future expansion plans, as the foundry made a big bet on existing lithography systems."
+    },
+    {
+      "title": "TSMC confirms significant yield and performance improvements in A14 update — strong interest from AI/HPC and smartphone customers",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T15:30:26.000Z",
+      "snippet": "TSMC's A14 process technology progresses faster than N2 at this stage of development as developers of both client and AI/HPC plan to use it."
+    },
+    {
+      "title": "Florida man arrested after allegedly stealing $220,000 in crypto using malware hidden in Steam Games — 8,000 devices infected",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-arrests-florida-man-in-steam-malware-investigaton-after-tracing-stolen-bitcoin-to-uber-eats-gift-cards",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T14:43:21.000Z",
+      "snippet": "Federal agents arrested 21-year-old Zyaire Dontaevious Zamarion Wilkins of North Lauderdale, Florida, on Tuesday."
+    },
+    {
+      "title": "Best Back to School tech deals on laptops and essential tech — save on new semester essentials now",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/best-back-to-school-tech-deals-on-laptops-and-essential-tech-save-on-new-semester-essentials-now",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T14:29:45.000Z",
+      "snippet": "Grab savings on the best back-to-school tech deals."
+    },
+    {
+      "title": "GameStop CEO says Sony's decision to go disc-less is 'totally irrelevant' — claims software, including physical discs, accounts for only 12% of the company's business",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/gamestop-ceo-says-sonys-decision-to-go-disc-less-is-totally-irrelevant-claims-software-including-physical-discs-accounts-for-only-12-percent-of-the-companys-business",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T13:51:39.000Z",
+      "snippet": "GameStop CEO Ryan Cohen says Sony’s physical game exit is irrelevant to the company's business, amid a $56 billion eBay takeover, as collectibles now drive growth."
+    },
+    {
       "title": "Lawmakers want US government to ban memory chips from China, even in allied supply chains — citing 'unacceptable risk' to national, economic, and supply chain security",
       "link": "https://www.tomshardware.com/pc-components/dram/lawmakers-want-us-government-to-ban-memory-chips-from-china-even-in-allied-supply-chains-citing-unacceptable-risk-to-national-economic-and-supply-chain-security",
       "source": " Latest from Tom's Hardware ",
@@ -556,6 +647,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-17T12:08:13.000Z",
       "snippet": "Intel's upcoming Nova Lake desktop processors continue to gather momentum, with fresh reports hinting at Core Ultra Series 400 branding and a phased launch timeline."
+    },
+    {
+      "title": "China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark— Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-17T11:32:01.000Z",
+      "snippet": "Beijing-based Moonshot AI has released Kimi K3, a 2.8 trillion parameter model that the company describes in its technical blog as the world's first open 3T-class system."
     },
     {
       "title": "Score $1,100 off this OLED gaming laptop with RTX 5070 Ti, the ultimate Back to School powerhouse — also features a 24-core Ultra 9 290HX, 32GB of RAM, and a 1TB SSD",
@@ -1053,43 +1151,29 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-13T10:56:38.000Z",
       "snippet": "Get the AMD Ryzen 7 9800X3D, 32GB of fast DDR5 RAM, and a Gigabyte X870E motherboard for $1,064.98, with the RAM costing you just $236."
-    },
-    {
-      "title": "Lenovo's Legion 7a gaming laptop now comes with an RTX 5070 12GB GPU option — but it costs $3,375 paired with a Ryzen AI 9 CPU, SKU was previously limited to RTX 5060",
-      "link": "https://www.tomshardware.com/laptops/lenovos-legion-7a-gaming-laptop-now-comes-with-an-rtx-5070-12gb-gpu-option-but-it-costs-usd3-375-paired-with-a-ryzen-ai-9-cpu-sku-was-previously-limited-to-rtx-5060",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-12T15:46:18.000Z",
-      "snippet": "Lenovo has added the RTX 5070 12GB GPU to its Legion 7a gaming laptop, allowing you finally configure it with something better than an RTX 5060. It's very expensive at $3,375 but you're getting a genuinely premium machine for that price and an upgraded RTX 5070 that's not limited to just 8GB of VRAM."
-    },
-    {
-      "title": "Ireland’s data centers consumed nearly as much electricity as every home in the country combined in 2025 — server farms gulped 23% of national power despite years of grid restrictions",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-12T15:12:09.000Z",
-      "snippet": "Ireland’s data centers consumed 23% of the country’s electricity in 2025, rising 10% in one year despite restrictions on new grid connections."
-    },
-    {
-      "title": "Sega Dreamcast driver fixes appear in Linux 7.2-rc3 — fabled console remains in favor while iconic computing architectures like i486 fall by the wayside",
-      "link": "https://www.tomshardware.com/software/linux/sega-dreamcast-driver-fixes-appear-in-linux-7-2-rc3-fabled-console-remains-in-favor-while-iconic-computing-architectures-like-i486-fall-by-the-wayside",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-12T14:51:53.000Z",
-      "snippet": "A set of updates for Sega Dreamcast hardware has been merged into the Linux 7.2-rc3 kernel this weekend."
-    },
-    {
-      "title": "Grab a blazing-fast dual-interface M.2 SSD enclosure for just $59 on Amazon — Asus' tool-less ROG Strix Aiolos is 14% off right now, featuring transfer speeds up to 20 Gbps",
-      "link": "https://www.tomshardware.com/pc-components/grab-a-blazing-fast-dual-interface-m-2-ssd-enclosure-for-just-usd59-on-amazon-asus-tool-less-rog-strix-aiolos-is-14-percent-off-right-now-featuring-transfer-speeds-up-to-20-gbps",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-12T14:02:10.000Z",
-      "snippet": "Asus' fancy dual-interface M.2 enclosure is marked down to its lowest price ever on Amazon right now. Not only is it fast, but it also looks clean and has extra on-the-go convenience thanks to its metal hook and strap."
     }
   ],
   "quantum": [
+    {
+      "title": "QTREX Quantum Appoints Dr. Shlomit Chappel-Ram as Independent Director",
+      "link": "https://thequantuminsider.com/2026/07/17/qtrex-quantum-appoints-shlomit-chappel-ram-independent-director/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-17T14:00:48.000Z",
+      "snippet": "Insider Brief Press release – QTREX Quantum Ltd. (Nasdaq: QTEX) (“QTREX” or the “Company”), a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, today announced that on July 14, 2026, its Board of Directors (the “Board”) appointed Dr. Shlomit Chappel-Ram as an independent director, effective immediately. Dr. Chappel-Ram previously served "
+    },
     {
       "title": "Tennessee Launches K-12 Quantum Education Program Through TN QuantumWorks",
       "link": "https://thequantuminsider.com/2026/07/17/tn-quantumworks-k12-quantum-education-program/",
       "source": "The Quantum Insider",
       "published": "2026-07-17T12:31:06.000Z",
       "snippet": "Insider Brief Press release – As quantum technology reshapes industries ranging from cybersecurity and advanced manufacturing to healthcare, logistics, finance, energy and artificial intelligence, Tennessee is taking a bold step to prepare its future workforce. Today, the Chattanooga Quantum Collaborative (CQC) announced the launch of TN QuantumWorks, a K–12 quantum technology and career awareness"
+    },
+    {
+      "title": "Braided, Exotic Particles Could Build Reliable, Universal Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/07/17/braided-exotic-particles-could-build-reliable-universal-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-17T11:20:17.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — A truly useful quantum computer must be able to run any algorithm at all, with the same versatility an ordinary laptop offers. Physicists have now shown a new way to give a quantum computer exactly that flexibility, harnessing the capabilities of exotic quantum particles called non-Abelian anyons.  A team of […]"
     },
     {
       "title": "pQCee Raises US$3.9 Million in Latest Seed Funding Round",
@@ -1379,6 +1463,13 @@
       "source": "eSchool News",
       "published": "2026-07-17T10:00:00.000Z",
       "snippet": "When I taught Spanish, students would often ask, “Why do I need to learn this?” Many thought that learning a new language would only be useful if they wanted to become interpreters or work abroad."
+    },
+    {
+      "title": "Why Higher Ed’s Pandemic Playbook Is the Blueprint for AI Infrastructure",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/why-higher-eds-pandemic-playbook-blueprint-ai-infrastructure",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-16T17:02:53.000Z",
+      "snippet": "Higher ed IT leaders grappling with integrating rapidly accelerating artificial intelligence throughout their campuses need only flip back a few pages in their playbooks to the pandemic. Institutions that invested in hybrid cloud flexibility and business continuity before 2020 pivoted to remote work and hybrid learning far more quickly than those still in legacy environments. Universities that lea"
     },
     {
       "title": "WorkKeys is lowering the bar on student proficiency",
