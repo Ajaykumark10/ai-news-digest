@@ -1,6 +1,41 @@
 {
   "ai": [
     {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-18T04:47:25.000Z",
+      "snippet": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-17T22:55:09.000Z",
+      "snippet": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
+    },
+    {
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-17T21:20:47.000Z",
+      "snippet": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-17T20:19:49.000Z",
+      "snippet": "Agility is opening a new training center for its Digit robots in Fremont, California."
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-17T20:09:27.000Z",
+      "snippet": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
+    },
+    {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -465,11 +500,11 @@
       "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nJul 13 - J"
     },
     {
-      "title": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
+      "title": "Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
       "source": "Cloud Blog",
-      "published": "2026-07-16T19:00:00.000Z",
-      "snippet": "For the second consecutive year, Google has been named a Leader in the Gartner® Magic Quadrant™ for Conversational AI Platforms. Google received the furthest and highest in positioning on the \"Vision\" and \"Execution\" axes and is now ranked #1 in three out of four Critical Capabilities Use Cases. We believe this recognition reflects our continued investment in frontier AI research, enterprise infra"
+      "published": "2026-07-17T09:14:00.000Z",
+      "snippet": "Optimizing token consumption is key to keeping AI coding assistants fast and accurate. You might not be writing every line of code any more, but now you’re responsible for directing those coding assistants to focus on getting the most out of each token. Context bloat increases latency and causes models to forget instructions or hallucinate, it also costs money and drives human attention away from "
     },
     {
       "title": "Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage",
@@ -535,6 +570,13 @@
       "snippet": "Editor’s note: Today we hear from IDC on the results of its 2026 AI in Networking Special Report Survey exploring the enterprises' concerns about networking infrastructure to support the rise of agentic AI in their organizations. The survey was sponsored by Google Cloud.\nEnterprises are moving quickly on AI pilots, but the move from pilot to production remains uneven. While AI models remain import"
     },
     {
+      "title": "Azure Databricks delivers proven business value",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-07-15T15:00:00.000Z",
+      "snippet": "Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measurable value. It is the same Databricks platform your teams already know, co-engineered with Microsoft and delivered as a native Azure service, so it fits naturally into the Microsoft tools, identity, and governance your organization already runs.\nThe pos"
+    },
+    {
       "title": "The Risk of Exposed Cloud Functions and How to Harden",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
       "source": "Cloud Blog",
@@ -592,6 +634,34 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Nvidia CEO Jensen Huang’s trademark leather jacket raises nearly $1 Million at charity auction — bidding makes $60,000 valuation look like pocket change",
+      "link": "https://www.tomshardware.com/peripherals/wearable-tech/nvidia-ceo-jensen-huangs-trademark-leather-jacket-raises-nearly-usd1-million-at-charity-auction-bidding-makes-usd60-000-valuation-look-like-pocket-change",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-18T13:22:12.000Z",
+      "snippet": "‘The Jensen Jacket’ achieved a hammer price of $960,000 this weekend."
+    },
+    {
+      "title": "Security engineer ports password cracker hashcat to Gameboy Advance — 16.8 MHz chip can perform a meager 727 hashes a second, 30 million times slower than a modern rig",
+      "link": "https://www.tomshardware.com/video-games/nintendo/security-engineer-ports-password-cracker-hashcat-to-gameboy-advance-16-8-mhz-chip-can-perform-a-meager-727-hashes-a-second-30-million-times-slower-than-a-modern-rig",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-18T11:30:00.000Z",
+      "snippet": "Gameboy Advance port of hashcat allows for advanced password cracking in meager hardware — so long as you're willing to wait"
+    },
+    {
+      "title": "AGI AI828 SSD Review: A near-last resort for those on a budget",
+      "link": "https://www.tomshardware.com/pc-components/ssds/agi-ai828-ssd-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-18T11:10:00.000Z",
+      "snippet": "The AGI AI828 is a budget drive with subpar performance and power efficiency. This makes it a last resort, although in the current market, it might be good enough for some."
+    },
+    {
+      "title": "Korean outfit hosting 1.44MB game development contest to honor the floppy disk — entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format",
+      "link": "https://www.tomshardware.com/software/korean-outfit-hosting-1-44mb-game-development-contest-to-honor-the-floppy-disk-entrants-must-confine-entire-fileset-including-resources-engine-and-library-to-miniscule-storage-format",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-18T11:00:00.000Z",
+      "snippet": "There’s a new 'open to everyone' floppy disk-size game development competition with cash prizes for the best three submissions."
+    },
     {
       "title": "ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC — lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/asmls-planned-low-na-euv-machine-price-hikes-reportedly-frustrate-tsmc-lithography-machine-maker-comes-knocking-to-make-bank-on-tsmcs-profitable-fabs-potentially-costing-the-taiwanese-chipmaker-billions",
@@ -1102,58 +1172,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-13T15:00:00.000Z",
       "snippet": "Cooler Master’s HAF II 500 revives the HAF legacy with massive 220mm fans, excellent airflow, and solid thermal performance. Its cooling capability, spacious interior, flexible building options, and quiet operation make it an intriguing option for around $200."
-    },
-    {
-      "title": "Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates — says it plans to invest over $1 billion in local infrastructure improvements",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-13T13:25:32.000Z",
-      "snippet": "Meta is expanding Hyperion from 2 GW to 5 GW, lifting its Louisiana investment above $50 billion as it races to secure more AI computing capacity."
-    },
-    {
-      "title": "AMD FSR Multi-Frame Generation with 8x mode spotted — experimental driver settings could hint at FSR's next evolution",
-      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-fsr-multi-frame-generation-with-8x-mode-spotted-experimental-driver-settings-could-hint-at-fsrs-next-evolution",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-13T12:30:06.000Z",
-      "snippet": "Experimental options discovered in AMD's latest Radeon driver suggest the company is preparing next-generation FSR technologies, but there's no confirmation whether 8x Multi-Frame Generation mode will ever ship in its current form."
-    },
-    {
-      "title": "Flashforge Creator 5 review: Basic and affordable tool changer",
-      "link": "https://www.tomshardware.com/3d-printing/flashforge-creator-5-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-13T12:05:00.000Z",
-      "snippet": "The Flashforge Creator 5 tool changer is basic, budget, and nearly perfect."
-    },
-    {
-      "title": "Apple's rumored M7 Ultra targets 1.5TB of memory and Blackwell-class AI performance, report claims — monster 2028 offering would depend on memory shortage easing",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-13T12:02:52.000Z",
-      "snippet": "Apple's planned M7 Ultra chip is being designed to support up to 1.5 TB of unified memory and to push AI performance toward the class of Nvidia's Blackwell accelerators."
-    },
-    {
-      "title": "Save $544 on a new RTX 5080-packed Cyberpower gaming PC — also features AMD's 9800X3D, 32GB of DDR5 RAM, and a 2TB SSD for $2,744",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd544-on-a-new-rtx-5080-packed-cyberpower-gaming-pc-also-features-amds-9800x3d-32gb-of-ddr5-ram-and-a-2tb-ssd-for-usd2-744",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-13T11:18:31.000Z",
-      "snippet": "Save over $544 on a new high-powered gaming rig from Cyberpower. High-end graphics and frame rates, thanks to the included RTX 5080 and Ryzen 7 9800X3D hardware inside."
-    },
-    {
-      "title": "Valve confirms Steam Machine red light overheating warning is showing earlier than it should; BIOS fix on the way — will raise temperature warning threshold to 100 Degrees Celsius",
-      "link": "https://www.tomshardware.com/pc-components/cooling/valve-confirms-steam-machine-red-light-overheating-warning-is-showing-earlier-than-it-should-bios-fix-on-the-way-will-raise-temperature-warning-threshold-to-100-degrees-celsius",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-13T11:04:37.000Z",
-      "snippet": "Valve has confirmed that the Steam Machine's red light bar warning is being triggered prematurely."
-    },
-    {
-      "title": "Grab 32GB of Corsair Vengeance DDR5 for just $236, $150 cheaper than the best standalone price — epic Newegg combo deal saves you $234 overall and comes with an AMD Ryzen 7 9800X3D and a Gigabyte X870 motherboard",
-      "link": "https://www.tomshardware.com/pc-components/grab-32gb-of-corsair-vengeance-ddr5-for-just-usd236-usd150-cheaper-than-the-best-standalone-price-epic-newegg-combo-deal-saves-you-usd234-overall-and-comes-with-an-amd-ryzen-7-9800x3d-and-a-gigabyte-x870-motherboard",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-13T10:56:38.000Z",
-      "snippet": "Get the AMD Ryzen 7 9800X3D, 32GB of fast DDR5 RAM, and a Gigabyte X870E motherboard for $1,064.98, with the RAM costing you just $236."
     }
   ],
   "quantum": [
+    {
+      "title": "Guest Post: Patentability of Quantum Computing Inventions",
+      "link": "https://thequantuminsider.com/2026/07/18/guest-post-patentability-of-quantum-computing-inventions/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-18T10:57:47.000Z",
+      "snippet": "Guest Post by Sinan Utku, Bilkent University Law School (Ankara); J.D. (Columbia University Law School) and Ph.D. (Yale University, physics) The field of quantum computing is poised to advance dramatically in the near future.  If expected advances actually occur, many problems that classical computing technologies cannot feasibly solve may become tractable.  Given that the field […]"
+    },
     {
       "title": "QTREX Quantum Appoints Dr. Shlomit Chappel-Ram as Independent Director",
       "link": "https://thequantuminsider.com/2026/07/17/qtrex-quantum-appoints-shlomit-chappel-ram-independent-director/",
@@ -1167,13 +1195,6 @@
       "source": "The Quantum Insider",
       "published": "2026-07-17T12:31:06.000Z",
       "snippet": "Insider Brief Press release – As quantum technology reshapes industries ranging from cybersecurity and advanced manufacturing to healthcare, logistics, finance, energy and artificial intelligence, Tennessee is taking a bold step to prepare its future workforce. Today, the Chattanooga Quantum Collaborative (CQC) announced the launch of TN QuantumWorks, a K–12 quantum technology and career awareness"
-    },
-    {
-      "title": "Braided, Exotic Particles Could Build Reliable, Universal Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/07/17/braided-exotic-particles-could-build-reliable-universal-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-17T11:20:17.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — A truly useful quantum computer must be able to run any algorithm at all, with the same versatility an ordinary laptop offers. Physicists have now shown a new way to give a quantum computer exactly that flexibility, harnessing the capabilities of exotic quantum particles called non-Abelian anyons.  A team of […]"
     },
     {
       "title": "pQCee Raises US$3.9 Million in Latest Seed Funding Round",
@@ -1433,43 +1454,22 @@
       "source": "The Quantum Insider",
       "published": "2026-07-13T14:01:40.000Z",
       "snippet": "Insider Brief Press release – Physicists at Heinrich Heine University Düsseldorf (HHU), in collaboration with the German Aerospace Center (DLR), have been investigating a fundamental property of quantum mechanics. In the journal Physical Review Letters, they show that this theory does not necessarily have to be formulated with imaginary numbers, but that this is also […]"
-    },
-    {
-      "title": "JIC Venture Growth Investments And Toyota Invention Partners Join Yaqumo Seed Extension Round",
-      "link": "https://thequantuminsider.com/2026/07/13/jic-venture-growth-investments-and-toyota-invention-partners-join-yaqumo-seed-extension-round/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-13T08:41:01.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Yaqumo Inc. (“Yaqumo”), a Japanese startup developing neutral-atom quantum computers, today announced that it has raised funding in a seed extension round from JIC Venture Growth Investments Co., Ltd. (“JIC VGI”) and Toyota Invention Partners,Inc. (“TIP”).  This investment marks JIC VGI’s first investment in a quantum computing hardware startup. Through JIC VGI’s part"
-    },
-    {
-      "title": "Quantum Companies Help Develop Hybrid AI for Immune-Targeting Peptides",
-      "link": "https://thequantuminsider.com/2026/07/13/quantum-companies-help-develop-hybrid-ai-for-immune-targeting-peptides/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-13T08:30:29.000Z",
-      "snippet": "Insider Brief A hybrid quantum-classical artificial intelligence system generated short protein fragments that attached to immune-system proteins, with the largest gains appearing for genetic variants that are poorly represented in existing data, according to a preprint posted on bioRxiv. The findings suggest quantum-generated patterns could help AI systems search more effectively for vaccine and "
-    },
-    {
-      "title": "Israeli Quantum Startups Eye Wall Street as SPAC Interest Accelerates",
-      "link": "https://thequantuminsider.com/2026/07/13/israeli-quantum-startups-eye-wall-street-as-spac-interest-accelerates/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-13T07:59:14.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — wo of Israel’s best-funded quantum computing companies are in advanced discussions to go public on Wall Street through mergers with special purpose acquisition companies, underscoring growing investor demand for a sector that remains largely pre-revenue but is attracting multibillion-dollar valuations. According to YNet News, citing information first obtained by Calca"
     }
   ],
   "education": [
+    {
+      "title": "Higher Ed IT Leaders Must Balance AI Innovation With Secure Core Systems",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/higher-ed-it-leaders-must-balance-ai-innovation-secure-core-systems",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-17T21:12:59.000Z",
+      "snippet": "Higher education IT leaders are caught in a bind. Campuses face institutional and cultural pressure to move fast on artificial intelligence and digital transformation. But that ambition collides with the reality that faculty and students still depend on core systems, such as registration, identity verification and learning platforms, that cannot afford to fail.\nListEdTech, an education market rese"
+    },
     {
       "title": "A second language is more than an elective—it’s a workforce skill",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/17/a-second-language-is-more-than-an-elective-its-a-workforce-skill/",
       "source": "eSchool News",
       "published": "2026-07-17T10:00:00.000Z",
       "snippet": "When I taught Spanish, students would often ask, “Why do I need to learn this?” Many thought that learning a new language would only be useful if they wanted to become interpreters or work abroad."
-    },
-    {
-      "title": "Why Higher Ed’s Pandemic Playbook Is the Blueprint for AI Infrastructure",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/why-higher-eds-pandemic-playbook-blueprint-ai-infrastructure",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-07-16T17:02:53.000Z",
-      "snippet": "Higher ed IT leaders grappling with integrating rapidly accelerating artificial intelligence throughout their campuses need only flip back a few pages in their playbooks to the pandemic. Institutions that invested in hybrid cloud flexibility and business continuity before 2020 pivoted to remote work and hybrid learning far more quickly than those still in legacy environments. Universities that lea"
     },
     {
       "title": "WorkKeys is lowering the bar on student proficiency",
@@ -1519,13 +1519,6 @@
       "source": "eSchool News",
       "published": "2026-07-14T10:00:00.000Z",
       "snippet": "In an era defined by rapid technological advancement and an unprecedented explosion of information, public education stands at a pivotal and exciting crossroads."
-    },
-    {
-      "title": "Children learn best on paper: We need better technology, not less of it",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/13/children-learn-best-on-paper-we-need-better-technology-not-less-of-it/",
-      "source": "eSchool News",
-      "published": "2026-07-13T10:00:00.000Z",
-      "snippet": "It is an odd thing to hear from someone who builds education technology for a living, but the most important tool in an elementary classroom is still a pencil. The learning science says so."
     }
   ]
 }
