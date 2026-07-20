@@ -1,6 +1,34 @@
 {
   "ai": [
     {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-20T19:37:39.000Z",
+      "snippet": "X says the rebuilt version of its Android app is now available globally."
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-20T19:33:25.000Z",
+      "snippet": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business."
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-20T15:45:00.000Z",
+      "snippet": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-20T15:23:06.000Z",
+      "snippet": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue."
+    },
+    {
       "title": "AI is more likely than humans to form biases when hiring",
       "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -61,7 +89,7 @@
       "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-17T22:12:56.000Z",
-      "snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
+      "snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding."
     },
     {
       "title": "The Zoom hack that says, ‘Don’t record me’",
@@ -230,72 +258,23 @@
       "source": "AI | VentureBeat",
       "published": "2026-07-15T22:24:17.000Z",
       "snippet": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lo"
-    },
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-15T19:41:38.000Z",
-      "snippet": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
-    },
-    {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-15T18:06:05.000Z",
-      "snippet": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
-    },
-    {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-15T18:04:06.000Z",
-      "snippet": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view."
-    },
-    {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-07-15T17:09:37.000Z",
-      "snippet": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…"
-    },
-    {
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-15T17:00:34.000Z",
-      "snippet": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio."
-    },
-    {
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-15T17:00:00.000Z",
-      "snippet": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories."
-    },
-    {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-15T16:20:18.000Z",
-      "snippet": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI."
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-15T15:29:33.000Z",
-      "snippet": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
-    },
-    {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-15T15:00:00.000Z",
-      "snippet": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others.   On this episode of TechCrunch’s Equity podcast, Rebecca Bellan sits down with Ode’s leaders Chris Taylor and Eddie"
     }
   ],
   "cloud": [
+    {
+      "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
+      "source": "AWS News Blog",
+      "published": "2026-07-20T16:37:34.000Z",
+      "snippet": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup groups organized by topic and area that collectively host over 100 events each year, primarily in Seoul. My team regularly visits countries across the Asia-Pacific region, listens to feedback […]"
+    },
+    {
+      "title": "Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen",
+      "link": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
+      "source": "Cloud Blog",
+      "published": "2026-07-20T16:00:00.000Z",
+      "snippet": "As the automotive landscape accelerates toward software-defined vehicles, Cockpit Domain Controllers (CDCs) are becoming the core of next-generation in-cabin experiences. The ability to rapidly develop, test, and validate CDC software in a flexible, hardware-independent environment is critical for innovation and time-to-market. However, physical hardware constraints and the requirement for high-pe"
+    },
     {
       "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
       "link": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
@@ -372,37 +351,51 @@
       "source": "Cloud Blog",
       "published": "2026-07-16T11:28:00.000Z",
       "snippet": "Artificial intelligence is moving from prototype to production faster than traditional security paradigms can adapt. For CISOs and platform engineering teams, the challenge is clear: you need to protect proprietary model weights, defend against novel application-layer threats like prompt injection, and enforce strict regulatory compliance—all without slowing down your AI developers.\nTo meet all of"
-    },
-    {
-      "title": "How to Analyze and Govern Gemini Enterprise App Usage at Scale with BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery/",
-      "source": "Cloud Blog",
-      "published": "2026-07-15T16:00:00.000Z",
-      "snippet": "Deploying the Gemini Enterprise app across an organization marks a transformative leap forward in workforce productivity, providing employees with an amazing, high-performance suite of agentic AI tools, search-grounded assistants, and specialized solutions like NotebookLM. As adoption grows to a large scale, it can introduce a critical administrative scale challenge: how to audit, govern, and extr"
-    },
-    {
-      "title": "How to solve PostgreSQL multilingual full-text search limitations with AlloyDB AI",
-      "link": "https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/",
-      "source": "Cloud Blog",
-      "published": "2026-07-15T16:00:00.000Z",
-      "snippet": "AlloyDB powers enterprise-grade search for some of the largest organizations, providing robust hybrid search capabilities that combine text, vector, and keyword searches into a simple ranked SQL query. And with our recent launch of RUM index support, AlloyDB customers now have even more powerful full-text search capabilities at their fingertips. \nHowever, database developers often face limitations"
-    },
-    {
-      "title": "IDC: Why the right networking approach is foundational to agentic AI",
-      "link": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
-      "source": "Cloud Blog",
-      "published": "2026-07-15T16:00:00.000Z",
-      "snippet": "Editor’s note: Today we hear from IDC on the results of its 2026 AI in Networking Special Report Survey exploring the enterprises' concerns about networking infrastructure to support the rise of agentic AI in their organizations. The survey was sponsored by Google Cloud.\nEnterprises are moving quickly on AI pilots, but the move from pilot to production remains uneven. While AI models remain import"
-    },
-    {
-      "title": "Azure Databricks delivers proven business value",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-07-15T15:00:00.000Z",
-      "snippet": "Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measurable value. It is the same Databricks platform your teams already know, co-engineered with Microsoft and delivered as a native Azure service, so it fits naturally into the Microsoft tools, identity, and governance your organization already runs.\nThe pos"
     }
   ],
   "hardware": [
+    {
+      "title": "The enduring paradox of the AI economy — models get better and more efficient, yet costs can still easily spiral out of control",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-enduring-paradox-of-the-ai-economy-models-get-better-and-more-efficient-yet-costs-can-still-easily-spiral-out-of-control",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-20T19:35:42.000Z",
+      "snippet": "Token amplification creates a paradox in the AI economy, as more capable models beget more complicated tasks."
+    },
+    {
+      "title": "New plugin unlocks granular VRAM temperature tracking on Nvidia RTX 50-series GPUs — community cracks open Blackwell's forbidden telemetry sensors",
+      "link": "https://www.tomshardware.com/pc-components/gpus/new-plugin-unlocks-granular-vram-temperature-tracking-on-nvidia-rtx-50-series-gpus-community-cracks-open-blackwells-forbidden-telemetry-sensors",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-20T17:48:35.000Z",
+      "snippet": "Modders have discovered a method to monitor every single memory module on Nvidia's GeForce RTX 50-series (codenamed Blackwell) graphics cards."
+    },
+    {
+      "title": "Trump administration reportedly reviving push to ban Chinese AI models following Kimi K3 launch, citing cybersecurity concerns — downloadable open weights could make an outright U.S. ban nearly impossible to enforce amid growing adoption",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-20T17:39:23.000Z",
+      "snippet": "The U.S. may be reigniting efforts to push companies away from Chinese open-weight AI models such as Kimi and DeepSeek."
+    },
+    {
+      "title": "Shrink your PC setup with up to 25% off on Kamrui mini-PCs — big savings on the H1 for gamers and the Hyper H2 for pros",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/shrink-your-pc-setup-with-up-to-25-percent-off-on-kamrui-mini-pcs-big-savings-on-the-h1-for-gamers-and-the-hyper-h2-for-pros",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-20T16:32:31.000Z",
+      "snippet": "Kamrui's H1 and Hyper H2 mini-PCs go on sale at Amazon with discounts up to 25%."
+    },
+    {
+      "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+      "link": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
+      "source": "IEEE Spectrum",
+      "published": "2026-07-20T15:55:00.000Z",
+      "snippet": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, accelerate time to TEM, and increase first pass success—so your FA, yield, and materials teams make f"
+    },
+    {
+      "title": "Dutch chip sector at very high risk of Chinese interference, government-funded study warns — calls for stricter vetting at sites like ASML",
+      "link": "https://www.tomshardware.com/tech-industry/government-funded-dutch-report-rates-chip-sector-at-very-high-risk-of-chinese-interference",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-20T15:04:14.000Z",
+      "snippet": "The Hague Centre for Strategic Studies has rated the Dutch semiconductor industry as being at very high risk of Chinese foreign interference."
+    },
     {
       "title": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-will-deploy-amds-helios-rack-scale-ai-accelerator-at-scale-on-azure-radeon-instinct-mi455x-and-epyc-venice-power-will-be-available-through-redmonds-cloud-infrastructure",
@@ -411,7 +404,7 @@
       "snippet": "Microsoft and AMD are teaming up to get Redmond more AI FLOPS for both internal and external use."
     },
     {
-      "title": "Power companies can seize private land to make way for new AI data center transmission lines, report says — takeovers could be implemented using eminent domain law when private citizens refuse to sell land",
+      "title": "Government can seize private land to make way for new AI data center transmission lines, report says — takeovers could be implemented using eminent domain law when private citizens refuse to sell land",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/power-companies-can-seize-private-land-to-make-way-for-new-ai-data-center-transmission-lines-report-says-takeovers-could-be-implemented-using-eminent-domain-law-when-private-citizens-refuse-to-sell-land",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-20T13:00:47.000Z",
@@ -822,51 +815,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-16T09:00:00.000Z",
       "snippet": "The RPCS3 team has successfully ensured that more than 2,600 PS3 titles are now compatible with the emulator. This means that 75.33% of all PS3 games can now be played on Windows, Linux, macOS, and FreeBSD using either x86 or arm64 processors."
-    },
-    {
-      "title": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — company says that 'our roadmap is intact'",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-15T19:07:17.000Z",
-      "snippet": "Chief executive of Nvidia says the company is on track to produce 'giant amounts' of Vera Rubin-based machines, but fails to address rumored delays of Kyber NVL144 racks from 2027 to 2028."
-    },
-    {
-      "title": "CXMT's DDR5 RAM isn't as performant or as consistent as SK hynix dies, early testing shows — reveals resistance to voltage scaling and inferior manual overclocking capabilities",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/cxmts-ddr5-ram-isnt-as-performant-or-as-consistent-as-sk-hynix-dies-early-testing-shows-reveals-resistance-to-voltage-scaling-and-inferior-manual-overclocking-capabilities",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-15T16:34:54.000Z",
-      "snippet": "Early testing hints that CXMT-made DDR5 RAM performs worse than SK Hynix-made DDR5 at the same clock speeds, while being harder to manually overclock as well. It also allegedly doesn't scale with voltage or allow the subtimings to be tuned properly."
-    },
-    {
-      "title": "ASRock Phantom Gaming and Steel Legend 360 LCD review: An impressive cooling debut",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/asrock-phantom-gaming-and-steel-legend-360-lcd-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-15T16:11:45.000Z",
-      "snippet": "ASRock has entered the cooling market with the Phantom Gaming 360 LCD and Steel Legend 360 LCD AIOs. We’ve tested both liquid coolers with AMD’s Ryzen 9 9950X3D to benchmark their thermal proficiency."
-    },
-    {
-      "title": "Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV — select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-15T15:33:13.000Z",
-      "snippet": "Intel is using ASML’s High-NA EUV tools to pattern select Panther Lake layers, marking the technology’s first use in high-volume logic production"
-    },
-    {
-      "title": "Grab a DJI Osmo camera at some of lowest US prices ever",
-      "link": "https://www.tomshardware.com/pc-components/grab-a-dji-osmo-camera-at-some-of-lowest-us-prices-ever",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-15T15:18:10.000Z",
-      "snippet": "An exclusive sale on AliExpress slashes prices on DJI’s Osmo ultra-compact handheld cameras, bringing them to some of the lowest prices in the U.S."
-    },
-    {
-      "title": "Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints — Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints-googles-reported-decision-for-9th-gen-tpus-highlights-intels-attractive-alternative",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-15T14:45:15.000Z",
-      "snippet": "Google has reportedly chosen Intel's EMIB-T over TSMC's CoWoS-L for its next-generation TPU, codenamed Humufish. But will Google be alone in its alleged decision?"
     }
   ],
   "quantum": [
+    {
+      "title": "Maybell Quantum to Establish New Mexico Operations as part of New Mexico’s $450 Million Quantum Initiative",
+      "link": "https://thequantuminsider.com/2026/07/20/maybell-quantum-new-mexico-quantum-lab/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-20T14:18:00.000Z",
+      "snippet": "Insider Brief Press release – Maybell Quantum today announced it will establish operations at the Roadrunner Quantum Lab Powered by the State of New Mexico. Maybell will expand into the state with new local hires and a fleet of advanced cryogenic systems capable of reaching temperatures near Absolute Zero. The Colorado-based company becomes the third […]"
+    },
     {
       "title": "IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics",
       "link": "https://thequantuminsider.com/2026/07/20/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/",
@@ -1013,22 +971,15 @@
       "source": "The Quantum Insider",
       "published": "2026-07-16T07:25:41.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Mind Success, a startup focused on predictive modeling for quantum technologies, has launched two software platforms aimed at accelerating quantum hardware development by helping researchers identify new materials and reduce environmental noise that affects qubit performance. The company, based in Saudi Arabia and the United States, said the offerings include […]"
-    },
-    {
-      "title": "QED-C Brings Quantum Industry to Capitol Hill for 2026 Technology Showcase",
-      "link": "https://thequantuminsider.com/2026/07/15/qed-c-brings-quantum-industry-to-capitol-hill-for-2026-technology-showcase/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-15T18:01:04.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Following a landmark year for U.S. quantum policy and innovation, the Quantum Economic Development Consortium (QED-C®) brought together senior government officials, bipartisan members of Congress, federal agency leaders and leading quantum companies Tuesday for the 2026 Quantum Technology Showcase on the Hill. Held just weeks after President Donald Trump signed Execut"
     }
   ],
   "education": [
     {
-      "title": "4 Critical Security Considerations for AI in Higher Education",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/4-critical-security-considerations-ai-higher-education",
+      "title": "Why Higher Ed’s Pandemic Playbook Is the Blueprint for AI Infrastructure",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/why-higher-eds-pandemic-playbook-blueprint-ai-infrastructure",
       "source": "EdTech Higher Magazine",
-      "published": "2026-07-20T14:04:14.000Z",
-      "snippet": "Generative artificial intelligence is revolutionizing how colleges and universities operate, streamlining workflows, supporting research and enhancing learning. But as adoption grows, so do the risks.\nHigher education institutions manage sensitive student data, proprietary research and intellectual property. Without the right guardrails in place, AI systems can expose this information or violate c"
+      "published": "2026-07-20T14:40:51.000Z",
+      "snippet": "Higher ed IT leaders grappling with integrating rapidly accelerating artificial intelligence throughout their campuses need only flip back a few pages in their playbooks to the pandemic. Institutions that invested in hybrid cloud flexibility and business continuity before 2020 pivoted to remote work and hybrid learning far more quickly than those still in legacy environments. Universities that lea"
     },
     {
       "title": "Not all screen time is equal",
@@ -1050,13 +1001,6 @@
       "source": "eSchool News",
       "published": "2026-07-17T10:00:00.000Z",
       "snippet": "When I taught Spanish, students would often ask, “Why do I need to learn this?” Many thought that learning a new language would only be useful if they wanted to become interpreters or work abroad."
-    },
-    {
-      "title": "Why Higher Ed’s Pandemic Playbook Is the Blueprint for AI Infrastructure",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/why-higher-eds-pandemic-playbook-blueprint-ai-infrastructure",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-07-16T17:02:53.000Z",
-      "snippet": "Higher ed IT leaders grappling with integrating rapidly accelerating artificial intelligence throughout their campuses need only flip back a few pages in their playbooks to the pandemic. Institutions that invested in hybrid cloud flexibility and business continuity before 2020 pivoted to remote work and hybrid learning far more quickly than those still in legacy environments. Universities that lea"
     },
     {
       "title": "WorkKeys is lowering the bar on student proficiency",
