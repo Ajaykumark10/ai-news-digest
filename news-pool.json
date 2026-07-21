@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "Trump’s latest AI czar has already resigned",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-20T22:21:04.000Z",
+      "snippet": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-20T21:21:15.000Z",
+      "snippet": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-20T20:50:40.000Z",
+      "snippet": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work."
+    },
+    {
       "title": "X relaunches a rebuilt Android app after year-long effort",
       "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -13,6 +34,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-20T19:33:25.000Z",
       "snippet": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business."
+    },
+    {
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-07-20T18:00:00.000Z",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until…"
     },
     {
       "title": "Adobe camera app’s new feature will critique your photos using AI",
@@ -237,27 +265,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-16T13:17:59.000Z",
       "snippet": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
-    },
-    {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-16T04:00:00.000Z",
-      "snippet": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
-    },
-    {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-15T23:59:44.000Z",
-      "snippet": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
-    },
-    {
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "source": "AI | VentureBeat",
-      "published": "2026-07-15T22:24:17.000Z",
-      "snippet": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lo"
     }
   ],
   "cloud": [
@@ -362,18 +369,18 @@
       "snippet": "Token amplification creates a paradox in the AI economy, as more capable models beget more complicated tasks."
     },
     {
+      "title": "Taiwan indicts ex-TSMC manager for allegedly stealing chip secrets for China — first case of its kind links managers to Chinese semiconductor materials analysis company",
+      "link": "https://www.tomshardware.com/tech-industry/taiwan-inducts-ex-tsmc-manager-for-allegedly-stealing-chip-secrets-for-china",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-20T18:13:21.000Z",
+      "snippet": "Taiwanese prosecutors indicted a former TSMC deputy manager on Monday for allegedly copying 21 confidential documents."
+    },
+    {
       "title": "New plugin unlocks granular VRAM temperature tracking on Nvidia RTX 50-series GPUs — community cracks open Blackwell's forbidden telemetry sensors",
       "link": "https://www.tomshardware.com/pc-components/gpus/new-plugin-unlocks-granular-vram-temperature-tracking-on-nvidia-rtx-50-series-gpus-community-cracks-open-blackwells-forbidden-telemetry-sensors",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-20T17:48:35.000Z",
       "snippet": "Modders have discovered a method to monitor every single memory module on Nvidia's GeForce RTX 50-series (codenamed Blackwell) graphics cards."
-    },
-    {
-      "title": "Trump administration reportedly reviving push to ban Chinese AI models following Kimi K3 launch, citing cybersecurity concerns — downloadable open weights could make an outright U.S. ban nearly impossible to enforce amid growing adoption",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-20T17:39:23.000Z",
-      "snippet": "The U.S. may be reigniting efforts to push companies away from Chinese open-weight AI models such as Kimi and DeepSeek."
     },
     {
       "title": "Shrink your PC setup with up to 25% off on Kamrui mini-PCs — big savings on the H1 for gamers and the Hyper H2 for pros",
@@ -819,6 +826,20 @@
   ],
   "quantum": [
     {
+      "title": "IonQ, QuantumBasel Study Suggests Hybrid AI Workloads Could Gain Energy Advantages From Quantum Hardware as Systems Scale",
+      "link": "https://thequantuminsider.com/2026/07/21/ionq-quantumbasel-study-suggests-hybrid-ai-workloads-could-gain-energy-advantages-from-quantum-hardware-as-systems-scale/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-21T08:19:26.000Z",
+      "snippet": "Insider Brief A hybrid quantum-classical approach to fine-tuning artificial intelligence models could eventually consume less energy than classical simulation while matching or surpassing several conventional machine-learning methods on a text classification task, offering an early indication that quantum computers may provide practical advantages beyond computational speed. The research, publishe"
+    },
+    {
+      "title": "Interlune Develops Cryogenic Technology to Expand Helium-3 Supply for Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/07/20/interlune-produces-pure-helium-3-from-domestic-helium-using-novel-cryogenic-technology/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-20T17:12:54.000Z",
+      "snippet": "Insider Brief Press release – Interlune, a space infrastructure and resources company, today announced that its Cold Capture technology has demonstrated production of 99% pure helium-3 from Grade A helium. When deployed broadly, the novel technology could triple the current U.S. supply of this critical isotope for use in quantum computing. Helium-3 is strategically important […]"
+    },
+    {
       "title": "Maybell Quantum to Establish New Mexico Operations as part of New Mexico’s $450 Million Quantum Initiative",
       "link": "https://thequantuminsider.com/2026/07/20/maybell-quantum-new-mexico-quantum-lab/",
       "source": "The Quantum Insider",
@@ -936,41 +957,6 @@
       "source": "The Quantum Insider",
       "published": "2026-07-16T08:46:08.000Z",
       "snippet": "Insider Brief Press release – PsiQuantum today announced the appointments of Rob Soderbery as Executive Vice President and Sriram Sitaraman as Chief Information Officer, adding two veteran technology leaders to the executive team as the company continues scaling its engineering, operational, and commercial capabilities. The appointments come as Victor Peng is named Chief Executive Officer, […]"
-    },
-    {
-      "title": "ESA Brings Quantum Computing System to Earth Observation Research Centre",
-      "link": "https://thequantuminsider.com/2026/07/16/esas-first-quantum-computer-will-shift-computing-frontiers-in-space/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-16T08:31:12.000Z",
-      "snippet": "Insider Brief Press release – ESA-ESRIN, the European Space Agency’s Centre for Earth Observation, has welcomed its first quantum computer. The computer’s quantum processing capabilities will be merged with classical high-performance computing capabilities to research the potential advantages of hybrid classical-quantum computing for complex Earth observation problems. The daily monitoring of our "
-    },
-    {
-      "title": "Arq Raises $1.4 Million Pre-Seed Round to Lay The Foundations For The Quantum Internet",
-      "link": "https://thequantuminsider.com/2026/07/16/arq-raises-1-4-million-pre-seed-round-to-lay-the-foundations-for-the-quantum-internet/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-16T08:15:37.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Quantum technology startup Arq has raised a $1.4 million pre-seed round led by Ground State Ventures, joined by Big Sur Ventures, to accelerate the development of the quantum internet. Quantum computing is advancing rapidly, promising a new age of supercomputers that can solve highly complex problems quickly and efficiently. But the impact […]"
-    },
-    {
-      "title": "Researchers Create Room-Temperature Quantum Material That Filters Light by Its Quantum Statistics",
-      "link": "https://thequantuminsider.com/2026/07/16/researchers-create-room-temperature-quantum-material-that-filters-light-by-its-quantum-statistics/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-16T08:12:08.000Z",
-      "snippet": "Insider Brief A Louisiana State University-led team of researchers have demonstrated what they describe as a new class of room-temperature quantum materials that can distinguish between different types of quantum light, a capability that could eventually aid the development of photonic quantum computers, quantum communications systems and more efficient energy technologies. The study, published in"
-    },
-    {
-      "title": "What Does it Mean to be ‘Quantum’? A Physicist Explains The Basics Behind Einstein’s Spooky Actions at a Distance",
-      "link": "https://thequantuminsider.com/2026/07/16/what-does-it-mean-to-be-quantum-a-physicist-explains-the-basics-behind-einsteins-spooky-actions-at-a-distance/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-16T07:40:30.000Z",
-      "snippet": "By Aldo Romero, Professor of Physics and Astronomy, West Virginia University The Conversation Imagine shining a flashlight across a dark room. You can predict exactly what the light will do: travel in a straight line from one point to another. That seems obvious, because in the world we see around us, light appears to follow […]"
-    },
-    {
-      "title": "Mind Success Unveils Quantum Materials Discovery Platform, Digital Twin Software for Hardware Development",
-      "link": "https://thequantuminsider.com/2026/07/16/mind-success-unveils-quantum-materials-discovery-platform-digital-twin-software-for-hardware-development/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-16T07:25:41.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Mind Success, a startup focused on predictive modeling for quantum technologies, has launched two software platforms aimed at accelerating quantum hardware development by helping researchers identify new materials and reduce environmental noise that affects qubit performance. The company, based in Saudi Arabia and the United States, said the offerings include […]"
     }
   ],
   "education": [
@@ -980,6 +966,13 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-07-20T14:40:51.000Z",
       "snippet": "Higher ed IT leaders grappling with integrating rapidly accelerating artificial intelligence throughout their campuses need only flip back a few pages in their playbooks to the pandemic. Institutions that invested in hybrid cloud flexibility and business continuity before 2020 pivoted to remote work and hybrid learning far more quickly than those still in legacy environments. Universities that lea"
+    },
+    {
+      "title": "4 Critical Security Considerations for AI in Higher Education",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/4-critical-security-considerations-ai-higher-education",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-20T14:04:14.000Z",
+      "snippet": "Generative artificial intelligence is revolutionizing how colleges and universities operate, streamlining workflows, supporting research and enhancing learning. But as adoption grows, so do the risks.\nHigher education institutions manage sensitive student data, proprietary research and intellectual property. Without the right guardrails in place, AI systems can expose this information or violate c"
     },
     {
       "title": "Not all screen time is equal",
@@ -1008,13 +1001,6 @@
       "source": "eSchool News",
       "published": "2026-07-16T10:00:00.000Z",
       "snippet": "School accountability systems measure whether students are mastering the academic standards states expect them to teach and signal where additional support is needed. Education is one of the largest budget items in most states, and accountability is how states verify that spending translates into student learning."
-    },
-    {
-      "title": "Centralizing Workflows Across Campus Reduces Bottlenecks",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/centralizing-workflows-across-campus-reduces-bottlenecks",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-07-15T21:48:32.000Z",
-      "snippet": "As many universities face budget pressure, staffing constraints and growing administrative demands, California State University has built a centralized approach to managing workflows across the nation’s largest four-year public university system.\n“With 22 campuses, it’s always a struggle to achieve continuity and consistency across the board,” says Karen Malone, operations analyst in the CSU Chanc"
     }
   ]
 }
