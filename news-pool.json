@@ -1,6 +1,62 @@
 {
   "ai": [
     {
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-23T19:00:00.000Z",
+      "snippet": "Claude's new voice model will let you reschedule your meeting or draft an email"
+    },
+    {
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-23T18:38:34.000Z",
+      "snippet": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million."
+    },
+    {
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-23T17:07:35.000Z",
+      "snippet": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-23T17:00:00.000Z",
+      "snippet": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
+    },
+    {
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-23T16:28:50.000Z",
+      "snippet": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
+    },
+    {
+      "title": "Nvidia is sending GPUs to the moon",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-23T15:00:00.000Z",
+      "snippet": "If there's a place in the universe without GPUs, Nvidia is sending them there."
+    },
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-23T15:00:00.000Z",
+      "snippet": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
+    },
+    {
+      "title": "Google’s Gemini nears billion-user milestone",
+      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-23T14:52:44.000Z",
+      "snippet": "Gemini had over 750 million monthly users in February."
+    },
+    {
       "title": "How AI helps scientists design the next generation of medicines",
       "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -251,18 +307,32 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-19T14:00:00.000Z",
       "snippet": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more."
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-18T18:51:07.000Z",
-      "snippet": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
     }
   ],
   "cloud": [
     {
-      "title": "From maintenance to innovation: Checking in on Checkout.com’s Cloud Composer 3 migration",
+      "title": "Minimize idle accelerators: Native RL job interleaving with co-operative time-slicing in llm-d",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
+      "source": "Cloud Blog",
+      "published": "2026-07-23T17:00:00.000Z",
+      "snippet": "The math behind reinforcement learning (RL) post-training for large language models (LLMs) is notoriously unforgiving. As frontier AI labs push the boundaries of reasoning and coding models using RL post-training algorithms like Group Relative Policy Optimization (GRPO), they routinely hit hard architectural and infrastructure constraints. While much of the industry's focus remains on acquiring ra"
+    },
+    {
+      "title": "The Blueprint: How Voicify makes AI-enabled ordering a delight for customers",
+      "link": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
+      "source": "Cloud Blog",
+      "published": "2026-07-23T16:00:00.000Z",
+      "snippet": "Welcome to The Blueprint, a new feature where we highlight how Google Cloud customers are tackling unique and common challenges across industries using the latest AI and cloud technologies. We hope to inspire others looking to innovate in their work.\nFounded in 2018, Voicify reimagines the traditional phone call with the goal of transforming every call into a seamless and engaging experience. \nThe"
+    },
+    {
+      "title": "Your AI agents are ready. Is your data?",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-07-23T16:00:00.000Z",
+      "snippet": "What’s one of the biggest bottlenecks stopping organizations from scaling their AI initiatives? It isn’t the capabilities of today’s models — it’s their access to business context and semantic meaning. \nIn the agentic era, enterprises need to go beyond simply storing data to activating it with trusted context, moving from passive systems of record to proactive systems of action.\nBut AI agents oper"
+    },
+    {
+      "title": "From Maintenance to Innovation: Checkout's Migration from Self-Managed Airflow to Managed Service for Apache Airflow (formerly Cloud Composer)",
       "link": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
       "source": "Cloud Blog",
       "published": "2026-07-22T14:00:00.000Z",
@@ -326,6 +396,83 @@
     }
   ],
   "hardware": [
+    {
+      "title": "AMD’s new X100 chip lineup puts Strix Halo into robots – APUs for physical AI bring Zen 5 CPU, RDNA 3.5 GPU cores to compete with Intel’s Panther Lake",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T18:30:00.000Z",
+      "snippet": "Countering Intel’s recent moves, AMD is bringing its Strix Halo APUs to the realm of robots, and physical AI. Designed for 24/7 operation and a 10-year embedded lifecycle, X100 will also be offered as a Kria System on Module (SOM) robot developer platform."
+    },
+    {
+      "title": "AMD takes the wraps off its Instinct MI455X AI accelerator — CDNA 5 and Helios rack-scale architecture combine to take the fight to Nvidia in the data center",
+      "link": "https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T18:05:44.000Z",
+      "snippet": "AMD showed off its MI455X accelerator at its Advancing AI 2026 event, demonstrating its strong competitive performance, large HBM memory capacity, and Helios rack-scale architecture."
+    },
+    {
+      "title": "AMD and Cerebras partner on low-latency, high-throughput AI inference — EPYC processors in Helios rack-scale infrastructure paired with Cerebras' Wafer-Scale Engine (WSE) solutions",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-cerebras-partner-on-low-latency-high-throughput-ai-inference-epyc-processors-in-helios-rack-scale-infrastructure-paired-with-cerebras-wafer-scale-engine-wse-solutions",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T17:45:00.000Z",
+      "snippet": "When AMD's Helios meets giant wafers from Cerebras, it is not like when Odysseus meets with the Laestrygonian Giants, they collaborate to build an ultimate data center solution."
+    },
+    {
+      "title": "Nvidia RTX 3090 and RTX 3050 team up to hit 144 FPS at 4K — Lossless Scaling turns old Ampere GPUs into a gaming powerhouse",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3090-and-rtx-3050-team-up-to-hit-144-fps-at-4k-lossless-scaling-turns-old-ampere-gpus-into-a-gaming-powerhouse",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T17:39:03.000Z",
+      "snippet": "A gaming enthusiast leverages Lossless Scaling to supercharge a gaming PC with a GeForce RTX 3090 and GeForce RTX 3050 to deliver up to 144 FPS at 4K."
+    },
+    {
+      "title": "New semiconductor firm breaks cover, backed by $43 million in early-stage funding — TYLsemi aims to deliver custom silicon to customers without breaking the bank",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/new-semiconductor-firm-breaks-cover-backed-by-usd43-million-in-early-stage-funding-tylsemi-aims-to-deliver-custom-silicon-to-customers-without-breaking-the-bank",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T17:34:06.000Z",
+      "snippet": "TYLsemi is set to offer pre-validated chiplets, along with custom ASIC design services, and build highly custom multi-tile processors at relatively low costs."
+    },
+    {
+      "title": "AMD’s 256-core Epyc 9996 ‘Venice’ claims up to a 3.4x jump over Intel Xeon competition, 20% over Nvidia Vera – Zen 6 comes with up to 1024MB of L3, 16-channel memory, and 5GHz+ clock speeds",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T17:24:50.000Z",
+      "snippet": "After over a year of teases, AMD has finally provided details on its 256-core Venice CPU with the Zen 6 architecture, now known as the Epyc 9996."
+    },
+    {
+      "title": "AMD’s Venice-X CPU launches in 2027 with 1152 MB of 3D V-Cache, 96 cores, and 5.15 GHz boost clock – Zen 6 CPU for high-performance computing comes with major pillars of Venice",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-cpu-launches-in-2027-with-1152-mb-of-3d-v-cache-96-cores-and-5-15-ghz-boost-clock-zen-6-cpu-for-high-performance-computing-comes-with-major-pillars-of-venice",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T17:17:54.000Z",
+      "snippet": "AMD is returning to 3D V-Cache in its data center range of CPUs with Venice-X, which it has confirmed will launch in the second half of 2027, with 1152 MB of L3 and clock speeds up to 5.15 GHz."
+    },
+    {
+      "title": "Geekbench 7 introduces biggest overhaul yet — real-world CPU testing, new media workloads, AI benchmarks, and CUDA support",
+      "link": "https://www.tomshardware.com/software/geekbench-7-introduces-biggest-overhaul-yet-real-world-cpu-testing-new-media-workloads-ai-benchmarks-and-cuda-support",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T17:00:00.000Z",
+      "snippet": "The latest update introduces more realistic CPU and GPU workloads, redesigned multi-core testing, AI-focused benchmarks, larger datasets, and CUDA support for Nvidia GPUs."
+    },
+    {
+      "title": "AI memory shortage is now increasing the price of cars — GM warns of vast cost increases, BYD hikes driver assistance prices 20%",
+      "link": "https://www.tomshardware.com/pc-components/ram/ai-memory-shortage-is-now-increasing-the-price-of-cars-gm-warns-of-vast-cost-increases-byd-hikes-driver-assistance-prices-20-percent",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T15:57:19.000Z",
+      "snippet": "GM CFO Paul Jacobson says that the company's costs are expected to increase by $1.5 to $2 billion, primarily due to increasing memory chip costs. The move comes as the RAM shortage is affecting the automotive industry, right as cars are requiring more memory and storage due to infotainment and ADAS features."
+    },
+    {
+      "title": "Kill switches for most powerful AI models proposed by Bipartisan bill — DHS could order throttling or full shutdown, with fines up to $20 million per day",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bipartisan-bill-would-require-kill-switches-on-the-most-powerful-ai-models",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T15:02:31.000Z",
+      "snippet": "The bill amends the Homeland Security Act and covers companies earning at least $500 million in annual revenue from a model trained with compute costing more than $100 million."
+    },
+    {
+      "title": "Inside optical and the battle for scale – how the AI industry is racing to integrate photonic interconnects",
+      "link": "https://www.tomshardware.com/tech-industry/inside-optical-and-the-battle-for-scale-how-the-ai-industry-is-racing-to-integrate-photonic-interconnects",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-23T14:22:54.000Z",
+      "snippet": "With the limitations of copper looming, the industry is transitioning to photonic interconnects to scale data center capabilities. We spoke to experts such as Lightmatter chief executive Nick Harris about the new scale-out paradigm and the battle for control over emerging standards."
+    },
     {
       "title": "Intel and AMD sign long-term server CPU deals with Chinese customers as prices jump over 40%, report claims — agreements purportedly guarantee purchase volumes for about a year without fixing prices",
       "link": "https://www.tomshardware.com/pc-components/cpus/intel-and-amd-sign-long-term-server-cpu-deals-with-chinese-customers-as-prices-jump-over-40-percent",
@@ -822,44 +969,30 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-19T10:00:00.000Z",
       "snippet": "A creator by the name of \"Uwoslab\" just jerry-rigged three battery banks together, each made up of 64 AA Alkaline cells, to form a giant 192-cell array that's enough to power an AM4 system."
-    },
-    {
-      "title": "GTA 3 and Vice City are now playable inside San Andreas — a mod lets you revisit Liberty City and Vice City without leaving San Andreas",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/gta-3-and-vice-city-are-now-playable-inside-san-andreas-a-mod-lets-you-revisit-liberty-city-and-vice-city-without-leaving-san-andreas",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-18T17:48:22.000Z",
-      "snippet": "A GTA modder has embedded GTA 3 and Vice City within San Andreas, even nesting Vice City within GTA 3, with all three games continuing to run simultaneously."
-    },
-    {
-      "title": "AMD’s new Ryzen 7 7700X3D plummets to $279 days after launch — the X3D chip rules the mid-range at its discounted price",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amds-new-ryzen-7-7700x3d-plummets-to-usd279-days-after-launch-the-x3d-chip-rules-the-mid-range-at-its-discounted-price",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-18T17:40:13.000Z",
-      "snippet": "The Ryzen 7 7700X3D has suddenly become a solid value thanks to a $50 promo code, knocking its price down from $329 to just $279 on Newegg."
-    },
-    {
-      "title": "Strapping 11 fans and a 360mm AIO to an RTX 3080 sounds crazy until you see the 30°C temp drop — modded GPU delivered less than 5 FPS uplift at turbojet noise levels",
-      "link": "https://www.tomshardware.com/pc-components/cooling/strapping-11-fans-and-a-360mm-aio-to-an-rtx-3080-sounds-crazy-until-you-see-the-30-c-temp-drop-modded-gpu-delivered-less-than-5-fps-uplift",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-18T17:22:49.000Z",
-      "snippet": "TrashBench recently decided to test whether adding more and more fans to a powerful GPU would improve its performance."
-    },
-    {
-      "title": "Jurassic Park packed $4 million of legit 1993 computer hardware — a software engineer detailed every single piece of hardware in the film",
-      "link": "https://www.tomshardware.com/desktops/jurassic-park-packed-usd4-million-of-legit-1993-computer-hardware-a-software-engineer-detailed-every-single-piece-of-hardware-in-the-film",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-18T17:12:53.000Z",
-      "snippet": "Google software engineer Fabien Sanglard meticulously listed the computer hardware and software used in the first Jurassic Park film. He even added details for each device, turning the film into something of a computer museum."
-    },
-    {
-      "title": "Grab AMD’s Ryzen 7 5800X3D 10th Anniversary CPU with motherboard and 16GB RAM for just $529 — save over $100 on this epic AMD gaming bundle",
-      "link": "https://www.tomshardware.com/pc-components/cpus/grab-amds-ryzen-7-5800x3d-10th-anniversary-cpu-with-motherboard-and-16gb-ram-for-just-usd529-save-over-usd100-on-this-epic-amd-gaming-bundle",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-18T15:19:27.000Z",
-      "snippet": "Newegg has a great combo bundle on sale with over $100 in savings for the fastest DDR4 gaming system you can build today. It pairs a Ryzen 7 5800X3D with 16GB of CL16 DDR4-3200 RAM and an Asus TUF Gaming B550-Plus WiFi II motherboard."
     }
   ],
   "quantum": [
+    {
+      "title": "IQMP and Q-STAR Partner to Expand Japan-Illinois Quantum Collaboration",
+      "link": "https://thequantuminsider.com/2026/07/23/iqmp-q-star-japan-illinois-quantum-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-23T17:49:29.000Z",
+      "snippet": "Insider Brief Press release – Today, the Illinois Quantum and Microelectronics Park (IQMP) and the Quantum STrategic industry Alliance for Revolution (Q-STAR) announced a new partnership to strengthen collaboration between Japanese companies and Illinois’ quantum ecosystem. The memorandum of understanding (MOU) between the two organizations builds on Illinois and Japan’s longstanding commitment to"
+    },
+    {
+      "title": "New White House Science Strategy Points to a Quantum-Style Innovation Model",
+      "link": "https://thequantuminsider.com/2026/07/23/new-white-house-science-strategy-points-to-a-quantum-style-innovation-model/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-23T14:35:07.000Z",
+      "snippet": "Insider Brief The White House’s new science strategy proposes a different way of organizing American innovation, one that could reshape how the U.S. quantum sector develops over the next decade. Yet many of the report’s central recommendations describe an innovation model that parts of the quantum industry have already begun to adopt. One could even […]"
+    },
+    {
+      "title": "Infleqtion to Deploy Neutral-Atom Quantum Computer at Illinois Quantum Park in 2027",
+      "link": "https://thequantuminsider.com/2026/07/23/infleqtion-neutral-atom-quantum-computer-illinois/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-23T14:00:00.000Z",
+      "snippet": "Insider Brief Press release – Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, announced it will deploy its fault-tolerant, neutral-atom quantum computer at the Illinois Quantum & Microelectronics Park (IQMP), with delivery planned in 2027. The company also opened a new Chicago Quantum Innovation Center to expand its […]"
+    },
     {
       "title": "Quantum Elements Launches Orbit Error Suppression Tool Through IBM Qiskit Platform",
       "link": "https://thequantuminsider.com/2026/07/23/quantum-elements-orbit-error-suppression-tool-qiskit/",
@@ -1037,6 +1170,13 @@
     }
   ],
   "education": [
+    {
+      "title": "What the ADA Title II Digital Accessibility Deadline Means for University IT Procurement",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/what-ada-title-ii-digital-accessibility-deadline-means-university-it-procurement",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-23T16:18:29.000Z",
+      "snippet": "The original compliance date for Americans with Disabilities Act (ADA) Title II digital accessibility for large public institutions came and went in April. Then the Justice Department extended it. And for the organizations tracking this closely, the honest assessment is still that almost no one is ready.\nThat’s not a criticism. It’s a baseline. There is no time back. Every institution is well behi"
+    },
     {
       "title": "My son wasn’t dyslexic—he was never properly taught to read",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/23/my-son-wasnt-dyslexic-he-was-never-properly-taught-to-read/",
