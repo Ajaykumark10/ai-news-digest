@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-25T13:05:00.000Z",
+      "snippet": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
+    },
+    {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
       "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -349,13 +356,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-20T15:23:06.000Z",
       "snippet": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue."
-    },
-    {
-      "title": "AI is more likely than humans to form biases when hiring",
-      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-07-20T08:39:01.000Z",
-      "snippet": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from…"
     }
   ],
   "cloud": [
@@ -466,6 +466,55 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Delaware’s Printed Solid rebrands to Prusa USA",
+      "link": "https://www.tomshardware.com/3d-printing/delawares-printed-solid-rebrands-to-prusa-usa",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-25T12:41:51.000Z",
+      "snippet": "Printed Solid, the Delaware-based filament manufacturer acquired by Czech Prusa Research in 2022, is now known as Prusa USA, Inc."
+    },
+    {
+      "title": "AOC U32G4 32-inch 4K Dual-Refresh gaming monitor review: Solid performance and value",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/aoc-u32g4-32-inch-4k-dual-refresh-gaming-monitor-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-25T12:05:00.000Z",
+      "snippet": "AOC redefines the budget 4K gaming monitor with its U32G4. This 32-inch IPS panel sports 160 Hz, 320 Hz in FHD resolution, Adaptive-Sync, HDR400 and wide gamut color for around $320."
+    },
+    {
+      "title": "Microsoft shipped a native Xbox 360 emulator with its new backwards-compatible releases on PC — modders quickly got 360 games running with minor tweaks",
+      "link": "https://www.tomshardware.com/video-games/xbox/microsoft-shipped-a-native-xbox-360-emulator-with-its-new-backwards-compatible-releases-on-pc-modders-quickly-got-360-games-running-with-minor-tweaks",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-25T11:30:00.000Z",
+      "snippet": "Microsoft dropped four OG Xbox titles on PC a couple of days ago and they came with a native Xbox 360 emulator baked in. These games are packaged as Xbox 360 files, to the emulator runs them as such, then another emulator takes over to translate OG Xbox code inside the virtualized 360 environment."
+    },
+    {
+      "title": "Game Compressor can save you hundreds of GB across your game library — as storage prices remain high, utility leverages Windows' built-in LZX compression for substantial space savings",
+      "link": "https://www.tomshardware.com/pc-components/storage/game-compressor-can-save-you-hundreds-of-gigs-across-your-game-library-usd6-utility-leverages-windows-built-in-lzx-compression-for-substantial-space-savings",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-25T11:00:00.000Z",
+      "snippet": "Game Compressor leverages Windows' built-in LZX compression for substantial space savings and can save you hundreds of gigs across your game library."
+    },
+    {
+      "title": "Pro-Ukraine group claims it helped hack Russian drone air defense system, shooting down Su-57 in friendly fire incident — Moscow confirms fifth-generation fighter jet crashed in 'technical malfunction'",
+      "link": "https://www.tomshardware.com/tech-industry/drones/pro-ukraine-group-claims-it-helped-hack-russian-drone-air-defence-system-shooting-down-su-57-in-friendly-fire-incident-moscow-confirms-fifth-generation-fighter-jet-crashed-in-technical-malfunction",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-25T10:30:00.000Z",
+      "snippet": "An advanced fifth-generation Su-57 stealth fighter jet crashed spectacularly “during a routine training mission in the Moscow region on Thursday,” say reports published by Russian state media. But some Ukrainian sources are claiming it as successful sabotage."
+    },
+    {
+      "title": "Lockheed Martin unveils counter-drone system that can ‘neutralize up to 50 enemy drones in a single mission’ — sensor-agnostic system uses High Power Microwave to purge enemies from the sky",
+      "link": "https://www.tomshardware.com/tech-industry/drones/lockheed-martin-unveils-counter-drone-system-that-can-neutralize-up-to-50-enemy-drones-in-a-single-mission-sensor-agnostic-system-uses-high-power-microwave-to-purge-enemies-from-the-sky",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-25T10:00:00.000Z",
+      "snippet": "Lockheed Martin has unveiled a ground-launched high-power microwave counter-drone system which cab 'neutralize up to 50 enemy drones in a single mission.'"
+    },
+    {
+      "title": "RAM thieves in China jailed after looting a string of eSport hotels — stole 16 sticks worth $2,000 in 'frenzied hotel room-dismantling'",
+      "link": "https://www.tomshardware.com/pc-components/ram/ram-thieves-in-china-jailed-after-looting-a-string-of-esport-hotels-stole-16-sticks-worth-usd2-000-in-frenzied-hotel-room-dismantling",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-25T09:00:00.000Z",
+      "snippet": "The rise and fall of a pair of eSports hotel RAM thieves has been retold by Chinese news media."
+    },
     {
       "title": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-24-other-companies-sign-open-weights-letter-as-washington-weighs-chinese-ai-model-ban",
@@ -1032,58 +1081,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-20T15:04:14.000Z",
       "snippet": "The Hague Centre for Strategic Studies has rated the Dutch semiconductor industry as being at very high risk of Chinese foreign interference."
-    },
-    {
-      "title": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-will-deploy-amds-helios-rack-scale-ai-accelerator-at-scale-on-azure-radeon-instinct-mi455x-and-epyc-venice-power-will-be-available-through-redmonds-cloud-infrastructure",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-20T13:05:00.000Z",
-      "snippet": "Microsoft and AMD are teaming up to get Redmond more AI FLOPS for both internal and external use."
-    },
-    {
-      "title": "Government can seize private land to make way for new AI data center transmission lines, report says — takeovers could be implemented using eminent domain law when private citizens refuse to sell land",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/power-companies-can-seize-private-land-to-make-way-for-new-ai-data-center-transmission-lines-report-says-takeovers-could-be-implemented-using-eminent-domain-law-when-private-citizens-refuse-to-sell-land",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-20T13:00:47.000Z",
-      "snippet": "Utilities can use eminent domain to seize private land for new transmission lines needed to power data centers, though public-use and state-law limits still apply."
-    },
-    {
-      "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
-      "link": "https://spectrum.ieee.org/led-light-pollution",
-      "source": "IEEE Spectrum",
-      "published": "2026-07-20T13:00:01.000Z",
-      "snippet": "In the chill of a London spring night, under overcast skies, iconic Trafalgar Square opens around me. Admiral Nelson rises on his pedestal, the National Gallery rests behind, the church of St Martin-in-the-Fields sits nearby. From the 13th century, the site served as the Royal Mews for hawks and then horses. By 1844, it was a public space at the heart of one of the biggest cities in the world.\n\nDe"
-    },
-    {
-      "title": "Samsung now supplying new VESA DisplayHDR True Black 1400 laptop displays — Lenovo, Asus, Dell, and MSI set to launch portables with the first 1,600 nits tandem OLED panels",
-      "link": "https://www.tomshardware.com/monitors/samsung-now-supplying-new-vesa-displayhdr-true-black-1400-laptop-displays-lenovo-asus-dell-and-msi-set-to-launch-portables-with-the-first-1-600-nits-tandem-oled-panels",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-20T12:18:52.000Z",
-      "snippet": "Samsung Display has announced that it is now supplying its first mass-produced VESA DisplayHDR True Black 1400 monitor panels to laptop makers including Lenovo, Asus, Dell, and MSI."
-    },
-    {
-      "title": "3D printing enthusiast resurrects cancelled dbrand Steam Machine Companion Cube as DIY project — project shelved due to copyright can now be made and assembled at home",
-      "link": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-resurrects-cancelled-dbrand-steam-machine-companion-cube-as-diy-project-project-shelved-due-to-copyright-can-now-be-made-and-assembled-at-home",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-20T11:25:46.000Z",
-      "snippet": "A 3D printing enthusiast has resurrected dbrand's cancelled Steam Machine Companion Cube as a DIY project."
-    },
-    {
-      "title": "Save $148 on an AMD Ryzen 7 9800X3D bundle with 32GB of RAM, motherboard, and liquid AIO — start your AM5 gaming build for just $1,039",
-      "link": "https://www.tomshardware.com/pc-components/save-usd148-on-an-amd-ryzen-7-9800x3d-bundle-with-32gb-of-ram-motherboard-and-liquid-aio-start-your-am5-gaming-build-for-just-usd1-039",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-20T11:06:38.000Z",
-      "snippet": "Grab an AMD Ryzen 7 9800X3D, Gigabyte B850 motherboard, 32GB of Corsair Vengeance DDR5, and a CPU cooler for $1,039."
-    },
-    {
-      "title": "Logitech's G Pro X2 Superstrike gaming mouse is $125.99 after getting a massive $54 discount — hall-effect haptic switches, 8K polling, and 30 ms faster clicks for peak gaming performance",
-      "link": "https://www.tomshardware.com/peripherals/gaming-mice/logitechs-g-pro-x2-superstrike-gaming-mouse-is-usd125-99-after-getting-a-massive-usd54-discount-hall-effect-haptic-switches-8k-polling-and-30-ms-faster-clicks-for-peak-gaming-performance",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-20T11:06:02.000Z",
-      "snippet": "The first big discount on Logitech's new G Pro X2 Superstrike haptic gaming mouse. Save $54 at Amazon, and grab this high-tech mouse at its lowest-ever price."
     }
   ],
   "quantum": [
+    {
+      "title": "Guest Post: Inside Africa’s Coordinated Race to Secure a Post-Quantum Future",
+      "link": "https://thequantuminsider.com/2026/07/25/inside-africas-coordinated-race-to-secure-a-post-quantum-future/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-25T09:00:00.000Z",
+      "snippet": "Guest Post by By Somtochukwu Igwegbe More than two trillion dollars moved through mobile money worldwide in 2025, and roughly two-thirds of that value flowed through sub-Saharan Africa, according to GSMA’s State of the Industry Report on Mobile Money 2026. For a fifth of adults in the region, a mobile money account is the only […]"
+    },
     {
       "title": "Photonic Quantum Technology Companies in 2026",
       "link": "https://thequantuminsider.com/2026/07/24/9-quantum-computing-companies-working-with-photonic-technology/",
@@ -1293,34 +1300,6 @@
       "source": "The Quantum Insider",
       "published": "2026-07-20T14:18:00.000Z",
       "snippet": "Insider Brief Press release – Maybell Quantum today announced it will establish operations at the Roadrunner Quantum Lab Powered by the State of New Mexico. Maybell will expand into the state with new local hires and a fleet of advanced cryogenic systems capable of reaching temperatures near Absolute Zero. The Colorado-based company becomes the third […]"
-    },
-    {
-      "title": "IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics",
-      "link": "https://thequantuminsider.com/2026/07/20/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-20T13:12:27.000Z",
-      "snippet": "Insider Brief Press release – Silicon photonics has emerged as a promising technology for addressing bandwidth and latency bottlenecks of conventional electrical interconnects and therefore are being explored for future artificial intelligence infrastructure. However, heterogenous integration of multiple material systems remains a challenge. Now, researchers show how micro-transfer printing can en"
-    },
-    {
-      "title": "BTQ Technologies and TIDAL PWR Develop Framework for Quantum-Ready Data Centers",
-      "link": "https://thequantuminsider.com/2026/07/20/btq-tidal-pwr-quantum-data-center-architecture/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-20T12:08:41.000Z",
-      "snippet": "Insider Brief Press release – BTQ Technologies Corp. (“BTQ” or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, is pleased to announce a strategic collaboration with TIDAL PWR, a Texas-based developer of power generation and data center infrastructure for AI and advanced computing. TIDAL PWR is focused […]"
-    },
-    {
-      "title": "Israel Innovation Authority Launches NIS 100 Million National Quantum Computing R&D Infrastructure",
-      "link": "https://thequantuminsider.com/2026/07/20/israel-launches-national-quantum-computing-infrastructure/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-20T11:47:24.000Z",
-      "snippet": "Insider Brief Press release – The Israel Innovation Authority has launched a new call for proposals to establish a national research and development infrastructure that will provide Israeli industry and academia with access to advanced quantum computing capabilities. The infrastructure will integrate at least three different quantum processing technologies and serve as a national center […]"
-    },
-    {
-      "title": "Quantum Materials Discovery Could Advance Electronics For Extreme Environments",
-      "link": "https://thequantuminsider.com/2026/07/20/quantum-materials-discovery-could-advance-electronics-for-extreme-environments/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-20T11:43:51.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — University of Arizona researchers have demonstrated a promising new application for graphene nanoribbons, a nanoscale semiconductor material with the potential to withstand extreme environments. The team’s findings could help clear a key hurdle to bringing fusion energy to the electric grid. For the proof-of-concept study, published in the journal ACS Applied […]"
     }
   ],
   "education": [
@@ -1393,13 +1372,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-07-20T14:04:14.000Z",
       "snippet": "Generative artificial intelligence is revolutionizing how colleges and universities operate, streamlining workflows, supporting research and enhancing learning. But as adoption grows, so do the risks.\nHigher education institutions manage sensitive student data, proprietary research and intellectual property. Without the right guardrails in place, AI systems can expose this information or violate c"
-    },
-    {
-      "title": "Not all screen time is equal",
-      "link": "https://www.eschoolnews.com/digital-learning/2026/07/20/not-all-screen-time-is-equal/",
-      "source": "eSchool News",
-      "published": "2026-07-20T10:00:00.000Z",
-      "snippet": "With the growing movement to limit technology in schools, parents and educators are right to question how much time students spend on screens. But, as schools reconsider the role of technology in the classroom, an important distinction is often getting lost in the public conversation: Not all screen time is equal."
     }
   ]
 }
