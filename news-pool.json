@@ -22,6 +22,13 @@
       "snippet": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them."
     },
     {
+      "title": "Anthropic launches Opus 5",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-24T17:00:00.000Z",
+      "snippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
+    },
+    {
       "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
       "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -459,6 +466,13 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-24-other-companies-sign-open-weights-letter-as-washington-weighs-chinese-ai-model-ban",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-24T18:31:48.000Z",
+      "snippet": "Signatories include chipmakers, server vendors, cloud operators, enterprise software firms, security companies, and venture funds"
+    },
     {
       "title": "Intel commits to 14A mass production in 2028 as its sales rise 25% year-over-year",
       "link": "https://www.tomshardware.com/pc-components/cpus/intel-commits-to-14a-mass-production-in-2028-as-its-sales-rise-25-percent-year-over-year",
@@ -1078,6 +1092,13 @@
       "snippet": "Insider Brief Most quantum computers rely on extreme cooling to keep their qubits stable. Photonic quantum computers take a different route by using photons, particles of light, as the carriers of quantum information. This allows the processors themselves to operate at room temperature and connects the technology with existing optical infrastructure used in communications. The […]"
     },
     {
+      "title": "SKKU-led Team Identifies ‘Zinc Oxide Spin Qubit’ — A Semiconductor-Based Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/07/24/skku-led-team-identifies-zinc-oxide-spin-qubit-a-semiconductor-based-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-24T13:41:07.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — A research team led by SKKU Professor Hosung Seo of the Department of Quantum Information Engineering and the SKKU Advanced Institute of Nanotechnology, working with the University of Wisconsin–Madison and the University of Washington, has identified—for the first time—an atomic defect structure in the zinc oxide (ZnO) semiconductor with outstanding […]"
+    },
+    {
       "title": "Quantum Materials Engineering – The Atoms Powering Quantum Computing",
       "link": "https://thequantuminsider.com/2026/07/24/quantum-materials-engineering-the-atoms-powering-quantum-computing/",
       "source": "The Quantum Insider",
@@ -1300,27 +1321,6 @@
       "source": "The Quantum Insider",
       "published": "2026-07-20T11:43:51.000Z",
       "snippet": "Insider Brief PRESS RELEASE — University of Arizona researchers have demonstrated a promising new application for graphene nanoribbons, a nanoscale semiconductor material with the potential to withstand extreme environments. The team’s findings could help clear a key hurdle to bringing fusion energy to the electric grid. For the proof-of-concept study, published in the journal ACS Applied […]"
-    },
-    {
-      "title": "Quantum Computing Inc. Expands Equity Plan After Shareholders Increase Authorized Stock to 450 Million Shares",
-      "link": "https://thequantuminsider.com/2026/07/20/quantum-computing-inc-expands-equity-plan-after-shareholders-increase-authorized-stock-to-450-million-shares/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-20T08:13:55.000Z",
-      "snippet": "Insider Brief Quantum Computing Inc. has filed a registration statement with the U.S. Securities and Exchange Commission to register an additional 13.5 million shares of common stock for issuance under its employee equity compensation plan, expanding the number of shares available for future stock-based awards. The filing, submitted on Form S-8, registers 13,544,946 additional shares […]"
-    },
-    {
-      "title": "DOE Advances Domestic Silicon and Germanium Isotope Supply Chains For Quantum Information Science",
-      "link": "https://thequantuminsider.com/2026/07/20/doe-advances-domestic-silicon-and-germanium-isotope-supply-chains-for-quantum-information-science/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-20T07:59:19.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — The U.S. Department of Energy’s (DOE) Office of Isotope R&D and Production (IRP), within the Office of Science, today announced a major, multi-laboratory breakthrough in domestic stable isotope enrichment and production capabilities. Through a collaborative effort between Oak Ridge National Laboratory (ORNL) and Pacific Northwest National Laboratory (PNNL), the U.S. ["
-    },
-    {
-      "title": "IQM And Deutsche Bahn Demonstrate Quantum Algorithm For Railway Scheduling on Real Operational Data",
-      "link": "https://thequantuminsider.com/2026/07/20/iqm-and-deutsche-bahn-demonstrate-quantum-algorithm-for-railway-scheduling-on-real-operational-data/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-20T07:50:32.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — IQM Quantum Computers (Nasdaq: IQMX), a global leader in full-stack superconducting quantum computers, today published the results of a research collaboration with Deutsche Bahn, Europe’s largest rail operator, exploring how quantum computing can improve railway scheduling. Using a real operational dataset from Deutsche Bahn, a schedule of 190 trips across […]"
     }
   ],
   "education": [
@@ -1330,6 +1330,13 @@
       "source": "eSchool News",
       "published": "2026-07-24T10:00:00.000Z",
       "snippet": "Every summer, I find myself in conversations with teachers and administrators trying to figure out why their current pedagogical practices are or aren’t working. So, once I came across Harnessing the Science of Learning by Nathaniel Swain, Ph.D., I haven’t been able to stop recommending it."
+    },
+    {
+      "title": "What the ADA Title II Digital Accessibility Deadline Means for University IT Procurement",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/what-ada-title-ii-digital-accessibility-deadline-means-university-it-procurement",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-23T16:18:29.000Z",
+      "snippet": "The original compliance date for Americans with Disabilities Act (ADA) Title II digital accessibility for large public institutions came and went in April. Then the Justice Department extended it. And for the organizations tracking this closely, the honest assessment is still that almost no one is ready.\nThat’s not a criticism. It’s a baseline. There is no time back. Every institution is well behi"
     },
     {
       "title": "My son wasn’t dyslexic—he was never properly taught to read",
