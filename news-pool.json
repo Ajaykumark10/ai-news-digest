@@ -1,7 +1,56 @@
 {
   "ai": [
     {
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-27T18:32:11.000Z",
+      "snippet": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
+    },
+    {
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-07-27T18:00:00.000Z",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…"
+    },
+    {
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-27T16:45:24.000Z",
+      "snippet": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant."
+    },
+    {
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-27T15:57:12.000Z",
+      "snippet": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online."
+    },
+    {
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-27T15:30:00.000Z",
+      "snippet": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy."
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-27T15:25:37.000Z",
+      "snippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+    },
+    {
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-27T15:01:50.000Z",
+      "snippet": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase."
+    },
+    {
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-27T13:00:00.000Z",
@@ -33,7 +82,7 @@
       "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-27T00:19:14.000Z",
-      "snippet": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings."
+      "snippet": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings."
     },
     {
       "title": "Making sense of the panic over Chinese AI",
@@ -64,7 +113,7 @@
       "snippet": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
     },
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "title": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
       "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-25T13:05:00.000Z",
@@ -244,64 +293,29 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-22T20:49:03.000Z",
       "snippet": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models."
-    },
-    {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-22T19:11:46.000Z",
-      "snippet": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible."
-    },
-    {
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-22T18:50:44.000Z",
-      "snippet": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world."
-    },
-    {
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-22T18:13:58.000Z",
-      "snippet": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships."
-    },
-    {
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-22T17:54:14.000Z",
-      "snippet": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform."
-    },
-    {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-22T16:24:08.000Z",
-      "snippet": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
-    },
-    {
-      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-22T16:23:09.000Z",
-      "snippet": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content."
-    },
-    {
-      "title": "OpenAI’s AI spending spree has ballooned to $750B",
-      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-22T16:13:30.000Z",
-      "snippet": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030."
     }
   ],
   "cloud": [
     {
-      "title": "Modernizing the skies: NOAA and Google Cloud collaborate to advance weather forecasting",
-      "link": "https://cloud.google.com/blog/topics/public-sector/modernizing-the-skies-noaa-google-cloud-collaborate-advance-weather-forecasting/",
+      "title": "Announcing general availability of SAP Business Data Cloud Connect for BigQuery",
+      "link": "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/",
       "source": "Cloud Blog",
-      "published": "2026-07-27T14:00:00.000Z",
-      "snippet": "The National Oceanic and Atmospheric Administration (NOAA) is embarking on a transformative journey to redefine how we understand and predict patterns in the Earth’s atmosphere that affect the weather we face every day. Today, we are proud to announce that Google Cloud was selected as the primary provider of high-performance computing (HPC) infrastructure for the Weather and Climate Operational Su"
+      "published": "2026-07-27T16:30:00.000Z",
+      "snippet": "Traditional data replication techniques often struggle to deliver the data freshness that modern workflows require. To help organizations overcome this challenge, SAP and Google Cloud are announcing that SAP Business Data Cloud Connect for BigQuery is now generally available. \nAs the next phase of our long-standing partnership, SAP BDC Connect for BigQuery gives you zero-copy access to data produc"
+    },
+    {
+      "title": "Cyber Snapshot Report: Go beyond the toolchain and build enterprise resilience",
+      "link": "https://cloud.google.com/blog/products/identity-security/cyber-snapshot-report-enterprise-resilience-key-to-toolchain-success/",
+      "source": "Cloud Blog",
+      "published": "2026-07-27T16:00:00.000Z",
+      "snippet": "Even as machine-speed attacks dominate the headlines, Mandiant’s view from the frontline reveals that the vast majority of successful intrusions still stem from fundamental human and systemic failures.\nThis operational break-down shows up pointedly in research from the M-Trends 2026 report. Exploits remain the most common initial infection vector for the sixth consecutive year at 32%, voice phishi"
+    },
+    {
+      "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/",
+      "source": "AWS News Blog",
+      "published": "2026-07-27T14:54:41.000Z",
+      "snippet": "Last week I had the privilege of spending three days in São Paulo with technical builders from across Latin America, brought together for a regional tech event full of deep-dive sessions, hands-on workshops, and conversations with customers and partners. What struck me most wasn’t any single session, it was the energy of a technical community […]"
     },
     {
       "title": "What’s new with Google Cloud",
@@ -354,6 +368,48 @@
     }
   ],
   "hardware": [
+    {
+      "title": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-27T19:03:47.000Z",
+      "snippet": "Industry leading tech companies have formed an \"Open Secure AI Alliance\" that will build open-source models, agent harnesses, and cybersecurity tools, arguing that defenders need locally controlled AI after closed-model safeguards reportedly obstructed analysis of the OpenAI–Hugging Face breach."
+    },
+    {
+      "title": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic — open-weight model performs almost as well as frontier models while being 2-3x easier to run",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-ai-releases-weights-for-kimi-k3-firing-a-shot-across-the-bow-of-openai-and-anthropic-open-weight-model-performs-almost-as-well-as-frontier-models-while-being-2-3x-easier-to-run",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-27T18:40:58.000Z",
+      "snippet": "Moonshot AI has released the weights for its recent Kimi-K3 model, directly going against OpenAI and Anthropic."
+    },
+    {
+      "title": "Why an MMO mouse isn’t just for gaming — make use of the myriad of buttons for enhancing your productivity workflows in popular software applications",
+      "link": "https://www.tomshardware.com/peripherals/gaming-mice/why-an-mmo-mouse-isnt-just-for-gaming-make-use-of-the-myriad-of-buttons-for-enhancing-your-productivity-workflows-in-popular-software-applications",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-27T15:39:54.000Z",
+      "snippet": "MMO mice are designed with many buttons to make it easier to play games with lots of spells and abilities, but MMO mice are also fantastic for automating your productivity workflows."
+    },
+    {
+      "title": "Upgrading an MSI Claw 8 EX AI+ handheld gaming PC with a 2TB SSD",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/upgrading-an-msi-claw-8-ex-ai-handheld-gaming-pc-with-a-2tb-ssd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-27T15:04:32.000Z",
+      "snippet": "I go through the steps of replacing the standard 1TB SSD in an MSI Claw 8 EX AI+ with a 2TB SSD."
+    },
+    {
+      "title": "Intel unveiled its iconic Core 2 Duo family 20 years ago — legendary chip dethroned AMD Athlon, restoring the chipmaker’s performance lead",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-unveiled-its-iconic-core-2-duo-family-20-years-ago-legendary-chip-dethroned-amd-athlon-restoring-the-chipmakers-performance-lead",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-27T15:01:11.000Z",
+      "snippet": "Today marks 20 years since the first raft of Intel Core 2 Duo processors, codename Conroe, was launched."
+    },
+    {
+      "title": "Framework Laptop 13 Pro review: It cleans up nice",
+      "link": "https://www.tomshardware.com/laptops/framework-laptop-13-pro-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-27T15:00:00.000Z",
+      "snippet": "The Framework Laptop 13 Pro is its most solidly built laptop ever, with a bright display and long battery life sweetening the deal — if you can afford it."
+    },
     {
       "title": "Nvidia weighs $250 billion guarantee so OpenAI can lease SoftBank's 10-gigawatt Ohio campus, report claims — Nvidia also said to be discussing $350 billion deal to finance chips for the site",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus",
@@ -422,7 +478,7 @@
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/californias-largest-ai-data-center-project-suing-for-access-to-287-million-gallons-of-colorado-river-water-0-03-percent-of-imperial-valleys-supply-plaintiffs-claim-project-equivalent-to-160-acre-farm-amidst-about-jobs-and-reallocation-of-farmland",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-27T09:56:17.000Z",
-      "snippet": "Buildout of large AI data centers in regions historically specializing on agriculture may have long-lasting"
+      "snippet": "Buildout of large AI data centers in regions historically specializing in agriculture may have long-lasting consequences."
     },
     {
       "title": "Physicists turn particles in chaotic orbits into liquid computers — but this fluid hardware still trails memristor rivals",
@@ -485,7 +541,7 @@
       "link": "https://www.tomshardware.com/tech-industry/zeiss-expands-german-site-that-caps-asmls-euv-scanner-output",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-26T11:46:59.000Z",
-      "snippet": "Zeiss Semiconductor Manufacturing Technology has confirmed that it's adding around 25,000 square meters of production and production-adjacent space at Oberkochen in southern Germany."
+      "snippet": "Zeiss Semiconductor Manufacturing Technology is adding around 25,000 square meters of production and production-adjacent space at Oberkochen in southern Germany."
     },
     {
       "title": "AI enthusiast adds Nvidia Tesla V100 as loud as a lawnmower to gaming PC for $266 — 32GB of VRAM rig can run 27 billion parameter model at 32 tokens per second",
@@ -829,44 +885,23 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-22T20:50:46.000Z",
       "snippet": "The company is making adjustments to some existing pre-orders."
-    },
-    {
-      "title": "Jensen Huang argues American companies should be allowed to use Chinese AI models — Nvidia CEO says backdoors connected to China are misconceptions",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-argues-american-companies-should-be-allowed-to-use-chinese-ai-models-nvidia-ceo-says-backdoors-connected-to-china-are-misconceptions",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-22T17:55:46.000Z",
-      "snippet": "Nvidia CEO Jensen Huang raised several points against the rising sentiment in Washington that U.S. firms should be prevented from accessing Chinese AI models. He also advocates for open models, which he says makes AI more secure."
-    },
-    {
-      "title": "Fortinet becomes Intel 4's first foundry customer, following firewall ASIC deal — CEO Lip-Bu Tan's promised foundry wins begin to surface, but on a mature node",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-4-gets-its-first-foundry-customer-in-fortinet-three-years-after-intel-scoped-the-node-to-meteor-lake",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-22T16:17:41.000Z",
-      "snippet": "Intel will design, package, and fabricate Fortinet's sixth-generation Security Processor (SP6) on its Intel 4 node."
-    },
-    {
-      "title": "Microsoft announces Xbox Backward Compatibility for PC — will let gamers play classic console games on PCs and handhelds",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/microsoft-announces-xbox-backward-compatibility-for-pc-will-let-gamers-play-classic-console-games-on-pcs-and-handhelds",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-22T16:09:52.000Z",
-      "snippet": "Xbox Backward Compatibility on PC will let gamers play classic Xbox games on PC and handheld."
-    },
-    {
-      "title": "The future of USB connectivity (2026) — How USB4 Version 2 and Thunderbolt 5 are bringing copper to its physical limits",
-      "link": "https://www.tomshardware.com/peripherals/usb/usbs-next-decade",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-22T15:40:28.000Z",
-      "snippet": "The USB ecosystem is entering another transition that will affect how laptops, desktops, storage devices, displays, and peripherals connect in the second half of the decade."
-    },
-    {
-      "title": "AMD to supply Anthropic with 2 gigawatts of Instinct MI450 GPUs — will invest up to $5 billion in the Claude developer, which is already using MI355X GPUs",
-      "link": "https://www.tomshardware.com/tech-industry/amd-to-supply-anthropic-with-2-gigawatts-of-instinct-mi450-gpus",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-22T15:38:58.000Z",
-      "snippet": "The first gigawatt is scheduled to come online in the first half of 2027 in AMD Helios rack-scale systems."
     }
   ],
   "quantum": [
+    {
+      "title": "Applications Open for Tennessee Quantum Hackathon Focused on Energy Applications",
+      "link": "https://thequantuminsider.com/2026/07/27/tennessee-quantum-hackathon-energy-applications/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-27T15:50:11.000Z",
+      "snippet": "Insider Brief Press release – Applications are now open for the Tennessee Quantum Hackathon hosted by The Company Lab (CO.LAB) in partnership with the Chattanooga Quantum Collaborative (CQC) and the University of Tennessee at Chattanooga (UTC). The 36-hour innovation challenge will take place November 13–15 in Chattanooga. College students from a range of disciplines will […]"
+    },
+    {
+      "title": "Pittsburgh Supercomputing Center Will Build New Hybrid Quantum-Classical Supercomputer",
+      "link": "https://thequantuminsider.com/2026/07/27/pittsburgh-supercomputing-center-will-build-new-hybrid-quantum-classical-supercomputer/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-27T14:58:45.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — A hybrid quantum-classical computer will soon operate at the Pittsburgh Supercomputing Center, thanks to a $5-million grant from the National Science Foundation. To deliver on the grant, PSC, HPE, and Rigetti Computing will partner together to build the TangleLab supercomputing testbed. “TangleLab continues PSC’s long tradition of making next-generation computing […]"
+    },
     {
       "title": "D-Wave and AT&T Explore Quantum Computing Applications in Network Operations",
       "link": "https://thequantuminsider.com/2026/07/27/d-wave-att-quantum-network-operations/",
@@ -880,13 +915,6 @@
       "source": "The Quantum Insider",
       "published": "2026-07-27T12:27:25.000Z",
       "snippet": "Insider Brief Press release – QTREX Quantum Ltd. (Nasdaq: QTEX) (“QTREX” or the “Company”) a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure today announced the launch of a research collaboration with Northeastern University in Massachusetts, focused on advanced micro-system structures for cryogenic quantum interconnects. Pursuant to th"
-    },
-    {
-      "title": "Multiverse Computing Announces Series C Fundraising Targeting up to $570 Million",
-      "link": "https://thequantuminsider.com/2026/07/27/multiverse-computing-announces-series-c-fundraising-targeting-up-to-570-million/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-27T09:28:42.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Multiverse Computing, the global leader in efficient AI, today announced a $570 million (€500M) Series C funding round at a $1.7 billion (€1.5B) pre-money valuation, a 5x step-up from its Series B. The round is co-led by Forgepoint Capital International, BNPP SIVF, and Bullhound Capital, with additional commitments to date […]"
     },
     {
       "title": "Researchers Measure Long-Lived Ytterbium Ion States for Quantum Applications",
@@ -1076,13 +1104,6 @@
       "source": "The Quantum Insider",
       "published": "2026-07-22T20:33:19.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Taiyi Quantum, a Shanghai-based quantum computing company developing fault-tolerant quantum computers based on ytterbium neutral atoms, has completed a RMB 300 million (approximately US$42 million) Pre-A financing round. The round was co-led by Gaorong Ventures and IDG Capital, with participation from Huakong Fund, Yunqi Partners, Fortune Capital, Boyuan Capital, SAIC"
-    },
-    {
-      "title": "Infleqtion Receives Three DOE Genesis Mission Projects for Quantum Computing and Sensing Research",
-      "link": "https://thequantuminsider.com/2026/07/22/infleqtion-secures-three-genesis-mission-projects-from-us-department-of-energy/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-22T15:27:00.000Z",
-      "snippet": "Insider Brief Press release – Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, announced it has been awarded three projects to accelerate American scientific research and innovation by the U.S. Department of Energy (DOE) for the Genesis Mission. The projects include collaborations with Argonne National Laboratory, Brookhaven Nati"
     }
   ],
   "education": [
@@ -1106,13 +1127,6 @@
       "source": "eSchool News",
       "published": "2026-07-23T10:00:00.000Z",
       "snippet": "When my son Hunter was in fifth grade, his teacher told me he was struggling with reading comprehension. I nodded politely and moved on."
-    },
-    {
-      "title": "Review: Jabra Biz 1100 EDU Headset Delivers Where It Counts",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/review-jabra-biz-1100-edu-headset-delivers-where-it-counts",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-07-22T17:32:00.000Z",
-      "snippet": "Walk into any university computer lab during finals week or remote learning sessions, and audio challenges are immediately apparent. Students on adjacent machines bleed sound into each other’s ears. Spoken instructions compete with the hum of the heating and cooling system. Students toss headsets into bags full of books and personal items, subjecting hardware to the kind of punishment that turns m"
     }
   ]
 }
