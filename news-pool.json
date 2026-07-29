@@ -1,6 +1,34 @@
 {
   "ai": [
     {
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-29T00:09:05.000Z",
+      "snippet": "The deal is Cyera's third acquisition this year."
+    },
+    {
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-28T21:29:34.000Z",
+      "snippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
+    },
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-28T20:45:12.000Z",
+      "snippet": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself."
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-28T20:17:08.000Z",
+      "snippet": "His change of position comes after \"the first security incident that I have felt very viscerally.\""
+    },
+    {
       "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
       "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -13,6 +41,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-28T14:00:00.000Z",
       "snippet": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million."
+    },
+    {
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-28T13:19:17.000Z",
+      "snippet": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process."
     },
     {
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
@@ -237,20 +272,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-24T13:36:42.000Z",
       "snippet": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-24T01:00:00.000Z",
-      "snippet": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
-    },
-    {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-23T20:33:02.000Z",
-      "snippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
     }
   ],
   "cloud": [
@@ -260,6 +281,13 @@
       "source": "Cloud Blog",
       "published": "2026-07-28T17:30:00.000Z",
       "snippet": "Increasing the adoption of generative AI across the enterprise requires you to do more than deploy a generic chatbot with a custom wrapper. Interacting with business-critical databases demands absolute trust, strict governance, and deep grounding in enterprise semantics.\nOver the last year, Conversational Analytics (CA) in Google Cloud has moved from isolated experiments to scaled, enterprise-wide"
+    },
+    {
+      "title": "Future-proofing data integrity: Quantum-safe digital signatures in Cloud KMS",
+      "link": "https://cloud.google.com/blog/products/identity-security/future-proofing-data-integrity-quantum-safe-digital-signatures-in-cloud-kms/",
+      "source": "Cloud Blog",
+      "published": "2026-07-28T17:00:00.000Z",
+      "snippet": "With cryptographically relevant quantum computers (CRQC) on the horizon, transitioning to quantum-safe digital signatures is critical to safeguarding long-term data integrity and authenticity. Organizations are steadily recognizing this urgency. \nFor example, the U.S. government announced an update to the timelines by which departments and agencies must transition to quantum safe digital signature"
     },
     {
       "title": "Best Buy scales AI workloads and secures access with Workforce Identity Federation",
@@ -288,6 +316,13 @@
       "source": "Cloud Blog",
       "published": "2026-07-27T16:00:00.000Z",
       "snippet": "Even as machine-speed attacks dominate the headlines, Mandiant’s view from the frontline reveals that the vast majority of successful intrusions still stem from fundamental human and systemic failures.\nThis operational break-down shows up pointedly in research from the M-Trends 2026 report. Exploits remain the most common initial infection vector for the sixth consecutive year at 32%, voice phishi"
+    },
+    {
+      "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
+      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-07-27T15:00:00.000Z",
+      "snippet": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences.\nThe post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog."
     },
     {
       "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
@@ -339,6 +374,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-28T16:03:23.000Z",
       "snippet": "Techie \"finds\" Nvidia RTX Spark prototype laptop and puts it through its paces — Microsoft Surface Laptop Ultra with Nvidia N1X chip shows promise, though prototype warts are still quite visible"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says AI has entered the singularity — two weeks after OpenAI models cheated a benchmark by hacking Hugging Face",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-says-ai-has-entered-the-singularity",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-28T14:56:22.000Z",
+      "snippet": "OpenAI CEO Sam Altman recently declared on the Relentless podcast that artificial intelligence has entered the technological singularity."
     },
     {
       "title": "One year into the AI-induced RAM apocalypse — how much does memory actually cost, and is there hope for a more affordable future?",
@@ -840,6 +882,13 @@
   ],
   "quantum": [
     {
+      "title": "IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology",
+      "link": "https://thequantuminsider.com/2026/07/28/ionq-receives-regulatory-approval-to-complete-acquisition-of-skywater-technology/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-28T21:48:55.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading quantum platform company, today received final regulatory approval to complete its acquisition of SkyWater Technology (NASDAQ: SKYT), the largest exclusively U.S.-based semiconductor foundry. As noted when the companies announced their definitive agreement in January 2026, this transaction is expected to enable IonQ to materially"
+    },
+    {
       "title": "Two Hands Corporation Opens External Beta Testing for EntangleX Quantum Circuit Simulator",
       "link": "https://thequantuminsider.com/2026/07/28/two-hands-corporation-entanglex-beta-testing/",
       "source": "The Quantum Insider",
@@ -859,6 +908,13 @@
       "source": "The Quantum Insider",
       "published": "2026-07-28T13:40:11.000Z",
       "snippet": "Insider Brief Press release – Infleqtion (NYSE: INFQ), a quantum computing and quantum sensing company powered by neutral-atom technology, today announced the appointment of Dr. Joseph Buck as senior vice president of quantum computing systems. Dr. Buck joined the company July 27, 2026, and will lead development of Sqale, Infleqtion‘s scalable neutral-atom quantum computer. Dr. […]"
+    },
+    {
+      "title": "NordForsk Joins G7 Initiative to Fund International Quantum Technology Research Projects",
+      "link": "https://thequantuminsider.com/2026/07/28/nordforsk-joins-g7-initiative-to-fund-international-quantum-technology-research-projects/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-28T13:33:51.000Z",
+      "snippet": "Insider Brief NordForsk has joined a new international research initiative with G7 funding agencies to support collaborative quantum technology research, committing funding for Nordic participation in up to 12 international projects spanning quantum computing, communications, sensing, materials and post-quantum cryptography. The call for proposals, announced July 27, is being coordinated by the Na"
     },
     {
       "title": "Vietnam Hosts International Quantum Hackathon Focused on Real-World Applications",
@@ -1037,6 +1093,13 @@
     }
   ],
   "education": [
+    {
+      "title": "Digital detox: Reducing screen time creates space to build literacy skills",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/28/digital-detox-reducing-screen-time-creates-space-to-build-literacy-skills/",
+      "source": "eSchool News",
+      "published": "2026-07-28T10:00:00.000Z",
+      "snippet": "Walk into almost any elementary classroom today and you will likely hear the same concern from teachers across grade levels: Many students can swipe, tap, and navigate a screen with ease, but struggle to hold a pencil comfortably, form letters fluently or sustain writing for more than a few minutes without fatigue."
+    },
     {
       "title": "Review: Canva for Campus Provides a Shared Platform for Visual Communication",
       "link": "https://edtechmagazine.com/higher/article/2026/07/review-canva-campus-provides-shared-platform-visual-communication",
