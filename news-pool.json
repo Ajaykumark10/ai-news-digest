@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-01T17:07:34.000Z",
+      "snippet": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-01T15:58:17.000Z",
+      "snippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+    },
+    {
       "title": "India is starting to pay for apps, not just download them",
       "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -321,90 +335,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-27T20:19:42.000Z",
       "snippet": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-27T18:32:11.000Z",
-      "snippet": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
-    },
-    {
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-07-27T18:00:00.000Z",
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…"
-    },
-    {
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-27T17:28:42.000Z",
-      "snippet": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both."
-    },
-    {
-      "title": "Threads users can now chat with Meta AI in their DMs",
-      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-27T16:45:24.000Z",
-      "snippet": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant."
-    },
-    {
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-27T15:57:12.000Z",
-      "snippet": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online."
-    },
-    {
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-27T15:30:00.000Z",
-      "snippet": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy."
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-27T15:25:37.000Z",
-      "snippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
-    },
-    {
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-27T15:01:50.000Z",
-      "snippet": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase."
-    },
-    {
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-27T13:00:00.000Z",
-      "snippet": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners."
-    },
-    {
-      "title": "The path to artificial superintelligence",
-      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-07-27T12:00:00.000Z",
-      "snippet": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…"
-    },
-    {
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-07-27T11:40:16.000Z",
-      "snippet": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…"
-    },
-    {
-      "title": "Building the enterprise environment for agentic AI",
-      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-07-27T11:32:58.000Z",
-      "snippet": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…"
     }
   ],
   "cloud": [
@@ -498,44 +428,65 @@
       "source": "Cloud Blog",
       "published": "2026-07-28T16:00:00.000Z",
       "snippet": "Generative AI can make cloud costs difficult to predict. A single five-word prompt can run complex operations and generate significant costs. Traditional metrics like requests per second no longer help you estimate your bill, increasing the risk of unexpected cost spikes.\nWhile Google Cloud offers budget alerts, you need proactive guardrails that work out of the box - without the friction of writi"
-    },
-    {
-      "title": "Announcing general availability of SAP Business Data Cloud Connect for BigQuery",
-      "link": "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/",
-      "source": "Cloud Blog",
-      "published": "2026-07-27T16:30:00.000Z",
-      "snippet": "Traditional data replication techniques often struggle to deliver the data freshness that modern workflows require. To help organizations overcome this challenge, SAP and Google Cloud are announcing that SAP Business Data Cloud Connect for BigQuery is now generally available. \nAs the next phase of our long-standing partnership, SAP BDC Connect for BigQuery gives you zero-copy access to data produc"
-    },
-    {
-      "title": "Cyber Snapshot Report: Go beyond the toolchain and build enterprise resilience",
-      "link": "https://cloud.google.com/blog/products/identity-security/cyber-snapshot-report-enterprise-resilience-key-to-toolchain-success/",
-      "source": "Cloud Blog",
-      "published": "2026-07-27T16:00:00.000Z",
-      "snippet": "Even as machine-speed attacks dominate the headlines, Mandiant’s view from the frontline reveals that the vast majority of successful intrusions still stem from fundamental human and systemic failures.\nThis operational break-down shows up pointedly in research from the M-Trends 2026 report. Exploits remain the most common initial infection vector for the sixth consecutive year at 32%, voice phishi"
-    },
-    {
-      "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
-      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-07-27T15:00:00.000Z",
-      "snippet": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences.\nThe post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog."
-    },
-    {
-      "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/",
-      "source": "AWS News Blog",
-      "published": "2026-07-27T14:54:41.000Z",
-      "snippet": "Last week I had the privilege of spending three days in São Paulo with technical builders from across Latin America, brought together for a regional tech event full of deep-dive sessions, hands-on workshops, and conversations with customers and partners. What struck me most wasn’t any single session, it was the energy of a technical community […]"
-    },
-    {
-      "title": "Modernizing the skies: NOAA and Google Cloud collaborate to advance weather forecasting",
-      "link": "https://cloud.google.com/blog/topics/public-sector/modernizing-the-skies-noaa-google-cloud-collaborate-advance-weather-forecasting/",
-      "source": "Cloud Blog",
-      "published": "2026-07-27T14:00:00.000Z",
-      "snippet": "The National Oceanic and Atmospheric Administration (NOAA) is embarking on a transformative journey to redefine how we understand and predict patterns in the Earth’s atmosphere that affect the weather we face every day. Today, we are proud to announce that Google Cloud was selected as the primary provider of high-performance computing (HPC) infrastructure for the Weather and Climate Operational Su"
     }
   ],
   "hardware": [
+    {
+      "title": "Dell founder shows how a $100 billion empire started 42 years ago —  CEO says ‘This one page changed my life’",
+      "link": "https://www.tomshardware.com/tech-industry/dell-founder-shows-how-a-usd100-billion-empire-started-42-years-ago-ceo-says-this-one-page-changed-my-life",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-01T17:06:31.000Z",
+      "snippet": "Billionaire Michael Dell reminisced about the early days of his company, sharing an early quarterly earnings report that showed the then-startup making nearly $135,000 in just three months. Dell says that that document changed his life, as it convinced his parents that he no longer needed to go back to college and pursue his degree."
+    },
+    {
+      "title": "Score the ultimate AMD AM4 starter pack with a six-core CPU and 16GB RAM for only $280 — kickstart your next PC build with $138 in savings",
+      "link": "https://www.tomshardware.com/pc-components/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-ram-for-only-usd280-kickstart-your-next-pc-build-with-usd138-in-savings",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-01T15:09:27.000Z",
+      "snippet": "If you've been hesitating to upgrade to a modern platform because of the state of the PC hardware industry, this combo deal might be the one for you."
+    },
+    {
+      "title": "Microsoft vows to make Windows 11 fly on 8GB RAM amid memory shortage — optimizations to reduce OS memory footprint have begun",
+      "link": "https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-01T14:48:26.000Z",
+      "snippet": "While the company's minimum OS specifications officially say 4GB, most PC builders know that 16GB is the bare minimum for a smooth experience on Windows 11. However, the memory chip shortage and the resurgence of 8GB laptops are likely forcing Microsoft to optimize Windows."
+    },
+    {
+      "title": "'Nozzlegate' erupts as Prusa CORE One 3D printer kits arrive with soft steel nozzles — Bondtech admits machining flaws with no quick fix",
+      "link": "https://www.tomshardware.com/3d-printing/nozzlegate-erupts-as-prusa-core-one-3d-ptinter-kits-arrive-with-soft-steel-nozzles-bondtech-admits-machining-flaws-with-no-quick-fix",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-01T12:10:57.000Z",
+      "snippet": "Bondtech, the creator and manufacturer of the INDX toolchanger system used to create the highly anticipated Prusa CORE One+ INDX, admitted to a significant labeling mistake. The nozzles provided with the INDX kit do not meet industry standards for “hardened steel” as advertised."
+    },
+    {
+      "title": "Sony doubles down on axing physical game discs — CFO reiterates 'we’re going to cautiously move this forward'",
+      "link": "https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-01T11:00:00.000Z",
+      "snippet": "Sony confirms that its stance has not changed on ending the production of physical game discs for titles released after January 2028."
+    },
+    {
+      "title": "97 untouched Duck Hunt and Super Mario Bros. cartridges worth thousands discovered in retro shop storage room — never-before-seen version of popular NES games include five perfect 10 PSA items",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/97-untouched-duck-hunt-and-super-mario-bros-cartridges-worth-thousands-discovered-in-retro-shop-storage-room-never-before-seen-version-of-popular-nes-games-include-five-perfect-10-psa-items",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-01T10:00:00.000Z",
+      "snippet": "A retro gaming shop in Wisconsin finds a box of unopened, never-before-seen versions of Duck Hunt and Super Mario Bros. in its storage room. These items are probably worth four to five digits, and the first three carts are going up for auction starting August 12."
+    },
+    {
+      "title": "Lost one-of-a-kind Nintendo DS cartridge hits eBay for $9,100 — PokePark Fishing Contest designed to delete itself after 12 hours, game so rare it was only distributed to theme park attendees in 2005",
+      "link": "https://www.tomshardware.com/video-games/nintendo/lost-one-of-a-kind-nintendo-ds-cartridge-hits-ebay-for-usd9-100-pokepark-fishing-contest-designed-to-delete-itself-after-12-hours-game-so-rare-it-was-only-distributed-to-theme-park-attendees-in-2005",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-01T09:00:00.000Z",
+      "snippet": "A Nintendo DS game that was classified as ‘lost media’ for nearly two decades is now within tantalizing reach of video gaming fans and archivists."
+    },
+    {
+      "title": "Big tech spends more than $1 trillion on AI infrastructure — additional $745 billion expected to be added to the figure in 2026 alone",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/big-tech-spends-more-than-usd1-trillion-on-ai-infrastructure-additional-usd745-billion-expected-to-be-added-to-the-figure-in-2026-alone",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-07-31T16:30:34.000Z",
+      "snippet": "Amazon, Google, Meta, and Microsoft have collectively spent more than $1 trillion on AI investments since the rush started in 2023. However, the big four are planning to spend more on AI CAPEX, with billions more planned for this year, even as their \"hidden debt\" balloons to over $1.65 trillion."
+    },
     {
       "title": "30 years of CPUs at Tom’s Hardware — looking back on three decades of processors, from the Pentium II to Ryzen 9 9950X3D2",
       "link": "https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2",
@@ -1130,128 +1081,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-27T19:47:49.000Z",
       "snippet": "GPU prices seem to be on the rise once again with official distributor announcements in China hiking up the entire Blackwell lineup overnight. Compared to MSRP, we're witnessing a staggering bump of up to 75% at the top-end."
-    },
-    {
-      "title": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T19:03:47.000Z",
-      "snippet": "Industry leading tech companies have formed an \"Open Secure AI Alliance\" that will build open-source models, agent harnesses, and cybersecurity tools, arguing that defenders need locally controlled AI after closed-model safeguards reportedly obstructed analysis of the OpenAI–Hugging Face breach."
-    },
-    {
-      "title": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic — open-weight model performs almost as well as frontier models while being 2-3x easier to run",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-ai-releases-weights-for-kimi-k3-firing-a-shot-across-the-bow-of-openai-and-anthropic-open-weight-model-performs-almost-as-well-as-frontier-models-while-being-2-3x-easier-to-run",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T18:40:58.000Z",
-      "snippet": "Moonshot AI has released the weights for its recent Kimi-K3 model, directly going against OpenAI and Anthropic."
-    },
-    {
-      "title": "China begins mass production of homegrown immersion chipmaking machines in major breakthrough, report claims — first DUV lithography units will be delivered this year to SMIC, Hua Hong, and CXMT",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T16:51:35.000Z",
-      "snippet": "A state-backed company in Shanghai has begun mass-producing immersion deep ultraviolet lithography machines and is due to deliver the first units this year."
-    },
-    {
-      "title": "Why an MMO mouse isn’t just for gaming — make use of the myriad of buttons for enhancing your productivity workflows in popular software applications",
-      "link": "https://www.tomshardware.com/peripherals/gaming-mice/why-an-mmo-mouse-isnt-just-for-gaming-make-use-of-the-myriad-of-buttons-for-enhancing-your-productivity-workflows-in-popular-software-applications",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T15:39:54.000Z",
-      "snippet": "MMO mice are designed with many buttons to make it easier to play games with lots of spells and abilities, but MMO mice are also fantastic for automating your productivity workflows."
-    },
-    {
-      "title": "Upgrading an MSI Claw 8 EX AI+ handheld gaming PC with a 2TB SSD",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/upgrading-an-msi-claw-8-ex-ai-handheld-gaming-pc-with-a-2tb-ssd",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T15:04:32.000Z",
-      "snippet": "I go through the steps of replacing the standard 1TB SSD in an MSI Claw 8 EX AI+ with a 2TB SSD."
-    },
-    {
-      "title": "Intel unveiled its iconic Core 2 Duo family 20 years ago — legendary chip dethroned AMD Athlon, restoring the chipmaker’s performance lead",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-unveiled-its-iconic-core-2-duo-family-20-years-ago-legendary-chip-dethroned-amd-athlon-restoring-the-chipmakers-performance-lead",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T15:01:11.000Z",
-      "snippet": "Today marks 20 years since the first raft of Intel Core 2 Duo processors, codename Conroe, was launched."
-    },
-    {
-      "title": "Framework Laptop 13 Pro review: It cleans up nice",
-      "link": "https://www.tomshardware.com/laptops/framework-laptop-13-pro-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T15:00:00.000Z",
-      "snippet": "The Framework Laptop 13 Pro is its most solidly built laptop ever, with a bright display and long battery life sweetening the deal — if you can afford it."
-    },
-    {
-      "title": "Nvidia weighs $250 billion guarantee so OpenAI can lease SoftBank's 10-gigawatt Ohio campus, report claims — Nvidia also said to be discussing $350 billion deal to finance chips for the site",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T13:34:28.000Z",
-      "snippet": "OpenAI is in advanced talks to lease SB Energy's 10 GW data center campus in Piketon, Ohio, with Nvidia in discussions to guarantee roughly $250 billion of the financing behind it."
-    },
-    {
-      "title": "AI developer runs 28.9-million-parameter model on $10 ESP32-S3 microcontroller — uses Google's Per-Layer Embeddings technique, stores table on 16MB Flash memory",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T13:07:53.000Z",
-      "snippet": "Getting a local language model running on a sub-$10 microcontroller is impressive despite its obvious limitations."
-    },
-    {
-      "title": "Disgruntled gamer builds booby-trapped Steam Deck with 3D-printed spikes and a built-in taser — Raspberry Pi powers speaker, camera, and alarm to stop family members draining his battery",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/disgruntled-gamer-builds-booby-trapped-steam-deck-with-3d-printed-spikes-and-a-built-in-taser-raspberry-pi-powers-speaker-camera-and-alarm-to-stop-family-members-draining-his-battery",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T12:10:35.000Z",
-      "snippet": "A Steam Deck devotee was so fed up with their family borrowing their handheld and leaving it with a flat battery that they have resorted to quite extreme anti-sharing measures."
-    },
-    {
-      "title": "AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent — Florence, Ferrara, and Fidenza to be applied across AI-focused product stack",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T12:04:52.000Z",
-      "snippet": "The company named Florence, Ferrara, and Fidenza in its launch release, extended its annual CPU, GPU, networking, and rack cadence out to 2030."
-    },
-    {
-      "title": "'It sounds like someone set up a vacuum, like in your living room': Michigan residents sue AI data center emitting noise 24/7 — company fined for industrial noise ordinance violations, offers to buy homes from residents",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T12:02:21.000Z",
-      "snippet": "Residents of Dowagiac, Michigan, filed a case against a data center for generating noise pollution 24/7 for over two years. They said that the site has violated city noise ordinances but hasn't made any improvements."
-    },
-    {
-      "title": "Chinese memory maker CXMT posts blistering 466% leap in Shanghai IPO — bulk of spending to be focused on DRAM production, no HBM in sight",
-      "link": "https://www.tomshardware.com/tech-industry/cxmt-closes-up-466-percent-in-shanghai-debut-with-no-hbm-project-in-its-ipo-prospectus",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T11:48:56.000Z",
-      "snippet": "The prospectus splits 29.5 billion yuan across three projects."
-    },
-    {
-      "title": "Exotic Quasiparticles Promise Next-Gen Interconnects",
-      "link": "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
-      "source": "IEEE Spectrum",
-      "published": "2026-07-27T11:00:01.000Z",
-      "snippet": "Interconnects, the wires that string transistors together into circuits on microchips, have long been built from copper due to its high conductivity. However, as electronics continue to shrink, copper becomes a dramatically worse conductor. Now scientists find that a new class of materials containing exotic quasiparticles might one day help enable next-generation interconnects that become better c"
-    },
-    {
-      "title": "Get 16GB of DDR5 RAM for just $16 when you buy it with AMD's brand-new 7700X3D — Ryzen 7 with an X870 motherboard, G.Skill Ripjaws, and an AIO for just $588",
-      "link": "https://www.tomshardware.com/pc-components/get-16gb-of-ddr5-ram-for-just-usd16-when-you-buy-it-with-amds-brand-new-7700x3d-ryzen-7-with-an-x870-motherboard-g-skill-ripjaws-and-an-aio-for-just-usd588",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T10:56:30.000Z",
-      "snippet": "Get a single stick of 16GB DDR5 RAM for just $16 when you buy it with a Ryzen 7 7700X3D and MSI Pro X870-P motherboard."
-    },
-    {
-      "title": "Save $1,000 on Lenovo's over-the-top RTX 5090 gaming laptop — this 18-inch monster packs 64GB of RAM and up to a 440Hz refresh rate",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd1-000-on-lenovos-over-the-top-rtx-5090-gaming-laptop-this-18-inch-monster-packs-64gb-of-ram-and-up-to-a-440hz-refresh-rate",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T10:56:18.000Z",
-      "snippet": "B&H Photo has chopped $1,000 off the price of this super-powerful RTX 5090-laden Lenovo Legion 9i gaming laptop with 64GB of RAM"
-    },
-    {
-      "title": "California's largest AI data center project suing for access to 287 million gallons of Colorado River water, 0.03% of Imperial Valley’s supply — plaintiffs claim project equivalent to 160-acre farm amidst concern about jobs and reallocation of farmland",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/californias-largest-ai-data-center-project-suing-for-access-to-287-million-gallons-of-colorado-river-water-0-03-percent-of-imperial-valleys-supply-plaintiffs-claim-project-equivalent-to-160-acre-farm-amidst-about-jobs-and-reallocation-of-farmland",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T09:56:17.000Z",
-      "snippet": "Buildout of large AI data centers in regions historically specializing in agriculture may have long-lasting consequences."
     }
   ],
   "quantum": [
+    {
+      "title": "Gil Kalai (Hebrew University / Reichman University): Why noise may doom quantum computers",
+      "link": "https://thequantuminsider.com/2026/08/01/gil-kalai-hebrew-university-reichman-university-why-noise-may-doom-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-01T07:00:00.000Z",
+      "snippet": "Yuval Boger interviews mathematician Gil Kalai about his long-standing skepticism regarding scalable quantum computing. Kalai explains two main arguments behind his theory: correlated noise that may defeat quantum error correction and complexity-based limits on NISQ devices achieving quantum supremacy. They discuss experimental claims such as Google’s 2019 result, potential tests of Kalai’s conjec"
+    },
     {
       "title": "SEALSQ Begins Commercial Deployment of Miraex Quantum Photonics Technology",
       "link": "https://thequantuminsider.com/2026/07/31/sealsq-launches-commercial-phase-of-miraex-quantum-photonics-technology/",
@@ -1454,69 +1293,6 @@
       "source": "The Quantum Insider",
       "published": "2026-07-28T11:14:08.000Z",
       "snippet": "Guest Post By Ian Foley The biggest story in AI may not be AI at all. It may be the growing realization that silicon is running out of road. The remarkable progress of AI over the past few years has relied largely on brute force, demanding ever more silicon, electricity and infrastructure to keep the […]"
-    },
-    {
-      "title": "Applications Open for Tennessee Quantum Hackathon Focused on Energy Applications",
-      "link": "https://thequantuminsider.com/2026/07/27/tennessee-quantum-hackathon-energy-applications/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-27T15:50:11.000Z",
-      "snippet": "Insider Brief Press release – Applications are now open for the Tennessee Quantum Hackathon hosted by The Company Lab (CO.LAB) in partnership with the Chattanooga Quantum Collaborative (CQC) and the University of Tennessee at Chattanooga (UTC). The 36-hour innovation challenge will take place November 13–15 in Chattanooga. College students from a range of disciplines will […]"
-    },
-    {
-      "title": "Pittsburgh Supercomputing Center Will Build New Hybrid Quantum-Classical Supercomputer",
-      "link": "https://thequantuminsider.com/2026/07/27/pittsburgh-supercomputing-center-will-build-new-hybrid-quantum-classical-supercomputer/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-27T14:58:45.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — A hybrid quantum-classical computer will soon operate at the Pittsburgh Supercomputing Center, thanks to a $5-million grant from the National Science Foundation. To deliver on the grant, PSC, HPE, and Rigetti Computing will partner together to build the TangleLab supercomputing testbed. “TangleLab continues PSC’s long tradition of making next-generation computing […]"
-    },
-    {
-      "title": "D-Wave and AT&T Explore Quantum Computing Applications in Network Operations",
-      "link": "https://thequantuminsider.com/2026/07/27/d-wave-att-quantum-network-operations/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-27T12:35:16.000Z",
-      "snippet": "Insider Brief Press release – D-Wave Quantum Inc. (NASDAQ: QBTS), (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and AT&T (NYSE: T) today announced that AT&T has signed an agreement to expand its use of D-Wave’s quantum computing technology and plans to use the technology to […]"
-    },
-    {
-      "title": "QTREX and Northeastern University Launch Quantum Interconnect Research Collaboration",
-      "link": "https://thequantuminsider.com/2026/07/27/qtrex-northeastern-university-quantum-interconnect-research/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-27T12:27:25.000Z",
-      "snippet": "Insider Brief Press release – QTREX Quantum Ltd. (Nasdaq: QTEX) (“QTREX” or the “Company”) a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure today announced the launch of a research collaboration with Northeastern University in Massachusetts, focused on advanced micro-system structures for cryogenic quantum interconnects. Pursuant to th"
-    },
-    {
-      "title": "Researchers Measure Long-Lived Ytterbium Ion States for Quantum Applications",
-      "link": "https://thequantuminsider.com/2026/07/27/long-live-ytterbium-long-lived-states-found-in-trapped-ions-open-new-doors-for-quantum-computing-and-atomic-clocks/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-27T08:37:12.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Researchers from the Universities of Amsterdam and New South Wales have answered a question that has been around for decades: whether ions of the metal ytterbium can enter certain long-lived and nearly stable states, and if so, for how long. The measured long-lived states may find applications in quantum computers […]"
-    },
-    {
-      "title": "Neutral-Atom Researchers Lay Out Industry-Wide Roadmap Toward Practical Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/07/27/neutral-atom-researchers-lay-out-industry-wide-roadmap-toward-practical-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-27T08:24:34.000Z",
-      "snippet": "Insider Brief Over the years, numerous quantum companies have released roadmaps proposing how they plan to move their technologies into the marketplace over the coming months and years. Now, in what is an unprecedented move, a broad group of quantum scientists, engineers and entrepreneurs has outlined a path for neutral-atom computers to move from experimental […]"
-    },
-    {
-      "title": "IonQ to Report Second Quarter 2026 Financial Results on August 5",
-      "link": "https://thequantuminsider.com/2026/07/27/ionq-to-report-second-quarter-2026-financial-results-on-august-5-2026/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-27T07:55:43.000Z",
-      "snippet": "Insider Brief Press release – IonQ (NYSE: IONQ), the world’s leading quantum platform company, today announced that the company will release its financial results for the quarter ended June 30, 2026, on Wednesday, August 5, 2026, after the financial markets close. IonQ will host a conference call at 4:30 PM Eastern that same day to […]"
-    },
-    {
-      "title": "Quantum X Labs Tests AI-Based Error Correction Decoder With NVIDIA CUDA-Q Tools",
-      "link": "https://thequantuminsider.com/2026/07/27/quantum-x-labs-ai-error-correction-decoder-nvidia-cuda-q/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-27T07:49:23.000Z",
-      "snippet": "Insider Brief Press release – Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X” or the “Company”), an advanced technologies company, today announced progress on its technical roadmap for its AI-driven quantum error-correction program. The work is focused on reviewing QXL’s milestone results and draws on NVIDIA accelerated computing, the NVIDIA CUDA-Q QEC software libraries and, as QXL progresses […]"
-    },
-    {
-      "title": "Bloq Quantum and QClairvoyance Partner on Quantum Education and Workforce Training",
-      "link": "https://thequantuminsider.com/2026/07/27/bloq-quantum-qclairvoyance-quantum-education-partnership/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-27T07:36:40.000Z",
-      "snippet": "Insider Brief Press release – Bloq Quantum, a leading provider of enterprise quantum software infrastructure, today announced a strategic partnership with QClairvoyance, a premier firm dedicated to research and education in quantum technologies. This collaboration establishes QClairvoyance as an official “Quantum Skilling Partner,” driving strategic education, skilling, and institutional outreach "
     }
   ],
   "education": [
@@ -1533,6 +1309,13 @@
       "source": "eSchool News",
       "published": "2026-07-30T13:00:00.000Z",
       "snippet": "In first grade, educators shape the trajectories of how students feel about math. Long before they discover algebra or standardized tests, six- and seven-year-olds are forming beliefs about whether they are \"math people,\" if their ideas are worth sharing, and what their mistakes say about them as learners."
+    },
+    {
+      "title": "Why AI‑Driven Observability Is Rising to the Top of Higher Ed IT Priorities",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/why-ai-driven-observability-rising-top-higher-ed-it-priorities",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-07-29T17:18:14.000Z",
+      "snippet": "While much of the executive conversation around artificial intelligence focuses on transformation within business units, more organizations are looking inward. For IT teams, that means turning to AI not for strategic reinvention but to solve long‑standing operational challenges that impact uptime, user experience and cost efficiency.\nAI‑enabled observability and AI for operations (AIOps) is emergi"
     },
     {
       "title": "Don’t forget nature’s classroom",
@@ -1554,13 +1337,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-07-27T20:22:47.000Z",
       "snippet": "Universities produce an enormous amount of visual content. Faculty members create lecture presentations and course materials. Marketing teams produce event promotions and recruitment campaigns. Students generate slides, videos and graphics for coursework. But keeping all of those efforts coordinated while maintaining quality and brand consistency can be difficult.\nCanva for Campus is designed to s"
-    },
-    {
-      "title": "Teacher training needs more community and less compliance",
-      "link": "https://www.eschoolnews.com/educational-leadership/2026/07/27/teacher-training-needs-more-community-and-less-compliance/",
-      "source": "eSchool News",
-      "published": "2026-07-27T10:00:00.000Z",
-      "snippet": "Professional development is one of a school district's most powerful strategies for improving student outcomes. Yet, educators often leave workshops feeling inspired in the moment, but take little action in the classroom. The problem isn’t that teachers don’t want to learn, but that professional development is treated as an event, rather than an ongoing process."
     }
   ]
 }
