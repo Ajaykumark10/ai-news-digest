@@ -29,6 +29,13 @@
       "snippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
     },
     {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-07-31T22:47:26.000Z",
+      "snippet": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+    },
+    {
       "title": "India is starting to pay for apps, not just download them",
       "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -307,20 +314,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-28T14:00:00.000Z",
       "snippet": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million."
-    },
-    {
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-28T13:19:17.000Z",
-      "snippet": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process."
-    },
-    {
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-07-28T09:18:57.000Z",
-      "snippet": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…"
     }
   ],
   "cloud": [
@@ -351,6 +344,13 @@
       "source": "Cloud Blog",
       "published": "2026-07-30T16:00:00.000Z",
       "snippet": "Database security traditionally relies on a fragile balance between the granular control developers need and the administrative overhead of managing thousands of individual database passwords. Between managing AI agent access, rotating static credentials, handling employee on-boarding and off-boarding, and auditing access logs, passwords remain an operational tax — and a potential security vulnera"
+    },
+    {
+      "title": "Do more with less: How GKE can reduce your cost per agent by 75%",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
+      "source": "Cloud Blog",
+      "published": "2026-07-30T16:00:00.000Z",
+      "snippet": "In today’s agentic era, modern cloud applications are evolving from a set of passive tools to fleets of autonomous digital workers that reason, plan, and take action across a wide range of tasks. \nFor platform engineering teams designing these environments, the simplest approach is often to deploy an agent on to an open-source framework like OpenClaw and Hermes running on  a virtual machine (VM). "
     },
     {
       "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
@@ -418,6 +418,62 @@
   ],
   "hardware": [
     {
+      "title": "Iran suspected of conducting cyberattacks on US water suppliers in 45 municipalities — small towns mostly targeted, with utilities switching to manual control",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/iran-suspected-of-conducting-cyberattacks-on-us-water-suppliers-in-45-municipalities-small-towns-mostly-targeted-with-utilities-switching-to-manual-control",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-02T13:10:00.000Z",
+      "snippet": "Several US towns said that their water utilities have suffered from cyberattacks, which are suspected to have originated from Iran. While systems remain running, several have resorted to manual control to protect the water supply."
+    },
+    {
+      "title": "Commemorative golden Doom floppy disks go up for pre-order —  pair of limited edition dummy ‘imitation gold plating’ disks and a box are $30 at GameStop",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-limited-edition-dummy-imitation-gold-plating-disks-and-a-box-are-usd30-at-gamestop",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-02T12:45:00.000Z",
+      "snippet": "GameStop has listed a purely ornamental Doom Floppy Disk Limited Edition Imitation Gold Plated Replica at $29.99."
+    },
+    {
+      "title": "AMD's upcoming Zen 6 processors could fix microstutters and improve 1% lows in games — Next-gen CPUs tipped to feature per-core optimizations for thermal and power budgets",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-upcoming-zen-6-processors-could-fix-microstutters-and-improve-1-percent-lows-in-games-next-gen-cpus-tipped-to-feature-per-core-optimizations-for-thermal-and-power-budgets",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-02T12:30:00.000Z",
+      "snippet": "A new report suggests AMD is cooking up a range of per-core optimizations for Zen 6 that might not seem huge on their own, but they could add up to make a world of difference in gaming performance."
+    },
+    {
+      "title": "First open-source firmware for AM5 officially launches — Dasharo v0.9.0 brings Coreboot and openSIL to Zen 4 APUs on MSI B850",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-brings-coreboot-and-opensil-to-zen-4-apus-on-msi-b850",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-02T12:10:00.000Z",
+      "snippet": "3mdeb has introduced a new open-source firmware for the MSI B850-P WiFi, marking the first time open-source firmware has been introduced to the AM5 platform."
+    },
+    {
+      "title": "SpaceXAI says it will remove all 69 of its unpermitted turbine power generators, but expects process to take a year — trailer-mounted generators to be replaced by 1.2GW power plant",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-generators-but-expects-process-to-take-a-year-trailer-mounted-generators-to-be-replaced-by-1-2gw-power-plant",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-02T11:50:00.000Z",
+      "snippet": "These turbines have been the center of a lawsuit involving permits and pollution. While this is good news for the community, it will still take quite some time before they're fully removed from the premises."
+    },
+    {
+      "title": "RTX 5060 Ti survives car crash after being bent in half — short PCB saves the day, single memory chip resolder restore full performance",
+      "link": "https://www.tomshardware.com/pc-components/gpus/rtx-5060-ti-survives-car-crash-after-being-bent-in-half-short-pcb-saves-the-day-single-memory-chip-resolder-restore-full-performance",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-02T11:30:00.000Z",
+      "snippet": "What happens when a graphics card gets in a car crash? If you're lucky, the damage is limited to just cosmetic scars that can go away over time with no serious damage under-the-hood."
+    },
+    {
+      "title": "Gem Mint signed 1983 Steve Jobs business card opens at $70,000 — second signed card from that era after $180,000 record sale",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/gem-mint-signed-1983-steve-jobs-business-card-opens-at-usd70-000-second-signed-card-from-that-era-after-usd180-000-record-sale",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-02T11:00:00.000Z",
+      "snippet": "This rare business card is currently on RR Auction, with a previous example going for $180,000 just a couple of years ago. It's graded Gem Mint 10, meaning it's as perfect as it can get."
+    },
+    {
+      "title": "Prolific Team Fortress 2 collector is selling his in-game case arsenal for an estimated $100,000 — 1.7 million items collected over 10 years are enough to fund a house purchase",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal-for-an-estimated-usd100-000-1-7-million-items-collected-over-10-years-are-enough-to-fund-a-house-purchase",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-02T10:30:00.000Z",
+      "snippet": "One Team Fortress 2 player has amassed a collection of over 1.7 million cases from the game, and after nearly a decade of collecting, he’s selling the collection for an estimated $100,000."
+    },
+    {
       "title": "Dell founder shows how a $100 billion empire started 42 years ago —  CEO says ‘This one page changed my life’",
       "link": "https://www.tomshardware.com/tech-industry/dell-founder-shows-how-a-usd100-billion-empire-started-42-years-ago-ceo-says-this-one-page-changed-my-life",
       "source": " Latest from Tom's Hardware ",
@@ -439,7 +495,14 @@
       "snippet": "While the company's minimum OS specifications officially say 4GB, most PC builders know that 16GB is the bare minimum for a smooth experience on Windows 11. However, the memory chip shortage and the resurgence of 8GB laptops are likely forcing Microsoft to optimize Windows."
     },
     {
-      "title": "'Nozzlegate' erupts as Prusa CORE One 3D printer kits arrive with soft steel nozzles — Bondtech admits machining flaws with no quick fix",
+      "title": "Anthropic's Claude hacked three real-life companies during security capabilities test — test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-hacked-three-real-life-companies-during-security-capabilities-test-test-environment-with-internet-access-and-unwitting-targets-lax-cybersecurity-practices-led-to-bots-running-rampant",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-01T12:30:00.000Z",
+      "snippet": "Anthropic's Claude hacked three real-life companies during security capabilities test — open test environment and unwitting targets' lax cybersecurity practices led bots run rampant"
+    },
+    {
+      "title": "'Nozzlegate' erupts as Prusa CORE One 3D printer kits arrive with soft steel nozzles — Bondtech admits machining flaws with no quick fix (Updated)",
       "link": "https://www.tomshardware.com/3d-printing/nozzlegate-erupts-as-prusa-core-one-3d-ptinter-kits-arrive-with-soft-steel-nozzles-bondtech-admits-machining-flaws-with-no-quick-fix",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-01T12:10:57.000Z",
@@ -976,90 +1039,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-28T13:52:49.000Z",
       "snippet": "How far are you willing to go for physical media? That's the question the Neo Geo AES+ asks above anything else, given the $90 price tags of its game cartridges. Though, comparing it to its original prices from the 90s, especially when adjusted for inflation, makes it start to look like a bargain."
-    },
-    {
-      "title": "Acer ProDesigner PE320QXT professional monitor review: Touchscreen functionality with a 6K resolution",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-prodesigner-pe320qxt-professional-monitor-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T13:30:00.000Z",
-      "snippet": "Acer takes a unique approach to professional displays with its ProDesigner PE320QXT. It’s a 6K 6016x3384 IPS panel with a touchscreen, webcam, tablet-style stand and a large color gamut for content creators, presenters and designers."
-    },
-    {
-      "title": "Motherboard VRM thermal testing – budget vs. high-end boards, does it really matter?",
-      "link": "https://www.tomshardware.com/pc-components/motherboards/motherboard-vrm-thermal-testing-budget-vs-high-end-boards-does-it-really-matter",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T12:43:16.000Z",
-      "snippet": "Not all motherboard VRMs are created equal. We break down the differences between budget and premium designs, how they can affect CPU performance, and whether paying more is actually worth it."
-    },
-    {
-      "title": "Testing old drives as external storage to avoid price hikes — hard drive, SATA SSD, and NVMe in enclosures up to 80 Gbps, tested",
-      "link": "https://www.tomshardware.com/pc-components/storage/testing-old-drives-as-external-storage-to-avoid-price-hikes-hard-drive-sata-ssd-and-nvme-in-enclosures-up-to-80-gbps-tested",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T11:39:52.000Z",
-      "snippet": "For as little as $10 (or less on sale), you can use an old drive as external storage, but will that dusty drive deliver the speed you need?"
-    },
-    {
-      "title": "Save $1,000 on this RTX 5090 gaming PC from MSI, just 17% more than the GPU's standalone cost right now —score this 4K powerhouse with 64GB DDR5 and a 2TB SSD for $4,899",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd1-000-on-this-rtx-5090-gaming-pc-from-msi-just-17-percent-more-than-the-gpus-standalone-cost-right-now-score-this-4k-powerhouse-with-64gb-ddr5-and-a-2tb-ssd-for-usd4-899",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T11:36:14.000Z",
-      "snippet": "Save $1,000 on this MSI Aegis R2 gaming PC, fitted with an RTX 5090, 64GB DDR5, and 2TB SSD for just $4,899."
-    },
-    {
-      "title": "16-hour Xbox outage even stopped physical games from working — company blames licensing issue for incident that prohibited gaming across three generations of console",
-      "link": "https://www.tomshardware.com/video-games/xbox/xbox-blames-a-licensing-service-outside-xbox-for-the-16-hour-outage-that-blocked-disc-games",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T11:31:17.000Z",
-      "snippet": "Xbox CTO Scott Van Vliet said that a licensing service sitting outside Xbox, which the platform depends on, began failing late on July 26 and took roughly 16 hours to clear."
-    },
-    {
-      "title": "Google goes cash flow negative for the first time as AI data center buildout increases capex to a staggering $44.9 billion in a single quarter — CFO warns that capex will increase in 2027 as company banks big on TPUs",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/alphabet-goes-cash-flow-negative-for-the-first-time-as-ai-capex-doubles-to-44-9-billion-in-a-single-quarter",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T11:12:23.000Z",
-      "snippet": "On the same day, CFO Anat Ashkenazi raised full-year capex guidance to between $195 billion and $205 billion."
-    },
-    {
-      "title": "Creality's multicolor K2 3D printer hits an all-time low price of $499 — save $200 today, with the perfect printer for jumping into the hobby",
-      "link": "https://www.tomshardware.com/3d-printing/crealitys-multicolor-k2-3d-printer-hits-an-all-time-low-price-of-usd499-save-usd200-today-with-the-perfect-printer-for-jumping-into-the-hobby",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T11:11:23.000Z",
-      "snippet": "Save $200 on the Creality K2 Combo 3D printer bundle in Creality's Mega Summer Sales event."
-    },
-    {
-      "title": "ASRock officially announces Radeon RX 9050 with 8GB VRAM — RDNA 4 card offers boost clock of up to 2600MHz (updated)",
-      "link": "https://www.tomshardware.com/pc-components/gpus/leaked-radeon-rx-9050-hints-at-the-return-of-4gb-vram-gpus-in-2026-new-budget-rdna-4-card-also-spotted-in-8gb-config-with-half-the-power-of-an-rx-9060",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T11:00:22.000Z",
-      "snippet": "ASRock has listed the long-rumored RX 9050 GPU on its website in both a 4GB and 8GB configuration, but has deleted those pages since."
-    },
-    {
-      "title": "Nvidia employee detained in Taiwan as part of chip smuggling probe — held on suspicion of falsifying business documents, company says smuggling 'a nonstarter'",
-      "link": "https://www.tomshardware.com/tech-industry/nvidias-taipei-office-searched-as-taiwan-detains-employee-in-ai-chip-smuggling-probe",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T10:34:07.000Z",
-      "snippet": "Taiwan's prosecutors say they've detained a man surnamed Chang on suspicion of falsifying business documents, after investigators searched his home and workplace."
-    },
-    {
-      "title": "Re-examining the DDR4 gaming gap with Intel’s LGA 1700 CPUs in mid-2026 — performance drops of 14% on average, and up to 25% in some games",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/re-examining-the-ddr4-gaming-gap-with-intels-lga-1700-cpus-in-mid-2026-performance-drops-of-14-percent-on-average-and-up-to-25-percent-in-some-games",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T10:32:27.000Z",
-      "snippet": "Given the unprecedented surge in memory prices, we’re looking back on Intel’s LGA 1700 stack of CPUs to see how DDR4 and DDR5 match up with our modern gaming suite in 2026."
-    },
-    {
-      "title": "AI companies are reportedly shredding millions of books after using them to train AI models — tech giants outsource to middlemen to secretly buy up books for training material",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-reportedly-shredding-millions-of-books-to-train-models-tech-giants-outsource-to-middlemen-to-secretly-buy-up-books-for-training-material",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T10:30:00.000Z",
-      "snippet": "New report reveals that AI companies are buying up physical books to train their LLMs and destroying them in the process."
-    },
-    {
-      "title": "Daring coder gets Doom running with regular expressions at 180 seconds per frame, like playing 'correspondence chess with a shotgun' — nearly 14 million substitutions to render a frame at 80,000 substitutions per second",
-      "link": "https://www.tomshardware.com/software/programming/daring-coder-gets-doom-running-with-regular-expressions-at-180-seconds-per-frame-like-playing-correspondence-chess-with-a-shotgun-nearly-14-million-substitutions-to-render-a-frame-at-80-000-substitutions-per-second",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-28T10:00:00.000Z",
-      "snippet": "Daring coder gets Doom running with regular expressions at 180 seconds per frame by using one text string to the machine, engine, and video output"
     }
   ],
   "quantum": [
@@ -1076,6 +1055,13 @@
       "source": "The Quantum Insider",
       "published": "2026-07-31T14:58:43.000Z",
       "snippet": "Insider Brief Press release – SEALSQ Corp (NASDAQ: LAES), (“SEALSQ” or “Company”), a company focused on semiconductors, PKI, and post-quantum technology solutions, today announced the start of the commercial phase of the groundbreaking quantum photonics technology developed by Miraex SA, following the 100% acquisition of the Swiss company in June 2026. The acquisition represented a […]"
+    },
+    {
+      "title": "IonQ Completes Acquisition of SkyWater Technology",
+      "link": "https://thequantuminsider.com/2026/07/31/ionq-completes-skywater-acquisition-quantum-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "2026-07-31T13:31:58.000Z",
+      "snippet": "Insider Brief Press release – IonQ (NYSE: IONQ), the world’s leading quantum platform company, today completed its acquisition of SkyWater Technology (NASDAQ: SKYT), the largest exclusively U.S.-based semiconductor foundry. “Acquiring SkyWater crystalizes IonQ’s vision to serve as a technology leader, merchant supplier and ecosystem enabler across the entire quantum industry. We are investing in c"
     },
     {
       "title": "French National Quantum Update: July 2026",
@@ -1216,65 +1202,16 @@
       "source": "The Quantum Insider",
       "published": "2026-07-28T14:10:04.000Z",
       "snippet": "Insider Brief Press release – Riverlane, the world leader in quantum error correction (QEC), and the Unitary Foundation, a non-profit dedicated to scaling the open-source quantum ecosystem, today announced the launch of the Deltakit Community Fund. This new rolling, quarterly initiative is designed to support external software contributors building essential, production-grade features for Deltakit"
-    },
-    {
-      "title": "Infleqtion Names Dr. Joseph Buck Senior Vice President of Quantum Computing Systems",
-      "link": "https://thequantuminsider.com/2026/07/28/infleqtion-appoints-dr-joseph-buck-as-senior-vice-president-of-quantum-computing-systems/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-28T13:40:11.000Z",
-      "snippet": "Insider Brief Press release – Infleqtion (NYSE: INFQ), a quantum computing and quantum sensing company powered by neutral-atom technology, today announced the appointment of Dr. Joseph Buck as senior vice president of quantum computing systems. Dr. Buck joined the company July 27, 2026, and will lead development of Sqale, Infleqtion‘s scalable neutral-atom quantum computer. Dr. […]"
-    },
-    {
-      "title": "NordForsk Joins G7 Initiative to Fund International Quantum Technology Research Projects",
-      "link": "https://thequantuminsider.com/2026/07/28/nordforsk-joins-g7-initiative-to-fund-international-quantum-technology-research-projects/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-28T13:33:51.000Z",
-      "snippet": "Insider Brief NordForsk has joined a new international research initiative with G7 funding agencies to support collaborative quantum technology research, committing funding for Nordic participation in up to 12 international projects spanning quantum computing, communications, sensing, materials and post-quantum cryptography. The call for proposals, announced July 27, is being coordinated by the Na"
-    },
-    {
-      "title": "Vietnam Hosts International Quantum Hackathon Focused on Real-World Applications",
-      "link": "https://thequantuminsider.com/2026/07/28/vietnam-international-quantum-hackathon-finals/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-28T13:28:27.000Z",
-      "snippet": "Insider Brief The finals of the 2026 Quantum Computing for Social Good International Hackathon opened on July 24 in Gia Lai province, bringing together 27 finalist teams comprising nearly 100 contestants from a pool of more than 500 applications submitted by participants from 30 countries and territories, Vietnam Investment Review reported. The event is organised […]"
-    },
-    {
-      "title": "The City Quantum & AI Summit to Examine How Industries Can Work Together as Quantum Computing and AI Advance",
-      "link": "https://thequantuminsider.com/2026/07/28/the-city-quantum-ai-summit-to-examine-how-industries-can-work-together-as-quantum-computing-and-ai-advance/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-28T13:11:29.000Z",
-      "snippet": "Insider Brief Building on its 6-year tradition where visionary science meets real-world solutions, the 2026 The City Quantum & AI Summit will bring together military leaders, technology executives, researchers, investors and policymakers to examine how quantum computing and artificial intelligence are changing national security, health care, finance and other critical industries. The one-day confe"
-    },
-    {
-      "title": "Four Quantum Companies Sign-on to New Mexico’s Open-Access Quantum Network",
-      "link": "https://thequantuminsider.com/2026/07/28/four-quantum-companies-sign-on-to-new-mexicos-open-access-quantum-network/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-28T13:05:00.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Four leading quantum companies have selected New Mexico’s ABQ-Net, the only open-access entanglement-based quantum network in the United States, to develop and validate next-generation security technologies. Launched through support from the New Mexico Technology and Innovation Office, ABQ-Net is part of the state’s over $450 million investment in quantum company […]"
-    },
-    {
-      "title": "Quantum Machine-Learning Design Targets Training And Scaling Barriers",
-      "link": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-28T12:56:43.000Z",
-      "snippet": "Insider Brief A proposed quantum machine-learning framework could make larger quantum neural networks easier to train while preserving computations that are difficult for conventional computers to reproduce. The study, posted on the arXiv preprint server, presents two quantum-circuit designs intended to address several problems that have limited efforts to use quantum computers for machine learnin"
-    },
-    {
-      "title": "EigenQ Appoints Mark Pecen as Vice Chairman and Alexander Truskovsky as CISO",
-      "link": "https://thequantuminsider.com/2026/07/28/eigenq-appoints-mark-pecen-alexander-truskovsky-ciso/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-28T11:20:09.000Z",
-      "snippet": "Insider Brief Press release – EigenQ, Inc. (“EigenQ” or the “Company”), a quantum technology company developing hardware and software solutions spanning post-quantum cryptography, quantum random number generation, and hardware-rooted quantum-safe infrastructure, today announced the appointment of Mark Pecen as Vice Chairman and the promotion of Alexander Truskovsky to Chief Information Security Of"
-    },
-    {
-      "title": "Guest Post — Beyond Silicon: How AI Is Accelerating the Next Era of Computing",
-      "link": "https://thequantuminsider.com/2026/07/28/guest-post-beyond-silicon-how-ai-is-accelerating-the-next-era-of-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-28T11:14:08.000Z",
-      "snippet": "Guest Post By Ian Foley The biggest story in AI may not be AI at all. It may be the growing realization that silicon is running out of road. The remarkable progress of AI over the past few years has relied largely on brute force, demanding ever more silicon, electricity and infrastructure to keep the […]"
     }
   ],
   "education": [
+    {
+      "title": "The one literacy metric schools miss: Students’ love of reading",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/31/the-one-literacy-metric-schools-miss-students-love-of-reading/",
+      "source": "eSchool News",
+      "published": "2026-07-31T10:00:00.000Z",
+      "snippet": "To ensure children build foundational reading skills in the early elementary years, educators have embraced the Science of Reading with its emphasis on phonics and phonemic awareness."
+    },
     {
       "title": "First graders need a chance to explain their math thinking",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/30/first-graders-need-a-chance-to-explain-their-math-thinking/",
@@ -1295,13 +1232,6 @@
       "source": "eSchool News",
       "published": "2026-07-29T10:00:00.000Z",
       "snippet": "Outdoor education has been shown to improve academic outcomes across subjects, including science, reading, and math, while also strengthening motivation, well-being, and school engagement. Studies also link outdoor learning to increased attendance, improved behavior, and stronger relationships among students."
-    },
-    {
-      "title": "Digital detox: Reducing screen time creates space to build literacy skills",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/28/digital-detox-reducing-screen-time-creates-space-to-build-literacy-skills/",
-      "source": "eSchool News",
-      "published": "2026-07-28T10:00:00.000Z",
-      "snippet": "Walk into almost any elementary classroom today and you will likely hear the same concern from teachers across grade levels: Many students can swipe, tap, and navigate a screen with ease, but struggle to hold a pencil comfortably, form letters fluently or sustain writing for more than a few minutes without fatigue."
     }
   ]
 }
