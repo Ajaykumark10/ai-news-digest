@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-01T20:26:04.000Z",
+      "snippet": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-01T19:45:45.000Z",
+      "snippet": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+    },
+    {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
       "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -307,34 +321,6 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-07-28T09:18:57.000Z",
       "snippet": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…"
-    },
-    {
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-28T04:30:00.000Z",
-      "snippet": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales."
-    },
-    {
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-28T00:13:33.000Z",
-      "snippet": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
-    },
-    {
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-27T21:17:11.000Z",
-      "snippet": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says."
-    },
-    {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-27T20:19:42.000Z",
-      "snippet": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
     }
   ],
   "cloud": [
@@ -1074,13 +1060,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-28T10:00:00.000Z",
       "snippet": "Daring coder gets Doom running with regular expressions at 180 seconds per frame by using one text string to the machine, engine, and video output"
-    },
-    {
-      "title": "MSI and Colorful raise Nvidia RTX 50-series prices in China by up to 59% across the entire lineup — change in distributer pricing suggests GPU price hikes are on the way",
-      "link": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-27T19:47:49.000Z",
-      "snippet": "GPU prices seem to be on the rise once again with official distributor announcements in China hiking up the entire Blackwell lineup overnight. Compared to MSRP, we're witnessing a staggering bump of up to 75% at the top-end."
     }
   ],
   "quantum": [
@@ -1297,13 +1276,6 @@
   ],
   "education": [
     {
-      "title": "The one literacy metric schools miss: Students’ love of reading",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/31/the-one-literacy-metric-schools-miss-students-love-of-reading/",
-      "source": "eSchool News",
-      "published": "2026-07-31T10:00:00.000Z",
-      "snippet": "To ensure children build foundational reading skills in the early elementary years, educators have embraced the Science of Reading with its emphasis on phonics and phonemic awareness."
-    },
-    {
       "title": "First graders need a chance to explain their math thinking",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/07/30/first-graders-need-a-chance-to-explain-their-math-thinking/",
       "source": "eSchool News",
@@ -1330,13 +1302,6 @@
       "source": "eSchool News",
       "published": "2026-07-28T10:00:00.000Z",
       "snippet": "Walk into almost any elementary classroom today and you will likely hear the same concern from teachers across grade levels: Many students can swipe, tap, and navigate a screen with ease, but struggle to hold a pencil comfortably, form letters fluently or sustain writing for more than a few minutes without fatigue."
-    },
-    {
-      "title": "Review: Canva for Campus Provides a Shared Platform for Visual Communication",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/review-canva-campus-provides-shared-platform-visual-communication",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-07-27T20:22:47.000Z",
-      "snippet": "Universities produce an enormous amount of visual content. Faculty members create lecture presentations and course materials. Marketing teams produce event promotions and recruitment campaigns. Students generate slides, videos and graphics for coursework. But keeping all of those efforts coordinated while maintaining quality and brand consistency can be difficult.\nCanva for Campus is designed to s"
     }
   ]
 }
