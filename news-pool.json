@@ -1,6 +1,34 @@
 {
   "ai": [
     {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-04T19:28:49.000Z",
+      "snippet": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
+    },
+    {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-04T15:50:06.000Z",
+      "snippet": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated."
+    },
+    {
+      "title": "Texas halts new data centers as governor calls for audits",
+      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-04T15:42:35.000Z",
+      "snippet": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink."
+    },
+    {
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-04T15:20:06.000Z",
+      "snippet": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
+    },
+    {
       "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
       "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -19,7 +47,14 @@
       "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-04T12:00:00.000Z",
-      "snippet": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built."
+      "snippet": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built."
+    },
+    {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-03T23:19:50.000Z",
+      "snippet": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
     },
     {
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
@@ -216,44 +251,44 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-30T19:44:16.000Z",
       "snippet": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
-    },
-    {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-30T18:57:58.000Z",
-      "snippet": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools."
-    },
-    {
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-30T18:05:21.000Z",
-      "snippet": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool."
-    },
-    {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-30T16:09:42.000Z",
-      "snippet": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments."
-    },
-    {
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-30T15:41:16.000Z",
-      "snippet": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way."
-    },
-    {
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-30T15:19:15.000Z",
-      "snippet": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers."
     }
   ],
   "cloud": [
+    {
+      "title": "Introducing Database Operations Agents: The future of autonomous database management",
+      "link": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents/",
+      "source": "Cloud Blog",
+      "published": "2026-08-04T16:00:00.000Z",
+      "snippet": "As part of the Agentic Data Cloud launch at Google Cloud Next ‘26, we announced two AI-powered database agents to simplify database management. These include the Database Onboarding Agent for Day 0 operations — setup, configuration, and initial deployment — as well as the Database Observability Agent for Day 1 and 2 operations, including monitoring, troubleshooting, and ongoing maintenance. \nThese"
+    },
+    {
+      "title": "How Target is enhancing retail discovery and cutting database maintenance by 50% with Spanner Graph",
+      "link": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
+      "source": "Cloud Blog",
+      "published": "2026-08-04T16:00:00.000Z",
+      "snippet": "In today’s retail environment, shoppers expect highly personalized product discovery experiences and conversational assistance that feels genuine, natural, and genuinely helpful. Today, successful product discovery is about understanding semantic meaning and the rich, connected relationships between products, categories, and guest intent. It is no longer just about keywords and basic browsing. \nAt"
+    },
+    {
+      "title": "Multiple result sets: How Database Migration Service automates SQL server to PostgreSQL translation",
+      "link": "https://cloud.google.com/blog/products/databases/automating-postgres-translations-with-database-migration-service/",
+      "source": "Cloud Blog",
+      "published": "2026-08-04T16:00:00.000Z",
+      "snippet": "In the Medium blog post, \"From MARS to SETOF REFCURSOR: Migrating Multi-Result Stored Procedures to PostgreSQL,\" we explored the fundamental architectural differences between SQL Server and PostgreSQL regarding multiple result sets. We looked at how SQL Server natively streams multiple tabular streams from a single execution, whereas PostgreSQL requires a more deliberate strategy using explicit cu"
+    },
+    {
+      "title": "How Deutsche Bank unlocked agility with an API-ready ecosystem",
+      "link": "https://cloud.google.com/blog/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank/",
+      "source": "Cloud Blog",
+      "published": "2026-08-04T16:00:00.000Z",
+      "snippet": "When people think about digital transformation in banking, they often focus on the visible results: mobile apps and new digital services. But there's an invisible infrastructure making all these services possible: APIs. At Deutsche Bank, we recognized that APIs aren't just technical plumbing; they're the nervous system of modern banking. \nA few years ago, our application landscape was dominated by"
+    },
+    {
+      "title": "Future Mode Part 2: The foundation for securing agentic browsing",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/future-mode-part-2-the-foundation-for-securing-agentic-browsing/",
+      "source": "Cloud Blog",
+      "published": "2026-08-04T10:50:00.000Z",
+      "snippet": "Editor's Note: Our Future Mode series will give businesses insight into how Chrome Enterprise is approaching AI in the browser. Stay tuned for more blogs in this series.\nFuture Mode Part 2: The foundation for securing agentic browsing\nToday, autonomous AI agents aren't just drafting emails. They’re navigating SaaS applications, synthesizing data across multiple tabs, and completing multi-step task"
+    },
     {
       "title": "Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud",
       "link": "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
@@ -274,6 +309,13 @@
       "source": "Cloud Blog",
       "published": "2026-08-03T16:00:00.000Z",
       "snippet": "To make informed decisions, businesses often need to connect their internal data with public reference data, to create a knowledge graph that connects real-world things and their relationships. However, bridging data from public and private worlds has traditionally been complex. Today, we are streamlining these connections with the general availability of Data Commons on Spanner Graph and the prev"
+    },
+    {
+      "title": "Cortex Framework v7 is GA: Build agentic workflows without disrupting SAP operations",
+      "link": "https://cloud.google.com/blog/products/sap-google-cloud/cortex-framework-v7-power-ai-agents-with-sap-data-faster/",
+      "source": "Cloud Blog",
+      "published": "2026-08-03T16:00:00.000Z",
+      "snippet": "Businesses want to quickly and safely deploy AI agents to drive revenue, mitigate risk, and optimize capital, all without disrupting mission-critical ERP systems. And to power AI agents, you need more than raw data: You need interoperable data products that act as a single, reusable source of truth, turning cryptic source system records into clear business terms. \nToday, we are announcing the gene"
     },
     {
       "title": "Behind the scenes: How we build, test, and scale Google Agent Skills",
@@ -309,29 +351,57 @@
       "source": "Cloud Blog",
       "published": "2026-07-31T13:00:00.000Z",
       "snippet": "Welcome to the second Cloud CISO Perspectives for July 2026. Today, Chris Betz, CISO, Google Cloud, and Alicja Cade, Senior Director, Office of the CISO, Google Cloud, explain what boards of directors need to know about AI security and how to prepare their organizations for security governance and business agility in the AI era.\nAs with all Cloud CISO Perspectives, the contents of this newsletter "
-    },
-    {
-      "title": "AlloyDB adds group authentication to secure enterprise scale and AI agents",
-      "link": "https://cloud.google.com/blog/products/databases/alloydb-adds-group-authentication-to-secure-enterprise-scale-and-ai-agents/",
-      "source": "Cloud Blog",
-      "published": "2026-07-30T16:00:00.000Z",
-      "snippet": "Database security traditionally relies on a fragile balance between the granular control developers need and the administrative overhead of managing thousands of individual database passwords. Between managing AI agent access, rotating static credentials, handling employee on-boarding and off-boarding, and auditing access logs, passwords remain an operational tax — and a potential security vulnera"
-    },
-    {
-      "title": "Do more with less: How GKE can reduce your cost per agent by 75%",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
-      "source": "Cloud Blog",
-      "published": "2026-07-30T16:00:00.000Z",
-      "snippet": "In today’s agentic era, modern cloud applications are evolving from a set of passive tools to fleets of autonomous digital workers that reason, plan, and take action across a wide range of tasks. \nFor platform engineering teams designing these environments, the simplest approach is often to deploy an agent on to an open-source framework like OpenClaw and Hermes running on  a virtual machine (VM). "
     }
   ],
   "hardware": [
+    {
+      "title": "More GPU price hikes loom for Asia as Japanese distributor warns of new increases — CFD Sales signals 20% to 40% higher prices on Gigabyte graphics card orders starting this month",
+      "link": "https://www.tomshardware.com/pc-components/gpus/more-gpu-price-hikes-loom-for-asia-as-japanese-distributor-warns-of-new-increases-cfd-sales-signals-20-percent-to-40-percent-higher-prices-on-gigabyte-graphics-card-orders-starting-this-month",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-04T17:38:15.000Z",
+      "snippet": "Japanese technology supplier and distributor confirms that the Gigabyte graphics card will cost between 20% and 40% more due to a new price increase."
+    },
+    {
+      "title": "US mulling ban on key Chinese networking tech in data center component crackdown — White House wants to impose restrictions in 2026, China says it will respond if necessary",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/us-mulling-ban-on-key-chinese-networking-tech-in-data-center-component-crackdown-white-house-wants-to-impose-restrictions-in-2026-china-says-it-will-respond-if-necessary",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-04T16:54:00.000Z",
+      "snippet": "Sources say that the FCC is drafting a ban on optical transceivers for data centers. These components, which convert electrical signals into light signals, are said to pose a risk as they can be used to steal data, install malware, or disrupt data center operations in the U.S."
+    },
+    {
+      "title": "Texas slams on the brakes for 1,800 data centers, power grid requirements are five times higher than peak record demand — 474 gigawatts of power requests are now subject to new moratorium",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-04T16:48:12.000Z",
+      "snippet": "Gov. Greg Abbott (R) instructed PUCT and ERCOT to pause all data center applications until they complete an audit on all the information that data center developers must submit. The move reportedly came after PUCT asked 377 data center operators to submit water and power use, of which only 28 complied."
+    },
+    {
+      "title": "Kioxia and Sandisk demonstrate the world's highest-density 3D NAND flash — 332 active layers and up to 4,800 MT/s interface",
+      "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-demonstrate-the-worlds-highest-density-3d-nand-flash-332-active-layers-and-up-to-4-800-mt-s-interface",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-04T16:15:42.000Z",
+      "snippet": "Kioxia and Sandisk introduce BiCS10 3D QLC NAND device with a record areal density of over 37 Gbit/mm^2."
+    },
+    {
+      "title": "New HBF spec outlines tech that can give GPUs terabytes of extra memory — Sandisk and SK hynix unveil spec with up to 16-Hi NAND stacks, 3 TB/s bandwidth, UCIe",
+      "link": "https://www.tomshardware.com/pc-components/ssds/sandisk-and-sk-hynix-unveil-hbf-spec-up-to-16-hi-nand-stacks-3-tb-s-bandwidth-ucie",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-04T14:42:58.000Z",
+      "snippet": "Sandisk and SK hynix formally introduce HBF specification that promises up to 3 TB/s of bandwidth eventually, though only four companies are currently interested in the technology."
+    },
     {
       "title": "PC cooling outfit Arctic reverses tariff-era price hikes after US government refund — lowers prices across lineup, including coolers and case fans",
       "link": "https://www.tomshardware.com/pc-components/cooling/pc-cooling-outfit-arctic-reverses-tariff-era-price-hikes-after-us-government-refund-lowers-prices-across-lineup-including-coolers-and-case-fans",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-04T13:37:09.000Z",
       "snippet": "The company says it is honoring its earlier promise to reverse tariff-driven price increases, becoming one of the first PC hardware vendors to publicly roll back pricing after a major court ruling."
+    },
+    {
+      "title": "Chinese chipmaking tool roadmaps examined — Beijing's nascent lithography tools target DUV production at five machines a year, and an EUV prototype with no chips",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-chipmaking-tool-roadmap-examined",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-04T13:15:00.000Z",
+      "snippet": "Ultimately, three markers will indicate whether China’s domestic DUV program is a legitimate rival or yet more state-sanctioned hot air."
     },
     {
       "title": "At least 37 people arrested in 2026 so far for protesting against data centers, most for breaking 'petty rules' — most taken into custody acted peacefully",
@@ -465,6 +535,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-03T11:45:50.000Z",
       "snippet": "As AI systems outgrow copper interconnects, TSMC, Intel, Samsung Foundry, and GlobalFoundries are pursuing four distinctly different co-packaged optics strategies to bring optical connectivity closer to compute."
+    },
+    {
+      "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+      "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+      "source": "IEEE Spectrum",
+      "published": "2026-08-03T11:38:22.000Z",
+      "snippet": "This article is brought to you by COMSOL.\nIn pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the interest for high-voltage electronics increases, the risks associated with their sudden failure must b"
     },
     {
       "title": "GPU prices keep surging in 2026 — Lack of sale discounts and rising VRAM costs keep current-gen prices sky-high",
@@ -815,51 +892,37 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-07-31T09:00:00.000Z",
       "snippet": "Microsoft released Windows NT 4.0 to manufacturing partners on this day in 1996."
-    },
-    {
-      "title": "Shanghai Aishengna named as the maker of China's first domestic immersion DUV chipmaking tools — first viable domestic 7nm-capable scanner to be completed by 2038",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/shanghai-aishengna-named-as-the-maker-of-chinas-first-domestic-immersion-duv-scanners",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-30T16:23:55.000Z",
-      "snippet": "Aishengna has been named by a single source who declined to be named, and its shareholders, SMEE, and Yuliangsheng didn’t respond to requests for comment."
-    },
-    {
-      "title": "Amazon accidentally spent $1.8 million using Claude for menial coding task, went 860% over budget —'catastrophically expensive' coding blunders discovered in internal Amazon AI usage metrics",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-30T16:08:25.000Z",
-      "snippet": "An internal presentation revealed that a failed AI deployment cost Amazon $1.8 million, while a couple of other projects resulted in hundreds of thousands of extra AI expense. What's worse is that the issue went undetected for several months."
-    },
-    {
-      "title": "PSA: Your watch band may be messing with your laptop – magnetic clasps can cause lid sensors to lock your PC",
-      "link": "https://www.tomshardware.com/laptops/psa-your-watch-band-may-be-messing-with-your-laptop-magnetic-clasps-can-cause-lid-sensors-to-lock-your-pc",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-30T15:09:46.000Z",
-      "snippet": "It’s likely a niche issue, but I discovered recently that my magnetic watch clasp was confusing an Acer laptop into thinking I was closing and opening the lid, causing me to repeatedly get logged out of Windows just as I tried to type."
-    },
-    {
-      "title": "Exploring Apple Silicon’s local AI performance with the Mac Studio and M4 Max — M4 Max beats GB10 and Strix Halo in decode throughput, but memory bandwidth isn't everything",
-      "link": "https://www.tomshardware.com/desktops/exploring-apple-silicons-local-ai-performance-with-the-mac-studio-and-m4-max-m4-max-beats-gb10-and-strix-halo-in-decode-throughput-but-memory-bandwidth-isnt-everything",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-30T14:52:28.000Z",
-      "snippet": "Apple Silicon has been a popular choice for local AI exploration thanks to its high memory bandwidth compared to other unified memory platforms. We tested the M4 Max version of Apple's Mac Studio to see whether its 546GB/s of bandwidth makes it the clear winner in local LLM inference."
-    },
-    {
-      "title": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-30T14:35:50.000Z",
-      "snippet": "Google eyes to build more TPU AI accelerators in 2028 than Nvidia, if a report by Fubon Research is correct."
-    },
-    {
-      "title": "Nvidia's fastest graphics cards get US price increase at Best Buy, Amazon — Astral RTX 5080 now costs more than 5090's MSRP, flagship card now commands more than $4,300",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-fastest-graphics-cards-get-us-price-increase-at-best-buy-amazon-astral-rtx-5080-now-costs-more-than-5090s-msrp-flagship-card-now-commands-more-than-usd4-300",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-07-30T14:34:51.000Z",
-      "snippet": "Premium Nvidia GeForce RTX 5080 and RTX 5090 graphics cards are once again selling far above MSRP, with some Asus and MSI models climbing close to $5,000."
     }
   ],
   "quantum": [
+    {
+      "title": "enQase and Light Rider Collaborate on Quantum-Safe Communication Infrastructure",
+      "link": "https://thequantuminsider.com/2026/08/04/enqase-light-rider-quantum-safe-communication-infrastructure/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-04T17:05:00.000Z",
+      "snippet": "Insider Brief Press release – enQase, a U.S.-based full-stack quantum-safe security platform, and Light Rider Inc., a quantum technology company developing secure communications, quantum entropy, and sovereign quantum infrastructure, today announced a strategic technology partnership. The companies will collaborate to evaluate, integrate, and demonstrate complementary technologies that can help or"
+    },
+    {
+      "title": "Quantum Corridor, Ciena and Toshiba Test 1.6 Tb/s Quantum-Safe Network Encryption",
+      "link": "https://thequantuminsider.com/2026/08/04/quantum-corridor-ciena-toshiba-1-6-tbps-quantum-safe-optical-encryption-live-network/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-04T14:17:23.000Z",
+      "snippet": "Insider Brief Press release – Quantum Corridor, Ciena (NYSE: CIEN) and Toshiba have completed a successful trial of high-speed quantum-safe networking on Quantum Corridor’s live commercial network in the Midwest United States. The trial demonstrates how organizations can immediately protect critical in-flight data with Ciena’s WaveLogic 6 Extreme (WL6e) 1.6 Tb/s quantum-safe encryption capabilitie"
+    },
+    {
+      "title": "Horizon Quantum Reports Second Quarter 2026 Financial Results",
+      "link": "https://thequantuminsider.com/2026/08/04/horizon-quantum-reports-q2-2026-financial-results/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-04T14:02:57.000Z",
+      "snippet": "Insider Brief Press release – Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum,” “Horizon,” or “the Company”), a pioneer of software infrastructure for quantum applications, today reported financial results for the fiscal second quarter ended June 30, 2026 (“Q2 2026”). Second Quarter 2026 Financial and Business Highlights: CEO Commentary “During the second quarter of 2026, […]"
+    },
+    {
+      "title": "IQM Confirms 2026 Outlook After Public Listing, Citing More Than €102 Million in Orders",
+      "link": "https://thequantuminsider.com/2026/08/04/iqm-confirms-2026-outlook-after-public-listing-citing-more-than-e102-million-in-orders/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-04T13:50:02.000Z",
+      "snippet": "Insider Brief IQM Quantum Computers said its public listing has strengthened its financial position and allowed it to reaffirm its 2026 outlook, according to a statement from the company. The Finnish quantum computing pioneer’s second-quarter and first-half 2026 report tells a familiar story of growing commercial activity alongside continued heavy investment and significant operating losses […]"
+    },
     {
       "title": "Thales Launches Luna 8 Hardware Security Module for Post-Quantum Cryptography Readiness",
       "link": "https://thequantuminsider.com/2026/08/04/thales-cryptographic-security-ai-post-quantum-computing/",
@@ -985,20 +1048,6 @@
       "source": "The Quantum Insider",
       "published": "2026-07-31T07:00:00.000Z",
       "snippet": "Insider Brief Press release – IBM (NYSE: IBM) and researchers from the University of Chicago today announced a demonstration in quantum computing that achieves the fundamental criteria for quantum advantage: performing computations beyond the reach of leading classical simulation methods while providing trust that the computation returned accurate results. In their new paper, “Sampling hard circui"
-    },
-    {
-      "title": "Booz Allen Backs the Search for Quantum’s Next Breakout Company",
-      "link": "https://thequantuminsider.com/2026/07/30/booz-allen-backs-the-search-for-quantums-next-breakout-company/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-30T18:48:33.000Z",
-      "snippet": "Insider Brief PRESS RELEASE —  Quantum World Congress today announced that Booz Allen will return as Presenting Sponsor of the 2026 Quantum Startup Pitch Competition, strengthening a collaboration focused on identifying, elevating, and accelerating the companies working to move quantum technologies from scientific possibility to real-world impact. The competition will take place during Quantum Wor"
-    },
-    {
-      "title": "NIST’s Andrew Regenscheid Explains the Transition to Post-Quantum Cryptography",
-      "link": "https://thequantuminsider.com/2026/07/30/nist-andrew-regenscheid-post-quantum-cryptography-transition/",
-      "source": "The Quantum Insider",
-      "published": "2026-07-30T18:26:06.000Z",
-      "snippet": "Insider Brief Press release – From our bank accounts to smartphones, all our sensitive data and devices are protected with a technology known as cryptography. Present-day cryptography essentially uses a very challenging set of math problems that are nearly impossible for current computers to solve. These math problems act as a “lock” to keep hackers […]"
     }
   ],
   "education": [
@@ -1015,6 +1064,13 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-08-03T16:45:03.000Z",
       "snippet": "The signals are undeniable: Modernized campus network infrastructure is now the central nervous system of a competitive higher education institution.\nWhen the network stumbles, the institution feels it everywhere. That’s the shift we want more campus leaders to sit with. We used to think of digital infrastructure as more of a back-office concern. It isn’t anymore. The network, the security posture"
+    },
+    {
+      "title": "What the ADA Title II Digital Accessibility Deadline Means for University IT Procurement",
+      "link": "https://edtechmagazine.com/higher/article/2026/07/what-ada-title-ii-digital-accessibility-deadline-means-university-it-procurement",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-03T14:01:34.000Z",
+      "snippet": "The original compliance date for Americans with Disabilities Act (ADA) Title II digital accessibility for large public institutions came and went in April. Then the Justice Department extended it. And for the organizations tracking this closely, the honest assessment is still that almost no one is ready.\nThat’s not a criticism. It’s a baseline. There is no time back. Every institution is well behi"
     },
     {
       "title": "The grade gap: Helping parents understand students’ academic progress",
