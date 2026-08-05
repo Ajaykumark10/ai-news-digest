@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-04T21:07:26.000Z",
+      "snippet": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-04T20:05:26.000Z",
+      "snippet": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards."
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-04T19:34:34.000Z",
+      "snippet": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
+    },
+    {
       "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
       "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -26,7 +47,7 @@
       "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-04T15:20:06.000Z",
-      "snippet": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
+      "snippet": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business."
     },
     {
       "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
@@ -209,58 +230,9 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-07-31T14:00:00.000Z",
       "snippet": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]"
-    },
-    {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-31T01:06:54.000Z",
-      "snippet": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
-    },
-    {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-30T23:25:58.000Z",
-      "snippet": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
-    },
-    {
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-30T23:08:58.000Z",
-      "snippet": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
-    },
-    {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-30T22:41:41.000Z",
-      "snippet": "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-30T20:26:38.000Z",
-      "snippet": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
-    },
-    {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-07-30T19:44:16.000Z",
-      "snippet": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
     }
   ],
   "cloud": [
-    {
-      "title": "Introducing Database Operations Agents: The future of autonomous database management",
-      "link": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents/",
-      "source": "Cloud Blog",
-      "published": "2026-08-04T16:00:00.000Z",
-      "snippet": "As part of the Agentic Data Cloud launch at Google Cloud Next ‘26, we announced two AI-powered database agents to simplify database management. These include the Database Onboarding Agent for Day 0 operations — setup, configuration, and initial deployment — as well as the Database Observability Agent for Day 1 and 2 operations, including monitoring, troubleshooting, and ongoing maintenance. \nThese"
-    },
     {
       "title": "How Target is enhancing retail discovery and cutting database maintenance by 50% with Spanner Graph",
       "link": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
@@ -355,6 +327,13 @@
   ],
   "hardware": [
     {
+      "title": "AMD doubles data center revenue year over year, but gaming revenue plunged by 31% — CEO Lisa Su says prices have 'weighed on' consumer demand but is 'optimistic' about client market",
+      "link": "https://www.tomshardware.com/tech-industry/amd-doubles-data-center-revenue-year-over-year-but-gaming-revenue-plunged-by-31-percent-ceo-lisa-su-says-prices-have-weighed-on-consumer-demand-but-is-optimistic-about-client-market",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-04T22:03:07.000Z",
+      "snippet": "AMD reported record revenue in Q2 2026, including doubling its data center business year-over-year, but gaming revenue dived 31%."
+    },
+    {
       "title": "More GPU price hikes loom for Asia as Japanese distributor warns of new increases — CFD Sales signals 20% to 40% higher prices on Gigabyte graphics card orders starting this month",
       "link": "https://www.tomshardware.com/pc-components/gpus/more-gpu-price-hikes-loom-for-asia-as-japanese-distributor-warns-of-new-increases-cfd-sales-signals-20-percent-to-40-percent-higher-prices-on-gigabyte-graphics-card-orders-starting-this-month",
       "source": " Latest from Tom's Hardware ",
@@ -367,13 +346,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-04T16:54:00.000Z",
       "snippet": "Sources say that the FCC is drafting a ban on optical transceivers for data centers. These components, which convert electrical signals into light signals, are said to pose a risk as they can be used to steal data, install malware, or disrupt data center operations in the U.S."
-    },
-    {
-      "title": "Texas slams on the brakes for 1,800 data centers, power grid requirements are five times higher than peak record demand — 474 gigawatts of power requests are now subject to new moratorium",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-04T16:48:12.000Z",
-      "snippet": "Gov. Greg Abbott (R) instructed PUCT and ERCOT to pause all data center applications until they complete an audit on all the information that data center developers must submit. The move reportedly came after PUCT asked 377 data center operators to submit water and power use, of which only 28 complied."
     },
     {
       "title": "Kioxia and Sandisk demonstrate the world's highest-density 3D NAND flash — 332 active layers and up to 4,800 MT/s interface",
@@ -903,13 +875,6 @@
       "snippet": "Insider Brief Press release – enQase, a U.S.-based full-stack quantum-safe security platform, and Light Rider Inc., a quantum technology company developing secure communications, quantum entropy, and sovereign quantum infrastructure, today announced a strategic technology partnership. The companies will collaborate to evaluate, integrate, and demonstrate complementary technologies that can help or"
     },
     {
-      "title": "Quantum Corridor, Ciena and Toshiba Test 1.6 Tb/s Quantum-Safe Network Encryption",
-      "link": "https://thequantuminsider.com/2026/08/04/quantum-corridor-ciena-toshiba-1-6-tbps-quantum-safe-optical-encryption-live-network/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-04T14:17:23.000Z",
-      "snippet": "Insider Brief Press release – Quantum Corridor, Ciena (NYSE: CIEN) and Toshiba have completed a successful trial of high-speed quantum-safe networking on Quantum Corridor’s live commercial network in the Midwest United States. The trial demonstrates how organizations can immediately protect critical in-flight data with Ciena’s WaveLogic 6 Extreme (WL6e) 1.6 Tb/s quantum-safe encryption capabilitie"
-    },
-    {
       "title": "Horizon Quantum Reports Second Quarter 2026 Financial Results",
       "link": "https://thequantuminsider.com/2026/08/04/horizon-quantum-reports-q2-2026-financial-results/",
       "source": "The Quantum Insider",
@@ -1052,6 +1017,13 @@
   ],
   "education": [
     {
+      "title": "Q&A: Texas Tech CIO Joins Statewide Quantum Committee",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/qa-texas-tech-cio-joins-statewide-quantum-committee",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-04T20:45:12.000Z",
+      "snippet": "Artificial intelligence dominates the headlines, but quantum computing isn’t far behind. That’s especially true in Texas, where Texas Tech University CIO, Vice President for IT and Executive Director of AI and Quantum Computing Lin Zhou was recently appointed by the governor to the state’s Quantum Initiative Advisory Committee. The committee will guide the new Texas Quantum Initiative, which aims "
+    },
+    {
       "title": "Does school design help or hinder adolescent learning?",
       "link": "https://www.eschoolnews.com/educational-leadership/2026/08/04/does-the-design-of-our-schools-help-or-hinder-adolescent-learning/",
       "source": "eSchool News",
@@ -1064,13 +1036,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-08-03T16:45:03.000Z",
       "snippet": "The signals are undeniable: Modernized campus network infrastructure is now the central nervous system of a competitive higher education institution.\nWhen the network stumbles, the institution feels it everywhere. That’s the shift we want more campus leaders to sit with. We used to think of digital infrastructure as more of a back-office concern. It isn’t anymore. The network, the security posture"
-    },
-    {
-      "title": "What the ADA Title II Digital Accessibility Deadline Means for University IT Procurement",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/what-ada-title-ii-digital-accessibility-deadline-means-university-it-procurement",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-03T14:01:34.000Z",
-      "snippet": "The original compliance date for Americans with Disabilities Act (ADA) Title II digital accessibility for large public institutions came and went in April. Then the Justice Department extended it. And for the organizations tracking this closely, the honest assessment is still that almost no one is ready.\nThat’s not a criticism. It’s a baseline. There is no time back. Every institution is well behi"
     },
     {
       "title": "The grade gap: Helping parents understand students’ academic progress",
