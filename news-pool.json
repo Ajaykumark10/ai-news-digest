@@ -1,11 +1,32 @@
 {
   "ai": [
     {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-07T16:16:09.000Z",
+      "snippet": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-07T14:22:49.000Z",
+      "snippet": "Airbnb will debut a new AI-powered search experience with a toggle."
+    },
+    {
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-07T14:00:00.000Z",
+      "snippet": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light.   In Lepore’s upcoming book, The Rise and Fall of the"
+    },
+    {
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-07T11:40:37.000Z",
-      "snippet": "Meta's total fine has raked up to $942 million in this case"
+      "snippet": "Meta's total fine has raked up to $942 million in this case."
     },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -13,6 +34,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-06T22:43:53.000Z",
       "snippet": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-06T17:34:42.000Z",
+      "snippet": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
     },
     {
       "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
@@ -283,6 +311,48 @@
   ],
   "cloud": [
     {
+      "title": "Zero-code, low-cost data ingestion: New BigQuery DTS capabilities",
+      "link": "https://cloud.google.com/blog/products/data-analytics/new-bigquery-data-transfer-service-capabilities/",
+      "source": "Cloud Blog",
+      "published": "2026-08-07T17:00:00.000Z",
+      "snippet": "In a fast-paced digital economy, data is your most critical engine. Yet, many enterprises find themselves trapped in a costly paradox, spending over 100 hours a week building and fixing fragile, in-house ETL pipelines or wrestling with unpredictable third-party tools.\nTrusted by thousands of customers every single day, BigQuery Data Transfer Service (DTS) eliminates this engineering burden. As a f"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-08-07T16:00:00.000Z",
+      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nAug 3 - Au"
+    },
+    {
+      "title": "How Google Cloud detects, contains, and protects against emerging threats",
+      "link": "https://cloud.google.com/blog/products/identity-security/how-google-cloud-detects-contains-and-protects-against-emerging-threats/",
+      "source": "Cloud Blog",
+      "published": "2026-08-07T16:00:00.000Z",
+      "snippet": "At Google Cloud, securing your data and business systems is our foundational commitment. We empower our customers with the tools, governance, and infrastructure needed to securely deploy workloads and maintain long-term trust.\nWe approach security from a shared fate model, and we continuously work to proactively identify and mitigate potential threats before they can compromise your data and misus"
+    },
+    {
+      "title": "Unifying Structured and Unstructured Data Insights with BQ Search Innovations",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/",
+      "source": "Cloud Blog",
+      "published": "2026-08-07T16:00:00.000Z",
+      "snippet": "Modern enterprises possess a vast amount of unstructured data, yet they frequently encounter significant challenges in managing and extracting value from it. Historically, unlocking the insights hidden within PDFs, audio files, images, and unstructured text required a fragmented architecture: moving data out of your warehouse, stitching together complex LLM pipelines, and managing disparate search"
+    },
+    {
+      "title": "GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud",
+      "link": "https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/",
+      "source": "Cloud Blog",
+      "published": "2026-08-07T16:00:00.000Z",
+      "snippet": "Live sports broadcasting represents the ultimate stress test for digital media infrastructure, where operational success or failure is measured in milliseconds and observed live by millions of viewers simultaneously. During the 2026 FIFA World Cup, the stakes reached a high for TelevisaUnivision, the leading Spanish-language media conglomerate. With Mexico serving as both a primary host nation and"
+    },
+    {
+      "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+      "source": "AWS News Blog",
+      "published": "2026-08-06T22:58:00.000Z",
+      "snippet": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days."
+    },
+    {
       "title": "Agentic Future Ready With BigQuery: Continually Improving Price-Performance, Zero Effort",
       "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/",
       "source": "Cloud Blog",
@@ -309,6 +379,13 @@
       "source": "Cloud Blog",
       "published": "2026-08-06T16:00:00.000Z",
       "snippet": "For enterprises and governments with strict compliance and sovereignty requirements, keeping sensitive data on-premises often means missing out on the latest AI. These organizations are managing three major risks:\nJurisdictional risk: Shifting local regulations, the need to protect intellectual property and the potential of foreign data access requests make local data handling essential.\nEconomic "
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-08-06T15:00:00.000Z",
+      "snippet": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation.\nThe post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog."
     },
     {
       "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
@@ -425,6 +502,48 @@
   ],
   "hardware": [
     {
+      "title": "Scientist says RAM pricing has reverted to normalized 2007 levels — memory prices have been falling exponentially for decades, but the AI shortage undid 20 years of progress in a matter of months",
+      "link": "https://www.tomshardware.com/pc-components/ram/scientist-says-ram-pricing-has-reverted-to-normalized-2007-levels-memory-prices-have-been-falling-exponentially-for-decades-but-the-ai-shortage-undid-20-years-of-progress-in-a-matter-of-months",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-07T16:58:22.000Z",
+      "snippet": "The per GB price of memory modules have gone back to 2007 levels because of AI demand. This is the first time that prices have shot up in the realm of tech, Lemire says."
+    },
+    {
+      "title": "Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies — CPU demand makes low-utilization EC2 instances a hot commodity",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-07T15:49:52.000Z",
+      "snippet": "Amazon Web Services is telling engineers to slow down on EC2 usage as it struggles to meet CPU capacity demand for external customers."
+    },
+    {
+      "title": "Protesters haul a guillotine to city council meeting about a potential AI data center, company rep cornered by protestors — ‘ it no longer felt safe to stay,’ developer escorted out by police",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-07T14:32:26.000Z",
+      "snippet": "Some protesters brought a guillotine to public consultation for a potential data center in Salem, Oregon. Even though this was displayed outside the venue, it was a confrontation between the data center's representatives and some of the community members that led the latter to leave early."
+    },
+    {
+      "title": "This week on Tom's Hardware Premium: August 7, 2026 — Inside China's lithography efforts, co-packaged optics get a spotlight, and Samsung debuts next-gen memory tech",
+      "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-7-2026-inside-chinas-lithography-efforts-co-packaged-optics-get-a-spotlight-and-samsung-debuts-next-gen-memory-tech",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-07T13:44:37.000Z",
+      "snippet": "A redesigned Bench tool, inside China's domestic Chipmaking efforts, breaking, and we offer a free technical breakdown of Samsung's latest memory-related announcements."
+    },
+    {
+      "title": "Grab an entire RTX 5090 PC for just $380 more than the standalone graphics card — save $1,550 off Alienware's Area-51 gaming rig",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-an-entire-rtx-5090-pc-for-just-usd380-more-than-the-standalone-graphics-card-save-usd1-550-off-alienwares-area-51-gaming-rig",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-07T13:38:40.000Z",
+      "snippet": "Pick up an entire Alienware RTX 5090 gaming PC for just $380 more than the RTX 5090 GPU bought separately."
+    },
+    {
+      "title": "Introducing Bench 2.0 — a revamped benchmark analyzer, exclusively for Tom's Hardware Premium subscribers",
+      "link": "https://www.tomshardware.com/pc-components/introducing-bench-2-0-a-revamped-benchmark-analyzer-exclusively-for-toms-hardware-premium-subscribers",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-07T13:27:12.000Z",
+      "snippet": "We’re pleased to introduce Bench 2.0, a ground-up rethink of our benchmarking tool that makes it the most powerful, most intuitive benchmark browser in the business. Bench 2.0 has tons of new features designed to make the data easier to understand, easier to sort through, and more usable."
+    },
+    {
       "title": "HyperX Omen Max 16 review: All bark and no bite",
       "link": "https://www.tomshardware.com/laptops/gaming-laptops/hyperx-omen-max-16-review",
       "source": " Latest from Tom's Hardware ",
@@ -451,6 +570,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-07T11:02:38.000Z",
       "snippet": "Save $130 on this gorgeous 32-inch QD-OLED gaming monitor from MSI and experience crisp visuals in 4K."
+    },
+    {
+      "title": "Elon Musk's massive Terafab chip-making facility starts to take shape — 100 million square feet of manufacturing space and $16.8B initial capital investment",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/terafab-starts-to-take-shape-100-million-square-feet-of-manufacturing-space-and-usd16-8b-initial-capital-investment",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-07T11:00:00.000Z",
+      "snippet": "SpaceX and Tesla officially begin to build the massive Terafab facility that will be three times bigger than Samsung's Pyeongtaek campus."
     },
     {
       "title": "Save $370 on this 1440p gaming PC with an RTX 5060 Ti 16GB — formidable ABS Cyclone Aqua rig ships with 20-core Intel Core i7-14700F, 16GB DDR5 and a 1TB SSD, now only $1,329.99",
@@ -899,30 +1025,44 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-03T10:00:00.000Z",
       "snippet": "PC Games Hardware has retested the GTX 1080 Ti, along with its GP102 brethren, in a range of new games across multiple resolutions. The results reveal the obvious: the 1080 Ti is still a capable GPU at 1080p, mostly thanks to its 11GB VRAM buffer, but it's highly inefficient by today's standards."
-    },
-    {
-      "title": "Grab this 240 Hz QD-OLED gaming monitor at just $300 — Gigabyte's 27-inch GO27Q24A is now $150 off at Newegg",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/grab-this-240-hz-qd-oled-gaming-monitor-at-just-usd300-gigabytes-27-inch-go27q24a-is-now-usd150-off-at-newegg",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-02T16:16:41.000Z",
-      "snippet": "Gigabyte's GO27Q24A delivers a 240Hz QD-OLED panel, HDMI 2.1, and esports-focused features for just $299.99"
-    },
-    {
-      "title": "Errant SpaceX rocket stage set to smash into the moon at 5,400 mph, seven times the speed of sound — NASA and South Korean orbiters prepare to track 3-ton TNT impact",
-      "link": "https://www.tomshardware.com/tech-industry/space/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-seven-times-the-speed-of-sound-nasa-and-south-korean-orbiters-prepare-to-track-3-ton-tnt-impact",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-02T15:44:51.000Z",
-      "snippet": "A used SpaceX rocket segment used to deliver to lunar probes in 2025 is set to crash on the surface of the moon in the near future. This event will be monitored by two satellites as scientists and researchers study the effects of an impact on the surface of the moon in preparation for future developments."
-    },
-    {
-      "title": "Microsoft Paint used as a 'monitor' to run Doom at up to 35 fps, project released by firm's Azure CTO — runs actual Doom engine and loads real shareware DOOM1.WAD",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/microsoft-paint-used-as-a-monitor-to-run-doom-at-up-to-35-fps-project-released-by-firms-azure-cto-runs-actual-doom-engine-and-loads-real-shareware-doom1-wad",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-02T14:14:24.000Z",
-      "snippet": "DoomPaint stands out from the Doom crowd as it has been developed by Microsoft's Azure CTO and because it runs using MS Paint as the viewport for in-game action."
     }
   ],
   "quantum": [
+    {
+      "title": "TuringQ Joins China’s IPO Pipeline as Quantum Firms Push Toward Commercialization",
+      "link": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-07T15:39:16.000Z",
+      "snippet": "Insider Brief Shanghai-based TuringQ has entered the IPO preparation process, becoming the latest Chinese quantum computing company to pursue a public listing as the country’s quantum sector shifts its focus from research toward commercialization. The company filed for IPO tutoring with the Shanghai branch of the China Securities Regulatory Commission on Wednesday, according to a […]"
+    },
+    {
+      "title": "Post-Quantum Cryptography Timelines: When Will Organizations Migrate?",
+      "link": "https://thequantuminsider.com/2026/08/07/post-quantum-cryptography-timelines/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-07T14:25:39.000Z",
+      "snippet": "Insider Brief Every major organization has published a timeline. Governments, technology companies, financial institutions, critical infrastructure operators, and blockchain communities – all of the major players disagree on when a cryptographically relevant quantum computer will arrive, but none of them have published a “wait and see” position. As TQI’s Year of Quantum Security coverage has […]"
+    },
+    {
+      "title": "QC Ware Demonstrates Hybrid Quantum-Classical Chemistry Workflow with IBM Quantum Hardware",
+      "link": "https://thequantuminsider.com/2026/08/07/qc-ware-hybrid-quantum-classical-chemistry-workflow-ibm-quantum/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-07T13:23:55.000Z",
+      "snippet": "Insider Brief Press release – QC Ware (“QC Ware” or the “Company”) today announced a technology demonstration of a hybrid quantum-classical computational chemistry workflow using Promethium® and IBM Quantum hardware. The demonstration calculated electrostatic interaction energy for nitric oxide reductase by combining GPU-accelerated molecular modeling and classical chemistry methods with quantum m"
+    },
+    {
+      "title": "Rigetti Computing Reports Second Quarter 2026 Financial Results",
+      "link": "https://thequantuminsider.com/2026/08/07/rigetti-computing-reports-second-quarter-2026-financial-results/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-07T13:15:54.000Z",
+      "snippet": "Insider Brief Press release – Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced financial results for the second quarter ended June 30, 2026 and provided an update on recent business and technology milestones. Second Quarter 2026 Financial Highlights “In the second quarter, we continued to execute […]"
+    },
+    {
+      "title": "Researchers Show Sunlight Can Generate Quantum Entanglement",
+      "link": "https://thequantuminsider.com/2026/08/07/researchers-show-sunlight-can-generate-quantum-entanglement/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-07T13:03:40.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Scientists have demonstrated that sunlight, as a natural light source, can generate quantum-entangled photon pairs. With their findings, the international research team challenges the long-held assumption that lasers are indispensable for preparing quantum states of light. The study recently published in Optica opens a path toward new sustainable and energy-efficient "
+    },
     {
       "title": "Canada Launches Quantum Defence Innovation Secure Hub in Calgary",
       "link": "https://thequantuminsider.com/2026/08/07/canada-launches-quantum-defence-innovation-secure-hub-calgary/",
@@ -1121,6 +1261,20 @@
     }
   ],
   "education": [
+    {
+      "title": "AI-Enabled Ghost Student Fraud: How IT Leaders Are Fighting Back",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/ai-enabled-ghost-student-fraud-how-it-leaders-are-fighting-back-perfcon",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-07T18:04:11.000Z",
+      "snippet": "First, there was the zombie college scam. Now it’s “ghost students,” bad actors leveraging artificial intelligence to create fake identities and enroll imaginary students to scoop up grants and loans. \nAI tools now allow synthetic identities to mimic genuine student behavior long enough to collect financial aid disbursements, and traditional enrollment systems are falling short. The schemes are co"
+    },
+    {
+      "title": "Schools are building AI rules before they know the destination",
+      "link": "https://www.eschoolnews.com/digital-learning/2026/08/07/schools-are-building-ai-rules-before-they-know-the-destination/",
+      "source": "eSchool News",
+      "published": "2026-08-07T10:00:00.000Z",
+      "snippet": "America’s schools are moving quickly to respond to the rise of artificial intelligence, with parents, teachers, administrators, and lawmakers working to wrap their arms around what this means for student education."
+    },
     {
       "title": "Higher Ed IT Budgets Face a Dual Threat: Federal Research Cuts and State Funding Pressure",
       "link": "https://edtechmagazine.com/higher/article/2026/08/higher-ed-it-budgets-face-dual-threat-federal-research-cuts-and-state-funding-pressure-perfcon",
