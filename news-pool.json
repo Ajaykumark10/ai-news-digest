@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-07T22:48:24.000Z",
+      "snippet": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems."
+    },
+    {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -272,41 +279,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-03T19:09:56.000Z",
       "snippet": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
-    },
-    {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-03T18:43:43.000Z",
-      "snippet": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
-    },
-    {
-      "title": "Trump’s AI protectionism has come for robotics",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-03T18:43:30.000Z",
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…"
-    },
-    {
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-03T16:40:55.000Z",
-      "snippet": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications."
-    },
-    {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-03T10:00:00.000Z",
-      "snippet": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
-    },
-    {
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-03T08:30:05.000Z",
-      "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…"
     }
   ],
   "cloud": [
@@ -337,6 +309,13 @@
       "source": "Cloud Blog",
       "published": "2026-08-07T16:00:00.000Z",
       "snippet": "Modern enterprises possess a vast amount of unstructured data, yet they frequently encounter significant challenges in managing and extracting value from it. Historically, unlocking the insights hidden within PDFs, audio files, images, and unstructured text required a fragmented architecture: moving data out of your warehouse, stitching together complex LLM pipelines, and managing disparate search"
+    },
+    {
+      "title": "GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud",
+      "link": "https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/",
+      "source": "Cloud Blog",
+      "published": "2026-08-07T16:00:00.000Z",
+      "snippet": "Live sports broadcasting represents the ultimate stress test for digital media infrastructure, where operational success or failure is measured in milliseconds and observed live by millions of viewers simultaneously. During the 2026 FIFA World Cup, the stakes reached a high for TelevisaUnivision, the leading Spanish-language media conglomerate. With Mexico serving as both a primary host nation and"
     },
     {
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
@@ -456,44 +435,100 @@
       "source": "Cloud Blog",
       "published": "2026-08-04T10:50:00.000Z",
       "snippet": "Editor's Note: Our Future Mode series will give businesses insight into how Chrome Enterprise is approaching AI in the browser. Stay tuned for more blogs in this series.\nFuture Mode Part 2: The foundation for securing agentic browsing\nToday, autonomous AI agents aren't just drafting emails. They’re navigating SaaS applications, synthesizing data across multiple tabs, and completing multi-step task"
-    },
-    {
-      "title": "Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud",
-      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
-      "source": "Cloud Blog",
-      "published": "2026-08-03T17:00:00.000Z",
-      "snippet": "For too long, enterprises with legacy mainframe estates have been faced with a high-stakes dilemma: continue maintaining their mainframes, essentially kicking the modernization can down the road (fully aware that delayed action only compounds future technical debt), or perform \"big bang\" modernization with more unknowns and risks.\nAt Google Cloud, we propose an alternative: a modernization strateg"
-    },
-    {
-      "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
-      "source": "AWS News Blog",
-      "published": "2026-08-03T16:12:30.000Z",
-      "snippet": "Last week I had the joy of participating in Amazon’s “Bring Your Kids to Work Day” with my 7 year old son. We commuted together into the New York City office, his first real rush hour train ride, and spent the day exploring how Amazon uses AI, machine learning, and robotics to deliver packages to […]"
-    },
-    {
-      "title": "Unifying public and private data: Scale knowledge graphs with Data Commons on Spanner",
-      "link": "https://cloud.google.com/blog/products/databases/unify-public-and-private-data-with-data-commons-on-spanner-graph/",
-      "source": "Cloud Blog",
-      "published": "2026-08-03T16:00:00.000Z",
-      "snippet": "To make informed decisions, businesses often need to connect their internal data with public reference data, to create a knowledge graph that connects real-world things and their relationships. However, bridging data from public and private worlds has traditionally been complex. Today, we are streamlining these connections with the general availability of Data Commons on Spanner Graph and the prev"
-    },
-    {
-      "title": "Cortex Framework v7 is GA: Build agentic workflows without disrupting SAP operations",
-      "link": "https://cloud.google.com/blog/products/sap-google-cloud/cortex-framework-v7-power-ai-agents-with-sap-data-faster/",
-      "source": "Cloud Blog",
-      "published": "2026-08-03T16:00:00.000Z",
-      "snippet": "Businesses want to quickly and safely deploy AI agents to drive revenue, mitigate risk, and optimize capital, all without disrupting mission-critical ERP systems. And to power AI agents, you need more than raw data: You need interoperable data products that act as a single, reusable source of truth, turning cryptic source system records into clear business terms. \nToday, we are announcing the gene"
-    },
-    {
-      "title": "Behind the scenes: How we build, test, and scale Google Agent Skills",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills/",
-      "source": "Cloud Blog",
-      "published": "2026-08-03T11:23:00.000Z",
-      "snippet": "AI agents are only as good as the instructions and context you give them. When we launched Google Agent Skills, our goal was simple: encode Google Cloud domain knowledge into structured, open-source instructions that make AI coding agents significantly smarter, safer, and more accurate.\nToday, I want to take you behind the scenes of Google Agent Skills. As a team member working directly on these s"
     }
   ],
   "hardware": [
+    {
+      "title": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-ships-in-bizarre-8-motherboard-bundle-retailers-hold-gpus-hostage-similar-to-the-crypto-boom",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T17:08:45.000Z",
+      "snippet": "Taiwanese ecommerce platform PChome24h is packaging RTX 5090 GPUs with a crazy number of motherboards, entry-to-mid-range GPUs, and several other components. While interesting, these combos are alarming as they show the direction that the PC building industry is headed."
+    },
+    {
+      "title": "Save $160 off AMD's ultimate gaming CPU combo, includes motherboard and chip cooler — $458 combo features Ryzen 7 9800X3D, B850 motherboard, and a 240mm liquid AIO",
+      "link": "https://www.tomshardware.com/pc-components/cpus/save-usd160-off-amds-ultimate-gaming-cpu-combo-includes-motherboard-and-chip-cooler-usd458-combo-features-ryzen-7-9800x3d-b850-motherboard-and-a-240mm-liquid-aio",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T14:06:16.000Z",
+      "snippet": "Newegg is offering a big discount on a Ryzen 7 9800X3D bundle that includes an MSI B850 Gaming Plus WiFi motherboard and an MSI MAG Coreliquid A13 240 AIO liquid cooler."
+    },
+    {
+      "title": "Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T13:51:24.000Z",
+      "snippet": "Residents of Gilroy, California, were caught by surprise when an Amazon data center started construction in their city. Negotiations for the project started in 2020, with public comments open until 2024, but it flew under the radar."
+    },
+    {
+      "title": "Pulsar Feinmann F01 Noctua Edition Review: Extra cool",
+      "link": "https://www.tomshardware.com/peripherals/gaming-mice/pulsar-feinmann-f01-noctua-edition-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T13:08:21.000Z",
+      "snippet": "The Pulsar Feinmann F01 Noctua Edition is a lightweight gaming mouse with a built-in fan for keeping your palm cool."
+    },
+    {
+      "title": "China's memory-making champion smashes DDR5-8800 barrier on AMD platform — CXMT chips close the gap with SK hynix",
+      "link": "https://www.tomshardware.com/pc-components/ram/chinas-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platform-cxmt-chips-close-the-gap-with-sk-hynix",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T12:35:00.000Z",
+      "snippet": "Colorful shows off the overclocking potential on new memory kits equipped with CXMT integrated circuits."
+    },
+    {
+      "title": "Atari ST Public Floppy Database now open for everyone — online archive originally designed for ST flash cart packed with classics and homebrew",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/atari-st-public-floppy-database-now-open-for-everyone-online-archive-originally-designed-for-st-flash-cart-packed-with-classics-and-homebrew",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T12:15:00.000Z",
+      "snippet": "An extensive Atari ST floppy disk database can now easily be accessed by all netizens."
+    },
+    {
+      "title": "We tested the impact of SSD speed on gaming performance in 11 titles — we analyzed from SATA to PCIe 5.0 to see whether upgrading to a faster NVMe SSD would have an impact",
+      "link": "https://www.tomshardware.com/pc-components/gpus/we-tested-the-impact-of-ssd-speed-on-gaming-performance-in-11-titles-we-analyzed-from-sata-to-pcie-5-0-to-see-whether-upgrading-to-a-faster-nvme-ssd-would-have-an-impact",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T12:05:00.000Z",
+      "snippet": "We tested gaming performance with both NVMe and SATA SSDs across 11 games to determine if upgrading to a faster drive is worth it."
+    },
+    {
+      "title": "Intel's proposed orbital data centers would manage thousands of simple LEO satellites —two-tier network puts the brains of satellite constellations in higher orbit",
+      "link": "https://www.tomshardware.com/tech-industry/space/intels-proposed-orbital-data-centers-would-manage-thousands-of-simple-leo-satellites-two-tier-network-puts-the-brains-of-satellite-constellations-in-higher-orbit",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T11:45:00.000Z",
+      "snippet": "Intel’s orbital data center architecture uses powerful higher-orbit satellites to manage LEO constellations, reducing reliance on terrestrial control centers."
+    },
+    {
+      "title": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame — worst offender takes 198 billion cycles spanning 62 seconds to execute",
+      "link": "https://www.tomshardware.com/pc-components/cpus/hardware-researcher-spins-up-cpu-deoptimization-project-to-find-the-slowest-machine-code-worst-offender-takes-198-billion-cycles-to-execute",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T11:20:00.000Z",
+      "snippet": "One hardware researcher, Christopher Domas (@xoreaxeaxeax on GitHub), is taking a different approach with the CPU Deoptimization leaderboard, which looks not to make Assembly instructions run as fast as possible, but as slow as possible to find the single instruction with the highest latency."
+    },
+    {
+      "title": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleotides — experts warn such applications are way ahead of necessary guardrails",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T11:00:00.000Z",
+      "snippet": "Researchers used Evo AI models trained on trillions of DNA building blocks to design entirely new viral genomes, 16 of which became viable bacteriophages capable of infecting and reproducing inside E. coli."
+    },
+    {
+      "title": "NASA modded space station's laptops so everyone could use the same charger — standardizing ISS chargers eliminated useless weight and reduced failure points",
+      "link": "https://www.tomshardware.com/tech-industry/space/nasa-modded-space-stations-laptops-so-everyone-could-use-the-same-charger-standardizing-iss-chargers-eliminated-useless-weight-and-reduced-failure-points",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T10:30:00.000Z",
+      "snippet": "NASA ensured that all laptops destined for use in the International Space Station had the same 'cannon' power connector by implementing a modification."
+    },
+    {
+      "title": "Modder turns Steam Controller trackpad haptics into stereo speakers with custom HID tool — Wired connection transmits 16-bit audio that sounds surprisingly full",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/modder-turns-steam-controller-trackpad-haptics-into-stereo-speakers-with-custom-hid-tool-wired-connection-transmits-16-bit-audio-that-sounds-surprisingly-full",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-08T10:00:00.000Z",
+      "snippet": "A modder has figured out how to send an audio stream to the Steam Controller's haptic motors in order to make them play pretty much anything. While the wireless connection over the puck is limited, audio quality over a USB cable is genuinely impressive for a device with no speakers."
+    },
+    {
+      "title": "Scientist says RAM pricing has risen to normalized 2007 levels, AI shortage undid 20 years of progress in a matter of months — memory prices had been falling exponentially for decades",
+      "link": "https://www.tomshardware.com/pc-components/ram/scientist-says-ram-pricing-has-reverted-to-normalized-2007-levels-memory-prices-have-been-falling-exponentially-for-decades-but-the-ai-shortage-undid-20-years-of-progress-in-a-matter-of-months",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-07T16:58:22.000Z",
+      "snippet": "The per GB price of memory modules have gone back to 2007 levels because of AI demand. This is the first time that prices have shot up in the realm of tech, Lemire says."
+    },
     {
       "title": "Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies — CPU demand makes low-utilization EC2 instances a hot commodity [Updated]",
       "link": "https://www.tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity",
@@ -509,7 +544,7 @@
       "snippet": "Some protesters brought a guillotine to public consultation for a potential data center in Salem, Oregon. Even though this was displayed outside the venue, it was a confrontation between the data center's representatives and some of the community members that led the latter to leave early."
     },
     {
-      "title": "This week on Tom's Hardware Premium: August 7, 2026 — Inside China's lithography efforts, co-packaged optics get a spotlight, and Samsung debuts next-gen memory tech",
+      "title": "This week on Tom's Hardware Premium: August 8, 2026 — Inside China's lithography efforts, co-packaged optics get a spotlight, and Samsung debuts next-gen memory tech",
       "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-7-2026-inside-chinas-lithography-efforts-co-packaged-optics-get-a-spotlight-and-samsung-debuts-next-gen-memory-tech",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-07T13:44:37.000Z",
@@ -892,125 +927,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-04T09:43:27.000Z",
       "snippet": "Pick up this 144-in-1 repair toolkit from Strebito, with 120 bits and a number of other tools, for less than $40 right now, saving you 20%."
-    },
-    {
-      "title": "New Micron lawsuit reignites fight over New York fab — complaint alleges 'forever chemicals' will flow into Oneida River",
-      "link": "https://www.tomshardware.com/pc-components/dram/new-micron-lawsuit-reignites-fight-over-new-york-fab-complaint-alleges-forever-chemicals-will-flow-into-oneida-river",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T18:04:36.000Z",
-      "snippet": "Micron's New York manufacturing facility is back in the crosshairs of another environmental lawsuit, claiming its wastewater and air permits should be nullified."
-    },
-    {
-      "title": "In a troubling sign, Nvidia RTX 50 series prices jump up to 30% in South Korea — TSMC wafer hikes and $20 GDDR7 modules push RTX 5090 past $5,100",
-      "link": "https://www.tomshardware.com/pc-components/gpus/in-a-troubling-sign-nvidia-rtx-50-series-prices-jump-up-to-30-percent-in-south-korea-tsmc-wafer-hikes-and-usd20-gddr7-modules-push-rtx-5090-past-usd5-100",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T16:39:36.000Z",
-      "snippet": "The latest round of price increases affects the entire RTX 50 lineup, with premium models bearing the brunt of rising production costs."
-    },
-    {
-      "title": "AI companies are now racing to the bottom — crashing token prices and competitive models push companies to cut costs",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-now-racing-to-the-bottom-crashing-token-prices-and-competitive-models-push-companies-to-cut-costs",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T16:26:15.000Z",
-      "snippet": "All major AI developers are cutting prices to compete with impressive new releases from China. But as they shave margins to remain competitive, the profits they'll need to fulfil investment confidence may end up further out of reach."
-    },
-    {
-      "title": "Drone flyover reveals rapid progress at Elon Musk’s new ATCF chip fab — Texas site prepares for all-in-one logic, memory, and packaging facility",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/drone-flyover-reveals-rapid-progress-at-elon-musks-atcf-chip-fab-texas-site-prepares-for-all-in-one-logic-memory-and-packaging-facility",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T15:50:56.000Z",
-      "snippet": "July drone flyovers of Elon Musk’s Advanced Technology Chip Fab in Texas appear to confirm progress has 'hit another gear.'"
-    },
-    {
-      "title": "Lexar lists 32GB DDR5 memory with homegrown Chinese chips — 3,999 Yuan ($592) price undercuts hopes for cheaper CXMT-powered RAM",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/lexar-lists-32gb-ddr5-memory-with-homegrown-chinese-chips-3-999-yuan-usd592-price-undercuts-hopes-for-cheaper-cxmt-powered-ram",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T14:51:09.000Z",
-      "snippet": "Lexar's latest Thor RGB kit likely uses CXMT-made DRAM, but its pricing remains comparable to premium DDR5 memory from established brands."
-    },
-    {
-      "title": "Microsoft raises European Xbox prices by up to £200 — RAMpocalypse and component shortages force major console markups",
-      "link": "https://www.tomshardware.com/video-games/xbox/microsoft-raises-european-xbox-prices-by-up-to-gbp200-rampocalypse-and-component-shortages-force-major-console-markups",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T14:49:11.000Z",
-      "snippet": "Xbox price increases across the UK and Europe have been revealed, with prices upped by as much as £170 or €200."
-    },
-    {
-      "title": "Asus ProArt PA32UCDMR 32-inch 4K professional OLED monitor review: Precision, speed, and flexibility",
-      "link": "https://www.tomshardware.com/monitors/asus-proart-pa32ucdmr-32-inch-4k-professional-oled-monitor-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T13:00:00.000Z",
-      "snippet": "Asus delivers professional precision and premium gaming performance with the ProArt PA32UCDMR. It also comes with a slick calibrator and controller combination, and sports an all-metal chassis with elegant style."
-    },
-    {
-      "title": "Gaming on the 4GB Radeon RX 6500 XT and GTX 1650 Super in 2026 — upscaling makes low-end GPUs viable for esports and internet cafes",
-      "link": "https://www.tomshardware.com/pc-components/gpus/gaming-on-the-4gb-radeon-rx-6500-xt-and-gtx-1650-super-in-2026",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T12:30:00.000Z",
-      "snippet": "Practically every graphics card introduced since 2022 has had at least 6GB or 8GB of VRAM, but AMD is bucking that trend in 2026 with the new RX 9050 4GB. We dusted off two older 4GB cards to see if that little VRAM means an instant performance cliff."
-    },
-    {
-      "title": "AI enthusiast unlocks and mods BIOS with Claude Code — AI defeats RSA-2048 signature checks and unlocks 55 hidden settings",
-      "link": "https://www.tomshardware.com/laptops/ai-enthusiast-mods-bios-with-claude-code-ai-defeats-rsa-2048-signature-checks-and-unlocks-55-hidden-settings",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T11:55:17.000Z",
-      "snippet": "A Redditor recently unlocked their HP laptop BIOS using Claude Code."
-    },
-    {
-      "title": "Co-Packaged Optics (CPO) foundry roadmaps — breaking down TSMC, Intel, Samsung, and GlobalFoundries' approach to next-generation scale-up connectivity",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/co-packaged-optics-cpo-foundry-roadmaps-breaking-down-tsmc-intel-samsung-and-globalfoundries-approach-to-next-generation-scale-up-connectivity",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T11:45:50.000Z",
-      "snippet": "As AI systems outgrow copper interconnects, TSMC, Intel, Samsung Foundry, and GlobalFoundries are pursuing four distinctly different co-packaged optics strategies to bring optical connectivity closer to compute."
-    },
-    {
-      "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
-      "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-      "source": "IEEE Spectrum",
-      "published": "2026-08-03T11:38:22.000Z",
-      "snippet": "This article is brought to you by COMSOL.\nIn pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the interest for high-voltage electronics increases, the risks associated with their sudden failure must b"
-    },
-    {
-      "title": "GPU prices keep surging in 2026 — Lack of sale discounts and rising VRAM costs keep current-gen prices sky-high",
-      "link": "https://www.tomshardware.com/pc-components/gpus/gpu-prices-for-current-gen-nvidia-and-amd-price-increases-why-have-the-prices-not-dropped-and-can-you-still-buy-a-cheap-gpu",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T11:30:00.000Z",
-      "snippet": "AI, tariffs, and greed have put pressure on PC builders wanting a new GPU. Can you still get a cheap GPU?"
-    },
-    {
-      "title": "Arm yourself with a Hall Effect controller for just $9 — GameSir's Tegenaria Lite PC controller is 50% off for a limited time",
-      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/arm-yourself-with-a-hall-effect-controller-for-just-usd9-gamesirs-tegenaria-lite-pc-controller-is-50-percent-off-for-a-limited-time",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T11:00:52.000Z",
-      "snippet": "Pick up a gaming controller complete with drift-free hall-effect thumbsticks for half the price."
-    },
-    {
-      "title": "World’s smallest GPU silicon passes real-world testing — 240,000-transistor TinyGPU v2.0 renders 3D graphics at up to 15 FPS while v3.0 prepares for 2026 release",
-      "link": "https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T11:00:00.000Z",
-      "snippet": "The TinyGPU v2.0 'standalone GPU' silicon works, and was demonstrated in a video after it came back from its Tiny Tapeout production run."
-    },
-    {
-      "title": "Hideo Kojima unveils a Death Stranding 2-themed wireless CD player — Limited edition device costs ~$160, comes with Bluetooth 5.3 & exclusive artwork",
-      "link": "https://www.tomshardware.com/peripherals/hideo-kojima-unveils-a-death-stranding-2-themed-wireless-cd-player-limited-edition-device-costs-usd160-comes-with-bluetooth-5-3-and-exclusive-artwork",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T10:30:00.000Z",
-      "snippet": "Kojima is partnering up with km5 to release a limited-edition version of the CP1 wireless CD player designed to resemble a BB Pod from Death Stranding 2. The nuclear orange aesthetic resembles classic retro tech of bygone eras, but the player itself is rather feature-rich, too."
-    },
-    {
-      "title": "Grab 32GB of Corsair DDR5 for an effective $230 right now in this 9950X3D combo deal —Newegg RAM bundle ships with 16-core AMD X3D chip alongside an MSI X870E board and a free 240mm cooler for $1,308",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-32gb-of-corsair-ddr5-for-an-effective-usd230-right-now-in-this-9950x3d-combo-deal-newegg-ram-bundle-ships-with-16-core-amd-x3d-chip-alongside-an-msi-x870e-board-and-a-free-240mm-cooler-for-usd1-308",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T10:17:24.000Z",
-      "snippet": "This Newegg RAM bundles ships with the 16-core AMD Ryzen 9 9950X3D, an MSI MPG X870E keyboard, and 32GB of Corsair Vengeance DDR5 RAM for $1,308.99, making the effective RAM cost just $230."
-    },
-    {
-      "title": "Ten years later, the iconic GTX 1080 Ti still holds up in 1080p gaming, but not without showing its age — Redux testing highlights the wonders of 11GB VRAM & the woes of time",
-      "link": "https://www.tomshardware.com/pc-components/gpus/ten-years-later-the-iconic-gtx-1080-ti-still-holds-up-in-1080p-gaming-but-not-without-showing-its-age-redux-testing-highlights-the-wonders-of-11gb-vram-and-the-woes-of-time",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-03T10:00:00.000Z",
-      "snippet": "PC Games Hardware has retested the GTX 1080 Ti, along with its GP102 brethren, in a range of new games across multiple resolutions. The results reveal the obvious: the 1080 Ti is still a capable GPU at 1080p, mostly thanks to its 11GB VRAM buffer, but it's highly inefficient by today's standards."
     }
   ],
   "quantum": [
@@ -1041,6 +957,13 @@
       "source": "The Quantum Insider",
       "published": "2026-08-07T13:15:54.000Z",
       "snippet": "Insider Brief Press release – Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced financial results for the second quarter ended June 30, 2026 and provided an update on recent business and technology milestones. Second Quarter 2026 Financial Highlights “In the second quarter, we continued to execute […]"
+    },
+    {
+      "title": "Researchers Show Sunlight Can Generate Quantum Entanglement",
+      "link": "https://thequantuminsider.com/2026/08/07/researchers-show-sunlight-can-generate-quantum-entanglement/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-07T13:03:40.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Scientists have demonstrated that sunlight, as a natural light source, can generate quantum-entangled photon pairs. With their findings, the international research team challenges the long-held assumption that lasers are indispensable for preparing quantum states of light. The study recently published in Optica opens a path toward new sustainable and energy-efficient "
     },
     {
       "title": "Canada Launches Quantum Defence Innovation Secure Hub in Calgary",
@@ -1241,6 +1164,13 @@
   ],
   "education": [
     {
+      "title": "AI-Enabled Ghost Student Fraud: How IT Leaders Are Fighting Back",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/ai-enabled-ghost-student-fraud-how-it-leaders-are-fighting-back-perfcon",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-07T18:04:11.000Z",
+      "snippet": "First, there was the zombie college scam. Now it’s “ghost students,” bad actors leveraging artificial intelligence to create fake identities and enroll imaginary students to scoop up grants and loans. \nAI tools now allow synthetic identities to mimic genuine student behavior long enough to collect financial aid disbursements, and traditional enrollment systems are falling short. The schemes are co"
+    },
+    {
       "title": "Schools are building AI rules before they know the destination",
       "link": "https://www.eschoolnews.com/digital-learning/2026/08/07/schools-are-building-ai-rules-before-they-know-the-destination/",
       "source": "eSchool News",
@@ -1288,27 +1218,6 @@
       "source": "eSchool News",
       "published": "2026-08-04T10:00:00.000Z",
       "snippet": "Adolescence is one of the most consequential periods of human development, yet the environments designed to support it often fail to reflect its complexity. Spanning ages 10 to 18, this stage is marked by rapid neurological, emotional, and social transformation."
-    },
-    {
-      "title": "How Campus Network Infrastructure Defines Student Experience and Enrollment",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/campus-network-infrastructure-student-experience",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-03T16:45:03.000Z",
-      "snippet": "The signals are undeniable: Modernized campus network infrastructure is now the central nervous system of a competitive higher education institution.\nWhen the network stumbles, the institution feels it everywhere. That’s the shift we want more campus leaders to sit with. We used to think of digital infrastructure as more of a back-office concern. It isn’t anymore. The network, the security posture"
-    },
-    {
-      "title": "What the ADA Title II Digital Accessibility Deadline Means for University IT Procurement",
-      "link": "https://edtechmagazine.com/higher/article/2026/07/what-ada-title-ii-digital-accessibility-deadline-means-university-it-procurement",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-03T14:01:34.000Z",
-      "snippet": "The original compliance date for Americans with Disabilities Act (ADA) Title II digital accessibility for large public institutions came and went in April. Then the Justice Department extended it. And for the organizations tracking this closely, the honest assessment is still that almost no one is ready.\nThat’s not a criticism. It’s a baseline. There is no time back. Every institution is well behi"
-    },
-    {
-      "title": "The grade gap: Helping parents understand students’ academic progress",
-      "link": "https://www.eschoolnews.com/educational-leadership/2026/08/03/the-grade-gap-helping-parents-understand-students-academic-progress/",
-      "source": "eSchool News",
-      "published": "2026-08-03T10:00:00.000Z",
-      "snippet": "For as long as school has existed, so has the parental question: How are my kids doing? For nearly two centuries, educators have used some type of report card to communicate with families how their children are progressing in school."
     }
   ]
 }
