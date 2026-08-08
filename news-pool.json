@@ -1,11 +1,18 @@
 {
   "ai": [
     {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-07T21:30:11.000Z",
+      "snippet": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+    },
+    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-07T16:16:09.000Z",
-      "snippet": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
+      "snippet": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
     },
     {
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
@@ -26,7 +33,7 @@
       "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-07T11:40:37.000Z",
-      "snippet": "Meta's total fine has raked up to $942 million in this case."
+      "snippet": "Meta's total fine has racked up to $942 million in this case."
     },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -300,13 +307,6 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-08-03T08:30:05.000Z",
       "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…"
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-02T20:54:22.000Z",
-      "snippet": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\""
     }
   ],
   "cloud": [
@@ -337,13 +337,6 @@
       "source": "Cloud Blog",
       "published": "2026-08-07T16:00:00.000Z",
       "snippet": "Modern enterprises possess a vast amount of unstructured data, yet they frequently encounter significant challenges in managing and extracting value from it. Historically, unlocking the insights hidden within PDFs, audio files, images, and unstructured text required a fragmented architecture: moving data out of your warehouse, stitching together complex LLM pipelines, and managing disparate search"
-    },
-    {
-      "title": "GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud",
-      "link": "https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/",
-      "source": "Cloud Blog",
-      "published": "2026-08-07T16:00:00.000Z",
-      "snippet": "Live sports broadcasting represents the ultimate stress test for digital media infrastructure, where operational success or failure is measured in milliseconds and observed live by millions of viewers simultaneously. During the 2026 FIFA World Cup, the stakes reached a high for TelevisaUnivision, the leading Spanish-language media conglomerate. With Mexico serving as both a primary host nation and"
     },
     {
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
@@ -502,14 +495,7 @@
   ],
   "hardware": [
     {
-      "title": "Scientist says RAM pricing has reverted to normalized 2007 levels — memory prices have been falling exponentially for decades, but the AI shortage undid 20 years of progress in a matter of months",
-      "link": "https://www.tomshardware.com/pc-components/ram/scientist-says-ram-pricing-has-reverted-to-normalized-2007-levels-memory-prices-have-been-falling-exponentially-for-decades-but-the-ai-shortage-undid-20-years-of-progress-in-a-matter-of-months",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-07T16:58:22.000Z",
-      "snippet": "The per GB price of memory modules have gone back to 2007 levels because of AI demand. This is the first time that prices have shot up in the realm of tech, Lemire says."
-    },
-    {
-      "title": "Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies — CPU demand makes low-utilization EC2 instances a hot commodity",
+      "title": "Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies — CPU demand makes low-utilization EC2 instances a hot commodity [Updated]",
       "link": "https://www.tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-07T15:49:52.000Z",
@@ -1057,13 +1043,6 @@
       "snippet": "Insider Brief Press release – Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced financial results for the second quarter ended June 30, 2026 and provided an update on recent business and technology milestones. Second Quarter 2026 Financial Highlights “In the second quarter, we continued to execute […]"
     },
     {
-      "title": "Researchers Show Sunlight Can Generate Quantum Entanglement",
-      "link": "https://thequantuminsider.com/2026/08/07/researchers-show-sunlight-can-generate-quantum-entanglement/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-07T13:03:40.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Scientists have demonstrated that sunlight, as a natural light source, can generate quantum-entangled photon pairs. With their findings, the international research team challenges the long-held assumption that lasers are indispensable for preparing quantum states of light. The study recently published in Optica opens a path toward new sustainable and energy-efficient "
-    },
-    {
       "title": "Canada Launches Quantum Defence Innovation Secure Hub in Calgary",
       "link": "https://thequantuminsider.com/2026/08/07/canada-launches-quantum-defence-innovation-secure-hub-calgary/",
       "source": "The Quantum Insider",
@@ -1261,13 +1240,6 @@
     }
   ],
   "education": [
-    {
-      "title": "AI-Enabled Ghost Student Fraud: How IT Leaders Are Fighting Back",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/ai-enabled-ghost-student-fraud-how-it-leaders-are-fighting-back-perfcon",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-07T18:04:11.000Z",
-      "snippet": "First, there was the zombie college scam. Now it’s “ghost students,” bad actors leveraging artificial intelligence to create fake identities and enroll imaginary students to scoop up grants and loans. \nAI tools now allow synthetic identities to mimic genuine student behavior long enough to collect financial aid disbursements, and traditional enrollment systems are falling short. The schemes are co"
-    },
     {
       "title": "Schools are building AI rules before they know the destination",
       "link": "https://www.eschoolnews.com/digital-learning/2026/08/07/schools-are-building-ai-rules-before-they-know-the-destination/",
