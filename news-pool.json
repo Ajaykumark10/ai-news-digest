@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-11T21:39:11.000Z",
+      "snippet": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+    },
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-11T19:15:35.000Z",
+      "snippet": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
+    },
+    {
       "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
       "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -174,20 +188,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-07T14:00:00.000Z",
       "snippet": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light.   In Lepore’s upcoming book, The Rise and Fall of the"
-    },
-    {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-07T11:40:37.000Z",
-      "snippet": "Meta's total fine has racked up to $942 million in this case."
-    },
-    {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-06T22:43:53.000Z",
-      "snippet": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
     }
   ],
   "cloud": [
@@ -288,16 +288,107 @@
       "source": "Cloud Blog",
       "published": "2026-08-07T16:00:00.000Z",
       "snippet": "Live sports broadcasting represents the ultimate stress test for digital media infrastructure, where operational success or failure is measured in milliseconds and observed live by millions of viewers simultaneously. During the 2026 FIFA World Cup, the stakes reached a high for TelevisaUnivision, the leading Spanish-language media conglomerate. With Mexico serving as both a primary host nation and"
-    },
-    {
-      "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
-      "source": "AWS News Blog",
-      "published": "2026-08-06T22:58:00.000Z",
-      "snippet": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days."
     }
   ],
   "hardware": [
+    {
+      "title": "YMTC breaks into the top three NAND makers for the first time as AI servers swallow 48% of all flash — Chinese vendor has 14% share, according to research",
+      "link": "https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T12:35:44.000Z",
+      "snippet": "Samsung led with 25%, SK hynix followed at 22%, and Micron rounded out the top five."
+    },
+    {
+      "title": "GMKtec Evo-T2 review: Panther Lake for a price",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/gmktec-evo-t2-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T12:05:00.000Z",
+      "snippet": "GMKtec has positioned its new Evo-T2 mini PC, built around Intel’s 18A Panther Lake silicon, as a compact personal AI workstation.  It is also plenty capable of performing well in office productivity and gaming with 64GB LPDDR5X-8533 RAM."
+    },
+    {
+      "title": "Claude will begin digitally watermarking marking AI-generated text and images — Anthropic details how it'll comply with the EU's Artificial Intelligence Act",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-will-begin-digitally-watermarking-marking-ai-generated-text-and-images-anthropic-details-how-itll-comply-with-the-eus-artificial-intelligence-act",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T11:30:00.000Z",
+      "snippet": "European users of Anthropic's Claude models can expect that future versions of those tools will begin embedding digital marks in generated text and images to identify them as the product of AI."
+    },
+    {
+      "title": "Asobi Remote Play app lets gamers stream PS4 and PS5 games on the Steam Deck, even without a console — dev breaks PlayStation Plus Premium cloud gaming support free of the PlayStation Portal",
+      "link": "https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T11:00:00.000Z",
+      "snippet": "PlayStation Remote Play allows you to stream games from your PS4 or PS5 console to a variety of devices locally, but the Asobi: Remote Play service goes  farther by extending the PlayStation Portal's exclusive PlayStation Plus Premium cloud game streaming support to the Steam Deck and other Linux devices."
+    },
+    {
+      "title": "Samsung Foundry updates process roadmap to move 1.4nm node to 2029 — high-NA EUV will enable 1nm-class and smaller nodes in 2030 and beyond",
+      "link": "https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T11:00:00.000Z",
+      "snippet": "Samsung Foundry has delayed its 1.4nm-class node to 2029, making SF2 one of its longest-lasting process technologies ever. The company also aims to start using High-NA EUV for its 1nm-class process technology in 2030."
+    },
+    {
+      "title": "Save over $600 on a massive 18-inch gaming laptop as it falls to a new all-time low price at Amazon — Acer's Predator Helios Neo 18 AI packs an RTX 5070 Ti and 32GB of memory",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-over-usd600-on-a-massive-18-inch-gaming-laptop-as-it-falls-to-a-new-all-time-low-price-at-amazon-acers-predator-helios-neo-18-ai-packs-an-rtx-5070-ti-and-32gb-of-memory",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T10:40:20.000Z",
+      "snippet": "Acer's Predator Helios Neo 18 AI gaming laptop hits a new all-time low price at Amazon. This massive 18-inch laptop freefalls by $600 in price."
+    },
+    {
+      "title": "Passenger returning from DEF CON 34 spoofs Delta Wi-Fi network while in flight using pentest tool — pilots tell ground crew to alert corporate security after attendee from hacking conference brings the party to the sky",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/passenger-returning-from-def-con-34-spoofs-delta-wi-fi-network-while-in-flight-using-pentest-tool-pilots-tell-ground-crew-to-alert-corporate-security-after-attendee-from-hacking-conference-brings-the-party-to-the-sky",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T10:30:00.000Z",
+      "snippet": "A flight carrying passengers who attended a cybersecurity convention reportedly had its Wi-Fi network victimized by deauthentication attacks while an 'evil twin' hotspot rerouted potential victims to a phishing website. While flight safety was never affected, it's unclear if any of the other passengers had their credentials stolen while in the air."
+    },
+    {
+      "title": "Intel CEO hints at return to the memory business — says market is ripe for innovation, hints at stacking memory and CPU",
+      "link": "https://www.tomshardware.com/pc-components/dram/intel-ceo-hints-at-return-to-the-memory-business-says-market-is-ripe-for-innovation-hints-at-stacking-memory-and-cpu",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T10:05:28.000Z",
+      "snippet": "Lip-Bu Tan says he has a pet project related to a new memory architecture."
+    },
+    {
+      "title": "Save $106 on this 4TB Team Group SSD with Gen 4 speeds, now 10.2 cents per GB — Newegg coupon deal makes this T-Force G50 one of the cheapest PCIe 4.0 drives on sale right now with this amount of storage",
+      "link": "https://www.tomshardware.com/pc-components/ssds/save-usd106-on-this-4tb-team-group-ssd-with-gen-4-speeds-now-10-2-cents-per-gb-newegg-coupon-deal-makes-this-t-force-g50-one-of-the-cheapest-pcie-4-0-drives-on-sale-right-now-with-this-amount-of-storage",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T10:03:01.000Z",
+      "snippet": "Get $106 off this 4TB TeamGroup T-Force G50 SSD, offering Gen 4 speeds and a huge capacity for a price that's hard to rival right now."
+    },
+    {
+      "title": "Commodore re-releases TAC-2 joystick after 40 years for just $49 — says retro-controller is tougher than ever and now comes in five colorways",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/commodore-re-releases-tac-2-joystick-after-40-years-for-just-usd49-says-retro-controller-is-tougher-than-ever-and-now-comes-in-five-colorways",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T10:00:11.000Z",
+      "snippet": "After 40 years, Commodore has brought back the 'Totally Accurate Controller' joystick, better known among C64 and Amiga aficionados as the TAC-2."
+    },
+    {
+      "title": "Independent bookstores in Europe receive suspicious orders for thousands of books, prompting fears they'll be destroyed to train AI — sellers believe acquisitions are part of AI tech companies’ push to get more data",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-bookstores-in-europe-receive-suspicious-orders-for-thousands-of-books-prompting-fears-theyll-be-destroyed-to-train-ai-sellers-believe-acquisitions-are-part-of-ai-tech-companies-push-to-get-more-data",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T10:00:00.000Z",
+      "snippet": "Bookstores in Europe receive massive online purchases for obscure titles that haven't seen interest in years. They fear that these orders were made by AI firms looking to find more data to train their LLMs."
+    },
+    {
+      "title": "Resourceful gamer shrinks Valve’s Steam Deck into Game Boy, with custom 3D-printed cooling  — plans display around 1200x1080, 90Hz AMOLED panel",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/resourceful-gamer-shrinks-valves-steam-deck-into-game-boy-with-custom-3d-printed-cooling-plans-display-around-1200x1080-90hz-amoled-panel",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T09:30:00.000Z",
+      "snippet": "A Steam Deck enthusiast and modder is close to finalizing their ‘SteamBoy’ design."
+    },
+    {
+      "title": "Two undersea cables reportedly damaged off the coast of Perth following suspicious vessel activity — company CEO says faults happened ‘straight after each other and in close proximity'",
+      "link": "https://www.tomshardware.com/networking/two-undersea-cables-reportedly-damaged-off-the-coast-of-perth-following-suspicious-vessel-activity-company-ceo-says-faults-happened-straight-after-each-other-and-in-close-proximity",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T09:00:00.000Z",
+      "snippet": "Subco CEO Bevan Slattery said that the Australian Federal Police should determine what caused the shunt faults on two undersea cables, which happened in suspicious circumstances. They also noted that a vessel was passing over the area at the same time that the disruption happened."
+    },
+    {
+      "title": "Razer Naga V3 Pro Review: My new 23-button mouse",
+      "link": "https://www.tomshardware.com/peripherals/gaming-mice/razer-naga-v3-pro-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-11T20:18:32.000Z",
+      "snippet": "Razer's Naga V3 Pro has the same form factor as its predecessor, but it features more buttons, an upgraded sensor and switches, and better battery life."
+    },
     {
       "title": "SK hynix to expand production capacity in China as it mulls Solidigm IPO, report claims — second phase of fab could boost local production by 50%",
       "link": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-expand-production-capacity-in-china-as-it-mulls-solidigm-ipo-report-claims-second-phase-of-fab-could-boost-local-production-by-50-percent",
@@ -311,6 +402,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-11T15:06:35.000Z",
       "snippet": "AMD's marketing director shared a screenshot of the Amazon CPU best sellers list, but the four-year-old, $80 Ryzen 5 5500 was at the top of the charts."
+    },
+    {
+      "title": "Intel raises $19.7 billion to help fund future projects as 14A production looms — share sale attracted $100 billion in demand, report claims",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-raises-usd19-7-billion-to-help-fund-future-projects-as-14a-production-looms-share-sale-attracted-usd100-billion-in-demand-report-claims",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-11T13:35:25.000Z",
+      "snippet": "Intel is raising $19.7 billion through a stock offering to strengthen its finances as it expands manufacturing capacity, develops next-generation process technologies, and is trying to attract major external foundry customers."
     },
     {
       "title": "Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price — unlocking 40 CUs, eight Zen 2 cores on the repurposed PS5 APU",
@@ -773,65 +871,51 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-07T13:27:12.000Z",
       "snippet": "We’re pleased to introduce Bench 2.0, a ground-up rethink of our benchmarking tool that makes it the most powerful, most intuitive benchmark browser in the business. Bench 2.0 has tons of new features designed to make the data easier to understand, easier to sort through, and more usable."
-    },
-    {
-      "title": "HyperX Omen Max 16 review: All bark and no bite",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/hyperx-omen-max-16-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-07T12:05:00.000Z",
-      "snippet": "The Omen Max 16 definitely looks like a desktop replacement gaming laptop, but its gaming performance meows instead of roars."
-    },
-    {
-      "title": "Apple revealed the first Mac Pro 20 years ago today — its Intel Xeon-powered flagship desktop took the reins from the Power Mac G5",
-      "link": "https://www.tomshardware.com/desktops/apple-revealed-the-first-mac-pro-20-years-ago-today-its-intel-xeon-powered-flagship-desktop-took-the-reins-from-the-power-mac-g5",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-07T11:58:46.000Z",
-      "snippet": "20 years ago today Steve Jobs took to the Apple WWDC stage to unveil the first-ever Mac Pro desktop computer. This is when Mac workstations transitioned from PowerPC to Intel Xeon chips."
-    },
-    {
-      "title": "Nvidia sells RTX 50-series GPUs at MSRP during QuakeCon 2026 — graphics cards sold at launch prices more than a year after release are now considered an attraction",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-sells-rtx-50-series-gpus-at-msrp-during-quakecon-2026-graphics-cards-sold-at-launch-prices-more-than-a-year-after-release-are-now-considered-an-attraction",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-07T11:11:49.000Z",
-      "snippet": "The Nvidia booth at QuakeCon 2026 is offering Founders Edition GeForce RTX 5090, 5080, and 5070 GPUs at MSRP. Supplies are limited, though, so you should head out ASAP if you want to snag one right now."
-    },
-    {
-      "title": "MSI's magnificent 32-inch 4K OLED gaming monitor returns to its lowest-ever price of $599 — save $130 on the MAG 321UPXB, the perfect 240Hz upgrade",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/msis-magnificent-32-inch-4k-oled-gaming-monitor-returns-to-its-lowest-ever-price-of-usd599-save-usd130-on-the-mag-321upxb-the-perfect-240hz-upgrade",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-07T11:02:38.000Z",
-      "snippet": "Save $130 on this gorgeous 32-inch QD-OLED gaming monitor from MSI and experience crisp visuals in 4K."
-    },
-    {
-      "title": "Elon Musk's massive Terafab chip-making facility starts to take shape — 100 million square feet of manufacturing space and $16.8B initial capital investment",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/terafab-starts-to-take-shape-100-million-square-feet-of-manufacturing-space-and-usd16-8b-initial-capital-investment",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-07T11:00:00.000Z",
-      "snippet": "SpaceX and Tesla officially begin to build the massive Terafab facility that will be three times bigger than Samsung's Pyeongtaek campus."
-    },
-    {
-      "title": "Save $370 on this 1440p gaming PC with an RTX 5060 Ti 16GB — formidable ABS Cyclone Aqua rig ships with 20-core Intel Core i7-14700F, 16GB DDR5 and a 1TB SSD, now only $1,329.99",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd370-on-this-1440p-gaming-pc-with-an-rtx-5060-ti-16gb-formidable-abs-cyclone-aqua-rig-ships-with-20-core-intel-core-i7-14700f-16gb-ddr5-and-a-1tb-ssd-now-only-usd1-329-99",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-07T10:42:00.000Z",
-      "snippet": "Save $300 on this Newegg-made ABS Cyclone Aqua gaming PC, featuring an RTX 5060 Ti 16GB, Intel Core i7-14700F, 16GB DDR5, and a 1TB SSD for $1,399.99 right now."
-    },
-    {
-      "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker",
-      "link": "https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-07T10:30:00.000Z",
-      "snippet": "Anthropic has announced its building a team to co-design custom ASIC chips for AI inferencing workloads. This will give it greater control over its compute buildout and allow it to make its AI models specifically more efficient for its designs."
-    },
-    {
-      "title": "Claude Opus 5 mistakenly deletes dev’s entire profile directory during routine backup, responds with 'Sorry, typo' — AI tool mistakes user's home directory as temporary backup, proceeds to wipe everything to undo the error",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-opus-5-mistakenly-deletes-devs-entire-profile-directory-ai-tool-mistakes-users-home-directory-as-temporary-backup-proceeds-to-wipe-everything-to-undo-error",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-07T10:00:00.000Z",
-      "snippet": "An AI agent got confused with file path conventions and mistakenly deleted its user's entire profile folder. Claude Opus 5 apologized to the user, who called it \"the funniest and most painful AI moment I've had.\""
     }
   ],
   "quantum": [
+    {
+      "title": "Alice & Bob Joins European Quantum Error Correction Doctoral Network",
+      "link": "https://thequantuminsider.com/2026/08/12/alice-bob-partners-europe-first-doctoral-network-quantum-error-correction/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-12T12:10:48.000Z",
+      "snippet": "Insider Brief Press release – Alice & Bob, a leader in fault-tolerant quantum computing, is contributing its expertise in cat-qubit error correction to QuBriC, Europe’s first Marie Skłodowska-Curie Actions (MSCA) Doctoral Network dedicated to quantum error correction (QEC). QuBriC brings together 16 universities and seven quantum companies across Europe, including ETH Zürich, TU Delft, UCL, […]"
+    },
+    {
+      "title": "Aquark Augments Networked Radars With Quantum-Based Timing in Trial",
+      "link": "https://thequantuminsider.com/2026/08/12/aquark-augments-networked-radars-with-quantum-based-timing-in-trial/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-12T11:47:18.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Aquark Technologies, alongside the Royal Navy, Saab UK, Qinetiq and DSTL, successfully completed a UK trial, working with a Royal Navy ship’s radar system to give accurate navigation information. The trial demonstrates the benefits of integrating quantum-based time servers with two networked radars to maintain a coherent operational picture in […]"
+    },
+    {
+      "title": "Zapata Quantum and QuEra Partner on Quantum Application Development",
+      "link": "https://thequantuminsider.com/2026/08/12/zapata-quantum-quera-quantum-application-development/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-12T11:44:03.000Z",
+      "snippet": "Insider Brief Press release – Zapata Quantum (OTCQB: ZPTA) (“Zapata,” “Zapata Quantum” or the “Company”), a leader in quantum computing algorithm and application development, today announced a partnership with QuEra, a leader in neutral-atom quantum computing, aimed at closing the quantum applications gap. “QuEra‘s commitment to delivering a megaquop-class system via AWS in 2028 is […]"
+    },
+    {
+      "title": "Srirama Engineering College Launches Quantum Computing Initiative with BLOQ Quantum",
+      "link": "https://thequantuminsider.com/2026/08/12/bloq-quantum-srirama-engineering-college-tirupati-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-12T10:49:50.000Z",
+      "snippet": "Insider Brief Press release – Srirama Engineering College has become the first college in Tirupati to initiate a quantum computing initiative, marking a significant milestone in the region’s journey towards emerging quantum technologies. The institution has signed a Memorandum of Understanding (MoU) with BLOQ Quantum Pvt Ltd, a pioneering quantum technology company from Kerala, to […]"
+    },
+    {
+      "title": "Quantinuum Revenue Jumps 279% in First Earnings Report Since IPO",
+      "link": "https://thequantuminsider.com/2026/08/12/quantinuum-revenue-jumps-279-in-first-earnings-report-since-ipo/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-12T08:01:39.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantinuum reported sharply higher revenue in its first quarterly earnings report as a public company, while a $1.7 billion initial public offering gives the quantum computing company a substantial cash reserve to pursue an ambitious hardware roadmap. The trapped-ion quantum computing company reported second-quarter revenue of $8 million, up 279% […]"
+    },
+    {
+      "title": "Honda Invests in Quemix to Advance Quantum Computing Applications for Materials Research",
+      "link": "https://thequantuminsider.com/2026/08/11/honda-invests-quemix-quantum-computing-materials-research/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-11T16:29:01.000Z",
+      "snippet": "Insider Brief Press release – Quemix Inc. (Head Office: Chuo-ku, Tokyo; President and CEO: Yu-ichiro Matsushita; hereinafter “Quemix“), a company engaged in the research and development of quantum computer algorithms and software, is pleased to announce that it has received an investment from Honda Motor Co., Ltd. (Head Office: Minato-ku, Tokyo; Director, President and Representative Executive […]"
+    },
     {
       "title": "Cuba-Based Team Builds Open Platform Aimed at Making Quantum Computing Easier to Use",
       "link": "https://thequantuminsider.com/2026/08/11/cuba-based-team-builds-open-platform-aimed-at-making-quantum-computing-easier-to-use/",
@@ -978,65 +1062,16 @@
       "source": "The Quantum Insider",
       "published": "2026-08-07T13:23:55.000Z",
       "snippet": "Insider Brief Press release – QC Ware (“QC Ware” or the “Company”) today announced a technology demonstration of a hybrid quantum-classical computational chemistry workflow using Promethium® and IBM Quantum hardware. The demonstration calculated electrostatic interaction energy for nitric oxide reductase by combining GPU-accelerated molecular modeling and classical chemistry methods with quantum m"
-    },
-    {
-      "title": "Rigetti Computing Reports Second Quarter 2026 Financial Results",
-      "link": "https://thequantuminsider.com/2026/08/07/rigetti-computing-reports-second-quarter-2026-financial-results/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-07T13:15:54.000Z",
-      "snippet": "Insider Brief Press release – Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced financial results for the second quarter ended June 30, 2026 and provided an update on recent business and technology milestones. Second Quarter 2026 Financial Highlights “In the second quarter, we continued to execute […]"
-    },
-    {
-      "title": "Researchers Show Sunlight Can Generate Quantum Entanglement",
-      "link": "https://thequantuminsider.com/2026/08/07/researchers-show-sunlight-can-generate-quantum-entanglement/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-07T13:03:40.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Scientists have demonstrated that sunlight, as a natural light source, can generate quantum-entangled photon pairs. With their findings, the international research team challenges the long-held assumption that lasers are indispensable for preparing quantum states of light. The study recently published in Optica opens a path toward new sustainable and energy-efficient "
-    },
-    {
-      "title": "Canada Launches Quantum Defence Innovation Secure Hub in Calgary",
-      "link": "https://thequantuminsider.com/2026/08/07/canada-launches-quantum-defence-innovation-secure-hub-calgary/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-07T09:57:17.000Z",
-      "snippet": "Insider Brief Press release – Today, the Honourable David J. McGuinty, Minister of National Defence, announced the launch of the Quantum Defence Innovation Secure Hub (DISH) under the Bureau of Research, Engineering and Advanced Leadership in Innovation and Science (BOREALIS) in Calgary, Alberta. Quantum technologies are expected to transform defence and security through advances in sensing, secur"
-    },
-    {
-      "title": "Former Coherent CEO Chuck Mattera Joins Uviquity as Strategic Advisor",
-      "link": "https://thequantuminsider.com/2026/08/07/former-coherent-ceo-chuck-mattera-joins-uviquity-strategic-advisor/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-07T09:37:46.000Z",
-      "snippet": "Insider Brief Press release – Uviquity, a deep-tech company building integrated photonics on an aluminum nitride (AlN) platform for quantum and ultraviolet applications, today announced that Dr. Vincent D. (“Chuck”) Mattera, Jr., Founder and CEO of Avalanche Thinking, Inc. and former Chair and CEO of Coherent Corp., has joined the company as a Strategic Advisor. […]"
-    },
-    {
-      "title": "Quantum Research Focus of Summer Training School For Higher Education Students",
-      "link": "https://thequantuminsider.com/2026/08/07/quantum-research-focus-of-summer-training-school-for-higher-education-students/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-07T08:11:25.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Eighty higher education students from across the country participated in various activities and engaged with quantum science experts in a week-long summer school experience hosted by the Penn State Center for Theory of Emergent Quantum Matter (C-TEQ). “The C-TEQ summer school selects a hot topic of emergent quantum phenomena — this […]"
-    },
-    {
-      "title": "ZeroTier and Carahsoft Partner to Expand Post-Quantum Networking Access for Government",
-      "link": "https://thequantuminsider.com/2026/08/07/zerotier-carahsoft-partner-post-quantum-secure-software-defined-networking-public-sector/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-07T07:40:00.000Z",
-      "snippet": "Insider Brief Press release – ZeroTier, one of the world’s top software-defined networking companies, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a strategic partnership. Under the agreement, Carahsoft will expand access to ZeroTier solutions across the Public Sector through its distribution network, making the company’s software-defined, end-to-e"
-    },
-    {
-      "title": "Eaton Wins $7M Air Force Contract to Apply Quantum Computing to Grid Security",
-      "link": "https://thequantuminsider.com/2026/08/07/eaton-wins-7m-air-force-contract-quantum-computing-grid-security/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-07T07:15:00.000Z",
-      "snippet": "Insider Brief Press release – Intelligent power management company Eaton today announced it was awarded a $7 million, 24‑month contract from the U.S. Air Force Research Laboratory (AFRL) to apply quantum computing, machine learning and advanced visualization to improve resilience and protection at the power grid. The effort will advance new quantum-enabled algorithms and hybrid […]"
-    },
-    {
-      "title": "DARPA Selects IonQ to Produce Next-Generation Atomic Clocks",
-      "link": "https://thequantuminsider.com/2026/08/07/darpa-selects-ionq-to-produce-next-generation-atomic-clocks/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-07T07:00:00.000Z",
-      "snippet": "Insider Brief Press release – IonQ (NYSE: IONQ) announced today that it has been awarded a $28 million contract extension through the Defense Advanced Research Projects Agency (DARPA) It’s About Time program. Under the program, IonQ will advance its scalable clock production capabilities for its Evergreen-05 optical atomic clocks and deliver 125 units to U.S. […]"
     }
   ],
   "education": [
+    {
+      "title": "The biggest back-to-school challenge",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/08/12/the-biggest-back-to-school-challenge/",
+      "source": "eSchool News",
+      "published": "2026-08-12T10:00:00.000Z",
+      "snippet": "As students return to classrooms across America this fall, parents are focused on school supplies, class schedules, and academic expectations. Teachers are preparing lesson plans, organizing classrooms, and hoping for a successful year."
+    },
     {
       "title": "How to build a positive classroom in the first 5 days of school",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/08/11/how-to-build-a-positive-classroom-in-the-first-5-days-of-school/",
@@ -1057,20 +1092,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-08-07T18:04:11.000Z",
       "snippet": "First, there was the zombie college scam. Now it’s “ghost students,” bad actors leveraging artificial intelligence to create fake identities and enroll imaginary students to scoop up grants and loans. \nAI tools now allow synthetic identities to mimic genuine student behavior long enough to collect financial aid disbursements, and traditional enrollment systems are falling short. The schemes are co"
-    },
-    {
-      "title": "Schools are building AI rules before they know the destination",
-      "link": "https://www.eschoolnews.com/digital-learning/2026/08/07/schools-are-building-ai-rules-before-they-know-the-destination/",
-      "source": "eSchool News",
-      "published": "2026-08-07T10:00:00.000Z",
-      "snippet": "America’s schools are moving quickly to respond to the rise of artificial intelligence, with parents, teachers, administrators, and lawmakers working to wrap their arms around what this means for student education."
-    },
-    {
-      "title": "Higher Ed IT Budgets Face a Dual Threat: Federal Research Cuts and State Funding Pressure",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/higher-ed-it-budgets-face-dual-threat-federal-research-cuts-and-state-funding-pressure-perfcon",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-06T22:50:45.000Z",
-      "snippet": "Higher education leadership and IT teams are battling ghost students, establishing AI governance and managing competing priorities as students return to campus. Adding to this strain is a major shift in federal philosophy about National Institutes of Health grants, National Science Foundation funding and broader federal research funding cuts in what has historically been a university-centric syste"
     }
   ]
 }
