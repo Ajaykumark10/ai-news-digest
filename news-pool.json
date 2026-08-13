@@ -1,6 +1,41 @@
 {
   "ai": [
     {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-13T17:07:13.000Z",
+      "snippet": "Dali Rajic will take over as OpenAI's top salesperson."
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-13T15:30:52.000Z",
+      "snippet": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-13T15:08:00.000Z",
+      "snippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
+    },
+    {
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-13T14:34:43.000Z",
+      "snippet": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
+    },
+    {
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-08-13T13:41:10.000Z",
+      "snippet": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…"
+    },
+    {
       "title": "How kids feel about AI, in their own words",
       "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -262,6 +297,13 @@
   ],
   "cloud": [
     {
+      "title": "Using BigQuery Graphs with measures for trusted agentic workloads",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
+      "source": "Cloud Blog",
+      "published": "2026-08-13T17:00:00.000Z",
+      "snippet": "When enterprises transition from using simple chat assistants to autonomous, agentic workloads, they quickly run into a hard truth: Agents are prone to inaccurate insights when working with directly raw tables. \nBigQuery Graph helps organizations move beyond flat, static tables to represent enterprises exactly how they exist in the physical world: as interconnected business entities with real-worl"
+    },
+    {
       "title": "PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap",
       "link": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
       "source": "Cloud Blog",
@@ -281,13 +323,6 @@
       "source": "Cloud Blog",
       "published": "2026-08-11T16:00:00.000Z",
       "snippet": "Imagine this scenario: Your team decides to migrate a core application from an existing commercial database like Oracle or SQL Server to open source PostgreSQL or a fully managed service such as AlloyDB for PostgreSQL.\nThe initial phase goes smoothly. Schemas convert, tables populate, and data migration pipelines transfer terabytes of data in hours. The project looks ahead of schedule.\nThen your t"
-    },
-    {
-      "title": "Expanding connectivity in the Americas: Introducing Alisios, Canoa, and OlaLuz subsea cables",
-      "link": "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect/",
-      "source": "Cloud Blog",
-      "published": "2026-08-11T10:00:00.000Z",
-      "snippet": "The global digital economy relies on robust, resilient, and highly secure infrastructure to support everything from daily internet use to telehealth and scientific research breakthroughs. Today, Google is announcing a major expansion of our global network infrastructure in the Americas with three new subsea cable systems — Alisios, Canoa, and OlaLuz. These systems, alongside a new branch for the F"
     },
     {
       "title": "Introducing the Developer Device Platform for agentic mobile app development",
@@ -334,6 +369,27 @@
   ],
   "hardware": [
     {
+      "title": "Microsoft's nemesis drops new zero-day privilege escalation vulnerability — attack grants system-level privileges, but it could already be patched",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-nemesis-drops-new-zero-day-privilege-escalation-vulnerability-attack-grants-system-level-privileges-but-it-could-already-be-patched",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T17:36:40.000Z",
+      "snippet": "Nightmare Eclipse drops ShieldBreak, another Windows zero-day privilege escalation vulnerability, but Microsoft has rushed quickly to block it with Defender"
+    },
+    {
+      "title": "Near-packaged optics (NPO) gains ground as the industry hedges against CPO's growing pains — analysts say volume for NPO silicon photonics products will extend until the end of the decade",
+      "link": "https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T16:52:45.000Z",
+      "snippet": "The case for near-packaged optics (NPO) is strengthening, as the growing pains of co-packaged optics (CPO) become apparent. We explain the material differences between the two technologies as optics and silicon photonics make waves in the AI industry."
+    },
+    {
+      "title": "PS5 emulation arrives on Steam Deck, Astro Playroom showcased running at 0.6 FPS — milestone SharpEmu development shows promise, despite unplayable performance",
+      "link": "https://www.tomshardware.com/video-games/playstation/ps5-emulation-arrives-on-steam-deck-astro-playroom-showcased-running-at-0-6-fps-milestone-sharpemu-development-shows-promise-despite-unplayable-performance",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T13:37:59.000Z",
+      "snippet": "Astro's Playroom runs at 0.5 to 1 FPS on the Steam Deck when emulated through SharpEmu. It's not much — it's nothing at all, in fact — but just the proof-of-concept alone is enough to stir up excitement for both Steam Deck and PS5 emulation scenes."
+    },
+    {
       "title": "Keychron launches ludicrous 100-key custom macro pad — 10 x 10 ‘keyboard’ uses ‘exclusive’ Keychron Apex switches and features per-key RGB control",
       "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-launches-ludicrous-100-key-custom-macro-pad-10-x-10-keyboard-uses-exclusive-keychron-apex-switches-and-features-per-key-rgb-control",
       "source": " Latest from Tom's Hardware ",
@@ -348,7 +404,7 @@
       "snippet": "Geekom mates an Intel Meteor Lake Core Ultra 9 processor with soldered 24GB DDR5 dual-channel RAM to conjure up an attractively specified and priced mini PC for the RAMpocalypse era."
     },
     {
-      "title": "Best deals on PC setup accessories — save money on chairs, desks, monitor stands, boom arms, and more.",
+      "title": "Best deals on PC setup accessories — save money on chairs, desks, monitor stands, boom arms, and more",
       "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/best-deals-on-pc-furniture-save-money-on-chairs-desks-monitor-stands-boom-arms-and-more",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-13T12:30:00.000Z",
@@ -453,7 +509,7 @@
       "snippet": "A Redditor vibe-coded a Jellyfin front-end that mimics that old video rental stores from the 1990s. This simulation is more than just a selection screen, though, and is a complete experience on its own."
     },
     {
-      "title": "Qualcomm details Snapdragon C specs for $300 laptops for the first time — claims 67% faster performance on battery than Intel N250, AC performance remains a mystery",
+      "title": "Qualcomm details Snapdragon C specs for $300 laptops for the first time — claims 67% faster performance on battery than Intel N250, AC performance remains a mystery (updated)",
       "link": "https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-12T21:14:33.000Z",
@@ -969,30 +1025,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-09T10:40:00.000Z",
       "snippet": "Germany's strict laws surrounding depictions of Nazis meant the game had to be altered, giving it an arguably more interesting story as a result."
-    },
-    {
-      "title": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-ships-in-bizarre-8-motherboard-bundle-retailers-hold-gpus-hostage-similar-to-the-crypto-boom",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T17:08:45.000Z",
-      "snippet": "Taiwanese ecommerce platform PChome24h is packaging RTX 5090 GPUs with a crazy number of motherboards, entry-to-mid-range GPUs, and several other components. While interesting, these combos are alarming as they show the direction that the PC building industry is headed."
-    },
-    {
-      "title": "Save $160 off AMD's ultimate gaming CPU combo, includes motherboard and chip cooler — $458 combo features Ryzen 7 9800X3D, B850 motherboard, and a 240mm liquid AIO",
-      "link": "https://www.tomshardware.com/pc-components/cpus/save-usd160-off-amds-ultimate-gaming-cpu-combo-includes-motherboard-and-chip-cooler-usd458-combo-features-ryzen-7-9800x3d-b850-motherboard-and-a-240mm-liquid-aio",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T14:06:16.000Z",
-      "snippet": "Newegg is offering a big discount on a Ryzen 7 9800X3D bundle that includes an MSI B850 Gaming Plus WiFi motherboard and an MSI MAG Coreliquid A13 240 AIO liquid cooler."
-    },
-    {
-      "title": "Amazon circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T13:51:24.000Z",
-      "snippet": "Residents of Gilroy, California, were caught by surprise when an Amazon data center started construction in their city. Negotiations for the project started in 2020, with public comments open until 2024, but it flew under the radar."
     }
   ],
   "quantum": [
+    {
+      "title": "DARPA Funds Qunnect to Improve Quantum Network Reliability",
+      "link": "https://thequantuminsider.com/2026/08/13/darpa-taps-qunnect-strengthen-reliability-resilience-quantum-networks/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T14:34:10.000Z",
+      "snippet": "Insider Brief Press release – For decades, the distribution of quantum information has been confined to laboratory demonstrations because of the fragile nature of maintaining the fidelity of quantum entanglement across today’s deployed telecommunications fiber. However, today, Qunnect is the first company in the world to anchor multiple quantum networks distributing quantum information across the "
+    },
     {
       "title": "Xanadu and University of Alberta Explore Quantum Computing for Cancer Drug Discovery",
       "link": "https://thequantuminsider.com/2026/08/13/xanadu-university-alberta-partner-accelerate-pharmaceutical-discoveries-quantum-computing/",
@@ -1006,13 +1048,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-13T12:41:10.000Z",
       "snippet": "Insider Brief Press release – BTQ Technologies Corp. (“BTQ“ or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, today announced that it has signed a Memorandum of Understanding (“MOU“) with ITCENGLOBAL CO., Ltd. (“ITCENGLOBAL“) (KOSDAQ: 124500), one of Korea’s largest IT services groups, through its listed security plat"
-    },
-    {
-      "title": "New York Opens $60 Million RFP for Quantum Technology Hubs",
-      "link": "https://thequantuminsider.com/2026/08/13/new-york-opens-60-million-rfp-for-quantum-technology-hubs/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-13T11:16:00.000Z",
-      "snippet": "Insider Brief New York is seeking proposals to establish up to four quantum technology commercialization hubs across the state, offering as much as $60 million to turn research into startups, products and industry applications. Empire State Development issued the Request for Proposals as part of the state’s effort to build on its existing quantum research […]"
     },
     {
       "title": "SDT Partners With Open Quantum Design to Build Open-Source Quantum Hardware",
@@ -1258,13 +1293,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-10T07:47:14.000Z",
       "snippet": "Insider Brief U.S. lawmakers are moving to sharply increase military spending on quantum technology as Washington seeks to keep pace with China and turn years of scientific research into defense, intelligence and cybersecurity capabilities. The House is expected later this year to consider defense funding legislation that would raise annual military spending on quantum development […]"
-    },
-    {
-      "title": "Matt Kinsella (Infleqtion): Why Neutral Atoms Power Sensors, Clocks, and Computers Alike",
-      "link": "https://thequantuminsider.com/2026/08/08/matt-kinsella-infleqtion-why-neutral-atoms-power-sensors-clocks-and-computers-alike/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-08T19:00:00.000Z",
-      "snippet": "Yuval Boger interviews Matt Kinsella, CEO of Infleqtion. They discuss Infleqtion’s neutral-atom strategy, including its combination of quantum computing, sensing, and timing products, and why Matt believes that diversified approach strengthens both the business and the technology stack. Matt also shares his timeline for commercially useful quantum computing, his reaction to Google entering neutral"
     }
   ],
   "education": [
