@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "How kids feel about AI, in their own words",
+      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-08-13T09:00:00.000Z",
+      "snippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…"
+    },
+    {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
       "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -13,6 +20,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-12T20:10:40.000Z",
       "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-12T18:19:12.000Z",
+      "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
     },
     {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
@@ -269,6 +283,13 @@
       "snippet": "Imagine this scenario: Your team decides to migrate a core application from an existing commercial database like Oracle or SQL Server to open source PostgreSQL or a fully managed service such as AlloyDB for PostgreSQL.\nThe initial phase goes smoothly. Schemas convert, tables populate, and data migration pipelines transfer terabytes of data in hours. The project looks ahead of schedule.\nThen your t"
     },
     {
+      "title": "Expanding connectivity in the Americas: Introducing Alisios, Canoa, and OlaLuz subsea cables",
+      "link": "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect/",
+      "source": "Cloud Blog",
+      "published": "2026-08-11T10:00:00.000Z",
+      "snippet": "The global digital economy relies on robust, resilient, and highly secure infrastructure to support everything from daily internet use to telehealth and scientific research breakthroughs. Today, Google is announcing a major expansion of our global network infrastructure in the Americas with three new subsea cable systems — Alisios, Canoa, and OlaLuz. These systems, alongside a new branch for the F"
+    },
+    {
       "title": "Introducing the Developer Device Platform for agentic mobile app development",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/",
       "source": "Cloud Blog",
@@ -313,6 +334,125 @@
   ],
   "hardware": [
     {
+      "title": "Keychron launches ludicrous 100-key custom macro pad — 10 x 10 ‘keyboard’ uses ‘exclusive’ Keychron Apex switches and features per-key RGB control",
+      "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-launches-ludicrous-100-key-custom-macro-pad-10-x-10-keyboard-uses-exclusive-keychron-apex-switches-and-features-per-key-rgb-control",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T13:08:50.000Z",
+      "snippet": "The Keychron C100 8K macro pad features 100 customizable keys, per-key RGB lighting, and 8K polling rate to give you the ultimate advantage in productivity and gaming. It also has hot-swappable Keychron Apex switches and transparent ASA keycaps, allowing you to further customize it to your liking."
+    },
+    {
+      "title": "Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/geekom-it13-max-2026-review-meteor-lake-rides-again-in-a-usd799-mini-pc",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T13:05:00.000Z",
+      "snippet": "Geekom mates an Intel Meteor Lake Core Ultra 9 processor with soldered 24GB DDR5 dual-channel RAM to conjure up an attractively specified and priced mini PC for the RAMpocalypse era."
+    },
+    {
+      "title": "Best deals on PC setup accessories — save money on chairs, desks, monitor stands, boom arms, and more.",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/best-deals-on-pc-furniture-save-money-on-chairs-desks-monitor-stands-boom-arms-and-more",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T12:30:00.000Z",
+      "snippet": "We've scoured the internet and found the best deals on PC office and gaming furniture. Find the best desks, chairs, monitor arms, and more."
+    },
+    {
+      "title": "Maxsun Terminator B850M Pro II Motherboard Review: Comparable features, but US pricing is over MSRP",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/maxsun-terminator-b850m-pro-ii-motherboard-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T12:05:00.000Z",
+      "snippet": "Maxsun’s Terminator B850M Pro II is a decent budget option in the Micro ATX form factor, but only if you can find it for the $199.99 MSRP."
+    },
+    {
+      "title": "Coin-sized device can hack a Boeing 737’s Flight Management Computer, mess with takeoff weights, or even divert an aircraft — gadget connects to an easily accessible port that overrides commands from the pilots, uses in-flight Wi-Fi",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/coin-sized-device-can-hack-a-boeing-737s-flight-management-computer-mess-with-takeoff-weights-or-even-divert-an-aircraft-gadget-connects-to-an-easily-accessible-port-that-overrides-commands-from-the-pilots-uses-in-flight-wi-fi",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T12:04:32.000Z",
+      "snippet": "Security researchers discovered a way to tap into the avionics of a Boeing 737 and remotely give its flight management computer erroneous data through in-flight Wi-Fi. This coin-sized device plugs into a diagnostic port in the plane's avionics bay and could easily be hidden behind its protective dust cover."
+    },
+    {
+      "title": "Get 16GB of DDR5 RAM free when you buy AMD's 9900X and an Asus TUF motherboard — $659 Newegg combo saves $274, and you get a free 240mm AIO",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/get-16gb-of-ddr5-ram-free-when-you-buy-amds-9900x-and-an-asus-tuf-motherboard-usd659-newegg-combo-saves-usd274-and-you-get-a-free-240mm-aio",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T11:50:20.000Z",
+      "snippet": "Save $274 and snag 16GB of DDR5 RAM for free in this 3-item Newegg combo with Ryzen 9 9900X, Asus TUF Gaming X870E-Plus Wifi7, and 16GB of dual channel Team Group T-Force Vulkan RAM"
+    },
+    {
+      "title": "Critical 'Zoomsday' flaw enables total device takeover during Zoom calls — AI-assisted research only used 20 prompts to find an exploit to hack hundreds of millions of people.",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/zoomsday-vulnerability-let-anyone-in-a-zoom-meeting-take-over-anybody-else-ai-assisted-research-only-used-20-prompts-to-find-an-exploit-to-hack-hundred-of-millions-of-people",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T11:20:00.000Z",
+      "snippet": "Zoomsday vulnerability let anyone in a Zoom meeting take over anybody else. The vulnerability was developed with AI assistance and took research only used 20 prompts to find an exploit to hack hundred of millions of people."
+    },
+    {
+      "title": "This $57.99 8BitDo Ultimate 2 wireless controller is a brilliantly customizable option for PC gamers — fully customizable gamepad with Nintendo Switch compatibility includes dual triggers, TMR joysticks, and adjustable RGB lighting",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/this-usd57-99-8bitdo-ultimate-2-wireless-controller-is-a-brilliantly-customizable-option-for-pc-gamers-fully-customizable-gamepad-with-nintendo-switch-compatibility-includes-dual-triggers-tmr-joysticks-and-adjustable-rgb-lighting",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T11:10:28.000Z",
+      "snippet": "Save 17% on this 8BitDo Ultimate 2 game controller for your PC or Nintendo Switch right now."
+    },
+    {
+      "title": "Jump into PC gaming for under a thousand dollars with a $350 saving on this RTX 5060-powered laptop — the 15.6-inch MSI Cyborg 15 is just $949 at Walmart",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/jump-into-pc-gaming-for-under-a-thousand-dollars-with-a-usd350-saving-on-this-rtx-5060-powered-laptop-the-15-6-inch-msi-cyborg-15-is-just-usd949-at-walmart",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T11:07:46.000Z",
+      "snippet": "Bag a new gaming laptop for under $1K at Walmart, thanks to a $350 saving on the latest MSI Cyborg 15."
+    },
+    {
+      "title": "Analysts see 'increasing foundry success conviction' as Intel CEO puts $12 million more of his own money in company — analysts point to accelerating foundry progress and capex expansion",
+      "link": "https://www.tomshardware.com/pc-components/cpus/analysts-see-increasing-foundry-success-conviction-as-intel-ceo-puts-usd12-million-more-of-his-own-money-in-company-analysts-point-to-accelerating-foundry-progress-and-capex-expansion",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T11:00:00.000Z",
+      "snippet": "Intel's Lip-Bu Ran reportedly buys $12 million worth of Intel stock as analysts believe that the management is increasingly convinced about landing external customers."
+    },
+    {
+      "title": "PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct — public TV channel sues Iron Mountain data center, which hosts archival materials, to ensure preservation",
+      "link": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T10:40:00.000Z",
+      "snippet": "Public broadcaster Nine PBS is in trouble after its cloud storage provider went out of business and it now can't access more than 50TB of archival data. The data center hosting the files can't simply turn over the files, as it's legally owned by another entity, even if the channel is the ultimate owner of the stored data."
+    },
+    {
+      "title": "Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T10:20:00.000Z",
+      "snippet": "Alabama residents left powerless to stop 50 MW Bitcoin mining facility despite county and town moratoriums thanks to the state's lack of appropriate zoning laws."
+    },
+    {
+      "title": "JSAUX FlipGo Horizon Pro dual-screen portable monitor review: Jack of all trades, master of some",
+      "link": "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-horizon-pro-dual-screen-portable-monitor-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T10:05:00.000Z",
+      "snippet": "The FlipGo Horizon Pro brings dual 15.6-inch displays and a built-in hub."
+    },
+    {
+      "title": "Elon Musk says xAI will increase data center capacity 7x by 2027 — targeting 10 gigawatts of compute, up to $500 billion in revenue by the end of next year",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-xai-will-increase-data-center-capacity-7x-by-2027-targeting-10-gigawatts-of-compute-up-to-usd500-billion-in-revenue-by-the-end-of-next-year",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T10:00:00.000Z",
+      "snippet": "Elon Musk expects xAI to increase its nameplate power draw to 10 GW by late 2027, which will increase its performance by orders of magnitude what is available to AI today."
+    },
+    {
+      "title": "Cerebras shares plunge nearly 20% after missing earnings expectations — hardware sales drop but AI cloud revenue climbs 281%",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cerebras-shares-plunge-nearly-20-percent-after-missing-earnings-expectations-hardware-sales-drop-but-ai-cloud-revenue-climbs-281-percent",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T09:46:20.000Z",
+      "snippet": "Cerebras keeps growing, but misses forecast as hardware sales dip amid explosive increase of AI cloud revenue."
+    },
+    {
+      "title": "The current state of PCIe 6.0 SSDs and controllers — Marvell, Phison, and SMI prepare controllers as drives finally come to market following years of delays",
+      "link": "https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T09:40:00.000Z",
+      "snippet": "PCIe 6.0 SSDs are almost here. We review the state of PCIe 6.0 SSDs and controllers from Micron and Samsung, as well as controllers that can handle 2 Petabyte-class SSDs with 28 TB/s read/write speeds."
+    },
+    {
+      "title": "Vibe-coded app adds a 3D video rental storefront to your Jellyfin HTPC — self-hosted, open-source project brings back memories of browsing for VHS tapes on Saturday afternoons",
+      "link": "https://www.tomshardware.com/software/applications/vibe-coded-app-adds-a-3d-video-rental-storefront-to-your-jellyfin-htpc-self-hosted-open-source-project-brings-back-memories-of-browsing-for-vhs-tapes-on-saturday-afternoons",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T09:00:00.000Z",
+      "snippet": "A Redditor vibe-coded a Jellyfin front-end that mimics that old video rental stores from the 1990s. This simulation is more than just a selection screen, though, and is a complete experience on its own."
+    },
+    {
       "title": "Qualcomm details Snapdragon C specs for $300 laptops for the first time — claims 67% faster performance on battery than Intel N250, AC performance remains a mystery",
       "link": "https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery",
       "source": " Latest from Tom's Hardware ",
@@ -325,6 +465,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-12T17:00:04.000Z",
       "snippet": "Oracle plans to cut more jobs this month, with reductions on some teams reaching double-digit percentages."
+    },
+    {
+      "title": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 — 96GB card started pre-orders below $8,000 last year",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-12T15:53:19.000Z",
+      "snippet": "A data center GPU has become more expensive because of the AI boom enabled by unprecedented data center buildouts — shocking. Nvidia's RTX 6000 Pro Blackwell is now twice as costly as it was last year at the time of its launch, and 20% more expensive than even a couple of months ago."
     },
     {
       "title": "AI data center developers begin suing local jurisdictions behind bans and moratoriums — claims range from officials exceeding authority to violations of due process and equal protection laws",
@@ -843,78 +990,78 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-08T13:51:24.000Z",
       "snippet": "Residents of Gilroy, California, were caught by surprise when an Amazon data center started construction in their city. Negotiations for the project started in 2020, with public comments open until 2024, but it flew under the radar."
-    },
-    {
-      "title": "Pulsar Feinmann F01 Noctua Edition Review: Extra cool",
-      "link": "https://www.tomshardware.com/peripherals/gaming-mice/pulsar-feinmann-f01-noctua-edition-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T13:08:21.000Z",
-      "snippet": "The Pulsar Feinmann F01 Noctua Edition is a lightweight gaming mouse with a built-in fan for keeping your palm cool."
-    },
-    {
-      "title": "China's memory-making champion smashes DDR5-8800 barrier on AMD platform — CXMT chips close the gap with SK hynix",
-      "link": "https://www.tomshardware.com/pc-components/ram/chinas-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platform-cxmt-chips-close-the-gap-with-sk-hynix",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T12:35:00.000Z",
-      "snippet": "Colorful shows off the overclocking potential on new memory kits equipped with CXMT integrated circuits."
-    },
-    {
-      "title": "Atari ST Public Floppy Database now open for everyone — online archive originally designed for ST flash cart packed with classics and homebrew",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/atari-st-public-floppy-database-now-open-for-everyone-online-archive-originally-designed-for-st-flash-cart-packed-with-classics-and-homebrew",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T12:15:00.000Z",
-      "snippet": "An extensive Atari ST floppy disk database can now easily be accessed by all netizens."
-    },
-    {
-      "title": "We tested the impact of SSD speed on gaming performance in 11 titles — we analyzed from SATA to PCIe 5.0 to see whether upgrading to a faster NVMe SSD would have an impact",
-      "link": "https://www.tomshardware.com/pc-components/gpus/we-tested-the-impact-of-ssd-speed-on-gaming-performance-in-11-titles-we-analyzed-from-sata-to-pcie-5-0-to-see-whether-upgrading-to-a-faster-nvme-ssd-would-have-an-impact",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T12:05:00.000Z",
-      "snippet": "We tested gaming performance with both NVMe and SATA SSDs across 11 games to determine if upgrading to a faster drive is worth it."
-    },
-    {
-      "title": "Intel's proposed orbital data centers would manage thousands of simple LEO satellites —two-tier network puts the brains of satellite constellations in higher orbit",
-      "link": "https://www.tomshardware.com/tech-industry/space/intels-proposed-orbital-data-centers-would-manage-thousands-of-simple-leo-satellites-two-tier-network-puts-the-brains-of-satellite-constellations-in-higher-orbit",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T11:45:00.000Z",
-      "snippet": "Intel’s orbital data center architecture uses powerful higher-orbit satellites to manage LEO constellations, reducing reliance on terrestrial control centers."
-    },
-    {
-      "title": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame — worst offender takes 198 billion cycles spanning 62 seconds to execute",
-      "link": "https://www.tomshardware.com/pc-components/cpus/hardware-researcher-spins-up-cpu-deoptimization-project-to-find-the-slowest-machine-code-worst-offender-takes-198-billion-cycles-to-execute",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T11:20:00.000Z",
-      "snippet": "One hardware researcher, Christopher Domas (@xoreaxeaxeax on GitHub), is taking a different approach with the CPU Deoptimization leaderboard, which looks not to make Assembly instructions run as fast as possible, but as slow as possible to find the single instruction with the highest latency."
-    },
-    {
-      "title": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleotides — experts warn such applications are way ahead of necessary guardrails",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T11:00:00.000Z",
-      "snippet": "Researchers used Evo AI models trained on trillions of DNA building blocks to design entirely new viral genomes, 16 of which became viable bacteriophages capable of infecting and reproducing inside E. coli."
-    },
-    {
-      "title": "NASA modded space station's laptops so everyone could use the same charger — standardizing ISS chargers eliminated useless weight and reduced failure points",
-      "link": "https://www.tomshardware.com/tech-industry/space/nasa-modded-space-stations-laptops-so-everyone-could-use-the-same-charger-standardizing-iss-chargers-eliminated-useless-weight-and-reduced-failure-points",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T10:30:00.000Z",
-      "snippet": "NASA ensured that all laptops destined for use in the International Space Station had the same 'cannon' power connector by implementing a modification."
-    },
-    {
-      "title": "Modder turns Steam Controller trackpad haptics into stereo speakers with custom HID tool — Wired connection transmits 16-bit audio that sounds surprisingly full",
-      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/modder-turns-steam-controller-trackpad-haptics-into-stereo-speakers-with-custom-hid-tool-wired-connection-transmits-16-bit-audio-that-sounds-surprisingly-full",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-08T10:00:00.000Z",
-      "snippet": "A modder has figured out how to send an audio stream to the Steam Controller's haptic motors in order to make them play pretty much anything. While the wireless connection over the puck is limited, audio quality over a USB cable is genuinely impressive for a device with no speakers."
     }
   ],
   "quantum": [
+    {
+      "title": "Xanadu and University of Alberta Explore Quantum Computing for Cancer Drug Discovery",
+      "link": "https://thequantuminsider.com/2026/08/13/xanadu-university-alberta-partner-accelerate-pharmaceutical-discoveries-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T12:51:37.000Z",
+      "snippet": "Insider Brief Press release – Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, and the University of Alberta, have announced a strategic research partnership to pioneer novel quantum algorithms for cancer treatment. This partnership, led by the Xanadu algorithms team and Professor Alex Brown from the University of Alberta, aims […]"
+    },
+    {
+      "title": "BTQ Technologies Partners With ITCEN PNS to Expand Post-Quantum Security in Korea",
+      "link": "https://thequantuminsider.com/2026/08/13/btq-technologies-signs-mou-itcenglobal-post-quantum-security-korea/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T12:41:10.000Z",
+      "snippet": "Insider Brief Press release – BTQ Technologies Corp. (“BTQ“ or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, today announced that it has signed a Memorandum of Understanding (“MOU“) with ITCENGLOBAL CO., Ltd. (“ITCENGLOBAL“) (KOSDAQ: 124500), one of Korea’s largest IT services groups, through its listed security plat"
+    },
+    {
+      "title": "New York Opens $60 Million RFP for Quantum Technology Hubs",
+      "link": "https://thequantuminsider.com/2026/08/13/new-york-opens-60-million-rfp-for-quantum-technology-hubs/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T11:16:00.000Z",
+      "snippet": "Insider Brief New York is seeking proposals to establish up to four quantum technology commercialization hubs across the state, offering as much as $60 million to turn research into startups, products and industry applications. Empire State Development issued the Request for Proposals as part of the state’s effort to build on its existing quantum research […]"
+    },
+    {
+      "title": "SDT Partners With Open Quantum Design to Build Open-Source Quantum Hardware",
+      "link": "https://thequantuminsider.com/2026/08/13/sdt-joins-open-quantum-design-manufacturing-partner-open-source-quantum-hardware/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T10:18:16.000Z",
+      "snippet": "Insider Brief South Korean quantum technology company SDT has joined Open Quantum Design, a Canadian non-profit organization, as a member and will serve as its official manufacturing partner, the Seoul Economic Daily reported. SDT announced the membership on August 13, with the agreement signed at Quantum Korea 2026. Greg Dick, co-founder and CEO of OQD, […]"
+    },
+    {
+      "title": "Guest Post: Why Quantum Readiness Is Becoming a Venture Capital Question",
+      "link": "https://thequantuminsider.com/2026/08/13/why-quantum-security-is-becoming-a-venture-capital-opportunity/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T09:58:31.000Z",
+      "snippet": "Guest Post By Utkarsh Ahuja, Managing Partner and founder Moon Pursuit Capital KPMG’s latest Venture Pulse gives you a pretty good sense of where venture capital’s attention is right now. Global VC investment reached $227.4 billion in the second quarter of 2026, making it the second-highest quarter on record, and AI was behind many of […]"
+    },
+    {
+      "title": "Infleqtion Reports Q2 Revenue Growth and Raises 2026 Outlook",
+      "link": "https://thequantuminsider.com/2026/08/13/infleqtion-q2-revenue-growth-raises-2026-outlook/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T09:39:24.000Z",
+      "snippet": "Insider Brief Press release – Infleqtion, Inc. (NYSE: INFQ) (“Infleqtion” or the “Company”), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today reported record second-quarter 2026 revenue of $12.6 million, up 116% year over year, and raised its full-year 2026 revenue outlook to approximately $43 million. “Q2 was a record […]"
+    },
+    {
+      "title": "Guest Post — Quantum Strategy Demands a New Operating Model: From Uncertainty to Readiness.",
+      "link": "https://thequantuminsider.com/2026/08/13/guest-post-quantum-strategy-demands-a-new-operating-model-from-uncertainty-to-readiness/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T09:05:00.000Z",
+      "snippet": "Guest Post by Dr. Richard Padbury, Dr. Aaron Kemp, Dr. Cian Reeves. In boardrooms around the world, a familiar question keeps coming up: When will quantum advantage arrive? It is a fair question. Increasingly, though, it may be the wrong one. That is not because quantum advantage has yet to be observed. A growing number […]"
+    },
+    {
+      "title": "Kartik Srinivasan Appointed Editor-in-Chief of Optica Quantum",
+      "link": "https://thequantuminsider.com/2026/08/13/kartik-srinivasan-editor-in-chief-optica-quantum/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T07:00:00.000Z",
+      "snippet": "Insider Brief Press release – Optica Publishing Group is pleased to announce that Kartik Srinivasan has been appointed as the new editor-in-chief of Optica Quantum. Srinivasan is a National Institute of Standards and Technology (NIST) Fellow and Fellow of the NIST/University of Maryland Joint Quantum Institute, where he also serves as Co-Director and as an Adjunct […]"
+    },
     {
       "title": "D-Wave Awarded National Research Council of Canada Funding to Advance Commercial Annealing Quantum Computing",
       "link": "https://thequantuminsider.com/2026/08/12/d-wave-awarded-national-research-council-of-canada-funding-to-advance-commercial-annealing-quantum-computing/",
       "source": "The Quantum Insider",
       "published": "2026-08-12T20:38:54.000Z",
       "snippet": "Insider Brief PRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced it has been awarded up to CAD $300,000 in funding from the National Research Council of Canada’s (NRC) Applied Quantum Computing Challenge program to advance annealing ["
+    },
+    {
+      "title": "Yonsei to Install IBM Nighthawk Quantum Processor for Research and Industry Applications",
+      "link": "https://thequantuminsider.com/2026/08/12/yonsei-quantum-initiative-ibm-nighthawk-processor-installation/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-12T14:21:03.000Z",
+      "snippet": "Insider Brief The Yonsei Quantum Initiative will replace its quantum processing unit with IBM’s next-generation Nighthawk processor in November, the Seoul Economic Daily reported. IBM Miami is currently the only site operating a Nighthawk-based quantum computer, making Yonsei expected to become the world’s second research institution to install one. Yonsei is also the first institution […]"
     },
     {
       "title": "ORIENTOM and softwareQ Partner on Quantum Computing Applications for Finance",
@@ -1121,6 +1268,20 @@
     }
   ],
   "education": [
+    {
+      "title": "The foundation for student success is a positive classroom culture",
+      "link": "https://www.eschoolnews.com/sel/2026/08/13/the-foundation-for-student-success-is-a-positive-classroom-culture/",
+      "source": "eSchool News",
+      "published": "2026-08-13T10:00:00.000Z",
+      "snippet": "As the school year begins, teachers often devote significant time to planning lessons, reviewing standards, organizing classrooms, and establishing routines. While these are all essential components of effective teaching, they cannot replace the importance of creating a positive classroom culture."
+    },
+    {
+      "title": "Virtual Tech Tools Fuel Higher Ed Robotics Research",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/virtual-tech-tools-fuel-higher-ed-robotics-research",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-12T17:43:58.000Z",
+      "snippet": "The percentage of physical robots in industrial settings that are designed to work alongside humans has more than quadrupled since 2017, according to data from the nonprofit International Federation of Robotics.\nTo investigate how collaborative robots can effectively communicate with people in manufacturing, medical and other settings, a number of colleges and universities have launched research e"
+    },
     {
       "title": "Centralized Cybersecurity Operations Keeps Community Colleges Protected",
       "link": "https://edtechmagazine.com/higher/article/2026/08/centralized-cybersecurity-operations-keeps-community-colleges-protected",
