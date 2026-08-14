@@ -1,11 +1,39 @@
 {
   "ai": [
     {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-13T21:13:24.000Z",
+      "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+    },
+    {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-13T19:22:40.000Z",
+      "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-13T19:19:49.000Z",
+      "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
+    },
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-13T18:28:14.000Z",
+      "snippet": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
+    },
+    {
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-13T17:07:13.000Z",
-      "snippet": "Dali Rajic will take over as OpenAI's top salesperson."
+      "snippet": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
     },
     {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -279,20 +307,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-09T14:30:00.000Z",
       "snippet": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models."
-    },
-    {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-08T21:24:02.000Z",
-      "snippet": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040."
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-08T19:41:13.000Z",
-      "snippet": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”"
     }
   ],
   "cloud": [
@@ -304,11 +318,11 @@
       "snippet": "When enterprises transition from using simple chat assistants to autonomous, agentic workloads, they quickly run into a hard truth: Agents are prone to inaccurate insights when working with directly raw tables. \nBigQuery Graph helps organizations move beyond flat, static tables to represent enterprises exactly how they exist in the physical world: as interconnected business entities with real-worl"
     },
     {
-      "title": "PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap",
-      "link": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
-      "source": "Cloud Blog",
-      "published": "2026-08-11T16:00:00.000Z",
-      "snippet": "Securing infrastructure and services against a future cryptographically-relevant quantum computer has been a goal for Google for a decade, and we’ve dedicated ourselves to help developers by advancing open standards that can benefit everyone. As post-quantum cryptography (PQC) has matured, we’ve been rolling it out in our infrastructure for internal and customer-facing services. \nToday, we're shar"
+      "title": "The Economics of Agent Optimization: From pilots to measurable returns",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-08-12T16:00:00.000Z",
+      "snippet": "Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization.\nThe post The Economics of Agent Optimization: From pilots to measurable returns appeared first on Microsoft Azure Blog."
     },
     {
       "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
@@ -323,6 +337,13 @@
       "source": "Cloud Blog",
       "published": "2026-08-11T16:00:00.000Z",
       "snippet": "Imagine this scenario: Your team decides to migrate a core application from an existing commercial database like Oracle or SQL Server to open source PostgreSQL or a fully managed service such as AlloyDB for PostgreSQL.\nThe initial phase goes smoothly. Schemas convert, tables populate, and data migration pipelines transfer terabytes of data in hours. The project looks ahead of schedule.\nThen your t"
+    },
+    {
+      "title": "Expanding connectivity in the Americas: Introducing Alisios, Canoa, and OlaLuz subsea cables",
+      "link": "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect/",
+      "source": "Cloud Blog",
+      "published": "2026-08-11T10:00:00.000Z",
+      "snippet": "The global digital economy relies on robust, resilient, and highly secure infrastructure to support everything from daily internet use to telehealth and scientific research breakthroughs. Today, Google is announcing a major expansion of our global network infrastructure in the Americas with three new subsea cable systems — Alisios, Canoa, and OlaLuz. These systems, alongside a new branch for the F"
     },
     {
       "title": "Introducing the Developer Device Platform for agentic mobile app development",
@@ -368,6 +389,13 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Prusa Research XL, Core One, and Core One L all to receive second-generation upgrades — all new orders get updated model for 'free'",
+      "link": "https://www.tomshardware.com/3d-printing/prusa-research-xl-core-one-and-core-one-l-all-to-receive-second-generation-upgrades-all-new-orders-get-updated-model-for-free",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T20:35:52.000Z",
+      "snippet": "Prusa Research just announced that its “entire lineup” of 3D printers is getting second-generation upgrades and a “+” designation. This includes the XL, CORE One, and CORE One L."
+    },
     {
       "title": "Microsoft's nemesis drops new zero-day privilege escalation vulnerability — attack grants system-level privileges, but it could already be patched",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-nemesis-drops-new-zero-day-privilege-escalation-vulnerability-attack-grants-system-level-privileges-but-it-could-already-be-patched",
@@ -1029,11 +1057,11 @@
   ],
   "quantum": [
     {
-      "title": "DARPA Funds Qunnect to Improve Quantum Network Reliability",
-      "link": "https://thequantuminsider.com/2026/08/13/darpa-taps-qunnect-strengthen-reliability-resilience-quantum-networks/",
+      "title": "Researcher Rodney Bartlett Publishes Book Exploring Quantum Physics and Cosmology",
+      "link": "https://thequantuminsider.com/2026/08/14/researcher-rodney-bartlett-book-quantum-physics-philosophy/",
       "source": "The Quantum Insider",
-      "published": "2026-08-13T14:34:10.000Z",
-      "snippet": "Insider Brief Press release – For decades, the distribution of quantum information has been confined to laboratory demonstrations because of the fragile nature of maintaining the fidelity of quantum entanglement across today’s deployed telecommunications fiber. However, today, Qunnect is the first company in the world to anchor multiple quantum networks distributing quantum information across the "
+      "published": "2026-08-14T07:00:00.000Z",
+      "snippet": "Insider Brief Independent Researcher Rodney Bartlett Unveils “Theoretical Horizons,” Merging Quantum Physics and Philosophy to Propose a Utopian Future. The book is backed by a recently published article in a peer-reviewed scientific journal, Bartlett’s new book challenges the Big Bang and presents a universe built on digital interconnectedness. “What if the universe isn’t a cold, […]"
     },
     {
       "title": "Xanadu and University of Alberta Explore Quantum Computing for Cancer Drug Discovery",
@@ -1048,6 +1076,13 @@
       "source": "The Quantum Insider",
       "published": "2026-08-13T12:41:10.000Z",
       "snippet": "Insider Brief Press release – BTQ Technologies Corp. (“BTQ“ or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, today announced that it has signed a Memorandum of Understanding (“MOU“) with ITCENGLOBAL CO., Ltd. (“ITCENGLOBAL“) (KOSDAQ: 124500), one of Korea’s largest IT services groups, through its listed security plat"
+    },
+    {
+      "title": "New York Opens $60 Million RFP for Quantum Technology Hubs",
+      "link": "https://thequantuminsider.com/2026/08/13/new-york-opens-60-million-rfp-for-quantum-technology-hubs/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T11:16:00.000Z",
+      "snippet": "Insider Brief New York is seeking proposals to establish up to four quantum technology commercialization hubs across the state, offering as much as $60 million to turn research into startups, products and industry applications. Empire State Development issued the Request for Proposals as part of the state’s effort to build on its existing quantum research […]"
     },
     {
       "title": "SDT Partners With Open Quantum Design to Build Open-Source Quantum Hardware",
