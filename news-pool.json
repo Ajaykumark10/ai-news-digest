@@ -8,6 +8,13 @@
       "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
     },
     {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-13T20:14:39.000Z",
+      "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
+    },
+    {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -339,6 +346,13 @@
       "snippet": "Imagine this scenario: Your team decides to migrate a core application from an existing commercial database like Oracle or SQL Server to open source PostgreSQL or a fully managed service such as AlloyDB for PostgreSQL.\nThe initial phase goes smoothly. Schemas convert, tables populate, and data migration pipelines transfer terabytes of data in hours. The project looks ahead of schedule.\nThen your t"
     },
     {
+      "title": "PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap",
+      "link": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
+      "source": "Cloud Blog",
+      "published": "2026-08-11T16:00:00.000Z",
+      "snippet": "Securing infrastructure and services against a future cryptographically-relevant quantum computer has been a goal for Google for a decade, and we’ve dedicated ourselves to help developers by advancing open standards that can benefit everyone. As post-quantum cryptography (PQC) has matured, we’ve been rolling it out in our infrastructure for internal and customer-facing services. \nToday, we're shar"
+    },
+    {
       "title": "Expanding connectivity in the Americas: Introducing Alisios, Canoa, and OlaLuz subsea cables",
       "link": "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect/",
       "source": "Cloud Blog",
@@ -390,6 +404,97 @@
   ],
   "hardware": [
     {
+      "title": "Samsung Odyssey G80HS 6K gaming monitor review: Upping the stakes in pixel density",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g80hs-6k-gaming-monitor-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T13:10:42.000Z",
+      "snippet": "The Samsung Odyssey G80HS is a 32-inch IPS panel with 6K 6144x3456 resolution at 165 Hz plus 3072x1728 pixels at 330 Hz. It packs HDR wide-gamut color, Adaptive-Sync, and plenty of features into its slim chassis."
+    },
+    {
+      "title": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing — demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/plaintiff-busted-trying-to-use-ai-prompt-injection-to-win-court-case-hides-text-instruction-in-filing-demands-ai-model-reviewing-the-text-should-side-with-him-rumbled-because-of-strange-white-spaces-in-text",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T12:23:35.000Z",
+      "snippet": "A self-represented plaintiff in a Connecticut court added a hidden AI prompt injection attack in their filing in a failed attempt to influence a decision. The court bars them from submitting documents electronically and instead must print them and hand to the clerk of court."
+    },
+    {
+      "title": "US imposes up to 100% tariffs on foreign-made drones and components — China remains primary target as Washington moves to reduce reliance on overseas suppliers",
+      "link": "https://www.tomshardware.com/tech-industry/drones/us-imposes-up-to-100-percent-tariffs-on-foreign-made-drones-and-components-china-remains-primary-target-as-washington-moves-to-reduce-reliance-on-overseas-suppliers",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T11:53:06.000Z",
+      "snippet": "The Trump administration says the new tariffs are necessary for national security and to address the US industry's heavy reliance on foreign-made drones and components, particularly from China."
+    },
+    {
+      "title": "Older Raptor Lake CPUs are a ‘core part of the portfolio’ for years to come, says Intel — there’s been a ‘sudden inrush of demand’ for LGA 1700 chips due to DDR5 prices",
+      "link": "https://www.tomshardware.com/pc-components/cpus/raptor-lake-is-a-core-part-of-the-portfolio-for-years-to-come-says-intel-theres-been-a-sudden-inrush-of-demand-for-lga-1700-chips-due-to-ddr5-prices",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T11:39:52.000Z",
+      "snippet": "Intel has seen a “sudden inrush” of demand for Raptor Lake CPUs, and it says they’ll remain a part of the company’s lineup for desktop builders “for years to come.”"
+    },
+    {
+      "title": "Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms — our full 1:1 interview transcript",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T11:00:00.000Z",
+      "snippet": "We speak to Robert Hallock, Intel VP & GM of Enthusiast Channel Business, about Nova Lake rumors, how the company is focusing on DIY builders during RAMageddon, and how Raptor Lake refresh induced a paradigm shift for the company."
+    },
+    {
+      "title": "$29 per Terabyte makes this 24TB Seagate BarraCuda one of the best-value hard drives in today's market — $50 off at Newegg makes it $200 cheaper than the 20TB version",
+      "link": "https://www.tomshardware.com/pc-components/hdds/usd29-per-terabyte-makes-this-24tb-seagate-barracuda-one-of-the-best-value-hard-drives-in-todays-market-usd50-off-at-newegg-makes-it-usd200-cheaper-than-the-20tb-version",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T10:56:15.000Z",
+      "snippet": "Save $50 on a 24TB Seagate Barracuda Compute HDD at Newegg with the limited-time discount code."
+    },
+    {
+      "title": "Start your PC gaming journey with this $1,100 1080p gaming rig, now $300 off — RTX 5060 rig from Newegg ships with a 10-core Intel CPU, 32GB of RAM, and a 1TB SSD",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/start-your-pc-gaming-journey-with-this-usd1-100-1080p-gaming-rig-now-usd300-off-rtx-5060-rig-from-newegg-ships-with-a-10-core-intel-cpu-32gb-of-ram-and-a-1tb-ssd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T10:43:57.000Z",
+      "snippet": "This pre-built ABS Cyclone Aqua comes with a ten-core Intel Core i5-14400F CPU, an Nvidia GeForce RTX 5060 GPU, a 1TB SSD, and 32GB of RAM, all for $1,099.99."
+    },
+    {
+      "title": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T10:30:00.000Z",
+      "snippet": "Ukraine intelligence claims that Russia's latest S-71 'Monochrome' cruise missiles use Nvidia's Jetson Orin NX modules with AI capabilities, allegedly for terminal guidance."
+    },
+    {
+      "title": "Modder straps two desktop CPU coolers to ZTE handset, turns smartphone into a gaming PC — Snapdragon 8 Elite SoC with 24GB of RAM runs The Witcher 3 at 1080p ultra",
+      "link": "https://www.tomshardware.com/pc-components/cooling/modder-straps-two-desktop-cpu-coolers-to-zte-nubia-z70-ultra-turns-smartphone-into-a-gaming-pc-snapdragon-8-elite-soc-with-24gb-of-ram-runs-the-witcher-3-at-1080p-ultra",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T10:00:00.000Z",
+      "snippet": "The heavily modified ZTE Nubia Z70 Ultra uses two full-size CPU coolers to keep its Snapdragon 8 Elite running under sustained loads, while Termux, Linux and compatibility layers turn it into a makeshift desktop PC."
+    },
+    {
+      "title": "AMD borrows $4.75 billion for 'general corporate purposes' — company gives no insight into how it plans to spend cash injection",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-borrows-usd4-75-billion-for-general-corporate-purposes-company-gives-no-insight-into-how-it-plans-to-spend-cash-injection",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T09:48:59.000Z",
+      "snippet": "In a surprising move, AMD announces plans to raise $4.75 billion and does not give a clue how it plans to spend them."
+    },
+    {
+      "title": "Gigabyte resurrects 8-year-old B450 chipset with new motherboards — AM4 budget king returns as another DDR4 solution to exorbitant RAM prices",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-resurrects-8-year-old-b450-chipset-with-new-motherboards-am4-budget-king-returns-as-another-ddr4-solution-to-exorbitant-ram-prices",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T09:43:55.000Z",
+      "snippet": "Gigabyte has quietly launched the B450M D3HP and B450M D3HP WIFI6E motherboards based on the AMD B450 chipset, which launched in 2018."
+    },
+    {
+      "title": "Just one instruction on AMD's 2015-era CPUs cracks open secret memory areas and gives full hardware-level control — exploit for 15h and 16h chip families gets you access to Platform Security Processor, microcode, and System Management Interface",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/just-one-instruction-on-amds-2015-era-cpus-gets-you-access-to-platform-security-processor-microcode-and-system-management-interface-exploit-for-15h-and-16h-chip-families-cracks-open-secret-memory-areas",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T09:33:09.000Z",
+      "snippet": "Just one instruction on AMD CPUs gets you access to Platform Security Processor, microcode, and System Management Interface — exploit for 15h and 16h chip families cracks open secret memory areas"
+    },
+    {
+      "title": "Functioning version of 'the first arcade video game ever created' heads to auction with $200,000 estimate — green sparkle 2-player edition of Computer Space hails from 1973",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/functioning-version-of-the-first-arcade-video-game-ever-created-heads-to-auction-with-usd200-000-estimate-green-sparkle-2-player-edition-of-computer-space-hails-from-1973",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T09:00:00.000Z",
+      "snippet": "A games industry veteran is selling off what is 'probably the rarest arcade game in existence' via Boston’s RR Auctions."
+    },
+    {
       "title": "Prusa Research XL, Core One, and Core One L all to receive second-generation upgrades — all new orders get updated model for 'free'",
       "link": "https://www.tomshardware.com/3d-printing/prusa-research-xl-core-one-and-core-one-l-all-to-receive-second-generation-upgrades-all-new-orders-get-updated-model-for-free",
       "source": " Latest from Tom's Hardware ",
@@ -416,6 +521,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-13T13:37:59.000Z",
       "snippet": "Astro's Playroom runs at 0.5 to 1 FPS on the Steam Deck when emulated through SharpEmu. It's not much — it's nothing at all, in fact — but just the proof-of-concept alone is enough to stir up excitement for both Steam Deck and PS5 emulation scenes."
+    },
+    {
+      "title": "Memory maker CXMT overtakes Tencent to become China's most valuable company 17 days after its IPO — now worth $524 billion",
+      "link": "https://www.tomshardware.com/tech-industry/cxmt-overtakes-tencent-to-become-chinas-most-valuable-company-17-days-after-its-ipo",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-13T13:27:14.000Z",
+      "snippet": "ChangXin Memory Technologies (CXMT) is now the world's most valuable Chinese company after passing Tencent."
     },
     {
       "title": "Keychron launches ludicrous 100-key custom macro pad — 10 x 10 ‘keyboard’ uses ‘exclusive’ Keychron Apex switches and features per-key RGB control",
@@ -990,78 +1102,71 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-09T13:20:00.000Z",
       "snippet": "The 20-core SKU of the RTX Spark that we've known to exist for a long time scored 2,570 points in the single-core test and 23,126 points in the multi-core test. The second, 18-core cut-down SKU scored 2,541 points in the single-core test while its multi-core was 21,776 points."
-    },
-    {
-      "title": "FCC moves to ban LiDAR-equipped foreign drones from US — classifies the technology as \"military-grade\" in a proposal that could also hit thermal models and the swarms used in drone light shows",
-      "link": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T13:00:00.000Z",
-      "snippet": "The FCC is proposing a retroactive sales ban on previously approved foreign-made drones with LiDAR and other “military-grade” features, potentially removing several popular DJI models from U.S. stores."
-    },
-    {
-      "title": "Amazon’s new 7.65GW Texas AI data center power plant could become the largest source of CO₂ pollution in the US — custom 35-turbine gas plant authorized to emit 33 million tons of annual greenhouse gases",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T12:40:00.000Z",
-      "snippet": "Amazon is reportedly building a 7.65GW natural gas power plant in Texas to feed a new AI data center, with permits allowing up to 33 million tons of CO₂ emissions per year."
-    },
-    {
-      "title": "Kansas town silences public comment on gigawatt AI data center after receiving death threats, moves to virtual meetings — shift follows physics teacher's arrest for clapping at data center hearing",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/kansas-town-silences-public-comment-on-gigawatt-ai-data-center-after-receiving-death-threats-moves-to-virtual-meetings-shift-follows-physics-teachers-arrest-for-clapping-at-data-center-hearing",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T12:20:00.000Z",
-      "snippet": "Emporia, Kansas, switched to virtual city council meetings after death threats intensified against city leaders. The move also canceled public comments, prompting some members of the public to ask why it was affected, too."
-    },
-    {
-      "title": "Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7700X3D faceoff — battle of the upper mid-range CPUs",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7700x3d-faceoff",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T12:05:00.000Z",
-      "snippet": "AMD's 3D V-Cache takes on Intel's latest Core Ultra architecture as we compare the two across various metrics including gaming, productivity, power consumption, and value."
-    },
-    {
-      "title": "Open-source stealth USB hides an encrypted partition behind an 8GB decoy drive — 'Phantom Drive' appears as a regular USB stick until you create a text file to unlock the hidden data",
-      "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/open-source-stealth-usb-hides-an-encrypted-partition-behind-an-8gb-decoy-drive-phantom-drive-appears-as-a-regular-usb-stick-until-you-create-a-text-file-to-unlock-the-hidden-data",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T12:00:00.000Z",
-      "snippet": "This USB looks like a standard 8GB drive, but it unlocks a hidden partition when you create a text file with the password inside. The password is never actually written to storage; it's instead intercepted by the custom firmware and copied into the microcontroller's SRAM during hashing."
-    },
-    {
-      "title": "Mind-bending self-replicating GIF code prints an exact copy of itself, is both a program and its own visual output — champion coder shows off 'Piet Quine' technique",
-      "link": "https://www.tomshardware.com/software/programming/mind-bending-self-replicating-gif-code-prints-an-exact-copy-of-itself-is-both-a-program-and-its-own-visual-output-champion-coder-shows-off-piet-quine-technique",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T11:40:00.000Z",
-      "snippet": "A champion coder's latest confection is a Piet Quine – a GIF image that prints itself byte-for-byte."
-    },
-    {
-      "title": "Micron reportedly offers pennies on the dollar for Crucial RAM return, offers to reimburse original MSRP despite it being only 37% of market value — chipmaker later reverses course with a better solution",
-      "link": "https://www.tomshardware.com/pc-components/ram/micron-reportedly-offers-pennies-on-the-dollar-for-crucial-ram-return-only-offers-to-reimburse-original-msrp-despite-it-being-only-37-percent-of-market-value-chipmaker-later-reverses-course-with-a-better-solution",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T11:20:00.000Z",
-      "snippet": "Crucial memory owner recounts their experience with Micron's warranty process since the company has axed the Crucial brand."
-    },
-    {
-      "title": "Owner of original Intel 8080 pre-production layout seeks restorer — handcrafted Rubylith mask shows 5,000 transistors and interconnect patterns of the fabled 2 MHz CPU",
-      "link": "https://www.tomshardware.com/pc-components/cpus/owner-of-original-intel-8080-pre-production-layout-seeks-restorer-handcrafted-rubylith-mask-shows-5-000-transistors-and-interconnect-patterns-of-the-fabled-2-mhz-cpu",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T11:00:00.000Z",
-      "snippet": "The owner of 'the original engineering copy of the Intel 8080 rubylith mask' is looking for a skilled restorer."
-    },
-    {
-      "title": "After 24 years, Return to Castle Wolfenstein is finally distributed uncut in Germany — game was censored due to strict laws regarding Nazi symbolism",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/after-24-years-return-to-castle-wolfenstein-is-finally-distributed-uncut-in-germany-game-was-censored-due-to-strict-laws-regarding-nazi-symbolism",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T10:40:00.000Z",
-      "snippet": "Germany's strict laws surrounding depictions of Nazis meant the game had to be altered, giving it an arguably more interesting story as a result."
     }
   ],
   "quantum": [
+    {
+      "title": "Quantum Australia Reports $83.1M Economic Impact and Growth of 15 Quantum Companies",
+      "link": "https://thequantuminsider.com/2026/08/14/quantum-australia-reveals-83-million-economic-impact-15-new-quantum-companies/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-14T11:21:38.000Z",
+      "snippet": "Insider Brief Press release – New independent modelling has been released that shows Quantum Australia‘s national programs have created $83.1 million in economic value while supporting more than six times the public investment in economy-wide activity. This figure, calculated by independent consultancy Avant Group as net present value over five years, spans grant and industry funding mobilised, pr"
+    },
+    {
+      "title": "Tamil Nadu Signs Four MoUs With Quantum Computing Ventures at State Investment Conclave",
+      "link": "https://thequantuminsider.com/2026/08/14/tamil-nadu-quantum-ventures-computing-control-technologies/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-14T11:08:42.000Z",
+      "snippet": "Insider Brief Tamil Nadu signed four memoranda of understanding (MoUs) with quantum computing ventures at the Vetri Tamil Nadu Investment Conclave 2026, the Deccan Chronicle reported. The agreements cover different parts of the quantum technology ecosystem, spanning computing hardware, control technology, and research and development. The four companies are Quantum Integrated Machines, Chennai-bas"
+    },
+    {
+      "title": "Florida State University Launches Quantum Science and Technology Graduate Certificate",
+      "link": "https://thequantuminsider.com/2026/08/14/florida-state-university-quantum-science-technology-graduate-certificate/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-14T10:48:20.000Z",
+      "snippet": "Insider Brief Press release – Florida State University is launching Florida’s first formal graduate-level credential in quantum information science and engineering, opening a new pathway for students and professionals to enter one of the world’s fastest-growing technology fields. The Graduate Certificate in Quantum Science & Technology is now accepting applications for Spring 2027 enrollment. Admi"
+    },
+    {
+      "title": "Mountain West Groups Partner to Support Quantum and Photonics Innovation",
+      "link": "https://thequantuminsider.com/2026/08/14/mountain-west-innovation-groups-quantum-photonics-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-14T10:31:08.000Z",
+      "snippet": "Insider Brief Press release – Innosphere, on behalf of the National Science Foundation ASCEND Engine, has entered into a Memorandum of Understanding (MOU) with the Montana Photonics and Quantum Alliance (MPQA) and the Headwaters Tech Hub (HTH). The agreement lays the foundation for a larger Mountain West innovation and test facilities network, connecting two federally supported regional […]"
+    },
+    {
+      "title": "Quanta Computer and Quantinuum Partner on Scalable Quantum Computing Hardware",
+      "link": "https://thequantuminsider.com/2026/08/14/quanta-computer-quantinuum-industrial-foundation-large-scale-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-14T10:22:46.000Z",
+      "snippet": "Insider Brief Press release – Quanta Computer (“Quanta”), a Fortune Global 500 manufacturer of advanced computing and cloud infrastructure, and Quantinuum (Nasdaq: QNT), a leading quantum computing company, today announced a collaborative development agreement to help establish an industrial foundation for the next era of quantum computing. Under the terms of the agreement, the companies plan […]"
+    },
+    {
+      "title": "Rice Researchers Improve Trapped-Ion Quantum Simulation with New Temperature Controls",
+      "link": "https://thequantuminsider.com/2026/08/14/new-controls-incorporate-thermal-effects-quantum-simulation/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-14T08:20:00.000Z",
+      "snippet": "Insider Brief Press release – Rice University physicist Guido Pagano and his team use a trapped-ion quantum simulator, which involves manipulating an ion crystal trapped in a vacuum system with electromagnetic fields, to study molecular electron transfer, or the way electrons travel from one molecule to another. While they have been able to precisely control many variables, previous […]"
+    },
+    {
+      "title": "Diraq Says Quantum Computing Needs a Broader Workforce Beyond PhDs",
+      "link": "https://thequantuminsider.com/2026/08/14/diraq-quantum-industry-needs-broader-workforce-beyond-phds/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-14T07:30:00.000Z",
+      "snippet": "Insider Brief Silicon spin qubit company Diraq has published a blog post arguing that the quantum computing industry’s hiring model which is historically built around doctoral-level candidates – cannot support the workforce scale the sector will need within the next decade. The post cites figures from the Quantum Economic Development Consortium showing roughly 16,500 pure-play […]"
+    },
     {
       "title": "Researcher Rodney Bartlett Publishes Book Exploring Quantum Physics and Cosmology",
       "link": "https://thequantuminsider.com/2026/08/14/researcher-rodney-bartlett-book-quantum-physics-philosophy/",
       "source": "The Quantum Insider",
       "published": "2026-08-14T07:00:00.000Z",
       "snippet": "Insider Brief Independent Researcher Rodney Bartlett Unveils “Theoretical Horizons,” Merging Quantum Physics and Philosophy to Propose a Utopian Future. The book is backed by a recently published article in a peer-reviewed scientific journal, Bartlett’s new book challenges the Big Bang and presents a universe built on digital interconnectedness. “What if the universe isn’t a cold, […]"
+    },
+    {
+      "title": "DARPA Funds Qunnect to Improve Quantum Network Reliability",
+      "link": "https://thequantuminsider.com/2026/08/13/darpa-taps-qunnect-strengthen-reliability-resilience-quantum-networks/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-13T14:34:10.000Z",
+      "snippet": "Insider Brief Press release – For decades, the distribution of quantum information has been confined to laboratory demonstrations because of the fragile nature of maintaining the fidelity of quantum entanglement across today’s deployed telecommunications fiber. However, today, Qunnect is the first company in the world to anchor multiple quantum networks distributing quantum information across the "
     },
     {
       "title": "Xanadu and University of Alberta Explore Quantum Computing for Cancer Drug Discovery",
@@ -1331,6 +1436,20 @@
     }
   ],
   "education": [
+    {
+      "title": "Public schools at the starting line: Beginning a new pathway with scholarship granting organizations",
+      "link": "https://www.eschoolnews.com/educational-leadership/2026/08/14/beginning-a-new-pathway-with-scholarship-granting-organizations/",
+      "source": "eSchool News",
+      "published": "2026-08-14T10:00:00.000Z",
+      "snippet": "For the first time, a federal tax credit is opening a clear path for public school students to access expanded learning opportunities through Scholarship Granting Organizations (SGOs)."
+    },
+    {
+      "title": "AI and Enrollment Pressures Are Reshaping Higher Education",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/ai-and-enrollment-pressures-are-reshaping-higher-education",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-13T17:37:38.000Z",
+      "snippet": "Higher education is at an inflection point. The 2026 EDUCAUSE Horizon Report identifies the forces most likely to reshape teaching and learning over the next decade — and the picture is complex. As artificial intelligence continues to evolve, it’s changing relationships across campus. Institutions also continue to face mounting enrollment challenges. And emerging risks related to cybersecurity, po"
+    },
     {
       "title": "The foundation for student success is a positive classroom culture",
       "link": "https://www.eschoolnews.com/sel/2026/08/13/the-foundation-for-student-success-is-a-positive-classroom-culture/",
