@@ -1,6 +1,41 @@
 {
   "ai": [
     {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-14T16:13:40.000Z",
+      "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-14T15:43:28.000Z",
+      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-14T14:50:11.000Z",
+      "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-14T14:05:00.000Z",
+      "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-14T14:00:00.000Z",
+      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]"
+    },
+    {
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -300,23 +335,16 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-09T19:20:32.000Z",
       "snippet": "Programming with Claude Code will soon require even less human oversight."
-    },
-    {
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-09T15:00:00.000Z",
-      "snippet": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-09T14:30:00.000Z",
-      "snippet": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models."
     }
   ],
   "cloud": [
+    {
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-08-14T16:00:00.000Z",
+      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nAug 10 - A"
+    },
     {
       "title": "Using BigQuery Graphs with measures for trusted agentic workloads",
       "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
@@ -403,6 +431,27 @@
     }
   ],
   "hardware": [
+    {
+      "title": "G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB Review — EXPO ULL memory kit to max out your Ryzen",
+      "link": "https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T15:30:00.000Z",
+      "snippet": "G.Skill's Trident Z5 NeoX is the brand's latest series with the AMD EXPO ULL feature, but can the DDR5-6000 C30 prove to be the fastest memory kit for AMD?"
+    },
+    {
+      "title": "Scythe Magoroku Review: excellent RAM thermals, but needs improvement elsewhere",
+      "link": "https://www.tomshardware.com/pc-components/air-cooling/scythe-magoroku-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T14:42:29.000Z",
+      "snippet": "Scythe is back with another dual-tower air cooler, the Magoroku. This cooler performs best with an Intel Arrow Lake system."
+    },
+    {
+      "title": "Cargo thieves ram security escorts to hijack AI hardware shipments in California — brazen thieves employ PIT maneuver, rear-ending tactics to secure goods for the black market",
+      "link": "https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-14T14:13:41.000Z",
+      "snippet": "Cargo thieves knocked two private security escort vehicles out of action on California roads in recent months, then made off with millions of dollars in AI data center hardware."
+    },
     {
       "title": "Samsung Odyssey G80HS 6K gaming monitor review: Upping the stakes in pixel density",
       "link": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g80hs-6k-gaming-monitor-review",
@@ -1053,58 +1102,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-10T09:30:00.000Z",
       "snippet": "Europe has finalized plans for its €15.6 billion IRIS² satellite network, expanding it to 348 satellites with first launches scheduled for 2029."
-    },
-    {
-      "title": "Wolfbox MF60 Compressed Air Duster is nearly 40% off in a limited-time deal — powerful rechargeable device's propulsion fan runs at up to 110,000 RPM",
-      "link": "https://www.tomshardware.com/pc-components/wolfbox-mf60-compressed-air-duster-is-nearly-40-percent-off-in-a-limited-time-deal-powerful-rechargeable-devices-propulsion-fan-runs-at-up-to-110-000-rpm",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T15:52:16.000Z",
-      "snippet": "The Wolfbox MegaFlow 60 has surprisingly dipped below the price of the MegaFlow 50 air duster, and is currently just $30.39."
-    },
-    {
-      "title": "Turtle Beach Command Series KB5 Review: A touchscreen and a numberpad in one keyboard?",
-      "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-command-series-kb5-review-a-touchscreen-and-a-numberpad-in-one-keyboard",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T15:02:16.000Z",
-      "snippet": "The Turtle Beach Command Series KB5 is a full-size, wired, low-profile keyboard with a small, programmable touchscreen."
-    },
-    {
-      "title": "Noctua finds more than half of tested PC cases misstate CPU cooler clearances — hands-on checks reveal errors ranging from -3.5mm to +10mm, internal compatibility team conducted measurements of more than a hundred cases",
-      "link": "https://www.tomshardware.com/pc-components/pc-cases/noctua-finds-more-than-half-of-tested-pc-cases-misstate-cpu-cooler-clearances-hands-on-checks-reveal-errors-ranging-from-3-5mm-to-10mm-internal-compatibility-team-conducted-measurements-of-more-than-a-hundred-cases",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T14:35:00.000Z",
-      "snippet": "Users are asking why some measurements on Noctua's compatibility page are different from manufacturer spec sheets."
-    },
-    {
-      "title": "Modder pumps liquid directly over bare GPU silicon via 3D-printed block — drops RTX 2060 Super load temps to 28°C despite initial leaks",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-block-drops-rtx-2060-super-load-temps-to-28-c-despite-initial-leaks",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T14:15:00.000Z",
-      "snippet": "The fearless TrashBench has been testing direct die water cooling of graphics cards and suffered most of the leaky nightmares you might expect."
-    },
-    {
-      "title": "Musk’s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined — all-in-one chip manufacturing facility visualized to show the project’s massive footprint",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/musks-terafab-projected-to-be-larger-than-the-pentagon-apple-park-mall-of-america-and-giga-texas-combined-all-in-one-chip-manufacturing-facility-visualized-to-show-the-projects-massive-footprint",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T13:55:00.000Z",
-      "snippet": "Elon Musk's Terafab will have at least 100 million sq. ft of interior space, making it the largest such structure on Earth by a big margin. It seems that it will need this amount of space, though, for Musk's ambitious plan of bringing multiple semiconductor manufacturing processes under one roof."
-    },
-    {
-      "title": "x64 port of Microsoft Word for Windows 1.1a arrives — you can now run this seminal 1990 word processor natively in Windows 11",
-      "link": "https://www.tomshardware.com/software/microsoft-office/x64-port-of-microsoft-word-for-windows-1-1a-arrives-you-can-now-run-this-seminal-1990-word-processor-natively-in-windows-11",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T13:40:00.000Z",
-      "snippet": "A developer has ported 1990's Microsoft Word for Windows 1.1a to x64 so it can run natively on Windows 11 PC systems."
-    },
-    {
-      "title": "Two variants of Nvidia's RTX Spark show up on Geekbench, revealing a cut-down 18-core model — Full 20-core beats most x86 mobile chips across multi-core and single-core tests",
-      "link": "https://www.tomshardware.com/pc-components/cpus/two-variants-of-nvidias-rtx-spark-show-up-on-geekbench-revealing-a-cut-down-18-core-model-full-20-core-beats-most-x86-mobile-chips-across-multi-core-and-single-core-tests",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-09T13:20:00.000Z",
-      "snippet": "The 20-core SKU of the RTX Spark that we've known to exist for a long time scored 2,570 points in the single-core test and 23,126 points in the multi-core test. The second, 18-core cut-down SKU scored 2,541 points in the single-core test while its multi-core was 21,776 points."
     }
   ],
   "quantum": [
+    {
+      "title": "What is Quantum Teleportation? How Quantum States Transfer Across Distance",
+      "link": "https://thequantuminsider.com/2026/08/14/quantum-teleportation-explained/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-14T14:31:11.000Z",
+      "snippet": "Insider Brief Mention quantum teleportation in conversation and most people picture humans dissolving in one place and appearing somewhere else. Something from Star Trek, maybe with a dramatic sound effect. That is not what it does. What quantum teleportation transfers is the quantum state of a particle, specifically its spin, polarization, or energy level, to […]"
+    },
     {
       "title": "Quantum Australia Reports $83.1M Economic Impact and Growth of 15 Quantum Companies",
       "link": "https://thequantuminsider.com/2026/08/14/quantum-australia-reveals-83-million-economic-impact-15-new-quantum-companies/",
