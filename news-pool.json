@@ -8,13 +8,6 @@
       "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
     },
     {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-14T15:43:28.000Z",
-      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]"
-    },
-    {
       "title": "Kog is going deeper to squeeze more inference out of GPUs",
       "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -321,20 +314,6 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-08-10T09:00:00.000Z",
       "snippet": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…"
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-09T20:35:17.000Z",
-      "snippet": "The AI-focused hedge fund is still making some big bets."
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-09T19:20:32.000Z",
-      "snippet": "Programming with Claude Code will soon require even less human oversight."
     }
   ],
   "cloud": [
@@ -344,13 +323,6 @@
       "source": "Cloud Blog",
       "published": "2026-08-14T16:00:00.000Z",
       "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nAug 10 - A"
-    },
-    {
-      "title": "Using BigQuery Graphs with measures for trusted agentic workloads",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
-      "source": "Cloud Blog",
-      "published": "2026-08-13T17:00:00.000Z",
-      "snippet": "When enterprises transition from using simple chat assistants to autonomous, agentic workloads, they quickly run into a hard truth: Agents are prone to inaccurate insights when working with directly raw tables. \nBigQuery Graph helps organizations move beyond flat, static tables to represent enterprises exactly how they exist in the physical world: as interconnected business entities with real-worl"
     },
     {
       "title": "The Economics of Agent Optimization: From pilots to measurable returns",
@@ -444,13 +416,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-14T14:42:29.000Z",
       "snippet": "Scythe is back with another dual-tower air cooler, the Magoroku. This cooler performs best with an Intel Arrow Lake system."
-    },
-    {
-      "title": "Cargo thieves ram security escorts to hijack AI hardware shipments in California — brazen thieves employ PIT maneuver, rear-ending tactics to secure goods for the black market",
-      "link": "https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-14T14:13:41.000Z",
-      "snippet": "Cargo thieves knocked two private security escort vehicles out of action on California roads in recent months, then made off with millions of dollars in AI data center hardware."
     },
     {
       "title": "Samsung Odyssey G80HS 6K gaming monitor review: Upping the stakes in pixel density",
@@ -1113,13 +1078,6 @@
       "snippet": "Insider Brief Mention quantum teleportation in conversation and most people picture humans dissolving in one place and appearing somewhere else. Something from Star Trek, maybe with a dramatic sound effect. That is not what it does. What quantum teleportation transfers is the quantum state of a particle, specifically its spin, polarization, or energy level, to […]"
     },
     {
-      "title": "Quantum Australia Reports $83.1M Economic Impact and Growth of 15 Quantum Companies",
-      "link": "https://thequantuminsider.com/2026/08/14/quantum-australia-reveals-83-million-economic-impact-15-new-quantum-companies/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-14T11:21:38.000Z",
-      "snippet": "Insider Brief Press release – New independent modelling has been released that shows Quantum Australia‘s national programs have created $83.1 million in economic value while supporting more than six times the public investment in economy-wide activity. This figure, calculated by independent consultancy Avant Group as net present value over five years, spans grant and industry funding mobilised, pr"
-    },
-    {
       "title": "Tamil Nadu Signs Four MoUs With Quantum Computing Ventures at State Investment Conclave",
       "link": "https://thequantuminsider.com/2026/08/14/tamil-nadu-quantum-ventures-computing-control-technologies/",
       "source": "The Quantum Insider",
@@ -1449,13 +1407,6 @@
       "source": "eSchool News",
       "published": "2026-08-14T10:00:00.000Z",
       "snippet": "For the first time, a federal tax credit is opening a clear path for public school students to access expanded learning opportunities through Scholarship Granting Organizations (SGOs)."
-    },
-    {
-      "title": "AI and Enrollment Pressures Are Reshaping Higher Education",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/ai-and-enrollment-pressures-are-reshaping-higher-education",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-13T17:37:38.000Z",
-      "snippet": "Higher education is at an inflection point. The 2026 EDUCAUSE Horizon Report identifies the forces most likely to reshape teaching and learning over the next decade — and the picture is complex. As artificial intelligence continues to evolve, it’s changing relationships across campus. Institutions also continue to face mounting enrollment challenges. And emerging risks related to cybersecurity, po"
     },
     {
       "title": "The foundation for student success is a positive classroom culture",
