@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "What happens when a kid’s robot best friend dies?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-08-17T09:00:00.000Z",
+      "snippet": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…"
+    },
+    {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -237,13 +244,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-12T14:20:33.000Z",
       "snippet": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
-    },
-    {
-      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T11:00:00.000Z",
-      "snippet": "Blacksmith says revenue has grown more than tenfold over the past year."
     }
   ],
   "cloud": [
@@ -270,6 +270,90 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Intel's Arc Pro B70 workstation GPU is now up to 48% more expensive than it was just a month ago — 32GB Battlemage workstation card climbs toward $2,000",
+      "link": "https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-is-now-up-to-48-percent-more-expensive-than-it-was-just-a-month-ago-32gb-battlemage-workstation-card-climbs-toward-usd2-000",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T11:40:00.000Z",
+      "snippet": "Intel's best Battlemage GPU is now even more expensive due to its large 32GB memory pool that's very useful for AI workloads."
+    },
+    {
+      "title": "GoldenEye 007 for N64 has been '100% decompiled' — success of half-decade project opens up possibilities for complex mods and ports",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/goldeneye-007-for-n64-has-been-100-percent-decompiled-success-of-half-decade-project-opens-up-possibilities-for-complex-mods-and-ports",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T11:28:17.000Z",
+      "snippet": "A reverse engineering and retro gaming enthusiast has finally succeeded in their goal of decompiling GoldenEye 007, the monumental James Bond adventure shooter from Rare."
+    },
+    {
+      "title": "Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation  — energy and water consumption, air quality, noise, and cultural resource protection among concerns",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/largest-tribe-in-the-us-bans-hyperscale-data-centers-on-its-lands",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T11:27:32.000Z",
+      "snippet": "Cherokee Nation, with more than 475,000 citizens, has banned hyperscale data center development on its tribally owned and trust lands."
+    },
+    {
+      "title": "AI data center optical interconnect market to hit $144 billion by 2030, an over ten-fold increase from 2024 figures, according to new projections — silicon photonics expected to account for nearly two-thirds of revenue, driven by co-packaged optics",
+      "link": "https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T11:20:00.000Z",
+      "snippet": "A new CIC forecast projects that the data center optical interconnect market will grow from $13.7 billion in 2024 to $144.4 billion by 2030, with silicon photonics accounting for 63.7% of revenue."
+    },
+    {
+      "title": "ViewSonic VG1457 dual-screen portable monitor review: compact size and weight, but lackluster color",
+      "link": "https://www.tomshardware.com/monitors/portable-monitors/viewsonic-vg1457-dual-screen-portable-monitor-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T11:05:00.000Z",
+      "snippet": "ViewSonic nailed the design with the VG1457, but should have put some more effort into sourcing higher quality display panels."
+    },
+    {
+      "title": "PC Partner warns of rising GPU prices and budget card shortages — analyst suggests makers are hiking prices beyond memory costs",
+      "link": "https://www.tomshardware.com/tech-industry/pc-partner-warns-of-rising-gpu-prices-and-budget-card-shortages-analyst-suggests-makers-are-hiking-prices-beyond-memory-costs",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T11:00:00.000Z",
+      "snippet": "PC Partner warns that graphics card prices will rise further in H2 2026 as memory costs climb and supplies tighten and entry-level boards will gain the most. This is how they gain money, says Jon Peddie."
+    },
+    {
+      "title": "Get an RTX 5090 Alienware PC for less than the price of the GPU alone — $1,550 discount means Area-51 is $20 cheaper than buying the card by itself",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5090-alienware-pc-for-less-than-the-price-of-the-gpu-alone-usd1-550-discount-means-area-51-is-usd20-cheaper-than-buying-the-card-by-itself",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T10:55:01.000Z",
+      "snippet": "Get an RTX 5090 Alienware gaming PC for less than the standalone cost of the GPU."
+    },
+    {
+      "title": "Save $60 on Corsair's impressive 96% gaming keyboard with Elgato Stream Deck integration — the Vanguard 96 RGB features pre-lubed mechanical switches, sound dampening, a color LCD screen, and a full-size number pad",
+      "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/save-usd60-on-corsairs-impressive-96-percent-gaming-keyboard-with-elgato-stream-deck-integration-the-vanguard-96-rgb-features-pre-lubed-mechanical-switches-sound-dampening-a-color-lcd-screen-and-a-full-size-number-pad",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T10:50:50.000Z",
+      "snippet": "Save $60 on Corsair's impressive Vanguard 96 RGB mechanical gaming keyboard at Best Buy."
+    },
+    {
+      "title": "Japanese repair shop sells GDDR6 VRAM upgrades for $25 per GB during memory crisis — RTX 2080 Ti modded to 22GB for just $282, double the VRAM creates a budget AI powerhouse",
+      "link": "https://www.tomshardware.com/pc-components/gpus/japanese-repair-shop-sells-gddr6-vram-upgrades-for-usd25-per-gb-during-memory-crisis-rtx-2080-ti-modded-to-22gb-for-just-usd282-double-the-vram-creates-a-budget-ai-powerhouse",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T10:30:00.000Z",
+      "snippet": "This vendor can upgrade your RTX 2080 Ti to feature 22GB of VRAM for less than $300, converting it into an AI powerhouse without breaking the bank."
+    },
+    {
+      "title": "Senior PC store staff accused of running secret rival shop with stolen inventory — Hong Kong retailer claims substantial losses over year-long scheme",
+      "link": "https://www.tomshardware.com/tech-industry/hong-kong-pc-store-accuses-two-senior-staff-of-stealing-stock-to-supply-their-own-online-shop-for-over-a-year",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T10:00:00.000Z",
+      "snippet": "A PC retailer in Wan Chai's Computer Zone 298 mall in Hong Kong, has accused two of its senior employees of stealing company stock for roughly a year and reselling it."
+    },
+    {
+      "title": "Desktop UV printers and wild custom builds take over Open Sauce 2026 — $1,700 full-color printers, flash-cured resin, and a rideable speeder bike",
+      "link": "https://www.tomshardware.com/3d-printing/desktop-uv-printers-and-wild-custom-builds-take-over-open-sauce-2026-usd1-700-full-color-printers-flash-cured-resin-and-a-rideable-speeder-bike",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T09:45:00.000Z",
+      "snippet": "If you want to see the bleeding edge of 3D printing tech, you go to FormNext in Frankfurt, Germany. If you want to see the latest in consumer electronics, you go to CES in Las Vegas. If you want to see what it’s like to microwave your own head, you go to Open Sauce in San Mateo, California."
+    },
+    {
+      "title": "Air conditioner powered by a 'PC fan' labeled a scam by German consumer organization — there's a reason this lookalike AC unit is far cheaper than its competitors",
+      "link": "https://www.tomshardware.com/pc-components/air-cooling/air-conditioner-powered-by-a-pc-fan-labeled-a-scam-by-german-consumer-organization-theres-a-reason-this-lookalike-ac-unit-is-far-cheaper-than-its-competitors",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T09:30:00.000Z",
+      "snippet": "Tear down of a so-called air conditioner from Epicool revealed 'a simple PC fan combined with a small heating element.'"
+    },
     {
       "title": "This portable, external CD/DVD drive comes with a 2.5-inch SATA and an SD Card slot for just $26 — Save 10% on a modern essential for keeping physical media alive",
       "link": "https://www.tomshardware.com/pc-components/this-portable-external-cd-dvd-drive-comes-with-a-2-5-inch-sata-and-an-sd-card-slot-for-just-usd26-save-10-percent-on-a-modern-essential-for-keeping-physical-media-alive",
@@ -822,107 +906,30 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-12T13:37:47.000Z",
       "snippet": "A new leak from Jaykihn says some Nova Lake SKUs, including mobile counterparts, will retain the cache config of their fully-enabled variants despite having reduced E-cores."
-    },
-    {
-      "title": "How optical interconnects and silicon photonics emerged as AI's next hot commodity — looming US-China summit puts photonics into the crosshairs",
-      "link": "https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T12:42:23.000Z",
-      "snippet": "The U.S. wants Chinese optical transceivers out of future AI data centers, but China’s current dominance of the rapidly evolving photonics supply chain could make a ban complicated"
-    },
-    {
-      "title": "YMTC breaks into the top three NAND makers for the first time as AI servers swallow 48% of all flash — Chinese vendor has 14% share, according to research",
-      "link": "https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T12:35:44.000Z",
-      "snippet": "Samsung led with 25%, SK hynix followed at 22%, and Micron rounded out the top five."
-    },
-    {
-      "title": "GMKtec Evo-T2 review: Panther Lake for a price",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/gmktec-evo-t2-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T12:05:00.000Z",
-      "snippet": "GMKtec has positioned its new Evo-T2 mini PC, built around Intel’s 18A Panther Lake silicon, as a compact personal AI workstation.  It is also plenty capable of performing well in office productivity and gaming with 64GB LPDDR5X-8533 RAM."
-    },
-    {
-      "title": "Claude will begin digitally watermarking marking AI-generated text and images — Anthropic details how it'll comply with the EU's Artificial Intelligence Act",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-will-begin-digitally-watermarking-marking-ai-generated-text-and-images-anthropic-details-how-itll-comply-with-the-eus-artificial-intelligence-act",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T11:30:00.000Z",
-      "snippet": "European users of Anthropic's Claude models can expect that future versions of those tools will begin embedding digital marks in generated text and images to identify them as the product of AI."
-    },
-    {
-      "title": "Asobi Remote Play app lets gamers stream PS4 and PS5 games on the Steam Deck, even without a console — dev breaks PlayStation Plus Premium cloud gaming support free of the PlayStation Portal",
-      "link": "https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T11:00:00.000Z",
-      "snippet": "PlayStation Remote Play allows you to stream games from your PS4 or PS5 console to a variety of devices locally, but the Asobi: Remote Play service goes  farther by extending the PlayStation Portal's exclusive PlayStation Plus Premium cloud game streaming support to the Steam Deck and other Linux devices."
-    },
-    {
-      "title": "Samsung Foundry updates process roadmap to move 1.4nm node to 2029 — high-NA EUV will enable 1nm-class and smaller nodes in 2030 and beyond",
-      "link": "https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T11:00:00.000Z",
-      "snippet": "Samsung Foundry has delayed its 1.4nm-class node to 2029, making SF2 one of its longest-lasting process technologies ever. The company also aims to start using High-NA EUV for its 1nm-class process technology in 2030."
-    },
-    {
-      "title": "Save over $600 on a massive 18-inch gaming laptop as it falls to a new all-time low price at Amazon — Acer's Predator Helios Neo 18 AI packs an RTX 5070 Ti and 32GB of memory",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-over-usd600-on-a-massive-18-inch-gaming-laptop-as-it-falls-to-a-new-all-time-low-price-at-amazon-acers-predator-helios-neo-18-ai-packs-an-rtx-5070-ti-and-32gb-of-memory",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T10:40:20.000Z",
-      "snippet": "Acer's Predator Helios Neo 18 AI gaming laptop hits a new all-time low price at Amazon. This massive 18-inch laptop freefalls by $600 in price."
-    },
-    {
-      "title": "Passenger returning from DEF CON 34 spoofs Delta Wi-Fi network while in flight using pentest tool — pilots tell ground crew to alert corporate security after attendee from hacking conference brings the party to the sky",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/passenger-returning-from-def-con-34-spoofs-delta-wi-fi-network-while-in-flight-using-pentest-tool-pilots-tell-ground-crew-to-alert-corporate-security-after-attendee-from-hacking-conference-brings-the-party-to-the-sky",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T10:30:00.000Z",
-      "snippet": "A flight carrying passengers who attended a cybersecurity convention reportedly had its Wi-Fi network victimized by deauthentication attacks while an 'evil twin' hotspot rerouted potential victims to a phishing website. While flight safety was never affected, it's unclear if any of the other passengers had their credentials stolen while in the air."
-    },
-    {
-      "title": "Intel CEO hints at return to the memory business — says market is ripe for innovation, hints at stacking memory and CPU",
-      "link": "https://www.tomshardware.com/pc-components/dram/intel-ceo-hints-at-return-to-the-memory-business-says-market-is-ripe-for-innovation-hints-at-stacking-memory-and-cpu",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T10:05:28.000Z",
-      "snippet": "Lip-Bu Tan says he has a pet project related to a new memory architecture."
-    },
-    {
-      "title": "Save $106 on this 4TB Team Group SSD with Gen 4 speeds, now 10.2 cents per GB — Newegg coupon deal makes this T-Force G50 one of the cheapest PCIe 4.0 drives on sale right now with this amount of storage",
-      "link": "https://www.tomshardware.com/pc-components/ssds/save-usd106-on-this-4tb-team-group-ssd-with-gen-4-speeds-now-10-2-cents-per-gb-newegg-coupon-deal-makes-this-t-force-g50-one-of-the-cheapest-pcie-4-0-drives-on-sale-right-now-with-this-amount-of-storage",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T10:03:01.000Z",
-      "snippet": "Get $106 off this 4TB TeamGroup T-Force G50 SSD, offering Gen 4 speeds and a huge capacity for a price that's hard to rival right now."
-    },
-    {
-      "title": "Commodore re-releases TAC-2 joystick after 40 years for just $49 — says retro-controller is tougher than ever and now comes in five colorways",
-      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/commodore-re-releases-tac-2-joystick-after-40-years-for-just-usd49-says-retro-controller-is-tougher-than-ever-and-now-comes-in-five-colorways",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T10:00:11.000Z",
-      "snippet": "After 40 years, Commodore has brought back the 'Totally Accurate Controller' joystick, better known among C64 and Amiga aficionados as the TAC-2."
-    },
-    {
-      "title": "Independent bookstores in Europe receive suspicious orders for thousands of books, prompting fears they'll be destroyed to train AI — sellers believe acquisitions are part of AI tech companies’ push to get more data",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-bookstores-in-europe-receive-suspicious-orders-for-thousands-of-books-prompting-fears-theyll-be-destroyed-to-train-ai-sellers-believe-acquisitions-are-part-of-ai-tech-companies-push-to-get-more-data",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T10:00:00.000Z",
-      "snippet": "Bookstores in Europe receive massive online purchases for obscure titles that haven't seen interest in years. They fear that these orders were made by AI firms looking to find more data to train their LLMs."
-    },
-    {
-      "title": "Resourceful gamer shrinks Valve’s Steam Deck into Game Boy, with custom 3D-printed cooling  — plans display around 1200x1080, 90Hz AMOLED panel",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/resourceful-gamer-shrinks-valves-steam-deck-into-game-boy-with-custom-3d-printed-cooling-plans-display-around-1200x1080-90hz-amoled-panel",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T09:30:00.000Z",
-      "snippet": "A Steam Deck enthusiast and modder is close to finalizing their ‘SteamBoy’ design."
-    },
-    {
-      "title": "Two undersea cables reportedly damaged off the coast of Perth following suspicious vessel activity — company CEO says faults happened ‘straight after each other and in close proximity'",
-      "link": "https://www.tomshardware.com/networking/two-undersea-cables-reportedly-damaged-off-the-coast-of-perth-following-suspicious-vessel-activity-company-ceo-says-faults-happened-straight-after-each-other-and-in-close-proximity",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T09:00:00.000Z",
-      "snippet": "Subco CEO Bevan Slattery said that the Australian Federal Police should determine what caused the shunt faults on two undersea cables, which happened in suspicious circumstances. They also noted that a vessel was passing over the area at the same time that the disruption happened."
     }
   ],
   "quantum": [
+    {
+      "title": "QpiAI Opens Quantum Chip Foundry in India, Targets 10,000-Qubit Processors",
+      "link": "https://thequantuminsider.com/2026/08/17/qpiai-opens-quantum-chip-foundry-in-india-targets-10000-qubit-processors/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-17T11:08:06.000Z",
+      "snippet": "Insider Brief Quantum computing startup QpiAI has opened a manufacturing facility in Bengaluru capable of fabricating superconducting quantum processors, part of an effort to bring more of its quantum hardware development and production under one roof. The Bengaluru-based company on Monday inaugurated the second phase of its quantum processing unit, or QPU, manufacturing facility in […]"
+    },
+    {
+      "title": "Study Deepens Understanding of Quantum Transport in Topological Materials",
+      "link": "https://thequantuminsider.com/2026/08/17/study-deepens-understanding-of-quantum-transport-in-topological-materials/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-17T07:26:10.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — In May, a study was published in Nature Communications that identified an unusual regime of quantum oscillations in a three-dimensional topological insulator. The results show that, when subjected to temperatures near absolute zero and extreme magnetic fields, electrons in the material zirconium pentatelluride (ZrTe₅) exhibit behavior that deviates from the pattern pr"
+    },
+    {
+      "title": "Scientists Propose More Realistic Benchmarks For Quantum Algorithms",
+      "link": "https://thequantuminsider.com/2026/08/17/scientists-propose-more-realistic-benchmarks-for-quantum-algorithms/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-17T07:12:38.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Two recent scientific publications from the Fraunhofer Institute for Applied Solid State Physics IAF shed light on how the concept of quantum advantage can be assessed more precisely and realistically in the future. Both papers provide theoretical tools to make claims about quantum advantage more robust. Their content is complementary: […]"
+    },
     {
       "title": "The Company Lab Launches CO.LAB Q for Quantum Startups",
       "link": "https://thequantuminsider.com/2026/08/16/company-lab-launches-colab-q-for-quantum-startups/",
@@ -1111,44 +1118,16 @@
       "source": "The Quantum Insider",
       "published": "2026-08-12T13:12:39.000Z",
       "snippet": "Insider Brief Kostas “Kryptos” Chalkias, co-founder and chief cryptographer at Mysten Labs, the company behind the Sui blockchain, has disclosed that he has been personally working on affordable quantum two-factor authentication cards for Sui users. In a post on X, Chalkias said he leased a dedicated factory at an undisclosed location to manufacture quantum-safe wallets […]"
-    },
-    {
-      "title": "Alice & Bob Joins European Quantum Error Correction Doctoral Network",
-      "link": "https://thequantuminsider.com/2026/08/12/alice-bob-partners-europe-first-doctoral-network-quantum-error-correction/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T12:10:48.000Z",
-      "snippet": "Insider Brief Press release – Alice & Bob, a leader in fault-tolerant quantum computing, is contributing its expertise in cat-qubit error correction to QuBriC, Europe’s first Marie Skłodowska-Curie Actions (MSCA) Doctoral Network dedicated to quantum error correction (QEC). QuBriC brings together 16 universities and seven quantum companies across Europe, including ETH Zürich, TU Delft, UCL, […]"
-    },
-    {
-      "title": "Aquark Augments Networked Radars With Quantum-Based Timing in Trial",
-      "link": "https://thequantuminsider.com/2026/08/12/aquark-augments-networked-radars-with-quantum-based-timing-in-trial/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T11:47:18.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Aquark Technologies, alongside the Royal Navy, Saab UK, Qinetiq and DSTL, successfully completed a UK trial, working with a Royal Navy ship’s radar system to give accurate navigation information. The trial demonstrates the benefits of integrating quantum-based time servers with two networked radars to maintain a coherent operational picture in […]"
-    },
-    {
-      "title": "Zapata Quantum and QuEra Partner on Quantum Application Development",
-      "link": "https://thequantuminsider.com/2026/08/12/zapata-quantum-quera-quantum-application-development/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T11:44:03.000Z",
-      "snippet": "Insider Brief Press release – Zapata Quantum (OTCQB: ZPTA) (“Zapata,” “Zapata Quantum” or the “Company”), a leader in quantum computing algorithm and application development, today announced a partnership with QuEra, a leader in neutral-atom quantum computing, aimed at closing the quantum applications gap. “QuEra‘s commitment to delivering a megaquop-class system via AWS in 2028 is […]"
-    },
-    {
-      "title": "Srirama Engineering College Launches Quantum Computing Initiative with BLOQ Quantum",
-      "link": "https://thequantuminsider.com/2026/08/12/bloq-quantum-srirama-engineering-college-tirupati-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T10:49:50.000Z",
-      "snippet": "Insider Brief Press release – Srirama Engineering College has become the first college in Tirupati to initiate a quantum computing initiative, marking a significant milestone in the region’s journey towards emerging quantum technologies. The institution has signed a Memorandum of Understanding (MoU) with BLOQ Quantum Pvt Ltd, a pioneering quantum technology company from Kerala, to […]"
-    },
-    {
-      "title": "Quantinuum Revenue Jumps 279% in First Earnings Report Since IPO",
-      "link": "https://thequantuminsider.com/2026/08/12/quantinuum-revenue-jumps-279-in-first-earnings-report-since-ipo/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T08:01:39.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Quantinuum reported sharply higher revenue in its first quarterly earnings report as a public company, while a $1.7 billion initial public offering gives the quantum computing company a substantial cash reserve to pursue an ambitious hardware roadmap. The trapped-ion quantum computing company reported second-quarter revenue of $8 million, up 279% […]"
     }
   ],
   "education": [
+    {
+      "title": "5 ways AI can strengthen your teaching this school year",
+      "link": "https://www.eschoolnews.com/digital-learning/2026/08/17/5-ways-ai-can-strengthen-your-teaching-this-school-year/",
+      "source": "eSchool News",
+      "published": "2026-08-17T10:00:00.000Z",
+      "snippet": "A year ago, many educators were still asking whether artificial intelligence belonged in the classroom. Some were cautiously experimenting with AI-generated lesson plans, while others were focused on preventing students from using it altogether."
+    },
     {
       "title": "Public schools at the starting line: Beginning a new pathway with scholarship granting organizations",
       "link": "https://www.eschoolnews.com/educational-leadership/2026/08/14/beginning-a-new-pathway-with-scholarship-granting-organizations/",
@@ -1183,13 +1162,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-08-12T17:02:25.000Z",
       "snippet": "As the largest single-district community college system in the nation, Maricopa Community Colleges educates more Arizona residents than its three large public universities combined. \nThe system operates 10 main campuses across the Phoenix metropolitan area and more than 30 satellite sites, serving nearly 100,000 students and employing 14,000 faculty members and staff in the 2026 spring semester. \n"
-    },
-    {
-      "title": "The biggest back-to-school challenge",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/08/12/the-biggest-back-to-school-challenge/",
-      "source": "eSchool News",
-      "published": "2026-08-12T10:00:00.000Z",
-      "snippet": "As students return to classrooms across America this fall, parents are focused on school supplies, class schedules, and academic expectations. Teachers are preparing lesson plans, organizing classrooms, and hoping for a successful year."
     }
   ]
 }
