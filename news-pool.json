@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-16T20:57:04.000Z",
+      "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI."
+    },
+    {
       "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
       "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -290,6 +297,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-16T13:20:00.000Z",
       "snippet": "The drone that destroyed a Tupolev Tu-95MS strategic bomber at Russia's Engels-2 air base last month turns out to be the MICH 2000."
+    },
+    {
+      "title": "Critical macOS Screen Sharing flaw gives attackers remote root access — CISA bumps bug to 9.8 severity following active Monero cryptojacking attacks",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/macos-screen-sharing-flaw-exploited-to-root-macs-and-plant-monero-miners",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-16T13:00:00.000Z",
+      "snippet": "The Dutch National Cyber Security Centre (NCSC-NL) says that attackers are actively exploiting CVE-2026-65400, an authentication bypass in macOS Screen Sharing."
     },
     {
       "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
@@ -936,6 +950,13 @@
       "source": "The Quantum Insider",
       "published": "2026-08-14T14:31:11.000Z",
       "snippet": "Insider Brief Mention quantum teleportation in conversation and most people picture humans dissolving in one place and appearing somewhere else. Something from Star Trek, maybe with a dramatic sound effect. That is not what it does. What quantum teleportation transfers is the quantum state of a particle, specifically its spin, polarization, or energy level, to […]"
+    },
+    {
+      "title": "Quantum Australia Reports $83.1M Economic Impact and Growth of 15 Quantum Companies",
+      "link": "https://thequantuminsider.com/2026/08/14/quantum-australia-reveals-83-million-economic-impact-15-new-quantum-companies/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-14T11:21:38.000Z",
+      "snippet": "Insider Brief Press release – New independent modelling has been released that shows Quantum Australia‘s national programs have created $83.1 million in economic value while supporting more than six times the public investment in economy-wide activity. This figure, calculated by independent consultancy Avant Group as net present value over five years, spans grant and industry funding mobilised, pr"
     },
     {
       "title": "Tamil Nadu Signs Four MoUs With Quantum Computing Ventures at State Investment Conclave",
