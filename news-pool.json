@@ -1,11 +1,46 @@
 {
   "ai": [
     {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-18T18:00:00.000Z",
+      "snippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
+    },
+    {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-18T16:19:10.000Z",
+      "snippet": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
+    },
+    {
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-18T14:00:00.000Z",
+      "snippet": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
+    },
+    {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-18T13:50:30.000Z",
+      "snippet": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
+    },
+    {
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-18T13:45:40.000Z",
+      "snippet": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
+    },
+    {
       "title": "We still don’t know how people are really using AI",
       "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-08-18T10:06:43.000Z",
-      "snippet": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research…"
+      "snippet": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…"
     },
     {
       "title": "AI’s recursive self-improvement might not come so quickly after all",
@@ -181,51 +216,44 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-13T19:19:49.000Z",
       "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-13T18:28:14.000Z",
-      "snippet": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-13T17:07:13.000Z",
-      "snippet": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-13T15:30:52.000Z",
-      "snippet": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
-    },
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-13T15:08:00.000Z",
-      "snippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
-    },
-    {
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-13T14:34:43.000Z",
-      "snippet": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
-    },
-    {
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-13T13:41:10.000Z",
-      "snippet": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…"
     }
   ],
   "cloud": [
+    {
+      "title": "Building cost-effective, high-throughput gen AI workflows in Google Dataflow",
+      "link": "https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/",
+      "source": "Cloud Blog",
+      "published": "2026-08-18T16:00:00.000Z",
+      "snippet": "Real-time streaming pipelines are the operational backbone of modern enterprises, continuously processing everything from customer support interactions to transaction logs. Traditionally, streaming DAGs are static; once deployed, their processing logic and execution paths are fixed. However, by integrating generative AI agents, we can move beyond static logic to adaptive execution. This allows str"
+    },
+    {
+      "title": "Governance on autopilot, minus the turbulence",
+      "link": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
+      "source": "Cloud Blog",
+      "published": "2026-08-18T16:00:00.000Z",
+      "snippet": "Every data team knows the moment. Someone opens a table, sees a column called cust_seg_flg, and has to go ask around to find out what it means, whether it's safe to use, and whether anyone has already answered that question in another dashboard three teams over. Multiply that by thousands of tables and views, and you get the real cost of governance debt: not a compliance failure, but a daily tax o"
+    },
+    {
+      "title": "Building operational resilience with agentic AI in financial services",
+      "link": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
+      "source": "Cloud Blog",
+      "published": "2026-08-18T14:00:00.000Z",
+      "snippet": "For financial institutions, operational resilience has long been embedded in regulatory and supervisory expectations — to say nothing of the high expectations of consumers. With the implementation of the European Union’s Digital Operational Resiliency Act (DORA), those expectations have become even more stringent, with more explicit, harmonized, and evidence-driven requirements. Firms must now dem"
+    },
+    {
+      "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
+      "source": "Cloud Blog",
+      "published": "2026-08-18T14:00:00.000Z",
+      "snippet": "Written by: Alex Tselevich, Michael Maturi\n\nIntroduction\nAdversarial misuse of AI has increased the risk of data theft and extortion events, because when proprietary source code is exposed, defenders must scramble to identify and patch vulnerabilities while attackers deploy machine-speed AI tools against them.\nBy structuring the analysis process, enforcing skeptical validation steps, and injecting"
+    },
+    {
+      "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
+      "link": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
+      "source": "AWS News Blog",
+      "published": "2026-08-18T13:58:41.000Z",
+      "snippet": "Each location will be a permanent community space to offer free workshops, networking events, pitch nights, content creation spaces, collaboration/co-working areas, and event hosting for developers, students, or tech professionals who want to walk through the doors."
+    },
     {
       "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
@@ -234,21 +262,49 @@
       "snippet": "Last week, AWS contributors joined the OpenSearch and Valkey communities at Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026 to meet open source developers and contributors. At the four-day event, community leaders and users of these Linux Foundation open source projects gathered to share knowledge, collaborate on solutions, and push the projects forward. […]"
     },
     {
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-08-17T15:00:00.000Z",
+      "snippet": "Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale.\nThe post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms  appeared first on Microsoft Azure Blog."
+    },
+    {
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "source": "Cloud Blog",
       "published": "2026-08-14T16:00:00.000Z",
       "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nAug 10 - A"
-    },
-    {
-      "title": "Using BigQuery Graphs with measures for trusted agentic workloads",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
-      "source": "Cloud Blog",
-      "published": "2026-08-13T17:00:00.000Z",
-      "snippet": "When enterprises transition from using simple chat assistants to autonomous, agentic workloads, they quickly run into a hard truth: Agents are prone to inaccurate insights when working with directly raw tables. \nBigQuery Graph helps organizations move beyond flat, static tables to represent enterprises exactly how they exist in the physical world: as interconnected business entities with real-worl"
     }
   ],
   "hardware": [
+    {
+      "title": "DJI scores a win in fight against US ban, appeals court orders fresh review of firm's 'Chinese military company' designation — drone maker will stay on Pentagon list while a judge examines classified evidence for the first time",
+      "link": "https://www.tomshardware.com/tech-industry/appeals-court-orders-fresh-review-of-djis-chinese-military-company-designation",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-18T15:40:10.000Z",
+      "snippet": "The DC Circuit reversed one of four findings, ruling that a lower court upheld a fully redacted justification without reading the classified record behind it."
+    },
+    {
+      "title": "Start your 3D printing journey with Bambu Labs' awesome P1S printer and AMS color-printing module bundle for the all-time low price of $499 in Best Buy's 60th Anniversary Sale",
+      "link": "https://www.tomshardware.com/3d-printing/start-your-3d-printing-journey-with-bambu-labs-awesome-p1s-printer-and-ams-color-printing-module-bundle-for-the-all-time-low-price-of-usd499-in-best-buys-60th-anniversary-sale",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-18T15:31:40.000Z",
+      "snippet": "Step into 3D printing with Bambu Lab's P1S and AMS combo bundle for $499. Back on sale at its lowest-ever price point."
+    },
+    {
+      "title": "Intel's next-gen Nova Lake chips may skip game-boosting X3D cache rival for mobile SKUs and debut on Razor Lake-HX instead, leaker claims — new rumor says Razor Lake family reportedly uses TSMC's N2X node",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-next-gen-nova-lake-chips-may-skip-bllc-for-mobile-skus-and-debut-on-razor-lake-hx-instead-leaker-claims-new-rumor-says-razor-lake-family-reportedly-uses-tsmcs-n2x-node",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-18T14:18:57.000Z",
+      "snippet": "Nova Lake desktop CPUs look to be the exclusive recipient of bLLC, Intel's answer to AMD's X3D, as the company looks to debut bLLC on mobile with Razor Lake-HX, and possibly Razor Lake-AX. As such, the Razor Lake family is also rumored to be manufactured on TSCM's N2X process node."
+    },
+    {
+      "title": "Asus ROG Swift PG32UCWM 32-inch OLED gaming monitor review: A flagship display with premium performance and imagery",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg32ucwm-32-inch-oled-gaming-monitor-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-18T13:00:00.000Z",
+      "snippet": "Asus delivers another flagship OLED with the ROG Swift PG32UCWM. It pulls out all the stops with a 32-inch Tandem RGB Stripe panel, 4K resolution, 240 Hz with 480 Hz/FHD dual mode, HDR10, Dolby Vision, Adaptive-Sync and wide gamut color."
+    },
     {
       "title": "Adata XPG Novakey RGB DDR5-6000 C30 2x16GB Review — Turning salvage into pure performance",
       "link": "https://www.tomshardware.com/pc-components/ram/adata-xpg-novakey-rgb-ddr5-6000-c30-2x16gb-review-turning-salvage-into-pure-performance",
@@ -822,51 +878,58 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-13T20:35:52.000Z",
       "snippet": "Prusa Research just announced that its “entire lineup” of 3D printers is getting second-generation upgrades and a “+” designation. This includes the XL, CORE One, and CORE One L."
-    },
-    {
-      "title": "Microsoft's nemesis drops new zero-day privilege escalation vulnerability — attack grants system-level privileges, but it could already be patched",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-nemesis-drops-new-zero-day-privilege-escalation-vulnerability-attack-grants-system-level-privileges-but-it-could-already-be-patched",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-13T17:36:40.000Z",
-      "snippet": "Nightmare Eclipse drops ShieldBreak, another Windows zero-day privilege escalation vulnerability, but Microsoft has rushed quickly to block it with Defender"
-    },
-    {
-      "title": "Near-packaged optics (NPO) gains ground as the industry hedges against CPO's growing pains — analysts say volume for NPO silicon photonics products will extend until the end of the decade",
-      "link": "https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-13T16:52:45.000Z",
-      "snippet": "The case for near-packaged optics (NPO) is strengthening, as the growing pains of co-packaged optics (CPO) become apparent. We explain the material differences between the two technologies as optics and silicon photonics make waves in the AI industry."
-    },
-    {
-      "title": "PS5 emulation arrives on Steam Deck, Astro Playroom showcased running at 0.6 FPS — milestone SharpEmu development shows promise, despite unplayable performance",
-      "link": "https://www.tomshardware.com/video-games/playstation/ps5-emulation-arrives-on-steam-deck-astro-playroom-showcased-running-at-0-6-fps-milestone-sharpemu-development-shows-promise-despite-unplayable-performance",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-13T13:37:59.000Z",
-      "snippet": "Astro's Playroom runs at 0.5 to 1 FPS on the Steam Deck when emulated through SharpEmu. It's not much — it's nothing at all, in fact — but just the proof-of-concept alone is enough to stir up excitement for both Steam Deck and PS5 emulation scenes."
-    },
-    {
-      "title": "Memory maker CXMT overtakes Tencent to become China's most valuable company 17 days after its IPO — now worth $524 billion",
-      "link": "https://www.tomshardware.com/tech-industry/cxmt-overtakes-tencent-to-become-chinas-most-valuable-company-17-days-after-its-ipo",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-13T13:27:14.000Z",
-      "snippet": "ChangXin Memory Technologies (CXMT) is now the world's most valuable Chinese company after passing Tencent."
-    },
-    {
-      "title": "Keychron launches ludicrous 100-key custom macro pad — 10 x 10 ‘keyboard’ uses ‘exclusive’ Keychron Apex switches and features per-key RGB control",
-      "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-launches-ludicrous-100-key-custom-macro-pad-10-x-10-keyboard-uses-exclusive-keychron-apex-switches-and-features-per-key-rgb-control",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-13T13:08:50.000Z",
-      "snippet": "The Keychron C100 8K macro pad features 100 customizable keys, per-key RGB lighting, and 8K polling rate to give you the ultimate advantage in productivity and gaming. It also has hot-swappable Keychron Apex switches and transparent ASA keycaps, allowing you to further customize it to your liking."
-    },
-    {
-      "title": "Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/geekom-it13-max-2026-review-meteor-lake-rides-again-in-a-usd799-mini-pc",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-13T13:05:00.000Z",
-      "snippet": "Geekom mates an Intel Meteor Lake Core Ultra 9 processor with soldered 24GB DDR5 dual-channel RAM to conjure up an attractively specified and priced mini PC for the RAMpocalypse era."
     }
   ],
   "quantum": [
+    {
+      "title": "Infleqtion Opens Colorado Quantum Innovation Center",
+      "link": "https://thequantuminsider.com/2026/08/18/infleqtion-opens-quantum-innovation-center-colorado/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-18T17:33:28.000Z",
+      "snippet": "Insider Brief Press release – Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, is celebrating the grand opening of the Colorado Quantum Innovation Center (CQIC), its new facility in Louisville, Colorado at 1315 W. Century Drive. The grand opening coincides with growing recognition of the Boulder–Louisville–Broomfield corridor as "
+    },
+    {
+      "title": "Symmatrics Appoints Jim Garrity as Senior Vice President of Growth",
+      "link": "https://thequantuminsider.com/2026/08/18/symmatrics-jim-garrity-expanding-leadership-team-growth/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-18T14:46:44.000Z",
+      "snippet": "Insider Brief Press release – Symmatrics, a breakthrough quantum secure data protection platform, is excited to announce the appointment of Jim Garrity as Senior Vice President of Growth, a strategic addition driving the company’s next phase of expansion as organizations seek more secure, resilient and future-ready approaches to authentication. Garrity joins Symmatrics with more than 30 years […]"
+    },
+    {
+      "title": "ISRO Experts Highlight AI and Quantum Technology for Future Indian Satellites",
+      "link": "https://thequantuminsider.com/2026/08/18/ai-quantum-technology-india-next-generation-satellite-systems/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-18T14:36:33.000Z",
+      "snippet": "Insider Brief Press release – During the culminating day of the National Space Technology Conclave 2026, organised by Chandigarh University at their campus, the ISRO experts concluded their remarks deliberated during the two day Conclave. The experts in one voice presented India’s strong position in Space technologies and charted out the new policies being taken by […]"
+    },
+    {
+      "title": "Texas Quantum Partners And Samara to Build Occam Foundry, A Quantum Technology Campus in Austin",
+      "link": "https://thequantuminsider.com/2026/08/18/texas-quantum-partners-and-samara-to-build-occam-foundry-a-quantum-technology-campus-in-austin/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-18T13:22:29.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Texas Quantum Partners and Samara, a Texas real estate developer, today announced Occam Foundry, a quantum technology campus taking shape in Austin. The site is owned, the first buildings are drawn, and the first phase covers part of roughly sixteen and a half acres in southeastern Travis County, with room […]"
+    },
+    {
+      "title": "OTI Lumionics, Samsung Benchmark Quantum Simulation Method for OLED Materials",
+      "link": "https://thequantuminsider.com/2026/08/18/oti-lumionics-samsung-benchmark-quantum-simulation-method-for-oled-materials/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-18T13:05:00.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — OTI Lumionics, a leader in advanced quantum simulations and solutions for next-generation materials discovery, in collaboration with the Samsung Advanced Institute of Technology (SAIT), today announced the publication of a new manuscript benchmarking its proprietary Iterative Qubit Coupled Cluster (iQCC) method in the  Journal of the American Chemical Society (JACS). "
+    },
+    {
+      "title": "Guest Post: The Role of Silicon Photonics in Delivering Usable Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/18/guest-post-the-role-of-silicon-photonics-in-delivering-usable-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-18T13:02:22.000Z",
+      "snippet": "Guest post by Professor Callum Littlejohns, Deputy Director at CORNERSTONE, and Dr Amit Agrawal, Associate Professor in Optical Engineering at the University of Cambridge The ability to scale is one of the most pressing issues in quantum hardware today, and solving scaling challenges has become a driving force behind significant government investments. This includes the […]"
+    },
+    {
+      "title": "BTQ Technologies Appoints Michael Grace to Support QCIM Development",
+      "link": "https://thequantuminsider.com/2026/08/18/btq-technologies-michael-grace-qcim-product-security-commercialization/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-18T12:28:10.000Z",
+      "snippet": "Insider Brief Press release – BTQ Technologies Corp. (“BTQ“ or the “Company”) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, is pleased to announce that Dr. Michael Grace is joining the Company’s U.S. team to support the continued development, product security and commercialization of BTQ’s Quantum Compute-in-Memory (“QCIM”) archite"
+    },
     {
       "title": "NTT DOCOMO Deploys Second D-Wave Quantum Application for Network Optimization",
       "link": "https://thequantuminsider.com/2026/08/18/ntt-docomo-second-d-wave-quantum-application-network-optimization/",
@@ -1034,13 +1097,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-14T07:00:00.000Z",
       "snippet": "Insider Brief Independent Researcher Rodney Bartlett Unveils “Theoretical Horizons,” Merging Quantum Physics and Philosophy to Propose a Utopian Future. The book is backed by a recently published article in a peer-reviewed scientific journal, Bartlett’s new book challenges the Big Bang and presents a universe built on digital interconnectedness. “What if the universe isn’t a cold, […]"
-    },
-    {
-      "title": "DARPA Funds Qunnect to Improve Quantum Network Reliability",
-      "link": "https://thequantuminsider.com/2026/08/13/darpa-taps-qunnect-strengthen-reliability-resilience-quantum-networks/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-13T14:34:10.000Z",
-      "snippet": "Insider Brief Press release – For decades, the distribution of quantum information has been confined to laboratory demonstrations because of the fragile nature of maintaining the fidelity of quantum entanglement across today’s deployed telecommunications fiber. However, today, Qunnect is the first company in the world to anchor multiple quantum networks distributing quantum information across the "
     }
   ],
   "education": [
@@ -1050,13 +1106,6 @@
       "source": "eSchool News",
       "published": "2026-08-18T10:00:00.000Z",
       "snippet": "Walk into almost any classroom in America, and you’ll see a system designed for consistency: same lesson, same pace, same expectations for every student. For decades, that model has served millions well."
-    },
-    {
-      "title": "What the Workforce Pell Grant Launch Means for Community College IT Leaders",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/what-workforce-pell-grant-launch-means-community-college-it-leaders",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-17T20:02:54.000Z",
-      "snippet": "In 2025, the Workforce Pell Grant was announced as part of the Working Families Tax Cuts Act. On August 4, the first program was approved for the new Workforce Pell Grant, a milestone in higher education. To be eligible, institutions must prove a 70% completion rate and 70% job placement rate — in the industry or field of the program — within 180 days. Programs must also run between eight to 15 we"
     },
     {
       "title": "5 ways AI can strengthen your teaching this school year",
@@ -1071,13 +1120,6 @@
       "source": "eSchool News",
       "published": "2026-08-14T10:00:00.000Z",
       "snippet": "For the first time, a federal tax credit is opening a clear path for public school students to access expanded learning opportunities through Scholarship Granting Organizations (SGOs)."
-    },
-    {
-      "title": "AI and Enrollment Pressures Are Reshaping Higher Education",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/ai-and-enrollment-pressures-are-reshaping-higher-education",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-13T17:37:38.000Z",
-      "snippet": "Higher education is at an inflection point. The 2026 EDUCAUSE Horizon Report identifies the forces most likely to reshape teaching and learning over the next decade — and the picture is complex. As artificial intelligence continues to evolve, it’s changing relationships across campus. Institutions also continue to face mounting enrollment challenges. And emerging risks related to cybersecurity, po"
     }
   ]
 }
