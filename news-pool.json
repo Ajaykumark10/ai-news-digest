@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-17T23:56:26.000Z",
+      "snippet": "The model maker added $18 billion in annualized revenue in two months."
+    },
+    {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
       "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -213,6 +220,13 @@
   ],
   "cloud": [
     {
+      "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
+      "source": "AWS News Blog",
+      "published": "2026-08-17T16:02:36.000Z",
+      "snippet": "Last week, AWS contributors joined the OpenSearch and Valkey communities at Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026 to meet open source developers and contributors. At the four-day event, community leaders and users of these Linux Foundation open source projects gathered to share knowledge, collaborate on solutions, and push the projects forward. […]"
+    },
+    {
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "source": "Cloud Blog",
@@ -248,6 +262,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-17T14:31:31.000Z",
       "snippet": "There’s light at the end of the tunnel for Nine PBS after a judge has cleared the way for it to retrieve archival data and programming from Iron Mountain."
+    },
+    {
+      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399",
+      "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T13:52:30.000Z",
+      "snippet": "Analysis of historical price data trends indicates that the memory crisis has driven RAM prices to never-before-seen heights."
     },
     {
       "title": "America's largest grid wants to cut power to new data centers first during shortages — 50MW-plus data centers must bring their own electricity generation to avoid shutoffs",
@@ -847,6 +868,20 @@
   ],
   "quantum": [
     {
+      "title": "NHanced Semiconductors and University of Florida to Present Advanced Photonics Packaging Research",
+      "link": "https://thequantuminsider.com/2026/08/18/nhanced-semiconductors-university-florida-silicon-photonics-packaging-smta/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-18T05:49:35.000Z",
+      "snippet": "Insider Brief Press release – The upcoming SMTA International Conference will feature a paper titled “Advanced Packaging for Photonics: Hybrid Bonding and Silicon Interposer Integration,” presented by NHanced Semiconductors Vice President Dr. Charles Woychik and Dr. Navid Asadizanjani from the Florida Semiconductor Institute at University of Florida. The paper will detail the critical role of fine"
+    },
+    {
+      "title": "Argonne Launches $1 Million Project to Develop Diamond Quantum Sensors for Particle Physics",
+      "link": "https://thequantuminsider.com/2026/08/18/argonne-project-diamond-based-quantum-sensors/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-18T05:40:32.000Z",
+      "snippet": "Insider Brief Press release – A new Argonne project is bringing together experts in quantum information science and high energy physics to build diamond-based quantum sensors capable of measuring electromagnetic fields with unprecedented precision. Understanding how the universe’s smallest building blocks interact requires a precise understanding of how electromagnetic forces affect matter. Whethe"
+    },
+    {
       "title": "From Beaches to Bits to Qubits – Silicon’s Journey in Quantum Computing",
       "link": "https://thequantuminsider.com/2026/08/17/from-beaches-to-bits-to-qubits-silicons-journey-in-quantum-computing/",
       "source": "The Quantum Insider",
@@ -859,6 +894,13 @@
       "source": "The Quantum Insider",
       "published": "2026-08-17T12:33:10.000Z",
       "snippet": "Insider Brief Press release – D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced the appointment of veteran technology finance executive Kevan P. Krysler to its Board of Directors and Audit Committee. Krysler currently serves as chief financial […]"
+    },
+    {
+      "title": "QpiAI Opens Quantum Chip Foundry in India, Targets 10,000-Qubit Processors",
+      "link": "https://thequantuminsider.com/2026/08/17/qpiai-opens-quantum-chip-foundry-in-india-targets-10000-qubit-processors/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-17T11:08:06.000Z",
+      "snippet": "Insider Brief Quantum computing startup QpiAI has opened a manufacturing facility in Bengaluru capable of fabricating superconducting quantum processors, part of an effort to bring more of its quantum hardware development and production under one roof. The Bengaluru-based company on Monday inaugurated the second phase of its quantum processing unit, or QPU, manufacturing facility in […]"
     },
     {
       "title": "Study Deepens Understanding of Quantum Transport in Topological Materials",
@@ -1023,6 +1065,13 @@
     }
   ],
   "education": [
+    {
+      "title": "What the Workforce Pell Grant Launch Means for Community College IT Leaders",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/what-workforce-pell-grant-launch-means-community-college-it-leaders",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-17T20:02:54.000Z",
+      "snippet": "In 2025, the Workforce Pell Grant was announced as part of the Working Families Tax Cuts Act. On August 4, the first program was approved for the new Workforce Pell Grant, a milestone in higher education. To be eligible, institutions must prove a 70% completion rate and 70% job placement rate — in the industry or field of the program — within 180 days. Programs must also run between eight to 15 we"
+    },
     {
       "title": "5 ways AI can strengthen your teaching this school year",
       "link": "https://www.eschoolnews.com/digital-learning/2026/08/17/5-ways-ai-can-strengthen-your-teaching-this-school-year/",
