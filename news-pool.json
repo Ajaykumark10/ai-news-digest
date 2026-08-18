@@ -1,6 +1,48 @@
 {
   "ai": [
     {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-17T21:27:05.000Z",
+      "snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
+    },
+    {
+      "title": "What Flock’s defenders are missing",
+      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-08-17T19:16:09.000Z",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…"
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-17T16:38:44.000Z",
+      "snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-17T16:15:12.000Z",
+      "snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-17T15:16:24.000Z",
+      "snippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
+    },
+    {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-17T13:10:05.000Z",
+      "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
+    },
+    {
       "title": "What happens when a kid’s robot best friend dies?",
       "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -48,6 +90,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-15T16:30:00.000Z",
       "snippet": "AI coding startup Cursor is now officially a part of SpaceX."
+    },
+    {
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-15T16:10:00.000Z",
+      "snippet": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
     },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -160,90 +209,6 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-08-13T09:00:00.000Z",
       "snippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…"
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T22:26:37.000Z",
-      "snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
-    },
-    {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T20:10:40.000Z",
-      "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
-    },
-    {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T18:19:12.000Z",
-      "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T17:51:00.000Z",
-      "snippet": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia."
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T17:41:29.000Z",
-      "snippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
-    },
-    {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T16:57:58.000Z",
-      "snippet": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-12T16:51:57.000Z",
-      "snippet": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…"
-    },
-    {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T16:46:02.000Z",
-      "snippet": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]"
-    },
-    {
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T16:04:27.000Z",
-      "snippet": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
-    },
-    {
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T15:44:56.000Z",
-      "snippet": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases."
-    },
-    {
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T14:22:00.000Z",
-      "snippet": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]"
-    },
-    {
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-12T14:20:33.000Z",
-      "snippet": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
     }
   ],
   "cloud": [
@@ -260,16 +225,44 @@
       "source": "Cloud Blog",
       "published": "2026-08-13T17:00:00.000Z",
       "snippet": "When enterprises transition from using simple chat assistants to autonomous, agentic workloads, they quickly run into a hard truth: Agents are prone to inaccurate insights when working with directly raw tables. \nBigQuery Graph helps organizations move beyond flat, static tables to represent enterprises exactly how they exist in the physical world: as interconnected business entities with real-worl"
-    },
-    {
-      "title": "The Economics of Agent Optimization: From pilots to measurable returns",
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-08-12T16:00:00.000Z",
-      "snippet": "Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization.\nThe post The Economics of Agent Optimization: From pilots to measurable returns appeared first on Microsoft Azure Blog."
     }
   ],
   "hardware": [
+    {
+      "title": "Geekom admits to shipping malware-laced network drivers for AMD mini PCs — company responds with guidance, removes malicious package",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/geekom-admits-to-shipping-malware-laced-network-drivers-for-amd-mini-pcs-company-responds-with-guidance-removes-malicious-package",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T17:18:04.000Z",
+      "snippet": "Geekom admits to shipping malware-laced network drivers for AMD mini-PCs — maker requests takedown of report on the situation"
+    },
+    {
+      "title": "Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business — dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T15:39:28.000Z",
+      "snippet": "Alibaba has agreed to sell its game development unit, Lingxi Games, to Asian private equity firm Trustar Capital, according to an internal staff memo."
+    },
+    {
+      "title": "Judge clears Nine PBS to retrieve 70 years of archival TV data — court rules station owns 50TB of data in Iron Mountain servers after host went under",
+      "link": "https://www.tomshardware.com/software/cloud-storage/judge-clears-nine-pbs-to-retrieve-70-years-of-archival-tv-data-court-rules-station-owns-50tb-of-data-in-iron-mountain-servers-after-host-went-under",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T14:31:31.000Z",
+      "snippet": "There’s light at the end of the tunnel for Nine PBS after a judge has cleared the way for it to retrieve archival data and programming from Iron Mountain."
+    },
+    {
+      "title": "America's largest grid wants to cut power to new data centers first during shortages — 50MW-plus data centers must bring their own electricity generation to avoid shutoffs",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/new-data-centers-on-americas-largest-grid-face-first-in-line-blackouts-unless-they-bring-their-own-power",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T13:11:38.000Z",
+      "snippet": "PJM Interconnection has asked federal regulators to approve rules that would cut power to new data centers ahead of households during supply shortages."
+    },
+    {
+      "title": "Asus ROG Edition 20 gaming PC build – A pretty powerhouse PC that next to no one can afford",
+      "link": "https://www.tomshardware.com/desktops/pc-building/asus-rog-edition-20-gaming-pc-build-a-pretty-powerhouse-pc-that-next-to-no-one-can-afford",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-17T13:00:00.000Z",
+      "snippet": "What’s it like to build a PC with some of the most expensive components on the market? Asus sent us its ROG 20th anniversary components so we could find out for ourselves."
+    },
     {
       "title": "Intel's Arc Pro B70 workstation GPU is now up to 48% more expensive than it was just a month ago — 32GB Battlemage workstation card climbs toward $2,000",
       "link": "https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-is-now-up-to-48-percent-more-expensive-than-it-was-just-a-month-ago-32gb-battlemage-workstation-card-climbs-toward-usd2-000",
@@ -327,7 +320,7 @@
       "snippet": "Save $60 on Corsair's impressive Vanguard 96 RGB mechanical gaming keyboard at Best Buy."
     },
     {
-      "title": "Japanese repair shop sells GDDR6 VRAM upgrades for $25 per GB during memory crisis — RTX 2080 Ti modded to 22GB for just $282, double the VRAM creates a budget AI powerhouse",
+      "title": "Japanese repair shop sells GPU VRAM upgrades for $25 per GB during memory crisis — RTX 2080 Ti modded to 22GB of GDDR6 for just $282, double the VRAM creates a budget AI powerhouse",
       "link": "https://www.tomshardware.com/pc-components/gpus/japanese-repair-shop-sells-gddr6-vram-upgrades-for-usd25-per-gb-during-memory-crisis-rtx-2080-ti-modded-to-22gb-for-just-usd282-double-the-vram-creates-a-budget-ai-powerhouse",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-17T10:30:00.000Z",
@@ -850,71 +843,22 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-13T09:00:00.000Z",
       "snippet": "A Redditor vibe-coded a Jellyfin front-end that mimics that old video rental stores from the 1990s. This simulation is more than just a selection screen, though, and is a complete experience on its own."
-    },
-    {
-      "title": "Qualcomm details Snapdragon C specs for $300 laptops for the first time — claims 67% faster performance on battery than Intel N250, AC performance remains a mystery (updated)",
-      "link": "https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T21:14:33.000Z",
-      "snippet": "Qualcomm has detailed the specs for its Snapdragon C processor, with 8 cores and claimed \"all-day\" battery life."
-    },
-    {
-      "title": "Oracle plans more layoffs weeks after spending most of its $2.1 billion restructuring budget, report claims — some teams face double-digit percentage reductions, 21,000 full-time positions already eliminated",
-      "link": "https://www.tomshardware.com/tech-industry/oracle-plans-more-layoffs-weeks-after-spending-most-of-its-2-1-billion-restructuring-budget",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T17:00:04.000Z",
-      "snippet": "Oracle plans to cut more jobs this month, with reductions on some teams reaching double-digit percentages."
-    },
-    {
-      "title": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 — 96GB card started pre-orders below $8,000 last year",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T15:53:19.000Z",
-      "snippet": "A data center GPU has become more expensive because of the AI boom enabled by unprecedented data center buildouts — shocking. Nvidia's RTX 6000 Pro Blackwell is now twice as costly as it was last year at the time of its launch, and 20% more expensive than even a couple of months ago."
-    },
-    {
-      "title": "AI data center developers begin suing local jurisdictions behind bans and moratoriums — claims range from officials exceeding authority to violations of due process and equal protection laws",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-developers-begin-suing-local-jurisdictions-behind-bans-and-moratoriums-claims-range-from-officials-exceeding-authority-to-violations-of-due-process-and-equal-protection-laws",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T15:46:55.000Z",
-      "snippet": "Some data center developers are suing local governments for passing temporary bans and moratorium, saying that they such moves violated their rights to due process and equal protection. This move has gotten one county to reverse their decision, while others are still fighting the cases in court."
-    },
-    {
-      "title": "CoreWeave proves Nvidia's aging AI GPUs from 2020 can generate profit nine years after deployment, signs A100 contracts into 2029 — power constraints and legacy infrastructure keep old GPUs profitable",
-      "link": "https://www.tomshardware.com/tech-industry/coreweave-ceo-mike-intrator-says-it-has-signed-an-a100-contract-running-into-2029",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T15:41:47.000Z",
-      "snippet": "CoreWeave reported $2.58 billion in quarterly revenue, up 112% year over year."
-    },
-    {
-      "title": "Suspected China-linked hackers used AI to run the first-ever end-to-end autonomous cyberattack on Taiwan's government, Israeli firm says — open-source-built tool continuously devised effective hack strategies in real-time",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/suspected-china-linked-hackers-used-ai-to-run-the-first-ever-end-to-end-autonomous-cyberattack-on-taiwans-government-israeli-firm-says-open-source-built-tool-continuously-devised-effective-hack-strategies-in-real-time",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T14:58:54.000Z",
-      "snippet": "Suspected China-linked hackers used autonomous AI agents to breach Taiwanese government systems, compromising 85 accounts and stealing 2,500+ records."
-    },
-    {
-      "title": "QIDI Plus5 3D printer review: The best one yet",
-      "link": "https://www.tomshardware.com/3d-printing/qidi-plus5-3d-printer-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T14:08:09.000Z",
-      "snippet": "QIDI Plus5 is polished, huge, and produces excellent prints with some of the toughest technical filaments."
-    },
-    {
-      "title": "Nova Lake CPUs with cut-down E-core clusters may still retain full cache pool, says new leak — 8P+12E config predictions revised from 33MB to 36MB, 4P+4E config from 15MB to 18MB",
-      "link": "https://www.tomshardware.com/pc-components/cpus/nova-lake-cpus-with-cut-down-e-core-clusters-may-still-retain-full-cache-pool-says-new-leak-8p-12e-config-predictions-revised-from-33mb-to-36mb-4p-4e-config-from-15mb-to-18mb",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-12T13:37:47.000Z",
-      "snippet": "A new leak from Jaykihn says some Nova Lake SKUs, including mobile counterparts, will retain the cache config of their fully-enabled variants despite having reduced E-cores."
     }
   ],
   "quantum": [
     {
-      "title": "QpiAI Opens Quantum Chip Foundry in India, Targets 10,000-Qubit Processors",
-      "link": "https://thequantuminsider.com/2026/08/17/qpiai-opens-quantum-chip-foundry-in-india-targets-10000-qubit-processors/",
+      "title": "From Beaches to Bits to Qubits – Silicon’s Journey in Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/17/from-beaches-to-bits-to-qubits-silicons-journey-in-quantum-computing/",
       "source": "The Quantum Insider",
-      "published": "2026-08-17T11:08:06.000Z",
-      "snippet": "Insider Brief Quantum computing startup QpiAI has opened a manufacturing facility in Bengaluru capable of fabricating superconducting quantum processors, part of an effort to bring more of its quantum hardware development and production under one roof. The Bengaluru-based company on Monday inaugurated the second phase of its quantum processing unit, or QPU, manufacturing facility in […]"
+      "published": "2026-08-17T21:16:25.000Z",
+      "snippet": "Insider Brief Humanity’s ability to make things has dictated its progress over the ages. From the Stone Age to the Bronze and the Iron Age, we have leaped from one material to the next, each letting us do what we couldn’t before. Over time, these leaps have grown ever more sophisticated in discovery, process, and […]"
+    },
+    {
+      "title": "D-Wave Appoints Kevan Krysler to Board and Audit Committee",
+      "link": "https://thequantuminsider.com/2026/08/17/d-wave-appoints-kevan-krysler-board-audit-committee/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-17T12:33:10.000Z",
+      "snippet": "Insider Brief Press release – D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced the appointment of veteran technology finance executive Kevan P. Krysler to its Board of Directors and Audit Committee. Krysler currently serves as chief financial […]"
     },
     {
       "title": "Study Deepens Understanding of Quantum Transport in Topological Materials",
@@ -1076,48 +1020,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-13T07:00:00.000Z",
       "snippet": "Insider Brief Press release – Optica Publishing Group is pleased to announce that Kartik Srinivasan has been appointed as the new editor-in-chief of Optica Quantum. Srinivasan is a National Institute of Standards and Technology (NIST) Fellow and Fellow of the NIST/University of Maryland Joint Quantum Institute, where he also serves as Co-Director and as an Adjunct […]"
-    },
-    {
-      "title": "D-Wave Awarded National Research Council of Canada Funding to Advance Commercial Annealing Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/08/12/d-wave-awarded-national-research-council-of-canada-funding-to-advance-commercial-annealing-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T20:38:54.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced it has been awarded up to CAD $300,000 in funding from the National Research Council of Canada’s (NRC) Applied Quantum Computing Challenge program to advance annealing ["
-    },
-    {
-      "title": "Yonsei to Install IBM Nighthawk Quantum Processor for Research and Industry Applications",
-      "link": "https://thequantuminsider.com/2026/08/12/yonsei-quantum-initiative-ibm-nighthawk-processor-installation/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T14:21:03.000Z",
-      "snippet": "Insider Brief The Yonsei Quantum Initiative will replace its quantum processing unit with IBM’s next-generation Nighthawk processor in November, the Seoul Economic Daily reported. IBM Miami is currently the only site operating a Nighthawk-based quantum computer, making Yonsei expected to become the world’s second research institution to install one. Yonsei is also the first institution […]"
-    },
-    {
-      "title": "ORIENTOM and softwareQ Partner on Quantum Computing Applications for Finance",
-      "link": "https://thequantuminsider.com/2026/08/12/orientom-softwareq-quantum-computing-finance-applications/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T14:07:29.000Z",
-      "snippet": "Insider Brief Press release – ORIENTOM Co., Ltd. and softwareQ Inc. have signed a Memorandum of Understanding (MoU) to explore joint research, development and innovation opportunities in quantum and quantum-inspired computing for the financial services, banking, and insurance sectors. Objectives of the Collaboration The collaboration aims to establish a framework for the joint exploration, researc"
-    },
-    {
-      "title": "Uncovering the Hidden Disorder in Silicon Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/08/12/uncovering-the-hidden-disorder-in-silicon-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T13:42:41.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Qubits are the quantum counterpart to the bits used in conventional computers. Bits have a “0” and “1” state that is defined by electric charge. In a type of qubit called a silicon spin qubit, the “0” and “1” states are defined by electron spin. This spin can point either […]"
-    },
-    {
-      "title": "Qunova Appoints CFO and Two Business Development Executives",
-      "link": "https://thequantuminsider.com/2026/08/12/qunova-computing-appoints-cfo-business-development-executives/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T13:27:12.000Z",
-      "snippet": "Insider Brief Press release – Qunova Computing, a maker of quantum  software applications designed for the chemical, pharmaceutical and materials science  industries, today announces the appointments of Jake Hwang as Chief Financial Officer  (CFO) and Board Member, as well as Evan Kang and Woomin Kyoung as Business  Development Executives. The team will take on a […]"
-    },
-    {
-      "title": "Sui Co-Founder Works on $10 Quantum-Safe Hardware Wallet Cards",
-      "link": "https://thequantuminsider.com/2026/08/12/sui-co-founder-quantum-safe-wallet-cards-10-target-price/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-12T13:12:39.000Z",
-      "snippet": "Insider Brief Kostas “Kryptos” Chalkias, co-founder and chief cryptographer at Mysten Labs, the company behind the Sui blockchain, has disclosed that he has been personally working on affordable quantum two-factor authentication cards for Sui users. In a post on X, Chalkias said he leased a dedicated factory at an undisclosed location to manufacture quantum-safe wallets […]"
     }
   ],
   "education": [
@@ -1148,20 +1050,6 @@
       "source": "eSchool News",
       "published": "2026-08-13T10:00:00.000Z",
       "snippet": "As the school year begins, teachers often devote significant time to planning lessons, reviewing standards, organizing classrooms, and establishing routines. While these are all essential components of effective teaching, they cannot replace the importance of creating a positive classroom culture."
-    },
-    {
-      "title": "Virtual Tech Tools Fuel Higher Ed Robotics Research",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/virtual-tech-tools-fuel-higher-ed-robotics-research",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-12T17:43:58.000Z",
-      "snippet": "The percentage of physical robots in industrial settings that are designed to work alongside humans has more than quadrupled since 2017, according to data from the nonprofit International Federation of Robotics.\nTo investigate how collaborative robots can effectively communicate with people in manufacturing, medical and other settings, a number of colleges and universities have launched research e"
-    },
-    {
-      "title": "Centralized Cybersecurity Operations Keeps Community Colleges Protected",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/centralized-cybersecurity-operations-keeps-community-colleges-protected",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-12T17:02:25.000Z",
-      "snippet": "As the largest single-district community college system in the nation, Maricopa Community Colleges educates more Arizona residents than its three large public universities combined. \nThe system operates 10 main campuses across the Phoenix metropolitan area and more than 30 satellite sites, serving nearly 100,000 students and employing 14,000 faculty members and staff in the 2026 spring semester. \n"
     }
   ]
 }
