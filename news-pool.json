@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-18T22:14:25.000Z",
+      "snippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
+    },
+    {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -188,34 +195,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-14T14:00:00.000Z",
       "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]"
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-13T21:13:24.000Z",
-      "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-13T20:14:39.000Z",
-      "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-13T19:22:40.000Z",
-      "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-13T19:19:49.000Z",
-      "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
     }
   ],
   "cloud": [
@@ -871,16 +850,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-14T09:00:00.000Z",
       "snippet": "A games industry veteran is selling off what is 'probably the rarest arcade game in existence' via Boston’s RR Auctions."
-    },
-    {
-      "title": "Prusa Research XL, Core One, and Core One L all to receive second-generation upgrades — all new orders get updated model for 'free'",
-      "link": "https://www.tomshardware.com/3d-printing/prusa-research-xl-core-one-and-core-one-l-all-to-receive-second-generation-upgrades-all-new-orders-get-updated-model-for-free",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-13T20:35:52.000Z",
-      "snippet": "Prusa Research just announced that its “entire lineup” of 3D printers is getting second-generation upgrades and a “+” designation. This includes the XL, CORE One, and CORE One L."
     }
   ],
   "quantum": [
+    {
+      "title": "Eclypses And Sterling Team Up to Deliver Quantum-Resistant Cryptography to Federal Government Systems",
+      "link": "https://thequantuminsider.com/2026/08/18/eclypses-and-sterling-team-up-to-deliver-quantum-resistant-cryptography-to-federal-government-systems/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-18T18:33:48.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Eclypses, a cyber leader redefining data security for the AI and quantum era, today announced that it has selected Sterling, an award-winning Global Solutions Integrator, as its partner of choice to deliver MicroToken Exchange® (MTE)—its patented, FIPS 140-3 validated technology—to the federal government. The government’s most sensitive data is at […]"
+    },
     {
       "title": "Infleqtion Opens Colorado Quantum Innovation Center",
       "link": "https://thequantuminsider.com/2026/08/18/infleqtion-opens-quantum-innovation-center-colorado/",
