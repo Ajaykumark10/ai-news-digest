@@ -1,6 +1,41 @@
 {
   "ai": [
     {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-19T17:26:48.000Z",
+      "snippet": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes.  Silicon Data […]"
+    },
+    {
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-19T15:44:53.000Z",
+      "snippet": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
+    },
+    {
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-19T15:00:00.000Z",
+      "snippet": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime."
+    },
+    {
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "AI | VentureBeat",
+      "published": "2026-08-19T14:18:12.000Z",
+      "snippet": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, an"
+    },
+    {
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-19T14:09:39.000Z",
+      "snippet": "Calendly is also releasing a meeting scheduling assistant called Callie."
+    },
+    {
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
       "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -181,44 +216,23 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-15T16:10:00.000Z",
       "snippet": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-14T16:13:40.000Z",
-      "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-14T15:43:28.000Z",
-      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]"
-    },
-    {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-14T14:50:11.000Z",
-      "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-14T14:05:00.000Z",
-      "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
-    },
-    {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-14T14:00:00.000Z",
-      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]"
     }
   ],
   "cloud": [
+    {
+      "title": "How to modernize Apache Hive using Google Cloud’s Lakehouse runtime catalog",
+      "link": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-helps-modernize-apache-hive/",
+      "source": "Cloud Blog",
+      "published": "2026-08-19T16:00:00.000Z",
+      "snippet": "For over a decade, the Apache Hive Metastore (HMS) has served as the de facto metadata authority for big data analytics. Whether it was deployed on Hadoop clusters, self-managed Compute Engine VMs backed by MySQL or PostgreSQL, HMS provided the central schema registry that let Apache Spark, Presto, and Hive query raw .parquet and .orc files.\nHowever, as enterprise data architectures scale to petab"
+    },
+    {
+      "title": "Serverless Apache Spark on Google Cloud: Architecture Choices & AI Troubleshooting",
+      "link": "https://cloud.google.com/blog/products/data-analytics/serverless-apache-spark-on-google-cloud-architecture-ai-troubleshooting/",
+      "source": "Cloud Blog",
+      "published": "2026-08-19T16:00:00.000Z",
+      "snippet": "In modern enterprise data engineering, Apache Spark remains a cornerstone framework for processing massive datasets at scale. However, managing infrastructure such as provisioning clusters, tuning YARN configurations, and avoiding costs for idle hardware often detracts from what matters most: building resilient data pipelines. Google Cloud addresses this operational overhead via its Managed Servic"
+    },
     {
       "title": "Building cost-effective, high-throughput gen AI workflows in Google Dataflow",
       "link": "https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/",
@@ -274,16 +288,44 @@
       "source": "Microsoft Azure Blog",
       "published": "2026-08-17T15:00:00.000Z",
       "snippet": "Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale.\nThe post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms  appeared first on Microsoft Azure Blog."
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "source": "Cloud Blog",
-      "published": "2026-08-14T16:00:00.000Z",
-      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nAug 10 - A"
     }
   ],
   "hardware": [
+    {
+      "title": "Samsung raises advanced foundry prices by up to 15% as AI demand fills its 4nm lines, report claims — Chinese customers accepting the largest hikes",
+      "link": "https://www.tomshardware.com/tech-industry/samsung-raises-advanced-foundry-prices-by-up-to-15-percent-as-ai-demand-fills-its-4nm-lines",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-19T16:15:53.000Z",
+      "snippet": "Samsung raised prices on new orders across its 4nm, 5nm, and 8nm foundry processes in July, with increases reaching 15% for customers in China."
+    },
+    {
+      "title": "China shifting massive AI data center complexes to rural provinces to tap surplus energy — ‘Eastern Data, Western Computing’ strategy has Chinese tech giants Huawei and Tencent building AI infrastructure Guizhou",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/china-shifting-massive-ai-data-center-complexes-to-rural-provinces-to-tap-surplus-energy-eastern-data-western-computing-strategy-has-chinese-tech-giants-huawei-and-tencent-building-ai-infrastructure-guizhou",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-19T15:49:04.000Z",
+      "snippet": "Chinese tech giants are putting up data centers in rural Chinese provinces with zero resistance. The abundance of land and energy in these areas allowed infrastructure to easily be built with limited issues, although some experts still question how much development they can bring to these areas."
+    },
+    {
+      "title": "Qualcomm retracts select Snapdragon C power efficiency benchmarks nearly a week after publication — updated slide removes idle apps and web browsing results",
+      "link": "https://www.tomshardware.com/laptops/qualcomm-retracts-select-snapdragon-c-power-efficiency-benchmarks-nearly-a-week-after-publication-updated-slide-removes-idle-apps-and-web-browsing-results",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-19T15:28:06.000Z",
+      "snippet": "Qualcomm has issued an updated slide for its Snapdragon C power efficiency claims, removing two benchmarks from the results."
+    },
+    {
+      "title": "You can now buy a delidded Ryzen 9 9950X3D2 Dual Edition for $1,403 — stripped dual-cache offering is $500 more expensive than regular version",
+      "link": "https://www.tomshardware.com/pc-components/overclocking/you-can-now-buy-a-delidded-ryzen-9-9950x3d2-dual-edition-for-usd1-403-stripped-dual-cache-offering-is-usd500-more-expensive-than-regular-version",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-19T13:44:47.000Z",
+      "snippet": "Thermal Grizzly offers the halo CPU with the pop topped for an egregious price, yet it almost makes sense on this chip."
+    },
+    {
+      "title": "Hacker leaks GTA VI gameplay and map to protest digital-only release — claims pre-orders are a legacy of physical game releases",
+      "link": "https://www.tomshardware.com/video-games/hacker-leaks-gta-vi-gameplay-and-map-to-protest-digital-only-release-claims-pre-orders-are-a-legacy-of-physical-game-releases",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-19T13:37:23.000Z",
+      "snippet": "Hacker Cyberleek leaked gameplay clips and the entire map of GTA VI in protest of Rockstar's decision to launch pre-orders of a digital game. They claim that pre-orders were created because physical discs could run out at retailers, meaning gamers will pay more to ensure they have a copy on launch day. But because digital copies cannot sell out, there is no need for a pre-order system."
+    },
     {
       "title": "Google to stop making Pixel devices in China, report claims — India and Vietnam prime candidates for manufacturing shift owing to Beijing-Washington tensions",
       "link": "https://www.tomshardware.com/phones/google-to-stop-making-pixel-devices-in-china-report-claims-india-and-vietnam-prime-candidates-for-manufacturing-shift-owing-to-beijing-washington-tensions",
@@ -828,7 +870,7 @@
       "link": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
       "source": "IEEE Spectrum",
       "published": "2026-08-15T13:00:01.000Z",
-      "snippet": "Supply chains in many industries are full of tangles, but for semiconductor tech, that’s putting it lightly. Many chip components are location-constrained and can easily be throttled by geopolitical factors. Chipmaking is also tied up with social and environmental concerns, and if any seemingly small strand gives way, the whole thing could fall apart.\nResearchers at the University of Michigan are "
+      "snippet": "Supply chains in many industries are full of tangles, but for semiconductor tech, that’s putting it lightly. Many chip components are location-constrained and can easily be throttled by geopolitical factors. Chipmaking is also tied up with social and environmental concerns, and if any seemingly small strand gives way, the whole thing could fall apart.\nResearchers at the University of Michigan, in "
     },
     {
       "title": "White House authorizes private companies to launch 'hack-back' cyberattacks that destroy data and systems, targeting foreign cybercrime organizations  — vetted organizations can now conduct offensive cyber operations",
@@ -892,37 +934,23 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-15T09:30:00.000Z",
       "snippet": "Bitrot isn't the only worry, CDs and DVDs are also susceptible to damage caused by cleaning or foam off-gassing chemicals."
-    },
-    {
-      "title": "G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB Review — EXPO ULL memory kit to max out your Ryzen",
-      "link": "https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-14T15:30:00.000Z",
-      "snippet": "G.Skill's Trident Z5 NeoX is the brand's latest series with the AMD EXPO ULL feature, but can the DDR5-6000 C30 prove to be the fastest memory kit for AMD?"
-    },
-    {
-      "title": "Scythe Magoroku Review: excellent RAM thermals, but needs improvement elsewhere",
-      "link": "https://www.tomshardware.com/pc-components/air-cooling/scythe-magoroku-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-14T14:42:29.000Z",
-      "snippet": "Scythe is back with another dual-tower air cooler, the Magoroku. This cooler performs best with an Intel Arrow Lake system."
-    },
-    {
-      "title": "Cargo thieves ram security escorts to hijack AI hardware shipments in California — brazen thieves employ PIT maneuver, rear-ending tactics to secure goods for the black market",
-      "link": "https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-14T14:13:41.000Z",
-      "snippet": "Cargo thieves knocked two private security escort vehicles out of action on California roads in recent months, then made off with millions of dollars in AI data center hardware."
-    },
-    {
-      "title": "Samsung Odyssey G80HS 6K gaming monitor review: Upping the stakes in pixel density",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g80hs-6k-gaming-monitor-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-14T13:10:42.000Z",
-      "snippet": "The Samsung Odyssey G80HS is a 32-inch IPS panel with 6K 6144x3456 resolution at 165 Hz plus 3072x1728 pixels at 330 Hz. It packs HDR wide-gamut color, Adaptive-Sync, and plenty of features into its slim chassis."
     }
   ],
   "quantum": [
+    {
+      "title": "Diraq Opens First U.S. Quantum Laboratory in Chicago",
+      "link": "https://thequantuminsider.com/2026/08/19/diraq-opens-first-u-s-quantum-laboratory-in-chicago/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-19T14:36:28.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Diraq, the quantum computing pioneer, has opened its first U.S. laboratory in Chicago as part of the Illinois Quantum and Microelectronics Park’s (IQMP) On-Ramp program at mHUB. “Chicago’s superb quantum facilities offer Diraq the ability to rapidly test and prototype our uniquely scalable technology as we advance toward deploying commercial […]"
+    },
+    {
+      "title": "Korean Researchers Identifies Cause of ‘Beat’ Signal in Topological Insulator Nanowires",
+      "link": "https://thequantuminsider.com/2026/08/19/korean-researchers-source-beat-signal-topological-insulator-nanowires/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-19T13:57:46.000Z",
+      "snippet": "Insider Brief A South Korean research team has identified the cause of the “beat” signal observed in topological insulator nanowires, a problem that had been an obstacle to interpreting quantum signals for years, the Seoul Economic Daily reported. Researchers from the Korea Research Institute of Standards and Science (KRISS), the Gwangju Institute of Science and […]"
+    },
     {
       "title": "EigenQ and Silicon Valley Acquisition Corp Submit Draft S-4 for Proposed Business Combination",
       "link": "https://thequantuminsider.com/2026/08/19/eigenq-silicon-valley-acquisition-corp-advance-business-combination/",
@@ -1132,13 +1160,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-15T07:00:00.000Z",
       "snippet": "Yuval Boger interviews Dorit Dor, co-founder of QBeat Ventures and former senior executive at Check Point. They discuss lessons quantum startups can draw from the evolution of cybersecurity, including the importance of go-to-market strategy, focus, and adherence to standards. Dorit outlines her fund’s cross-stack investment strategy, compares different quantum modalities, comments on public market"
-    },
-    {
-      "title": "What is Quantum Teleportation? How Quantum States Transfer Across Distance",
-      "link": "https://thequantuminsider.com/2026/08/14/quantum-teleportation-explained/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-14T14:31:11.000Z",
-      "snippet": "Insider Brief Mention quantum teleportation in conversation and most people picture humans dissolving in one place and appearing somewhere else. Something from Star Trek, maybe with a dramatic sound effect. That is not what it does. What quantum teleportation transfers is the quantum state of a particle, specifically its spin, polarization, or energy level, to […]"
     }
   ],
   "education": [
