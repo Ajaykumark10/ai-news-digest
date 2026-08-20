@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T12:11:57.000Z",
+      "snippet": "Meta said its Muse Spark model is powering the dictation feature."
+    },
+    {
+      "title": "Unlocking hidden revenue streams with market models",
+      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-08-20T09:47:22.000Z",
+      "snippet": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…"
+    },
+    {
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T09:30:00.000Z",
+      "snippet": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor."
+    },
+    {
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
       "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -333,6 +354,83 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Seasonic unveils world's first 80 Plus Ruby ATX power supply — Prime Enterprise RX-1600 delivers 1600W with up to 95.4% efficiency",
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/seasonic-introduces-the-worlds-first-80-plus-ruby-certified-psu-using-a-standard-atx-form-factor",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T12:00:00.000Z",
+      "snippet": "Seasonic has introduced the world's first 80 Plus Ruby certified 115V ATX PSU, the Prime RX-1600. The new unit features an efficiency rating of up to 95% at 20% to 50% load."
+    },
+    {
+      "title": "Get 32GB of RAM for only $241 in this 3-item gaming combo from Newegg —save $249 on this inclusive bundle with Ryzen 7 9800X3D, Corsair Vengeance RAM, and a Gigabyte X870E motherboard",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/get-32gb-of-ram-for-only-usd241-in-this-3-item-gaming-combo-from-newegg-save-usd249-on-this-inclusive-bundle-with-ryzen-7-9800x3d-corsair-vengeance-ram-and-a-gigabyte-x870e-motherboard",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T11:46:55.000Z",
+      "snippet": "Newegg's AM5 combo bundles 32GB of Corsair Vengeance DDR5-6000 RAM with a Ryzen 7 9800X3D and Gigabyte X870E board for only $1,009.99. $249 savings puts the RAM at only $241"
+    },
+    {
+      "title": "The supercomputer race no longer means what it used to, as rankings lose relevance in the AI era — as privately held compute clusters are built, running HPL becomes a distraction",
+      "link": "https://www.tomshardware.com/tech-industry/supercomputers/the-supercomputer-race-no-longer-means-what-it-used-to-as-rankings-lose-relevance-in-the-ai-era-as-privately-held-compute-clusters-are-built-running-hpl-becomes-a-distraction",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T11:40:00.000Z",
+      "snippet": "We review the current state of high-performance supercomputing, interviewing experts, including the deputy head of high-performance computing at GWDG, to find out exactly where the current race stands."
+    },
+    {
+      "title": "SMIC posts record $3B quarter and hikes wafer prices — US sanctions hand Chinese foundry a captive AI market",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T11:20:00.000Z",
+      "snippet": "SMIC posted its first $3 billion quarter earlier this month, with revenue up 36.1% year on year, net profit nearly tripling to $479.2 million."
+    },
+    {
+      "title": "Physical media nostalgia sees fundraisers flock to Blu-Ray Kickstarter — drive with 9-in-1 dock achieves 160x funding goal halfway through campaign",
+      "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/physical-media-nostalgia-sees-fundraisers-flock-to-blu-ray-kickstarter-drive-with-9-in-1-dock-achieves-160x-funding-goal-halfway-through-campaign",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T11:00:39.000Z",
+      "snippet": "A 'grand piano style' Blu-ray drive and USB dock has got tech fans excited over on Kickstarter."
+    },
+    {
+      "title": "G.Skill pays out $2.4M settlement over misleading DDR4 and DDR5 speed marketing — buyers get $20 to $25 as vendor agrees to XMP and EXPO packaging warnings",
+      "link": "https://www.tomshardware.com/pc-components/ram/g-skill-starts-usd2-4m-class-action-payout-over-misleading-ram-speeds-usd20-to-usd25-cash-payments-heading-to-claimants",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T11:00:00.000Z",
+      "snippet": "G.Skill has started sending payments to claimants regarding the $2.4 million lawsuit over inadequately marketed RAM speeds."
+    },
+    {
+      "title": "Pine64 halts all Linux hardware manufacturing through at least mid-2027 due to shortages — memory crunch forces open-source maker to freeze SBCs, tablets, and phones",
+      "link": "https://www.tomshardware.com/pc-components/dram/pine64-halts-all-linux-device-production-until-at-least-mid-2027-as-memory-shortage-bites",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T10:30:00.000Z",
+      "snippet": "Microcontroller-based products, such as the PineTime smartwatch, PineVoice smart speaker, and Pinecil soldering iron, aren't affected."
+    },
+    {
+      "title": "Get an astonishing OLED 5090 gaming laptop for $3,599, $800 off — Gigabyte Aorus Master 16 features a 24-core Arrow Lake CPU, 32GB RAM, 2TB SSD",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/get-an-astonishing-oled-5090-gaming-laptop-for-usd3-599-usd800-off-gigabyte-aorus-master-16-features-a-24-core-arrow-lake-cpu-32gb-ram-2tb-ssd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T10:16:16.000Z",
+      "snippet": "Get $800 off this RTX 5090 gaming laptop with Intel Core Ultra 9 275HX, 32GB of RAM, and a 2TB SSD."
+    },
+    {
+      "title": "Federal judge strikes down ATF 'ghost gun' rule for 3D printed parts — says restrictions violate Fifth Amendment and historical tradition of DIY gunsmithing",
+      "link": "https://www.tomshardware.com/3d-printing/federal-judge-strikes-down-atf-ghost-gun-rule-for-3d-printed-parts-says-restrictions-violate-fifth-amendment-and-historical-tradition-of-diy-gunsmithing",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T10:00:00.000Z",
+      "snippet": "Judge Reed O'Connor of the Northern District of Texas said that the ATF ruling that putting part kits that can easily be turned into firearms in the same category as actual guns is unconstitutional. He also said that the vagueness of some parts of the rule violated the Due Process Clause of the Fifth Amendment."
+    },
+    {
+      "title": "Console modder builds working Switch 2 Joy-Cons inside original Wii Remote shells — motion-sensing controllers snap magnetically onto a Switch 2",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/modder-builds-working-switch-2-joy-cons-inside-original-wii-remote-shells",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T09:45:00.000Z",
+      "snippet": "YouTuber Kouzex has transplanted the internals of a pair of Joy-Con 2 controllers into two original Wii Remote shells, producing motion controllers that snap magnetically onto a Switch 2."
+    },
+    {
+      "title": "Amazon delivery drone dumps Texas woman's parcel straight into her swimming pool — viral video surfaces the same week the company announces 500-city Prime Air expansion",
+      "link": "https://www.tomshardware.com/tech-industry/drones/amazon-delivery-drone-dumps-texas-womans-parcel-straight-into-her-swimming-pool-viral-video-surfaces-the-same-week-the-company-announces-500-city-prime-air-expansion",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T09:35:39.000Z",
+      "snippet": "A Texas woman has filmed the moment an Amazon Prime delivery drone dumped her package straight into her swimming pool."
+    },
     {
       "title": "Samsung raises advanced foundry prices by up to 15% as AI demand fills its 4nm lines, report claims — Chinese customers accepting the largest hikes",
       "link": "https://www.tomshardware.com/tech-industry/samsung-raises-advanced-foundry-prices-by-up-to-15-percent-as-ai-demand-fills-its-4nm-lines",
@@ -920,65 +1018,51 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-15T13:00:00.000Z",
       "snippet": "President Trump signed a memorandum on August 12 establishing the first U.S. program that lets vetted private companies conduct offensive cyber operations."
-    },
-    {
-      "title": "This week on Tom's Hardware Premium: August 14, 2026 — Testing the BC-250, our interview with Intel's Robert Hallock, and a big week for optical",
-      "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-14-2026-testing-the-bc-250-our-interview-with-intels-robert-hallock-and-a-big-week-for-optical",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-15T12:30:00.000Z",
-      "snippet": "This week, we tested AMD's BC-250 in gaming workloads, published an unredacted interview with an AMD executive, and published a slew of articles surrounding a new flashpoint in the ongoing AI buildout: optical interconnects."
-    },
-    {
-      "title": "US Navy 3D prints combat-ready drones and 1,000+ parts aboard aircraft carrier during exercise — containerized factory fabricated 80-mph FPVs and critical spares despite rough seas and 12-foot waves",
-      "link": "https://www.tomshardware.com/tech-industry/drones/flight-ready-drones-3d-printed-and-built-on-aircraft-carrier-during-us-navy-exercise-a-containerized-factory-on-uss-essex-functioned-despite-rough-seas-and-12-foot-waves",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-15T12:10:00.000Z",
-      "snippet": "During a two-week journey to Hawaii, a containerized factory aboard the USS Essex 3D-printed a dozen flight-ready drones, as well as over 1,000 parts including vital spares for Apache helicopters."
-    },
-    {
-      "title": "Ocypus Sigma L36 Pro Review: How is this LCD AIO so cheap?",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/ocypus-sigma-l36-pro-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-15T12:05:00.000Z",
-      "snippet": "The Ocypus Sigma L36 Pro is a high-performance AIO that includes a fancy 3.5-inch display and a low price tag. We’ve tested this liquid cooler paired with AMD’s Ryzen 9 9950X3D CPU to benchmark thermal efficiency."
-    },
-    {
-      "title": "SK hynix runs out of replacement SSDs and defaults to original purchase price refunds — fine-print warranty clause shortchanges buyers as drive prices double",
-      "link": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-is-allegedly-out-of-replacement-ssds-for-warranty-returns-chipmakers-original-price-refund-leaves-buyers-stranded-in-the-storage-shortage",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-15T11:50:00.000Z",
-      "snippet": "A Redditor reports a case in which SK hynix reportedly offers a refund for a malfunctioning SSD at the original purchase price instead of a direct replacement."
-    },
-    {
-      "title": "Intel says PC market is ‘a tale of two kingdoms’ with mainstream ‘taking a beating’ — VP suggests a split between mainstream and enthusiast sockets across the industry",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-says-pc-market-is-a-tale-of-two-kingdoms-with-mainstream-taking-a-beating-vp-suggests-a-split-between-mainstream-and-enthusiast-sockets-across-the-industry",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-15T11:30:00.000Z",
-      "snippet": "Intel VP Robert Hallock suggests the PC industry is going to see a split between mainstream and enthusiast sockets if current market conditions don’t let up."
-    },
-    {
-      "title": "Engineer used 360-degree cam hidden in bag of snacks in attempt to steal DRAM process tech for China — IT security team pinpointed perp due to camera's leaky wireless signals",
-      "link": "https://www.tomshardware.com/pc-components/dram/nanya-engineer-used-360-degree-cam-hidden-in-snacks-in-attempt-to-steal-dram-process-tech-for-china-it-security-team-pinpointed-perp-due-to-cameras-leaky-wireless-signals",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-15T11:00:00.000Z",
-      "snippet": "Nanya engineer tried to steal DRAM process technology, manufacturing methods to pass them to a Chinese rival and get a higher-paid job, but gets caught and now faces time in prison."
-    },
-    {
-      "title": "Anti-drone chain gun with 50mm precision-guided ammunition unveiled — Northrop Grumman's Raid Hunter is designed to wipe out drone swarms and cruise missiles",
-      "link": "https://www.tomshardware.com/tech-industry/drones/anti-drone-chain-gun-with-50mm-precision-guided-ammunition-unveiled-northrop-grummans-raid-hunter-is-designed-to-wipe-out-drone-swarms-and-cruise-missiles",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-15T10:30:00.000Z",
-      "snippet": "US aerospace, defense, and security giant Northrop Grumman thinks its Raid Hunter will provide short-range, layered air defense against the increasingly complex aerial threats we are seeing in modern warfare."
-    },
-    {
-      "title": "Catastrophic optical disc shattering blamed on cleaning chemicals and packing foam — another data preservation concern to add to bit rot and laser rot",
-      "link": "https://www.tomshardware.com/pc-components/storage/catastrophic-optical-disc-shattering-blamed-on-cleaning-chemicals-and-packing-foam-another-data-preservation-concern-to-add-to-bit-rot-and-laser-rot",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-15T09:30:00.000Z",
-      "snippet": "Bitrot isn't the only worry, CDs and DVDs are also susceptible to damage caused by cleaning or foam off-gassing chemicals."
     }
   ],
   "quantum": [
+    {
+      "title": "Dirac Labs Raises $1.8M for Quantum Navigation Sensors",
+      "link": "https://thequantuminsider.com/2026/08/20/dirac-labs-raises-1-8m-quantum-navigation-sensors/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-20T12:05:00.000Z",
+      "snippet": "Insider Brief Press release – Dirac Labs, a quantum-enabled navigation company, today announced its $1.8M pre-seed funding to prototype its quantum sensors and conduct field trials to further refine its technology to provide universal positioning where GPS is unavailable.  Quantum sensing offers a resilient, alternative method of positioning by measuring features of Earth’s magnetic field, […]"
+    },
+    {
+      "title": "Rigetti Creates Systems Delivery Unit as Quantum System Deployments Grow",
+      "link": "https://thequantuminsider.com/2026/08/20/rigetti-systems-delivery-quantum-system-deployments/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-20T11:31:25.000Z",
+      "snippet": "Insider Brief Press release – Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti”), a pioneer in full-stack quantum computing, today announced a new operating structure designed to scale deployment of on-premises quantum systems, strengthen end-to-end operational execution, and further focus its engineering resources on quantum processor development. Rigetti is establishing a dedicated Systems Deliv"
+    },
+    {
+      "title": "FormationQ and Hartree Centre Partner to Advance Quantum Computing in the UK",
+      "link": "https://thequantuminsider.com/2026/08/20/formationq-hartree-centre-quantum-advanced-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-20T11:17:59.000Z",
+      "snippet": "Insider Brief Press release – FormationQ and the Hartree Centre, part of the Science and Technology Facilities Council (STFC) and UK Research and Innovation (UKRI), today announced a strategic partnership to accelerate the adoption of advanced quantum computing technologies across industry, government and research. This collaboration will explore how quantum computing, artificial intelligence (AI)"
+    },
+    {
+      "title": "Quantinuum Expands Research Operations in Albuquerque",
+      "link": "https://thequantuminsider.com/2026/08/20/quantinuum-expands-research-operations-albuquerque/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-20T10:15:37.000Z",
+      "snippet": "Insider Brief Press release – The State of New Mexico and the City of Albuquerque are backing the expansion of Quantinuum, a leading quantum computing company, further establishing Albuquerque as a national hub in quantum technology and advanced research. The city and state will each contribute $750,000 through their Local Economic Development Act (LEDA) funds […]"
+    },
+    {
+      "title": "GMV Builds Broad Quantum Portfolio Across Computing, Space, Communications and Cybersecurity",
+      "link": "https://thequantuminsider.com/2026/08/20/gmv-builds-broad-quantum-portfolio-across-computing-space-communications-and-cybersecurity/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-20T08:03:31.000Z",
+      "snippet": "Insider Brief European technology group GMV is expanding its quantum technology efforts across computing, communications, space, sensing and cybersecurity. It’s a portfolio approach that positions the company as an integrator of emerging quantum systems rather than a developer focused on a single type of quantum hardware. The privately held technology company said in a blog […]"
+    },
+    {
+      "title": "Caltech Team Uses Quantum Simulator to Probe Universal Rules of Quantum Matter",
+      "link": "https://thequantuminsider.com/2026/08/20/caltech-team-uses-quantum-simulator-to-probe-universal-rules-of-quantum-matter/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-20T07:36:22.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — When different materials transition from one phase to another, such a water coming to a boil or a magnet losing its ability to attract metals, something remarkable can happen: They begin to behave identically, following the same mathematical rules. “Physicists call this trait universality—the messy, microscopic details wash out and […]"
+    },
     {
       "title": "Diraq Opens First U.S. Quantum Laboratory in Chicago",
       "link": "https://thequantuminsider.com/2026/08/19/diraq-opens-first-u-s-quantum-laboratory-in-chicago/",
@@ -1188,23 +1272,16 @@
       "source": "The Quantum Insider",
       "published": "2026-08-16T07:00:00.000Z",
       "snippet": "Insider Brief Press release – The Company Lab (CO.LAB) today announced CO.LAB Q, a 12-month quantum commercialization studio designed to help promising startups and research teams turn advanced technologies into scalable, market-ready companies. Applications are now open, and the program begins in November 2026.  Built around the Tennessee Valley’s concentration of industry expertise and real-worl"
-    },
-    {
-      "title": "University of Guelph and Xanadu Partner on Quantum Computing Education",
-      "link": "https://thequantuminsider.com/2026/08/15/university-of-guelph-xanadu-quantum-education-partnership/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-15T07:00:00.000Z",
-      "snippet": "Insider Brief Press release – The University of Guelph and Xanadu, a Canadian leader in quantum computing, have signed a memorandum of understanding (MOU) to collaborate on advancing quantum computing education and preparing students for emerging careers in the rapidly growing quantum sector.  The MOU brings together the University of Guelph‘s commitment to innovative teaching and […]"
-    },
-    {
-      "title": "Dorit Dor (QBeat Ventures): What cybersecurity’s rise teaches quantum go-to-market",
-      "link": "https://thequantuminsider.com/2026/08/15/dorit-dor-qbeat-ventures-what-cybersecuritys-rise-teaches-quantum-go-to-market/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-15T07:00:00.000Z",
-      "snippet": "Yuval Boger interviews Dorit Dor, co-founder of QBeat Ventures and former senior executive at Check Point. They discuss lessons quantum startups can draw from the evolution of cybersecurity, including the importance of go-to-market strategy, focus, and adherence to standards. Dorit outlines her fund’s cross-stack investment strategy, compares different quantum modalities, comments on public market"
     }
   ],
   "education": [
+    {
+      "title": "What it really takes to accelerate adolescent literacy across our district",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/08/20/what-it-really-takes-to-accelerate-adolescent-literacy-across-our-district/",
+      "source": "eSchool News",
+      "published": "2026-08-20T10:00:00.000Z",
+      "snippet": "When people hear about the literacy gains we’ve seen in our middle schools, they often ask a simple question: What program did you use?"
+    },
     {
       "title": "Higher Education’s Technology Shift Serves Up Food Service Cost Optimization",
       "link": "https://edtechmagazine.com/higher/article/2026/08/higher-educations-technology-shift-serves-food-service-cost-optimization",
