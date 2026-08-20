@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-19T23:32:00.000Z",
+      "snippet": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
+    },
+    {
       "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
       "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -283,6 +290,13 @@
       "snippet": "Every data team knows the moment. Someone opens a table, sees a column called cust_seg_flg, and has to go ask around to find out what it means, whether it's safe to use, and whether anyone has already answered that question in another dashboard three teams over. Multiply that by thousands of tables and views, and you get the real cost of governance debt: not a compliance failure, but a daily tax o"
     },
     {
+      "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
+      "link": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
+      "source": "Cloud Blog",
+      "published": "2026-08-18T16:00:00.000Z",
+      "snippet": "Enterprise content management is experiencing its biggest architectural shift since the cloud migration era. \nFor years, enterprises have stored trillions of gigabytes of critical data in Box: financial models, clinical trial protocols, M&A due diligence rooms, engineering schematics, and legal compliance playbooks. Up to this point, text-based search and retrieval-augmented generation (RAG) have "
+    },
+    {
       "title": "Building operational resilience with agentic AI in financial services",
       "link": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
       "source": "Cloud Blog",
@@ -319,6 +333,13 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Samsung raises advanced foundry prices by up to 15% as AI demand fills its 4nm lines, report claims — Chinese customers accepting the largest hikes",
+      "link": "https://www.tomshardware.com/tech-industry/samsung-raises-advanced-foundry-prices-by-up-to-15-percent-as-ai-demand-fills-its-4nm-lines",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-19T16:15:53.000Z",
+      "snippet": "Samsung raised prices on new orders across its 4nm, 5nm, and 8nm foundry processes in July, with increases reaching 15% for customers in China."
+    },
     {
       "title": "China shifting massive AI data center complexes to rural provinces to tap surplus energy — ‘Eastern Data, Western Computing’ strategy has Chinese tech giants Huawei and Tencent building AI infrastructure Guizhou",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/china-shifting-massive-ai-data-center-complexes-to-rural-provinces-to-tap-surplus-energy-eastern-data-western-computing-strategy-has-chinese-tech-giants-huawei-and-tencent-building-ai-infrastructure-guizhou",
@@ -980,6 +1001,13 @@
       "snippet": "Insider Brief Press release – EigenQ, Inc. (“EigenQ” or the “Company”), a quantum technology company, and Silicon Valley Acquisition Corp. (Nasdaq: SVAQ) (“SVAQ”), a publicly traded special purpose acquisition company, today announced the confidential submission of a draft registration statement on Form S-4 (the “Draft Registration Statement”) for review by the U.S. Securities and Exchange Commiss"
     },
     {
+      "title": "IBM Connects Two Modular Cryogenic Systems for Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/08/19/ibm-connects-two-modular-cryogenic-systems-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-19T10:29:21.000Z",
+      "snippet": "Insider Brief Press release – IBM (NYSE: IBM) today announced it has successfully joined and cooled down two cryogenic modules into a single environment. The new architecture is designed to scale into the modular, shared, and ultra-cold system required to link hundreds of quantum chips into a more powerful quantum computer capable of solving large problems. Its deployment […]"
+    },
+    {
       "title": "Ideon Technologies Joins Consortium for Laser-Driven Muon Imaging",
       "link": "https://thequantuminsider.com/2026/08/19/ideon-technologies-laser-driven-muon-imaging-consortium/",
       "source": "The Quantum Insider",
@@ -1197,6 +1225,13 @@
       "source": "eSchool News",
       "published": "2026-08-18T10:00:00.000Z",
       "snippet": "Walk into almost any classroom in America, and you’ll see a system designed for consistency: same lesson, same pace, same expectations for every student. For decades, that model has served millions well."
+    },
+    {
+      "title": "What the Workforce Pell Grant Launch Means for Community College IT Leaders",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/what-workforce-pell-grant-launch-means-community-college-it-leaders",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-17T20:02:54.000Z",
+      "snippet": "In 2025, the Workforce Pell Grant was announced as part of the Working Families Tax Cuts Act. On August 4, the first program was approved for the new Workforce Pell Grant, a milestone in higher education. To be eligible, institutions must prove a 70% completion rate and 70% job placement rate — in the industry or field of the program — within 180 days. Programs must also run between eight to 15 we"
     },
     {
       "title": "5 ways AI can strengthen your teaching this school year",
