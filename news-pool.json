@@ -1,6 +1,41 @@
 {
   "ai": [
     {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T00:13:44.000Z",
+      "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T22:09:51.000Z",
+      "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+    },
+    {
+      "title": "OK, can we actually cool data centers with our pee?",
+      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T20:53:13.000Z",
+      "snippet": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
+    },
+    {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T19:18:21.000Z",
+      "snippet": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web."
+    },
+    {
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T19:15:05.000Z",
+      "snippet": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product."
+    },
+    {
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -13,6 +48,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-20T17:32:16.000Z",
       "snippet": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
+    },
+    {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T17:18:58.000Z",
+      "snippet": "ChatGPT and other AI models are now authoring and editing much of the new web."
     },
     {
       "title": "Ramp launches its own AI model router, called Router",
@@ -293,20 +335,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-16T16:53:51.000Z",
       "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-15T21:29:19.000Z",
-      "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-15T18:58:39.000Z",
-      "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
     }
   ],
   "cloud": [
@@ -418,6 +446,76 @@
   ],
   "hardware": [
     {
+      "title": "LG Display introduces new OLED deposition technique that uses lithography instead of metal masks — \"FLiPP\" photolithography delivers 1.6x brightness and 2.4x longer lifespan",
+      "link": "https://www.tomshardware.com/monitors/lg-display-introduces-new-oled-deposition-technique-that-uses-lithography-instead-of-metal-masks-flipp-photolithography-delivers-1-6x-brightness-and-2-4x-longer-lifespan",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T12:40:00.000Z",
+      "snippet": "OLED displays have long been manufacturer using a metal mask for deposition that wastes material, is expensive, and can sag under its own weight. LG Display's FLiPP solves this by using photolithography instead, relying on photomasks and photoresist layers to lock in the RGB subpixels."
+    },
+    {
+      "title": "Supermicro fires several employees following investigation into $2.5 billion China AI chip smuggling — claims that senior management had no knowledge of illicit transactions",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/supermicro-fires-several-employees-following-investigation-into-usd2-5-billion-china-ai-chip-smuggling-claims-that-senior-management-had-no-knowledge-of-illicit-transactions",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T12:20:54.000Z",
+      "snippet": "An independent investigation on Supermicro clears senior management from any wrong-doing and also says that its financial statements were still reliable, despite the alleged diversion of its restricted products. Nevertheless, some of its employees from sales, technical support, and business development departments were fired for failing to 'follow Company policies or the Company’s code of conduct."
+    },
+    {
+      "title": "CPU-Z gets biggest update since 2001 with V3 — 100+ health checks, built-in stress testing, and XOC effective clock tracking",
+      "link": "https://www.tomshardware.com/software/applications/cpu-z-gets-biggest-update-since-2001-with-v3-100-health-checks-built-in-stress-testing-and-xoc-effective-clock-tracking",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T12:20:00.000Z",
+      "snippet": "CPU-Z V3 introduces an overhauled validation system with over 100 detection points, and a new advanced validation feature that will check PC health with a stress test."
+    },
+    {
+      "title": "Micron commits $10 billion to new US-based Research Labs — Boise hub to target post-DRAM and NAND technologies and packaging",
+      "link": "https://www.tomshardware.com/tech-industry/micron-commits-usd10-billion-to-new-us-based-research-labs-boise-hub-to-target-post-dram-and-nand-technologies-and-packaging",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T12:00:00.000Z",
+      "snippet": "Micron's Research Labs to bring together the company's own research with research by customers, partners, universities, startups, and government organizations to develop pre-competitive IP for next-generation memory technologies."
+    },
+    {
+      "title": "Nvidia denies report it will ship Groq-based LPUs to China by year-end — says there is 'no China-specific LPU product in our roadmap'",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-denies-report-it-will-ship-groq-based-lpus-to-china-by-year-end",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T11:39:39.000Z",
+      "snippet": "Nvidia has rejected a report published by The Information that it plans to begin small-batch shipments of an LPU tailored for Chinese customers by the end of 2026."
+    },
+    {
+      "title": "Sandisk's new $2,200 NAS SSD lets you fill the drive every day for five years — 7.68TB M.2 flaunts eye-popping 14,000 TBW rating",
+      "link": "https://www.tomshardware.com/pc-components/ssds/sandisks-new-nas-ssd-lets-you-fill-the-drive-every-day-for-five-years-7-68tb-m-2-flaunts-eye-popping-14-000-tbw-rating",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T11:20:00.000Z",
+      "snippet": "Sandisk has announced the NAS 600 SATA and NAS 800 NVMe SSD lineups that target NAS environments."
+    },
+    {
+      "title": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-national-security-service-deactivates-offending-units",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T11:00:00.000Z",
+      "snippet": "Slovakia sought to modernize its traffic control systems by acquiring a batch of 279 new speed cameras, but they have Russian backdoors and multiple other security issues."
+    },
+    {
+      "title": "Enterprise SSDs cost 18.6 times more than HDDs as 30TB drives hit $22,600 — hard drive supply is sold out through 2027",
+      "link": "https://www.tomshardware.com/pc-components/ssds/enterprise-ssds-now-cost-18-times-more-than-hard-drives-per-terabyte",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T10:30:00.000Z",
+      "snippet": "A 30TB TLC enterprise SSD now costs $22,600, 6.5 times higher the $3,460 it fetched around this time last year."
+    },
+    {
+      "title": "Save $900 on this 2-in-1 Asus ROG touchscreen gaming laptop with 64GB RAM — the 14-inch Flow Z13 machine ships with a 16-core AMD Strix Halo CPU and a 1TB SSD, perfect for games and AI",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd900-on-this-2-in-1-asus-rog-touchscreen-gaming-laptop-with-64gb-ram-the-14-inch-flow-z13-machine-ships-with-a-16-core-amd-strix-halo-cpu-and-a-1tb-ssd-perfect-for-games-and-ai",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T10:23:49.000Z",
+      "snippet": "Save a huge $900 on this touch screen gaming laptop combo, the Asus ROG Flow Z13, now just $2,099.99."
+    },
+    {
+      "title": "DDR5 scalper bots now outnumber shoppers 10 to 1 — automated scraping hits listings every 6.5 seconds as 32GB kits surge from $72 to $392, DataDome researcher says",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/scalper-bots-now-outnumber-human-shoppers-10-to-1-on-one-retailers-ddr5-pages",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T10:00:00.000Z",
+      "snippet": "Bad bots account for 91% of the traffic reaching one retailer's DDR5 memory product pages, roughly 10 automated requests for every legitimate visit."
+    },
+    {
       "title": "Cooler Master V Platinum 3000 power supply review: Verified Platinum efficiency for workstations, with a stellar 12-year warranty",
       "link": "https://www.tomshardware.com/pc-components/power-supplies/cooler-master-v-platinum-3000-workstation-power-supply-review",
       "source": " Latest from Tom's Hardware ",
@@ -430,6 +528,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-20T15:40:54.000Z",
       "snippet": "If you need a solid compact wireless gaming or productivy keyboard and you don't have a lot to spend, Keychron's K8 87-key option is down to its lowest price of just $34.99 (or $5 less if you're a new Woot customer)."
+    },
+    {
+      "title": "Michigan township combats nuclear weapons data center by passing ban on new electrical infrastructure — 220,000-square-foot hyperscale project is backed by University of Michigan and the Los Alamos National Laboratory",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/michigan-township-combats-nuclear-weapons-data-center-by-passing-ban-on-new-electrical-infrastructure-220-000-square-foot-hyperscale-project-is-backed-by-university-of-michigan-and-the-los-alamos-national-laboratory",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-20T15:37:29.000Z",
+      "snippet": "Ypsilanti Township is blocking a University of Michigan data center designed for researching nuclear weapons by temporarily stopping the electrical substation it needs to operate. It also put a one-year moratorium on the data center's water connection request earlier this year/"
     },
     {
       "title": "CXMT planned to use stolen Samsung IP to develop its DRAM, court hears — former Samsung engineer who jumped to Chinese memory maker now behind bars",
@@ -997,93 +1102,58 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-16T13:00:00.000Z",
       "snippet": "The Dutch National Cyber Security Centre (NCSC-NL) says that attackers are actively exploiting CVE-2026-65400, an authentication bypass in macOS Screen Sharing."
-    },
-    {
-      "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T12:40:00.000Z",
-      "snippet": "Google may be building a TPU with on-package CPU cores specifically for agentic and reinforced learning workloads, according to a rumor."
-    },
-    {
-      "title": "Intel says it will launch new core with Nova Lake on desktop first, not in data center — VP Robert Hallock hopes enthusiasts ‘do the math’ compared to AMD",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-says-it-will-launch-new-core-with-nova-lake-on-desktop-first-not-in-data-center-vp-robert-hallock-hopes-enthusiasts-do-the-math-compared-to-amd",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T12:10:00.000Z",
-      "snippet": "Intel’s Robert Hallock says he hopes enthusiasts “do the math” compared to AMD, highlighting that the company’s new core architecture will release in consumer processors before the data center."
-    },
-    {
-      "title": "3D-printed sound-powered jet engines propel micro drones — fliers are completely silent; researchers use ultrasonic frequencies to drive 12,000-RPM silent hovering fliers",
-      "link": "https://www.tomshardware.com/3d-printing/3d-printed-sound-powered-jet-engines-propel-micro-drones-fliers-are-completely-silent-researchers-use-ultrasonic-frequencies-to-drive-12-000-rpm-silent-hovering-fliers",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T11:50:00.000Z",
-      "snippet": "A specially shaped 3D-printed resonator can make air shoot out of its nozzle and provide thrust when it hit with the proper frequency. While the prototypes don't deliver practical levels of thrust yet, they show proof that the concept works."
-    },
-    {
-      "title": "3D-printing enthusiast creates ‘Flock Sock’ to blind controversial cameras, shares design — slip-on cover attaches to broom handle to make it easy to put on devices placed on traffic and streetlights",
-      "link": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-creates-flock-sock-camera-blind-slip-on-cover-attaches-to-broom-handle-to-make-it-easy-to-put-on-devices-placed-on-traffic-and-streetlights",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T11:30:00.000Z",
-      "snippet": "SquidInk created a 3D-printing model that would allow anyone to build an easy-to-install \"protective cover\" for Flock cameras. The \"Flock Sock\" slips on these devices in seconds using a broom handle, although it must be noted that adding this \"accessory\" can you into trouble."
-    },
-    {
-      "title": "The PC age began 45 years ago with the breakthrough Intel 8088 processor — 8-bit bus fueled 45 years of x86 dominance",
-      "link": "https://www.tomshardware.com/pc-components/cpus/the-pc-age-began-45-years-ago-with-the-breakthrough-intel-8088-processor-8-bit-bus-fueled-45-years-of-x86-dominance",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T11:20:00.000Z",
-      "snippet": "45 years ago, in August 1981, the PC age began in earnest with the launch of the IBM PC Model 5150. At its heart was the Intel 8088 microprocessor."
-    },
-    {
-      "title": "Modern OLEDs are just as vulnerable to burn-in as 2017 panels in 10,000-hour test — twice the brightness and 27% efficiency gains offer crucial headroom",
-      "link": "https://www.tomshardware.com/monitors/modern-oled-tvs-are-just-as-susceptible-to-burn-in-as-older-models-but-theyre-much-brighter-longevity-test-highlights-luminance-headroom-and-efficiency-as-mitigations",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T11:10:00.000Z",
-      "snippet": "Rtings.com's latest update on their Accelerated Longevity Test shows that modern OLED TVs don't offer a clear advantage over older models in terms of burn-in since both show similar image retention after 10,000 hours of simulated usage. However, the new OLEDs are much brighter and consume much less power in the process."
-    },
-    {
-      "title": "xTool M2 color craft laser and engraver review: Improved print head and positioning cameras at a lower price",
-      "link": "https://www.tomshardware.com/maker-stem/xtool-m2-color-craft-laser-and-engraver-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T11:05:00.000Z",
-      "snippet": "The M2 is xTool’s second take on an all-in-one craft tool in a box. It isn’t just an iterative update to the M1 Ultra, the new M2 color craft laser and engraver thoroughly remixes the offering by adding cameras, air assist, CMYK print, and more."
-    },
-    {
-      "title": "Thieves swap RTX 5080 GPUs for RTX 3060s in Chinese gaming hotels — rogue 'downgrades' go unnoticed until sudden blackout exposes $12,000 heist",
-      "link": "https://www.tomshardware.com/pc-components/gpus/thieves-swap-rtx-5080-gpus-for-rtx-3060s-in-chinese-gaming-hotels-rogue-downgrades-go-unnoticed-until-sudden-blackout-exposes-usd12-000-heist",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T10:50:00.000Z",
-      "snippet": "Two thieves in China have been arrested after they were caught stealing high-end GPUs from gaming hotels. They'd check into rooms with RTX 5080s, replace them with RTX 3060s that looked similar, and no one noticed the performance difference."
-    },
-    {
-      "title": "Ex-farm bureau chief invites AI data center developers to buy his land —argues blocked $6.3B project will just move to willing neighbors, defies 500-jurisdiction moratorium wave and 70% public opposition",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/former-missouri-farm-bureau-president-offers-his-farm-for-a-data-center",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T10:30:00.000Z",
-      "snippet": "Blake Hurst spent a decade running the state's largest farm lobby. Now he's publicly courting the developers his neighbors froze out."
-    },
-    {
-      "title": "Ukrainian drone regiment ‘decimates’ 3,500-strong U.S. armored brigade combat team in war game — High drone kill-rate forced continuous 'respawns,' reveals shortcomings in American response as drones easily spotted and destroyed tanks and armored vehicles",
-      "link": "https://www.tomshardware.com/tech-industry/drones/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-combat-team-in-war-game-reveals-shortcomings-in-american-response-as-drones-easily-spotted-and-destroyed-tanks-and-heavy-armored-vehicles",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T10:00:00.000Z",
-      "snippet": "The 3rd Brigade Combat Team (3rd BCT) of the 1st Cavalry Division was defeated in military exercises by the opposing force, which included a regiment of Ukrainian drone operators. Even though the 3rd BCT had tanks, other armor, and anti-drone units, they were no match for Ukrainian drones that easily spotted and \"destroyed\" them."
-    },
-    {
-      "title": "Rogue iOS developer creates app that simulates messages sent by carrier pigeon; messages only travel at 100mph — LA to NYC correspondence takes 22 hours to deliver; virtual birds can get distracted or even lost",
-      "link": "https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-correspondence-takes-22-hours-to-deliver-virtual-birds-can-get-distracted-or-even-lost",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T09:30:00.000Z",
-      "snippet": "Carrier Pidge slows down your electronic communications to a more natural speed."
-    },
-    {
-      "title": "Grab this RTX 5070 gaming PC for just $1,499, saving $600 off list price — Acer Nitro 85 prebuilt comes with 16GB of RAM, Core Ultra 7 265F, and a 1TB PCIe 4.0 SSD",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-this-rtx-5070-gaming-pc-for-just-usd1-499-saving-usd600-off-list-price-acer-nitro-85-prebuilt-comes-with-16gb-of-ram-core-ultra-7-265f-and-a-1tb-pcie-4-0-ssd",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-15T20:53:34.000Z",
-      "snippet": "The Acer Nitro 85 gaming desktop is currently on sale for $1,499, which is $600 off its regular price for a PC that would otherwise cost you $2,000 to spec out yourself."
     }
   ],
   "quantum": [
+    {
+      "title": "Berkeley Lab-Led Project Secures Funding to Develop a Transportable Muon Imager",
+      "link": "https://thequantuminsider.com/2026/08/21/berkeley-lab-led-project-secures-funding-to-develop-a-transportable-muon-imager/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-21T11:13:40.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — The U.S. Department of Energy (DOE)’s Lawrence Berkeley National Laboratory (Berkeley Lab), in partnership with Ideon Technologies, has received funding from the DOE’s Advanced Research Projects Agency-Energy (ARPA-E) through the Reliable Ore Characterization with Keystone Sensing (ROCKS) initiative. The three-year project aims to secure domestic supplies of critical "
+    },
+    {
+      "title": "ORNL Researcher Advances Particle Detection for the Electron-Ion Collider",
+      "link": "https://thequantuminsider.com/2026/08/21/ornl-physicist-detectors-nuclear-physics-research/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-21T11:07:40.000Z",
+      "snippet": "Insider Brief Press release – John Lajoie is a builder—not of buildings or everyday machines, but of detectors with a special purpose. A physicist at the Department of Energy’s (DOE’s) Oak Ridge National Laboratory (ORNL), Lajoie has shaped his career around finding hard-to-solve problems and coming up with new ways to tackle them. Detectors are […]"
+    },
+    {
+      "title": "Q2B Copenhagen 2026 to Focus on Quantum Technology and Commercial Adoption",
+      "link": "https://thequantuminsider.com/2026/08/21/q2b-copenhagen-2026-quantum-industry-leaders-denmark/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-21T10:42:13.000Z",
+      "snippet": "Insider Brief Press release – QC Ware, the organizer of Q2B conferences and a developer of computational chemistry and quantum computing software, has announced that the 2026 Q2B Copenhagen Conference will take place on September 9-10, 2026, in Copenhagen, Denmark. The conference is presented in joint partnership with a Danish Consortium comprising the Ministry of Foreign Affairs […]"
+    },
+    {
+      "title": "Who Will Actually Use Quantum Computers? Study Identifies 11 User Types",
+      "link": "https://thequantuminsider.com/2026/08/21/who-will-actually-use-quantum-computers-study-identifies-11-user-types/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-21T08:19:39.000Z",
+      "snippet": "Insider Brief Quantum computing might have a user problem as well as a hardware problem, according to a new study that identifies 11 types of people likely to interact with quantum software. The researchers also found that that these different users can require much different ways of accessing the technology. The study, posted on arXiv […]"
+    },
+    {
+      "title": "ORNL Quantum Computing User Forum Highlights Quantum-HPC Research",
+      "link": "https://thequantuminsider.com/2026/08/21/ornl-quantum-computing-user-forum-quantum-hpc-research/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-21T07:30:00.000Z",
+      "snippet": "Insider Brief Press release – Researchers, software developers and technology leaders from across the global quantum computing ecosystem gathered at the Department of Energy’s (DOE) Oak Ridge National Laboratory (ORNL) in July for the seventh annual Quantum Computing User Forum (QCUF). The event highlighted ORNL’s leadership in advancing the future of computing through quantum technologies integra"
+    },
+    {
+      "title": "EBU and Superpositions Partner to Add Quantum Computing to Business Education",
+      "link": "https://thequantuminsider.com/2026/08/21/ebu-superpositions-quantum-computing-business-education/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-21T07:00:00.000Z",
+      "snippet": "Insider Brief Press release – EBU (European Business Institute of Luxembourg) and Superpositions, a European quantum software company, recently announced a partnership to bring quantum computing into EBU’s business curriculum, as part of the school’s new Q-Ready initiative. EBU is introducing dedicated Quantum Computing courses and integrating quantum concepts into existing programmes, with the st"
+    },
+    {
+      "title": "Texas Quantum Strategy Takes Shape at UT Dallas Summit",
+      "link": "https://thequantuminsider.com/2026/08/20/texas-quantum-strategy-takes-shape-at-ut-dallas-summit/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-20T19:04:49.000Z",
+      "snippet": "Insider Brief North Texas in mid-August makes a persuasive case for staying indoors, which is indeed what the state’s quantum community did for two days at the University of Texas at Dallas. Registration had closed well before the doors opened. The people who got in came from Austin, Houston, College Station, Lubbock, San Antonio and […]"
+    },
     {
       "title": "Quanome Technologies Forms Council to Advise on Quantum Technologies",
       "link": "https://thequantuminsider.com/2026/08/20/quanome-technologies-global-quantum-council-advisory-network/",
@@ -1349,16 +1419,16 @@
       "source": "The Quantum Insider",
       "published": "2026-08-17T07:12:38.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Two recent scientific publications from the Fraunhofer Institute for Applied Solid State Physics IAF shed light on how the concept of quantum advantage can be assessed more precisely and realistically in the future. Both papers provide theoretical tools to make claims about quantum advantage more robust. Their content is complementary: […]"
-    },
-    {
-      "title": "The Company Lab Launches CO.LAB Q for Quantum Startups",
-      "link": "https://thequantuminsider.com/2026/08/16/company-lab-launches-colab-q-for-quantum-startups/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-16T07:00:00.000Z",
-      "snippet": "Insider Brief Press release – The Company Lab (CO.LAB) today announced CO.LAB Q, a 12-month quantum commercialization studio designed to help promising startups and research teams turn advanced technologies into scalable, market-ready companies. Applications are now open, and the program begins in November 2026.  Built around the Tennessee Valley’s concentration of industry expertise and real-worl"
     }
   ],
   "education": [
+    {
+      "title": "Attendance is the scoreboard–connection is the game",
+      "link": "https://www.eschoolnews.com/educational-leadership/2026/08/21/attendance-is-the-scoreboard-connection-is-the-game/",
+      "source": "eSchool News",
+      "published": "2026-08-21T10:00:00.000Z",
+      "snippet": "If I had been asked a few years ago, I would have told you that chronic absenteeism was a school system's problem to fix. With better data systems, staff trained on outreach, and improved intervention protocols, school districts could move the numbers on their own."
+    },
     {
       "title": "What it really takes to accelerate adolescent literacy across our district",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/08/20/what-it-really-takes-to-accelerate-adolescent-literacy-across-our-district/",
