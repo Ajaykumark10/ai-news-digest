@@ -349,13 +349,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-17T13:10:05.000Z",
       "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
-    },
-    {
-      "title": "What happens when a kid’s robot best friend dies?",
-      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-17T09:00:00.000Z",
-      "snippet": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…"
     }
   ],
   "cloud": [
@@ -501,6 +494,55 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records",
+      "link": "https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T12:30:00.000Z",
+      "snippet": "As Intel boosts output of data center and notebook CPUs, AMD manages to outgrow it and keep capturing market share from its arch-rival."
+    },
+    {
+      "title": "Storage unit auction winner finds retro Pentium 4 PC with a see-through, UV-reactive PSU — Y2K time capsule discovered among 100 laptops and hundreds of RAM sticks",
+      "link": "https://www.tomshardware.com/pc-components/storage-unit-auction-winner-finds-retro-pentium-4-pc-with-a-see-through-uv-reactive-psu-y2k-time-capsule-discovered-among-100-laptops-and-hundreds-of-ram-sticks",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T12:00:00.000Z",
+      "snippet": "This vintage PC build looks like it came straight out of the 90s with a bold, in-your-face look that make sure you can't mistake it for anything but a gamer's lifeline. What you're looking at is an Apevia X-SuperAlien case with a 500W Apevia PSU."
+    },
+    {
+      "title": "Gamer uncovers factory plastic left on RTX 3070 VRM pads after five years, causing overheating — claims removal and repasting dropped GPU hotspot temperatures by 30°C",
+      "link": "https://www.tomshardware.com/pc-components/gpus/gigabyte-rtx-3070-owner-discovers-protective-film-on-vrm-thermal-pads-after-nearly-five-years-claims-removal-and-repasting-dropped-gpu-hotspot-temperatures-by-30-c",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T11:30:00.000Z",
+      "snippet": "A Gigabyte RTX 3070 owner discovered protective films covering its VRM thermal pads, after nearly five years of use potentially causing excessive temperatures and frequent black screens."
+    },
+    {
+      "title": "ASRock Steel Legend SL-1200P power supply review: Combines genuine Platinum efficiency with a winning stand-out design",
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/asrock-steel-legend-sl-1200p-power-supply-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T11:05:00.000Z",
+      "snippet": "The ASRock Steel Legend SL-1200P is a visually distinct, technically capable 1200W unit with genuine Platinum efficiency, dual 12V-2x6 outputs, and a few thoughtful engineering touches that set it apart."
+    },
+    {
+      "title": "GTA 6 leaks prompt Take-Two to subpoena Microsoft for Windows device IDs of everyone in three Discord servers — daily gameplay leaks shatter cloud of secrecy around the much-hyped game",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/take-two-subpoenas-microsoft-for-windows-device-ids-of-everyone-in-three-discord-servers-in-gta-6-leak-hunt",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T11:00:00.000Z",
+      "snippet": "Take-Two Interactive filed two DMCA subpoenas demanding that Microsoft and Discord identify the person or people behind the \"CyberLeek\" persona."
+    },
+    {
+      "title": "Spending on physical games falls to lowest on record since 1995 — US console sales plunge 39% in July as memory costs push average price to $542",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/us-console-sales-fall-39-percent-in-july-as-memory-costs-push-average-price-to-542",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T10:30:00.000Z",
+      "snippet": "U.S. console hardware sales fell 39% by unit volume in July against a year earlier, while the average price paid for a new system rose 16% to $542."
+    },
+    {
+      "title": "Back-to-back Amazon CPU scam delivers empty Ryzen 5 9600X boxes in 72 hours — $ 10,000-a-month business customer captures fraud on camera",
+      "link": "https://www.tomshardware.com/desktops/pc-building/alleged-amazon-cpu-scam-hits-pc-shop-twice-in-three-days-ryzen-5-9600x-orders-arrive-with-empty-retail-boxes",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T10:00:00.000Z",
+      "snippet": "A PC shop that spends over $10,000 a month on Amazon hardware says two AMD Ryzen 5 9600X orders arrived with the CPUs missing."
+    },
     {
       "title": "Get a full-size Keychron mechanical keyboard for just $29 — 50% off this 104-key wired keeb with your choice of Keychron Super Brown or Red switches",
       "link": "https://www.tomshardware.com/pc-components/get-a-full-size-keychron-mechanical-keyboard-for-just-usd29-50-percent-off-this-104-key-wired-keeb-with-your-choice-of-keychron-super-brown-or-red-switches",
@@ -1109,93 +1151,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-17T13:00:00.000Z",
       "snippet": "What’s it like to build a PC with some of the most expensive components on the market? Asus sent us its ROG 20th anniversary components so we could find out for ourselves."
-    },
-    {
-      "title": "Intel's Arc Pro B70 workstation GPU is now up to 48% more expensive than it was just a month ago — 32GB Battlemage workstation card climbs toward $2,000",
-      "link": "https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-is-now-up-to-48-percent-more-expensive-than-it-was-just-a-month-ago-32gb-battlemage-workstation-card-climbs-toward-usd2-000",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T11:40:00.000Z",
-      "snippet": "Intel's best Battlemage GPU is now even more expensive due to its large 32GB memory pool that's very useful for AI workloads."
-    },
-    {
-      "title": "GoldenEye 007 for N64 has been '100% decompiled' — success of half-decade project opens up possibilities for complex mods and ports",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/goldeneye-007-for-n64-has-been-100-percent-decompiled-success-of-half-decade-project-opens-up-possibilities-for-complex-mods-and-ports",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T11:28:17.000Z",
-      "snippet": "A reverse engineering and retro gaming enthusiast has finally succeeded in their goal of decompiling GoldenEye 007, the monumental James Bond adventure shooter from Rare."
-    },
-    {
-      "title": "Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation  — energy and water consumption, air quality, noise, and cultural resource protection among concerns",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/largest-tribe-in-the-us-bans-hyperscale-data-centers-on-its-lands",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T11:27:32.000Z",
-      "snippet": "Cherokee Nation, with more than 475,000 citizens, has banned hyperscale data center development on its tribally owned and trust lands."
-    },
-    {
-      "title": "AI data center optical interconnect market to hit $144 billion by 2030, an over ten-fold increase from 2024 figures, according to new projections — silicon photonics expected to account for nearly two-thirds of revenue, driven by co-packaged optics",
-      "link": "https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T11:20:00.000Z",
-      "snippet": "A new CIC forecast projects that the data center optical interconnect market will grow from $13.7 billion in 2024 to $144.4 billion by 2030, with silicon photonics accounting for 63.7% of revenue."
-    },
-    {
-      "title": "ViewSonic VG1457 dual-screen portable monitor review: compact size and weight, but lackluster color",
-      "link": "https://www.tomshardware.com/monitors/portable-monitors/viewsonic-vg1457-dual-screen-portable-monitor-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T11:05:00.000Z",
-      "snippet": "ViewSonic nailed the design with the VG1457, but should have put some more effort into sourcing higher quality display panels."
-    },
-    {
-      "title": "PC Partner warns of rising GPU prices and budget card shortages — analyst suggests makers are hiking prices beyond memory costs",
-      "link": "https://www.tomshardware.com/tech-industry/pc-partner-warns-of-rising-gpu-prices-and-budget-card-shortages-analyst-suggests-makers-are-hiking-prices-beyond-memory-costs",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T11:00:00.000Z",
-      "snippet": "PC Partner warns that graphics card prices will rise further in H2 2026 as memory costs climb and supplies tighten and entry-level boards will gain the most. This is how they gain money, says Jon Peddie."
-    },
-    {
-      "title": "Get an RTX 5090 Alienware PC for less than the price of the GPU alone — $1,550 discount means Area-51 is $20 cheaper than buying the card by itself",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5090-alienware-pc-for-less-than-the-price-of-the-gpu-alone-usd1-550-discount-means-area-51-is-usd20-cheaper-than-buying-the-card-by-itself",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T10:55:01.000Z",
-      "snippet": "Get an RTX 5090 Alienware gaming PC for less than the standalone cost of the GPU."
-    },
-    {
-      "title": "Save $60 on Corsair's impressive 96% gaming keyboard with Elgato Stream Deck integration — the Vanguard 96 RGB features pre-lubed mechanical switches, sound dampening, a color LCD screen, and a full-size number pad",
-      "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/save-usd60-on-corsairs-impressive-96-percent-gaming-keyboard-with-elgato-stream-deck-integration-the-vanguard-96-rgb-features-pre-lubed-mechanical-switches-sound-dampening-a-color-lcd-screen-and-a-full-size-number-pad",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T10:50:50.000Z",
-      "snippet": "Save $60 on Corsair's impressive Vanguard 96 RGB mechanical gaming keyboard at Best Buy."
-    },
-    {
-      "title": "Japanese repair shop sells GPU VRAM upgrades for $25 per GB during memory crisis — RTX 2080 Ti modded to 22GB of GDDR6 for just $282, double the VRAM creates a budget AI powerhouse",
-      "link": "https://www.tomshardware.com/pc-components/gpus/japanese-repair-shop-sells-gddr6-vram-upgrades-for-usd25-per-gb-during-memory-crisis-rtx-2080-ti-modded-to-22gb-for-just-usd282-double-the-vram-creates-a-budget-ai-powerhouse",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T10:30:00.000Z",
-      "snippet": "This vendor can upgrade your RTX 2080 Ti to feature 22GB of VRAM for less than $300, converting it into an AI powerhouse without breaking the bank."
-    },
-    {
-      "title": "Senior PC store staff accused of running secret rival shop with stolen inventory — Hong Kong retailer claims substantial losses over year-long scheme",
-      "link": "https://www.tomshardware.com/tech-industry/hong-kong-pc-store-accuses-two-senior-staff-of-stealing-stock-to-supply-their-own-online-shop-for-over-a-year",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T10:00:00.000Z",
-      "snippet": "A PC retailer in Wan Chai's Computer Zone 298 mall in Hong Kong, has accused two of its senior employees of stealing company stock for roughly a year and reselling it."
-    },
-    {
-      "title": "Desktop UV printers and wild custom builds take over Open Sauce 2026 — $1,700 full-color printers, flash-cured resin, and a rideable speeder bike",
-      "link": "https://www.tomshardware.com/3d-printing/desktop-uv-printers-and-wild-custom-builds-take-over-open-sauce-2026-usd1-700-full-color-printers-flash-cured-resin-and-a-rideable-speeder-bike",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T09:45:00.000Z",
-      "snippet": "If you want to see the bleeding edge of 3D printing tech, you go to FormNext in Frankfurt, Germany. If you want to see the latest in consumer electronics, you go to CES in Las Vegas. If you want to see what it’s like to microwave your own head, you go to Open Sauce in San Mateo, California."
-    },
-    {
-      "title": "Air conditioner powered by a 'PC fan' labeled a scam by German consumer organization — there's a reason this lookalike AC unit is far cheaper than its competitors",
-      "link": "https://www.tomshardware.com/pc-components/air-cooling/air-conditioner-powered-by-a-pc-fan-labeled-a-scam-by-german-consumer-organization-theres-a-reason-this-lookalike-ac-unit-is-far-cheaper-than-its-competitors",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T09:30:00.000Z",
-      "snippet": "Tear down of a so-called air conditioner from Epicool revealed 'a simple PC fan combined with a small heating element.'"
     }
   ],
   "quantum": [
+    {
+      "title": "Lionel Martellini (EDHEC Quantum Institute): Why business leaders need quantum awareness, not quantum washing",
+      "link": "https://thequantuminsider.com/2026/08/22/lionel-martellini-edhec-quantum-institute-why-business-leaders-need-quantum-awareness-not-quantum-washing/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-22T07:30:00.000Z",
+      "snippet": "Yuval Boger interviews Lionel Martellini, finance professor at the EDHEC and founding director of the EDHEC Quantum Institute. Lionel describes his unusual path from finance to astrophysics and why business schools should teach quantum awareness to future leaders. They discuss core quantum concepts, the danger of overhyping “quantum washing,” and the real prospects for quantum […]"
+    },
     {
       "title": "What Is NISQ Quantum Computing: The Current Era of Quantum Machines",
       "link": "https://thequantuminsider.com/2026/08/21/what-is-nisq-quantum-computing-guide/",
@@ -1503,34 +1468,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-17T21:16:25.000Z",
       "snippet": "Insider Brief Humanity’s ability to make things has dictated its progress over the ages. From the Stone Age to the Bronze and the Iron Age, we have leaped from one material to the next, each letting us do what we couldn’t before. Over time, these leaps have grown ever more sophisticated in discovery, process, and […]"
-    },
-    {
-      "title": "D-Wave Appoints Kevan Krysler to Board and Audit Committee",
-      "link": "https://thequantuminsider.com/2026/08/17/d-wave-appoints-kevan-krysler-board-audit-committee/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-17T12:33:10.000Z",
-      "snippet": "Insider Brief Press release – D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced the appointment of veteran technology finance executive Kevan P. Krysler to its Board of Directors and Audit Committee. Krysler currently serves as chief financial […]"
-    },
-    {
-      "title": "QpiAI Opens Quantum Chip Foundry in India, Targets 10,000-Qubit Processors",
-      "link": "https://thequantuminsider.com/2026/08/17/qpiai-opens-quantum-chip-foundry-in-india-targets-10000-qubit-processors/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-17T11:08:06.000Z",
-      "snippet": "Insider Brief Quantum computing startup QpiAI has opened a manufacturing facility in Bengaluru capable of fabricating superconducting quantum processors, part of an effort to bring more of its quantum hardware development and production under one roof. The Bengaluru-based company on Monday inaugurated the second phase of its quantum processing unit, or QPU, manufacturing facility in […]"
-    },
-    {
-      "title": "Study Deepens Understanding of Quantum Transport in Topological Materials",
-      "link": "https://thequantuminsider.com/2026/08/17/study-deepens-understanding-of-quantum-transport-in-topological-materials/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-17T07:26:10.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — In May, a study was published in Nature Communications that identified an unusual regime of quantum oscillations in a three-dimensional topological insulator. The results show that, when subjected to temperatures near absolute zero and extreme magnetic fields, electrons in the material zirconium pentatelluride (ZrTe₅) exhibit behavior that deviates from the pattern pr"
-    },
-    {
-      "title": "Scientists Propose More Realistic Benchmarks For Quantum Algorithms",
-      "link": "https://thequantuminsider.com/2026/08/17/scientists-propose-more-realistic-benchmarks-for-quantum-algorithms/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-17T07:12:38.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Two recent scientific publications from the Fraunhofer Institute for Applied Solid State Physics IAF shed light on how the concept of quantum advantage can be assessed more precisely and realistically in the future. Both papers provide theoretical tools to make claims about quantum advantage more robust. Their content is complementary: […]"
     }
   ],
   "education": [
@@ -1589,13 +1526,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-08-17T20:02:54.000Z",
       "snippet": "In 2025, the Workforce Pell Grant was announced as part of the Working Families Tax Cuts Act. On August 4, the first program was approved for the new Workforce Pell Grant, a milestone in higher education. To be eligible, institutions must prove a 70% completion rate and 70% job placement rate — in the industry or field of the program — within 180 days. Programs must also run between eight to 15 we"
-    },
-    {
-      "title": "5 ways AI can strengthen your teaching this school year",
-      "link": "https://www.eschoolnews.com/digital-learning/2026/08/17/5-ways-ai-can-strengthen-your-teaching-this-school-year/",
-      "source": "eSchool News",
-      "published": "2026-08-17T10:00:00.000Z",
-      "snippet": "A year ago, many educators were still asking whether artificial intelligence belonged in the classroom. Some were cautiously experimenting with AI-generated lesson plans, while others were focused on preventing students from using it altogether."
     }
   ]
 }
