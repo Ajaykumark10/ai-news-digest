@@ -29,6 +29,13 @@
       "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.  Board conflicts aren’"
     },
     {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T14:00:00.000Z",
+      "snippet": "There's about to be a big fight to secure access to space."
+    },
+    {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -353,6 +360,13 @@
   ],
   "cloud": [
     {
+      "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
+      "link": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/",
+      "source": "AWS News Blog",
+      "published": "2026-08-21T18:53:26.000Z",
+      "snippet": "AWS Glue 6.0 is built on a fully modernized runtime, Apache Spark 4.1, Python 3.12, and Scala 2.13, delivering 30% lower pricing than previous AWS Glue versions."
+    },
+    {
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "source": "Cloud Blog",
@@ -507,6 +521,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-21T15:25:29.000Z",
       "snippet": "The SanDisk Optimus GX C50 expansion cards for the Xbox Series X|S are now available on Amazon starting at $249.99 for the 1TB variant. While gamers can use external drives to copy and backup games from the Xbox consoles, they need expansion cards like these from SanDisk or Seagate if they want to install more games."
+    },
+    {
+      "title": "Florida seeks court ruling to officially classify Sam Altman and ChatGPT as a 'public nuisance' — OpenAI fights to keep lawsuit away from a state jury",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-fights-to-keep-chatgpt-lawsuit-away-from-a-state-jury",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T15:11:18.000Z",
+      "snippet": "Florida's lawsuit against OpenAI and Sam Altman has now been sitting before U.S. District Judge Aileen Cannon in Fort Pierce for seven weeks."
     },
     {
       "title": "World's largest open library calls for volunteers to scan and preserve physical books as AI companies buy, scan, and destroy them — Anna's Archive says ‘time is running out’ as ‘knowledge is permanently monopolized on private servers’",
@@ -1183,6 +1204,13 @@
       "snippet": "Insider Brief Every quantum computer commercially available today belongs to the same category. Whether it is IBM‘s quantum systems, Google‘s superconducting processors, or IonQ‘s trapped-ion hardware. All of these are NISQ devices, whether the press releases say so or not. NISQ stands for Noisy Intermediate-Scale Quantum. Physicist John Preskill coined the term in 2018 to […]"
     },
     {
+      "title": "Quantum X Labs Tests AI Quantum Error Decoder on Google Hardware Dataset",
+      "link": "https://thequantuminsider.com/2026/08/21/quantum-x-labs-ai-quantum-error-correction-results/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-21T13:39:20.000Z",
+      "snippet": "Insider Brief Press release – Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X” or the “Company”), an advanced technologies company, today announced new results from its AI-driven quantum error-correction program, advancing the Company’s roadmap toward trusted quantum error correction for future fault-tolerant quantum computing. Quantum computers are highly sensitive to noise, and quantum error corre"
+    },
+    {
       "title": "Berkeley Lab-Led Project Secures Funding to Develop a Transportable Muon Imager",
       "link": "https://thequantuminsider.com/2026/08/21/berkeley-lab-led-project-secures-funding-to-develop-a-transportable-muon-imager/",
       "source": "The Quantum Insider",
@@ -1519,6 +1547,13 @@
       "source": "eSchool News",
       "published": "2026-08-21T10:00:00.000Z",
       "snippet": "If I had been asked a few years ago, I would have told you that chronic absenteeism was a school system's problem to fix. With better data systems, staff trained on outreach, and improved intervention protocols, school districts could move the numbers on their own."
+    },
+    {
+      "title": "How Campus IT Leaders Can Innovate Despite AI Pushback",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/how-campus-it-leaders-can-innovate-despite-ai-pushback",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-20T20:21:51.000Z",
+      "snippet": "Most colleges and universities are asking IT and academic technology leaders to integrate artificial intelligence tools across campus. But that job may be easier said than done, as negative sentiment toward generative AI technology is growing, particularly among college-aged Americans.\nA recent Gallup survey found that excitement about AI among U.S. 14- to 29-year-olds has dropped 14 percentage po"
     },
     {
       "title": "What it really takes to accelerate adolescent literacy across our district",
