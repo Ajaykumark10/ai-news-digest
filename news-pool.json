@@ -1,11 +1,46 @@
 {
   "ai": [
     {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T23:07:25.000Z",
+      "snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T22:37:38.000Z",
+      "snippet": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T19:43:39.000Z",
+      "snippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T14:00:00.000Z",
+      "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.  Board conflicts aren’"
+    },
+    {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-21T00:13:44.000Z",
       "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T22:36:37.000Z",
+      "snippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
     },
     {
       "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
@@ -50,7 +85,7 @@
       "snippet": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
     },
     {
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
       "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-20T17:18:58.000Z",
@@ -314,30 +349,37 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-08-17T09:00:00.000Z",
       "snippet": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…"
-    },
-    {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-16T20:57:04.000Z",
-      "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI."
-    },
-    {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-16T20:32:01.000Z",
-      "snippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
-    },
-    {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-16T16:53:51.000Z",
-      "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
     }
   ],
   "cloud": [
+    {
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-08-21T16:00:00.000Z",
+      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nAug 17 - A"
+    },
+    {
+      "title": "Cloud CISO Perspectives: Sticking to security fundamentals in the AI era",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/",
+      "source": "Cloud Blog",
+      "published": "2026-08-21T16:00:00.000Z",
+      "snippet": "Welcome to the first Cloud CISO Perspectives for August 2026. Today, Chris Betz explains why the AI era makes it more important than ever to lean into security fundamentals.\nAs with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog. If you’re reading this on the website and you’d like to receive the email version, you can subscribe here.\n\n\n    aside_b"
+    },
+    {
+      "title": "How agents can delegate better",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/",
+      "source": "Cloud Blog",
+      "published": "2026-08-21T16:00:00.000Z",
+      "snippet": "In any organizational behavior class, students will learn that effective delegation is among the most important skills for a seasoned leader. Getting meaningful work done involves careful coordination, starting with a subdivision of projects into manageable tasks, mapped onto the skills of the team, and assigned to the right people.\nAt Google Cloud, we’re learning a similar lesson when it comes to"
+    },
+    {
+      "title": "Expanding Google Antigravity for enterprise customers",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
+      "source": "Cloud Blog",
+      "published": "2026-08-20T17:30:00.000Z",
+      "snippet": "Since announcing Google Antigravity in Gemini Enterprise Agent Platform at I/O in May, we’ve heard helpful feedback from our customers. Your developers want easy access to coding agents across surfaces. Your enterprise governance team wants security controls and license management. And your finance team wants pooled usage so that no prepaid token ever goes unused. Now, everybody finally gets what "
+    },
     {
       "title": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
       "link": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/",
@@ -446,6 +488,62 @@
   ],
   "hardware": [
     {
+      "title": "Get a full-size Keychron mechanical keyboard for just $29 — 50% off this 104-key wired keeb with your choice of Keychron Super Brown or Red switches",
+      "link": "https://www.tomshardware.com/pc-components/get-a-full-size-keychron-mechanical-keyboard-for-just-usd29-50-percent-off-this-104-key-wired-keeb-with-your-choice-of-keychron-super-brown-or-red-switches",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T16:45:23.000Z",
+      "snippet": "Keychron’s C2 Pro full-size wired mechanical keyboard hits an all time low of $29.99 at W00t with code KEYCHRON ($24.99 if you’re new to Woot) - QMK programmability, pre-lubed switches, make this a great find while the deal lasts"
+    },
+    {
+      "title": "Get a $75 discount on your next Corsair upgrade — stack your cart up to $350 to enjoy big savings",
+      "link": "https://www.tomshardware.com/pc-components/get-a-usd75-discount-on-your-next-corsair-upgrade-stack-your-cart-up-to-usd350-to-enjoy-big-savings",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T15:27:27.000Z",
+      "snippet": "Corsair launches a back-to-school promotion offering $75 off qualifying purchases of $350 or more in the U.S."
+    },
+    {
+      "title": "SanDisk expansion cards for Xbox Series X|S now available on Amazon — alternative storage solution to Seagate, WD arrives on the market five years after the launch of the consoles",
+      "link": "https://www.tomshardware.com/pc-components/external-ssds/sandisk-expansion-cards-for-xbox-series-x-s-now-available-on-amazon-alternative-storage-solution-to-seagate-wd-arrives-on-the-market-five-years-after-the-launch-of-the-consoles",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T15:25:29.000Z",
+      "snippet": "The SanDisk Optimus GX C50 expansion cards for the Xbox Series X|S are now available on Amazon starting at $249.99 for the 1TB variant. While gamers can use external drives to copy and backup games from the Xbox consoles, they need expansion cards like these from SanDisk or Seagate if they want to install more games."
+    },
+    {
+      "title": "World's largest open library calls for volunteers to scan and preserve physical books as AI companies buy, scan, and destroy them — Anna's Archive says ‘time is running out’ as ‘knowledge is permanently monopolized on private servers’",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T14:33:36.000Z",
+      "snippet": "A volunteer for Anna's Archive is calling for volunteers to scan and upload books to the shadow library to help preserve human knowledge for the public. The move comes as more AI companies buy, scan, and destroy books to feed to AI models, which is easier and faster than scanning the written works in a non-destructive manner."
+    },
+    {
+      "title": "Elegoo Centauri 2 Combo review: A budget-friendly printer made even more budget-friendly",
+      "link": "https://www.tomshardware.com/3d-printing/elegoo-centauri-2-combo-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T14:05:33.000Z",
+      "snippet": "The Elegoo Centauri 2 Combo is an excellent four-color printer, but is it worth the savings without an enclosure?"
+    },
+    {
+      "title": "Tom’s Hardware Innovation Awards 2026: Progress amid turmoil",
+      "link": "https://www.tomshardware.com/pc-components/toms-hardware-innovation-awards-2026-progress-amid-turmoil",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T14:02:24.000Z",
+      "snippet": "The continued industry advancements give us several new picks for our annual Tom's Hardware Innovation Awards: a set of products that set or expand the standard for others."
+    },
+    {
+      "title": "LG enters chip packaging arena with Laser Direct Imaging machine, as TSMC's CoWoS remains constrained — maskless machine is designed to pattern fine interconnects, trading resolution for higher throughput",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T13:35:14.000Z",
+      "snippet": "LG rolls-out laser direct imaging lithography machine for chip packaging and high-density PCBs."
+    },
+    {
+      "title": "Unlock Tom's Hardware Premium's Hot Chips 2026 coverage for free — sign up for an account to read technical breakdowns from the show",
+      "link": "https://www.tomshardware.com/tech-industry/unlock-toms-hardware-premiums-hot-chips-2026-coverage-for-free-sign-up-for-an-account-to-read-technical-breakdowns-from-the-show",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T13:00:00.000Z",
+      "snippet": "For a limited time, you’ll be able to read all of our latest reports from Hot Chips 2026 with a Tom’s Hardware account, no payment required."
+    },
+    {
       "title": "LG Display introduces new OLED deposition technique that uses lithography instead of metal masks — \"FLiPP\" photolithography delivers 1.6x brightness and 2.4x longer lifespan",
       "link": "https://www.tomshardware.com/monitors/lg-display-introduces-new-oled-deposition-technique-that-uses-lithography-instead-of-metal-masks-flipp-photolithography-delivers-1-6x-brightness-and-2-4x-longer-lifespan",
       "source": " Latest from Tom's Hardware ",
@@ -472,6 +570,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-21T12:00:00.000Z",
       "snippet": "Micron's Research Labs to bring together the company's own research with research by customers, partners, universities, startups, and government organizations to develop pre-competitive IP for next-generation memory technologies."
+    },
+    {
+      "title": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia — homemade chips corner the China market as country seeks semiconductor independence",
+      "link": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-21T11:40:00.000Z",
+      "snippet": "Most of each company's U.S.-licensed allowance, understood to be up to 100,000 units apiece, must stay outside the mainland."
     },
     {
       "title": "Nvidia denies report it will ship Groq-based LPUs to China by year-end — says there is 'no China-specific LPU product in our roadmap'",
@@ -1067,44 +1172,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-17T09:30:00.000Z",
       "snippet": "Tear down of a so-called air conditioner from Epicool revealed 'a simple PC fan combined with a small heating element.'"
-    },
-    {
-      "title": "This portable, external CD/DVD drive comes with a 2.5-inch SATA and an SD Card slot for just $26 — Save 10% on a modern essential for keeping physical media alive",
-      "link": "https://www.tomshardware.com/pc-components/this-portable-external-cd-dvd-drive-comes-with-a-2-5-inch-sata-and-an-sd-card-slot-for-just-usd26-save-10-percent-on-a-modern-essential-for-keeping-physical-media-alive",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T15:18:31.000Z",
-      "snippet": "If you have a bunch of old CDs or DVDs lying around and want something quick and simple to access them, this external drive can get the job done for you for less than $30 while offering extra features that would make it useful in your day-to-day PC usage."
-    },
-    {
-      "title": "Dell CEO unveils new 'Dude, you’re getting a Dell (AI server rack)' video — PC maker recycles famous PC ad campaign to tout its new AI data center products",
-      "link": "https://www.tomshardware.com/tech-industry/dude-youre-getting-a-dell-ai-server-rack-dell-recycles-famous-ad-campaign-to-appeal-to-its-new-ai-overlords",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T14:31:33.000Z",
-      "snippet": "Dell has created a humorous AI-era update to its iconic early-2000s 'Dude, you’re getting a Dell' series of commercials."
-    },
-    {
-      "title": "Maker compresses a 2.9MB song by 1000x and prints it on paper as eight QR codes — 21KB song is two minutes long, requires a neural network for playback",
-      "link": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T14:22:36.000Z",
-      "snippet": "The open-source codec Meta released in 2022 converts a waveform into discrete tokens that a matching decoder turns back into audio."
-    },
-    {
-      "title": "Ukraine built a $48,000 long-range drone after covertly snapping Chinese factory photos, clone destroys Russian Tu-95 bomber — attack drone has 2,000 km range, country builds 6,000 flying-wing drones a year",
-      "link": "https://www.tomshardware.com/tech-industry/drones/ukraine-destroys-tu-95-bomber-using-48000-chinese-drone-clone",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T13:20:00.000Z",
-      "snippet": "The drone that destroyed a Tupolev Tu-95MS strategic bomber at Russia's Engels-2 air base last month turns out to be the MICH 2000."
-    },
-    {
-      "title": "Critical macOS Screen Sharing flaw gives attackers remote root access — CISA bumps bug to 9.8 severity following active Monero cryptojacking attacks",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/macos-screen-sharing-flaw-exploited-to-root-macs-and-plant-monero-miners",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-16T13:00:00.000Z",
-      "snippet": "The Dutch National Cyber Security Centre (NCSC-NL) says that attackers are actively exploiting CVE-2026-65400, an authentication bypass in macOS Screen Sharing."
     }
   ],
   "quantum": [
+    {
+      "title": "What Is NISQ Quantum Computing: The Current Era of Quantum Machines",
+      "link": "https://thequantuminsider.com/2026/08/21/what-is-nisq-quantum-computing-guide/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-21T15:36:30.000Z",
+      "snippet": "Insider Brief Every quantum computer commercially available today belongs to the same category. Whether it is IBM‘s quantum systems, Google‘s superconducting processors, or IonQ‘s trapped-ion hardware. All of these are NISQ devices, whether the press releases say so or not. NISQ stands for Noisy Intermediate-Scale Quantum. Physicist John Preskill coined the term in 2018 to […]"
+    },
     {
       "title": "Berkeley Lab-Led Project Secures Funding to Develop a Transportable Muon Imager",
       "link": "https://thequantuminsider.com/2026/08/21/berkeley-lab-led-project-secures-funding-to-develop-a-transportable-muon-imager/",
@@ -1125,6 +1202,13 @@
       "source": "The Quantum Insider",
       "published": "2026-08-21T10:42:13.000Z",
       "snippet": "Insider Brief Press release – QC Ware, the organizer of Q2B conferences and a developer of computational chemistry and quantum computing software, has announced that the 2026 Q2B Copenhagen Conference will take place on September 9-10, 2026, in Copenhagen, Denmark. The conference is presented in joint partnership with a Danish Consortium comprising the Ministry of Foreign Affairs […]"
+    },
+    {
+      "title": "Crypto4A QASM Module Achieves FIPS 140-3 Level 3 Validation",
+      "link": "https://thequantuminsider.com/2026/08/21/crypto4a-fips-140-3-level-3-quantum-safe-hsm/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-21T10:29:11.000Z",
+      "snippet": "Insider Brief Press release – Canadian cybersecurity company Crypto4A Technologies Inc. has achieved a global first in the race to protect governments, financial systems, critical infrastructure and defence networks from the emerging threat posed by quantum computing. Crypto4A has received FIPS 140-3 Level 3 validation for its QASM™ cryptographic module, making it the first company […]"
     },
     {
       "title": "Who Will Actually Use Quantum Computers? Study Identifies 11 User Types",
@@ -1422,6 +1506,13 @@
     }
   ],
   "education": [
+    {
+      "title": "Why Higher Ed CIOs Must Own Enterprise Data Strategy",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/why-higher-ed-cios-must-own-enterprise-data-strategy",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-21T20:09:03.000Z",
+      "snippet": "Three departments walk into a meeting with three different enrollment numbers — all of them technically correct.\nMost institutions are surrounded by data: reports, dashboards and transactional systems pulling from every corner of campus. And yet, when a leader needs to make a fast, confident decision, the data doesn’t quite deliver. It can be fragmented and inconsistent.\nI think about data strateg"
+    },
     {
       "title": "Attendance is the scoreboard–connection is the game",
       "link": "https://www.eschoolnews.com/educational-leadership/2026/08/21/attendance-is-the-scoreboard-connection-is-the-game/",
