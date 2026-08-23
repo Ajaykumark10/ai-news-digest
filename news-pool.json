@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-22T21:46:56.000Z",
+      "snippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-22T16:30:34.000Z",
+      "snippet": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-22T16:00:00.000Z",
+      "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+    },
+    {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -300,65 +321,9 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-08-18T09:00:00.000Z",
       "snippet": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …"
-    },
-    {
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-17T23:56:26.000Z",
-      "snippet": "The model maker added $18 billion in annualized revenue in two months."
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-17T21:27:05.000Z",
-      "snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
-    },
-    {
-      "title": "What Flock’s defenders are missing",
-      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-17T19:16:09.000Z",
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…"
-    },
-    {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-17T16:38:44.000Z",
-      "snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
-    },
-    {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-17T16:15:12.000Z",
-      "snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
-    },
-    {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-17T15:16:24.000Z",
-      "snippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
-    },
-    {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-17T13:10:05.000Z",
-      "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
     }
   ],
   "cloud": [
-    {
-      "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
-      "link": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/",
-      "source": "AWS News Blog",
-      "published": "2026-08-21T18:53:26.000Z",
-      "snippet": "AWS Glue 6.0 is built on a fully modernized runtime, Apache Spark 4.1, Python 3.12, and Scala 2.13, delivering 30% lower pricing than previous AWS Glue versions."
-    },
     {
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -477,23 +442,65 @@
       "source": "AWS News Blog",
       "published": "2026-08-18T13:58:41.000Z",
       "snippet": "Each location will be a permanent community space to offer free workshops, networking events, pitch nights, content creation spaces, collaboration/co-working areas, and event hosting for developers, students, or tech professionals who want to walk through the doors."
-    },
-    {
-      "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
-      "source": "AWS News Blog",
-      "published": "2026-08-17T16:02:36.000Z",
-      "snippet": "Last week, AWS contributors joined the OpenSearch and Valkey communities at Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026 to meet open source developers and contributors. At the four-day event, community leaders and users of these Linux Foundation open source projects gathered to share knowledge, collaborate on solutions, and push the projects forward. […]"
-    },
-    {
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-08-17T15:00:00.000Z",
-      "snippet": "Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale.\nThe post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms  appeared first on Microsoft Azure Blog."
     }
   ],
   "hardware": [
+    {
+      "title": "25 years after the death of 3dfx, the Voodoo 3 gets a Linux driver update — classic Voodoo GPUs can now boot without a PC BIOS",
+      "link": "https://www.tomshardware.com/software/linux/25-years-after-the-death-of-3dfx-the-voodoo-3-gets-a-linux-driver-update-classic-voodoo-gpus-can-now-boot-without-a-pc-bios",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T15:48:10.000Z",
+      "snippet": "It's been a quarter-century since the firm folded, but the graphics chips still have utility in esoteric use cases."
+    },
+    {
+      "title": "Snap-on LCD brings mini displays to any 120mm PC fan — Thermalright's Fan Frame Vision-1 lets you display information and custom themes on your case fans",
+      "link": "https://www.tomshardware.com/pc-components/case-fans/snap-on-lcd-brings-mini-displays-to-any-120mm-pc-fan-thermalrights-fan-frame-vision-1-lets-you-display-information-and-custom-themes-on-your-case-fans",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T14:49:09.000Z",
+      "snippet": "The Thermalright Fan Frame Vision-1 is a clip-on 3.69-inch screen that snaps directly in front of your PC case fans. These accessories let you display temperature, fan speed, and other information across your case, and even create a unified theme across all the screens in your PC."
+    },
+    {
+      "title": "Walk through a 3D cyberpunk city built purely from ASCII characters — a text-based metropolis runs on a 283KB Rust WebAssembly engine feeding a WebGL renderer",
+      "link": "https://www.tomshardware.com/tech-industry/ascii-cyberpunk-city-prototype-runs-on-rust-webassembly-engine-and-webgl-shaders",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T14:37:14.000Z",
+      "snippet": "Solo developer Grow Now! Games has put a playable browser build of its walkable ASCII cyberpunk city online, powered by a 283KB Rust WebAssembly engine and rendered in WebGL."
+    },
+    {
+      "title": "Logitech faces lawsuit for withholding $61M in tariff refunds from customers — lawsuit claims company extracted up to $97M from consumers in 2026 through tariff-justified price increases",
+      "link": "https://www.tomshardware.com/peripherals/logitech-faces-lawsuit-for-withholding-usd61m-in-tariff-refunds-from-customers-lawsuit-claims-company-extracted-up-to-usd97m-from-consumers-in-2026-through-tariff-justified-price-increases",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T14:13:50.000Z",
+      "snippet": "Consumers who bought products from Logitech after it increased its prices due to tariffs still haven't received their refunds, even after the U.S. government returned $61 million to the company. Now they're suing for their refunds, saying that 'Company extracted approximately $73 million to $97 million from consumers.'"
+    },
+    {
+      "title": "Razer HyperFlux V2 Review: The best wireless charging mat for Razer mice",
+      "link": "https://www.tomshardware.com/peripherals/gaming-mice/razer-hyperflux-v2-review-the-best-wireless-charging-mat-for-razer-mice",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T14:08:39.000Z",
+      "snippet": "Razer's HyperFlux V2 is a wireless charging mouse pad that works with current mice from Razer's Basilisk, Cobra, and Naga lines."
+    },
+    {
+      "title": "US authorities say Siemens controllers used for water and other infrastructure are being targeted by hackers — agencies claim threat actors use AI tools to generate exploitation scripts",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T13:57:17.000Z",
+      "snippet": "Siemens S7 PLCs, commonly used in critical infrastructure, are reportedly being targeted by hackers and could potentially lead to disruption of industrial processes, safety incidents, downtime or equipment damage, and more. U.S. agencies are telling operators to protect these systems by keeping them updated and ensuring that they're off the internet if possible."
+    },
+    {
+      "title": "Save $532 on a 480 Hz OLED gaming monitor — Amazon drops a massive 53% discount on the LG UltraGear 27GX790A-B",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/save-usd532-on-a-480-hz-oled-gaming-monitor-amazon-drops-a-massive-53-percent-discount-on-the-lg-ultragear-27gx790a-b",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T13:50:07.000Z",
+      "snippet": "The LG UltraGear 27GX790A-B packs a 27-inch 1440p WOLED panel with a 480 Hz refresh rate, 0.03ms response time, and support for DisplayHDR True Black 400."
+    },
+    {
+      "title": "This week on Tom's Hardware Premium: August 22, 2026 — foundries, supercomputers, China, and how to not overpay on a motherboard",
+      "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-22-2026-foundries-supercomputers-china-and-how-to-not-overpay-on-a-motherboard",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-22T13:00:00.000Z",
+      "snippet": "We recap this week's Tom's Hardware Premium articles, including our latest advice on your next motherboard purchase, a look inside Samsung's Fab roadmaps, and much more."
+    },
     {
       "title": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records",
       "link": "https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records",
@@ -516,7 +523,7 @@
       "snippet": "A Gigabyte RTX 3070 owner discovered protective films covering its VRM thermal pads, after nearly five years of use potentially causing excessive temperatures and frequent black screens."
     },
     {
-      "title": "ASRock Steel Legend SL-1200P power supply review: Combines genuine Platinum efficiency with a winning stand-out design",
+      "title": "ASRock Steel Legend SL-1200P power supply review: A winning combination of genuine Platinum efficiency and a stand-out design",
       "link": "https://www.tomshardware.com/pc-components/power-supplies/asrock-steel-legend-sl-1200p-power-supply-review",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-22T11:05:00.000Z",
@@ -1109,48 +1116,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-18T09:00:00.000Z",
       "snippet": "A Redditor claims that Best Buy ‘repaired’ a blue-screen-afflicted under-warranty laptop by simply removing one of its two SODIMMs, and when it passed tests, simply sent it back with half the memory installed."
-    },
-    {
-      "title": "Geekom admits to shipping malware-laced network drivers for AMD mini PCs — company responds with guidance, removes malicious package",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/geekom-admits-to-shipping-malware-laced-network-drivers-for-amd-mini-pcs-company-responds-with-guidance-removes-malicious-package",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T17:18:04.000Z",
-      "snippet": "Geekom admits to shipping malware-laced network drivers for AMD mini-PCs — maker requests takedown of report on the situation"
-    },
-    {
-      "title": "Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business — dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T15:39:28.000Z",
-      "snippet": "Alibaba has agreed to sell its game development unit, Lingxi Games, to Asian private equity firm Trustar Capital, according to an internal staff memo."
-    },
-    {
-      "title": "Judge clears Nine PBS to retrieve 70 years of archival TV data — court rules station owns 50TB of data in Iron Mountain servers after host went under",
-      "link": "https://www.tomshardware.com/software/cloud-storage/judge-clears-nine-pbs-to-retrieve-70-years-of-archival-tv-data-court-rules-station-owns-50tb-of-data-in-iron-mountain-servers-after-host-went-under",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T14:31:31.000Z",
-      "snippet": "There’s light at the end of the tunnel for Nine PBS after a judge has cleared the way for it to retrieve archival data and programming from Iron Mountain."
-    },
-    {
-      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399",
-      "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T13:52:30.000Z",
-      "snippet": "Analysis of historical price data trends indicates that the memory crisis has driven RAM prices to never-before-seen heights."
-    },
-    {
-      "title": "America's largest grid wants to cut power to new data centers first during shortages — 50MW-plus data centers must bring their own electricity generation to avoid shutoffs",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/new-data-centers-on-americas-largest-grid-face-first-in-line-blackouts-unless-they-bring-their-own-power",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T13:11:38.000Z",
-      "snippet": "PJM Interconnection has asked federal regulators to approve rules that would cut power to new data centers ahead of households during supply shortages."
-    },
-    {
-      "title": "Asus ROG Edition 20 gaming PC build – A pretty powerhouse PC that next to no one can afford",
-      "link": "https://www.tomshardware.com/desktops/pc-building/asus-rog-edition-20-gaming-pc-build-a-pretty-powerhouse-pc-that-next-to-no-one-can-afford",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-17T13:00:00.000Z",
-      "snippet": "What’s it like to build a PC with some of the most expensive components on the market? Asus sent us its ROG 20th anniversary components so we could find out for ourselves."
     }
   ],
   "quantum": [
@@ -1167,13 +1132,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-21T15:36:30.000Z",
       "snippet": "Insider Brief Every quantum computer commercially available today belongs to the same category. Whether it is IBM‘s quantum systems, Google‘s superconducting processors, or IonQ‘s trapped-ion hardware. All of these are NISQ devices, whether the press releases say so or not. NISQ stands for Noisy Intermediate-Scale Quantum. Physicist John Preskill coined the term in 2018 to […]"
-    },
-    {
-      "title": "Quantum X Labs Tests AI Quantum Error Decoder on Google Hardware Dataset",
-      "link": "https://thequantuminsider.com/2026/08/21/quantum-x-labs-ai-quantum-error-correction-results/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-21T13:39:20.000Z",
-      "snippet": "Insider Brief Press release – Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X” or the “Company”), an advanced technologies company, today announced new results from its AI-driven quantum error-correction program, advancing the Company’s roadmap toward trusted quantum error correction for future fault-tolerant quantum computing. Quantum computers are highly sensitive to noise, and quantum error corre"
     },
     {
       "title": "Berkeley Lab-Led Project Secures Funding to Develop a Transportable Muon Imager",
@@ -1447,27 +1405,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-18T08:13:42.000Z",
       "snippet": "Insider Brief China is testing quantum sensors, secure communications and computing in a working power substation, examining how the emerging technology could be applied to the country’s electrical grid. The 220-kilovolt Houdian Quantum Application Demonstration Substation in Hefei, in eastern China’s Anhui province, has deployed 85 domestically developed quantum devices across 18 categories, acco"
-    },
-    {
-      "title": "NHanced Semiconductors and University of Florida to Present Advanced Photonics Packaging Research",
-      "link": "https://thequantuminsider.com/2026/08/18/nhanced-semiconductors-university-florida-silicon-photonics-packaging-smta/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-18T05:49:35.000Z",
-      "snippet": "Insider Brief Press release – The upcoming SMTA International Conference will feature a paper titled “Advanced Packaging for Photonics: Hybrid Bonding and Silicon Interposer Integration,” presented by NHanced Semiconductors Vice President Dr. Charles Woychik and Dr. Navid Asadizanjani from the Florida Semiconductor Institute at University of Florida. The paper will detail the critical role of fine"
-    },
-    {
-      "title": "Argonne Launches $1 Million Project to Develop Diamond Quantum Sensors for Particle Physics",
-      "link": "https://thequantuminsider.com/2026/08/18/argonne-project-diamond-based-quantum-sensors/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-18T05:40:32.000Z",
-      "snippet": "Insider Brief Press release – A new Argonne project is bringing together experts in quantum information science and high energy physics to build diamond-based quantum sensors capable of measuring electromagnetic fields with unprecedented precision. Understanding how the universe’s smallest building blocks interact requires a precise understanding of how electromagnetic forces affect matter. Whethe"
-    },
-    {
-      "title": "From Beaches to Bits to Qubits – Silicon’s Journey in Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/08/17/from-beaches-to-bits-to-qubits-silicons-journey-in-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-17T21:16:25.000Z",
-      "snippet": "Insider Brief Humanity’s ability to make things has dictated its progress over the ages. From the Stone Age to the Bronze and the Iron Age, we have leaped from one material to the next, each letting us do what we couldn’t before. Over time, these leaps have grown ever more sophisticated in discovery, process, and […]"
     }
   ],
   "education": [
@@ -1484,13 +1421,6 @@
       "source": "eSchool News",
       "published": "2026-08-21T10:00:00.000Z",
       "snippet": "If I had been asked a few years ago, I would have told you that chronic absenteeism was a school system's problem to fix. With better data systems, staff trained on outreach, and improved intervention protocols, school districts could move the numbers on their own."
-    },
-    {
-      "title": "How Campus IT Leaders Can Innovate Despite AI Pushback",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/how-campus-it-leaders-can-innovate-despite-ai-pushback",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-20T20:21:51.000Z",
-      "snippet": "Most colleges and universities are asking IT and academic technology leaders to integrate artificial intelligence tools across campus. But that job may be easier said than done, as negative sentiment toward generative AI technology is growing, particularly among college-aged Americans.\nA recent Gallup survey found that excitement about AI among U.S. 14- to 29-year-olds has dropped 14 percentage po"
     },
     {
       "title": "What it really takes to accelerate adolescent literacy across our district",
@@ -1519,13 +1449,6 @@
       "source": "eSchool News",
       "published": "2026-08-18T10:00:00.000Z",
       "snippet": "Walk into almost any classroom in America, and you’ll see a system designed for consistency: same lesson, same pace, same expectations for every student. For decades, that model has served millions well."
-    },
-    {
-      "title": "What the Workforce Pell Grant Launch Means for Community College IT Leaders",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/what-workforce-pell-grant-launch-means-community-college-it-leaders",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-17T20:02:54.000Z",
-      "snippet": "In 2025, the Workforce Pell Grant was announced as part of the Working Families Tax Cuts Act. On August 4, the first program was approved for the new Workforce Pell Grant, a milestone in higher education. To be eligible, institutions must prove a 70% completion rate and 70% job placement rate — in the industry or field of the program — within 180 days. Programs must also run between eight to 15 we"
     }
   ]
 }
