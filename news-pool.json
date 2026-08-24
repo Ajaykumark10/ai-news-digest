@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-23T20:01:36.000Z",
+      "snippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-23T19:14:08.000Z",
+      "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
+    },
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-23T15:30:00.000Z",
+      "snippet": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+    },
+    {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -265,65 +286,9 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-19T10:00:00.000Z",
       "snippet": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber."
-    },
-    {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-18T22:14:25.000Z",
-      "snippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
-    },
-    {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-18T18:00:00.000Z",
-      "snippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
-    },
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-18T17:21:58.000Z",
-      "snippet": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
-    },
-    {
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-18T16:19:10.000Z",
-      "snippet": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
-    },
-    {
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-18T14:00:00.000Z",
-      "snippet": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
-    },
-    {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-18T13:50:30.000Z",
-      "snippet": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
-    },
-    {
-      "title": "Perplexity’s free AI offer left it with millions more users in India",
-      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-18T13:45:40.000Z",
-      "snippet": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
     }
   ],
   "cloud": [
-    {
-      "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
-      "link": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/",
-      "source": "AWS News Blog",
-      "published": "2026-08-21T18:53:26.000Z",
-      "snippet": "AWS Glue 6.0 is built on a fully modernized runtime, Apache Spark 4.1, Python 3.13, and Scala 2.13, delivering 30% lower pricing than previous AWS Glue versions."
-    },
     {
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -400,51 +365,30 @@
       "source": "Cloud Blog",
       "published": "2026-08-19T16:00:00.000Z",
       "snippet": "In modern enterprise data engineering, Apache Spark remains a cornerstone framework for processing massive datasets at scale. However, managing infrastructure such as provisioning clusters, tuning YARN configurations, and avoiding costs for idle hardware often detracts from what matters most: building resilient data pipelines. Google Cloud addresses this operational overhead via its Managed Servic"
-    },
-    {
-      "title": "Building cost-effective, high-throughput gen AI workflows in Google Dataflow",
-      "link": "https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/",
-      "source": "Cloud Blog",
-      "published": "2026-08-18T16:00:00.000Z",
-      "snippet": "Real-time streaming pipelines are the operational backbone of modern enterprises, continuously processing everything from customer support interactions to transaction logs. Traditionally, streaming DAGs are static; once deployed, their processing logic and execution paths are fixed. However, by integrating generative AI agents, we can move beyond static logic to adaptive execution. This allows str"
-    },
-    {
-      "title": "Governance on autopilot, minus the turbulence",
-      "link": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
-      "source": "Cloud Blog",
-      "published": "2026-08-18T16:00:00.000Z",
-      "snippet": "Every data team knows the moment. Someone opens a table, sees a column called cust_seg_flg, and has to go ask around to find out what it means, whether it's safe to use, and whether anyone has already answered that question in another dashboard three teams over. Multiply that by thousands of tables and views, and you get the real cost of governance debt: not a compliance failure, but a daily tax o"
-    },
-    {
-      "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
-      "link": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
-      "source": "Cloud Blog",
-      "published": "2026-08-18T16:00:00.000Z",
-      "snippet": "Enterprise content management is experiencing its biggest architectural shift since the cloud migration era. \nFor years, enterprises have stored trillions of gigabytes of critical data in Box: financial models, clinical trial protocols, M&A due diligence rooms, engineering schematics, and legal compliance playbooks. Up to this point, text-based search and retrieval-augmented generation (RAG) have "
-    },
-    {
-      "title": "Building operational resilience with agentic AI in financial services",
-      "link": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
-      "source": "Cloud Blog",
-      "published": "2026-08-18T14:00:00.000Z",
-      "snippet": "For financial institutions, operational resilience has long been embedded in regulatory and supervisory expectations — to say nothing of the high expectations of consumers. With the implementation of the European Union’s Digital Operational Resiliency Act (DORA), those expectations have become even more stringent, with more explicit, harmonized, and evidence-driven requirements. Firms must now dem"
-    },
-    {
-      "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
-      "source": "Cloud Blog",
-      "published": "2026-08-18T14:00:00.000Z",
-      "snippet": "Written by: Alex Tselevich, Michael Maturi\n\nIntroduction\nAdversarial misuse of AI has increased the risk of data theft and extortion events, because when proprietary source code is exposed, defenders must scramble to identify and patch vulnerabilities while attackers deploy machine-speed AI tools against them.\nBy structuring the analysis process, enforcing skeptical validation steps, and injecting"
-    },
-    {
-      "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
-      "link": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
-      "source": "AWS News Blog",
-      "published": "2026-08-18T13:58:41.000Z",
-      "snippet": "Each location will be a permanent community space to offer free workshops, networking events, pitch nights, content creation spaces, collaboration/co-working areas, and event hosting for developers, students, or tech professionals who want to walk through the doors."
     }
   ],
   "hardware": [
+    {
+      "title": "Grab the Asus Prime Radeon RX 9070 OC for $629.99 — save $120 on this 16GB gaming GPU for reliable 1440p and 4K gaming",
+      "link": "https://www.tomshardware.com/pc-components/gpus/grab-the-asus-prime-radeon-rx-9070-oc-for-usd629-99-save-usd120-on-this-16gb-gaming-gpu-for-reliable-1440p-and-4k-gaming",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-23T14:07:45.000Z",
+      "snippet": "The Asus Prime Radeon RX 9070 OC is available for just $629.99 on Amazon, delivering strong 1440p performance, 16GB of VRAM, a 2,610MHz boost clock, and a triple-fan cooling system at a $120 discount."
+    },
+    {
+      "title": "Self-driving Ford F-250 truck with shotgun-equipped drone-killing turret tested by US Army — autonomous system designed to blast fast-moving drones at between 10 and 100 meters range",
+      "link": "https://www.tomshardware.com/tech-industry/drones/self-driving-ford-f-250-truck-with-shotgun-equipped-drone-killing-turret-tested-by-us-army-autonomous-system-designed-to-blast-fast-moving-drones-at-between-10-and-100-meters-range",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-23T13:19:17.000Z",
+      "snippet": "The US Army tested an autonomous breaching vehicle with an onboard counter-UAS turret during a live-fire exercise at Fort Bragg on August 18."
+    },
+    {
+      "title": "Nvidia’s GB300-powered DGX Station desktop tower listed for nearly $100,000 online — Enterprise AI powerhouse now available to buy for mere mortals with lots of cash",
+      "link": "https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-23T13:00:00.000Z",
+      "snippet": "Nvidia's most powerful desktop offering, the GB300 DGX Station, is available to buy starting from just $94,930 and you can spec it up to $108,350. It offers 748GB of unified memory shared across the 72-core Grace CPU and Blackwell Ultra GPU, and it can be yours in a pretty standard-looking desktop chassis today."
+    },
     {
       "title": "Fake GTA VI ISO circulates on the internet a few days after leak, internet sleuths claim 113GB download is padded malware — testers claim file is 99.99% empty zeroes with 50KB virus embedded",
       "link": "https://www.tomshardware.com/video-games/fake-gta-vi-iso-circulates-on-the-internet-a-few-days-after-leak-internet-sleuths-claim-113gb-download-is-padded-malware-testers-claim-file-is-99-99-percent-empty-zeroes-with-50kb-virus-embedded",
@@ -1074,41 +1018,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-19T09:00:00.000Z",
       "snippet": "A developer posted their Doom port for the Canon EOS 550D on GitHub. The game uses the Magic Lantern firmware add-on to run on the camera, and uses various camera buttons to play the game directly from the SD card."
-    },
-    {
-      "title": "DJI scores a win in fight against US ban, appeals court orders fresh review of firm's 'Chinese military company' designation — drone maker will stay on Pentagon list while a judge examines classified evidence for the first time",
-      "link": "https://www.tomshardware.com/tech-industry/appeals-court-orders-fresh-review-of-djis-chinese-military-company-designation",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-18T15:40:10.000Z",
-      "snippet": "The DC Circuit reversed one of four findings, ruling that a lower court upheld a fully redacted justification without reading the classified record behind it."
-    },
-    {
-      "title": "Start your 3D printing journey with Bambu Labs' awesome P1S printer and AMS color-printing module bundle for the all-time low price of $499 in Best Buy's 60th Anniversary Sale",
-      "link": "https://www.tomshardware.com/3d-printing/start-your-3d-printing-journey-with-bambu-labs-awesome-p1s-printer-and-ams-color-printing-module-bundle-for-the-all-time-low-price-of-usd499-in-best-buys-60th-anniversary-sale",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-18T15:31:40.000Z",
-      "snippet": "Step into 3D printing with Bambu Lab's P1S and AMS combo bundle for $499. Back on sale at its lowest-ever price point."
-    },
-    {
-      "title": "Intel's next-gen Nova Lake chips may skip game-boosting X3D cache rival for mobile SKUs and debut on Razor Lake-HX instead, leaker claims — new rumor says Razor Lake family reportedly uses TSMC's N2X node",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intels-next-gen-nova-lake-chips-may-skip-bllc-for-mobile-skus-and-debut-on-razor-lake-hx-instead-leaker-claims-new-rumor-says-razor-lake-family-reportedly-uses-tsmcs-n2x-node",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-18T14:18:57.000Z",
-      "snippet": "Nova Lake desktop CPUs look to be the exclusive recipient of bLLC, Intel's answer to AMD's X3D, as the company looks to debut bLLC on mobile with Razor Lake-HX, and possibly Razor Lake-AX. As such, the Razor Lake family is also rumored to be manufactured on TSCM's N2X process node."
-    },
-    {
-      "title": "AMD claims its 2026 rack-scale AI solution is 4X more energy efficient than its 2024 AI platform — company says it's pacing ahead of 20X efficiency by 2030",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-claims-its-2026-rack-scale-ai-solution-is-4x-more-energy-efficient-than-its-2024-ai-platform-company-says-its-pacing-ahead-of-20x-efficiency-by-2030",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-18T14:00:00.000Z",
-      "snippet": "AMD says its 2025 rack-scale AI system is 4X more energy efficient compared to its 2024 AI solution, though does not produce actual benchmark results."
-    },
-    {
-      "title": "Asus ROG Swift PG32UCWM 32-inch OLED gaming monitor review: A flagship display with premium performance and imagery",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg32ucwm-32-inch-oled-gaming-monitor-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-18T13:00:00.000Z",
-      "snippet": "Asus delivers another flagship OLED with the ROG Swift PG32UCWM. It pulls out all the stops with a 32-inch Tandem RGB Stripe panel, 4K resolution, 240 Hz with 480 Hz/FHD dual mode, HDR10, Dolby Vision, Adaptive-Sync and wide gamut color."
     }
   ],
   "quantum": [
@@ -1314,55 +1223,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-19T08:00:45.000Z",
       "snippet": "Guest Post by Animesh Datta, Professor of Quantum Information Science, University of Warwick, for The Conversation In the global race to build bigger and better quantum computers, researchers have taken a step forward. A new machine called Helios is a radically different system compared to other quantum computers. Quantum computers harness the power of quantum mechanics, […]"
-    },
-    {
-      "title": "Eclypses And Sterling Team Up to Deliver Quantum-Resistant Cryptography to Federal Government Systems",
-      "link": "https://thequantuminsider.com/2026/08/18/eclypses-and-sterling-team-up-to-deliver-quantum-resistant-cryptography-to-federal-government-systems/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-18T18:33:48.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Eclypses, a cyber leader redefining data security for the AI and quantum era, today announced that it has selected Sterling, an award-winning Global Solutions Integrator, as its partner of choice to deliver MicroToken Exchange® (MTE)—its patented, FIPS 140-3 validated technology—to the federal government. The government’s most sensitive data is at […]"
-    },
-    {
-      "title": "Infleqtion Opens Colorado Quantum Innovation Center",
-      "link": "https://thequantuminsider.com/2026/08/18/infleqtion-opens-quantum-innovation-center-colorado/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-18T17:33:28.000Z",
-      "snippet": "Insider Brief Press release – Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, is celebrating the grand opening of the Colorado Quantum Innovation Center (CQIC), its new facility in Louisville, Colorado at 1315 W. Century Drive. The grand opening coincides with growing recognition of the Boulder–Louisville–Broomfield corridor as "
-    },
-    {
-      "title": "Symmatrics Appoints Jim Garrity as Senior Vice President of Growth",
-      "link": "https://thequantuminsider.com/2026/08/18/symmatrics-jim-garrity-expanding-leadership-team-growth/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-18T14:46:44.000Z",
-      "snippet": "Insider Brief Press release – Symmatrics, a breakthrough quantum secure data protection platform, is excited to announce the appointment of Jim Garrity as Senior Vice President of Growth, a strategic addition driving the company’s next phase of expansion as organizations seek more secure, resilient and future-ready approaches to authentication. Garrity joins Symmatrics with more than 30 years […]"
-    },
-    {
-      "title": "ISRO Experts Highlight AI and Quantum Technology for Future Indian Satellites",
-      "link": "https://thequantuminsider.com/2026/08/18/ai-quantum-technology-india-next-generation-satellite-systems/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-18T14:36:33.000Z",
-      "snippet": "Insider Brief Press release – During the culminating day of the National Space Technology Conclave 2026, organised by Chandigarh University at their campus, the ISRO experts concluded their remarks deliberated during the two day Conclave. The experts in one voice presented India’s strong position in Space technologies and charted out the new policies being taken by […]"
-    },
-    {
-      "title": "Texas Quantum Partners And Samara to Build Occam Foundry, A Quantum Technology Campus in Austin",
-      "link": "https://thequantuminsider.com/2026/08/18/texas-quantum-partners-and-samara-to-build-occam-foundry-a-quantum-technology-campus-in-austin/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-18T13:22:29.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Texas Quantum Partners and Samara, a Texas real estate developer, today announced Occam Foundry, a quantum technology campus taking shape in Austin. The site is owned, the first buildings are drawn, and the first phase covers part of roughly sixteen and a half acres in southeastern Travis County, with room […]"
-    },
-    {
-      "title": "OTI Lumionics, Samsung Benchmark Quantum Simulation Method for OLED Materials",
-      "link": "https://thequantuminsider.com/2026/08/18/oti-lumionics-samsung-benchmark-quantum-simulation-method-for-oled-materials/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-18T13:05:00.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — OTI Lumionics, a leader in advanced quantum simulations and solutions for next-generation materials discovery, in collaboration with the Samsung Advanced Institute of Technology (SAIT), today announced the publication of a new manuscript benchmarking its proprietary Iterative Qubit Coupled Cluster (iQCC) method in the  Journal of the American Chemical Society (JACS). "
-    },
-    {
-      "title": "Guest Post: The Role of Silicon Photonics in Delivering Usable Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/08/18/guest-post-the-role-of-silicon-photonics-in-delivering-usable-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-18T13:02:22.000Z",
-      "snippet": "Guest post by Professor Callum Littlejohns, Deputy Director at CORNERSTONE, and Dr Amit Agrawal, Associate Professor in Optical Engineering at the University of Cambridge The ability to scale is one of the most pressing issues in quantum hardware today, and solving scaling challenges has become a driving force behind significant government investments. This includes the […]"
     }
   ],
   "education": [
