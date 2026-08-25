@@ -29,6 +29,13 @@
       "snippet": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs."
     },
     {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-24T15:24:18.000Z",
+      "snippet": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six."
+    },
+    {
       "title": "OpenAI is building AI agents for everything. Will everyone use them?",
       "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -283,6 +290,13 @@
       "snippet": "Technology leaders are under mounting pressure to modernize infrastructure, control multi-cloud operational spend, and build data foundations for generative AI. However, the discovery required for that level of transformation can entail weeks of manual spreadsheet analysis, mapping in-house infrastructure, and reconciling siloed, piecemeal cost estimates across disparate teams and sources. To help"
     },
     {
+      "title": "Empowering autonomous agents with advanced security governance",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
+      "source": "Cloud Blog",
+      "published": "2026-08-24T16:00:00.000Z",
+      "snippet": "AI agents are the ultimate insiders. We grant them permission to read emails, query databases, and trigger API calls. They don’t just retrieve information, they take action. \nAgents offer incredible potential for increased productivity and better customer experiences, but they also come with new security concerns. In our new State of AI infrastructure report, 79% of tech leaders cite security, gov"
+    },
+    {
       "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
       "link": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/",
       "source": "AWS News Blog",
@@ -354,6 +368,13 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Hot Chips 2026: Intel Xeon 7 'Diamond Rapids' comes with up to 256 P-cores, 1.28 GB of last-level cache — next-gen 18A-P CPU also brings AVX 10.2 and uses UCIe-S instead of EMIB",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-comes-with-up-to-256-p-cores-1-28-gb-of-last-level-cache-next-gen-18a-p-cpu-also-brings-avx-10-2-and-uses-ucie-s-instead-of-emib",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-24T21:07:45.000Z",
+      "snippet": "Intel has pulled back the curtain on its next-gen Diamond Rapids Xeon CPUs, packing up to 256 P-cores and 1.28 TB of last-level cache."
+    },
     {
       "title": "Hot Chips 2026: SK hynix pushes hybrid bonding to HBM5 as AI memory hits 775-micron ceiling — firm extends MR-MUF through Nvidia Rubin",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling",
@@ -980,6 +1001,13 @@
   ],
   "quantum": [
     {
+      "title": "U.S. Treasury Announces the Quantum-Readiness Task Force",
+      "link": "https://thequantuminsider.com/2026/08/24/u-s-treasury-announces-the-quantum-readiness-task-force/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-24T21:09:02.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — The U.S. Department of the Treasury today announced the launch of the Quantum-Readiness Task Force, following President Donald J. Trump’s Executive Order 14412 establishing guidelines to strengthen cryptographic protections for America’s sensitive data, critical infrastructure, and digital economy. The Task Force supports the Administration’s efforts to secure America"
+    },
+    {
       "title": "Infleqtion Helps Launch Japan’s First Operational Neutral-Atom Quantum Computer",
       "link": "https://thequantuminsider.com/2026/08/24/infleqtion-japan-operational-neutral-atom-quantum-computer/",
       "source": "The Quantum Insider",
@@ -1184,6 +1212,13 @@
     }
   ],
   "education": [
+    {
+      "title": "Financial education must not sacrifice student privacy",
+      "link": "https://www.eschoolnews.com/educational-leadership/2026/08/24/financial-education-must-not-sacrifice-student-privacy/",
+      "source": "eSchool News",
+      "published": "2026-08-24T10:00:00.000Z",
+      "snippet": "Financial education is gaining real momentum across the United States. More states are adopting mandates, more schools are adding graduation requirements, and more policymakers are acknowledging that students need practical preparation for the financial decisions they will face as adults."
+    },
     {
       "title": "Why Higher Ed CIOs Must Own Enterprise Data Strategy",
       "link": "https://edtechmagazine.com/higher/article/2026/08/why-higher-ed-cios-must-own-enterprise-data-strategy",
