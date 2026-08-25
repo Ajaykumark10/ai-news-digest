@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-08-25T09:00:00.000Z",
+      "snippet": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the…"
+    },
+    {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
       "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -251,30 +258,23 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-08-20T15:42:39.000Z",
       "snippet": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…"
-    },
-    {
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-20T12:11:57.000Z",
-      "snippet": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue."
-    },
-    {
-      "title": "Unlocking hidden revenue streams with market models",
-      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-20T09:47:22.000Z",
-      "snippet": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…"
-    },
-    {
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-20T09:30:00.000Z",
-      "snippet": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor."
     }
   ],
   "cloud": [
+    {
+      "title": "Now introducing Gemini Enterprise for Legal",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal/",
+      "source": "Cloud Blog",
+      "published": "2026-08-25T12:00:00.000Z",
+      "snippet": "Few professions are as exacting as the practice of law. A team reviewing a contract or building a case works inside strictly privileged information, firm-specific playbooks, and a body of law that changes constantly. The work thrives on nuanced, professional judgment — and the systems supporting it inherit real obligations: ethical walls that cannot be crossed, matter permissions that cannot be fl"
+    },
+    {
+      "title": "Now introducing Gemini Enterprise for Financial Services",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/",
+      "source": "Cloud Blog",
+      "published": "2026-08-25T12:00:00.000Z",
+      "snippet": "Protecting capital in today's markets requires immense speed and precision. A financial analyst preparing a deal memo works across licensed market data, internal models, and confidential client files. General-purpose AI lacks the real-time accuracy, verifiable data lineage, and strict security that financial institutions demand. While model intelligence is necessary, without deep integration into "
+    },
     {
       "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
@@ -368,6 +368,104 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine, forensic teams say — first documented case of civilian deaths caused by a Russian drone using fully autonomous targeting",
+      "link": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T12:40:22.000Z",
+      "snippet": "A Russian Molniya drone carrying an Nvidia Jetson Orin module killed three civilians at a gas station in Zaporizhzhia last month."
+    },
+    {
+      "title": "Asus ROG Xbox Ally X20 with OLED screen available October 15, pre-orders start now — standalone system for $1,299.99, or an AR bundle for $2,499.99",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-with-oled-screen-available-october-15-pre-orders-start-now-standalone-system-for-usd1-299-99-or-an-ar-bundle-for-usd2-499-99",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T12:30:00.000Z",
+      "snippet": "At gamescom, Asus finally announced the pricing for the Asus ROG Xbox Ally X20, either as a standalone handheld or a bundle with AR glasses."
+    },
+    {
+      "title": "Linux was announced by Linus Torvalds 35 years ago today — humble OS started with 10,000 lines of code but has now grown to 40 million, dominates global infrastructure",
+      "link": "https://www.tomshardware.com/software/linux/linux-was-announced-by-linus-torvalds-35-years-ago-today-humble-os-started-with-10-000-lines-of-code-but-has-now-grown-to-40-million-dominates-global-infrastructure",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T12:28:05.000Z",
+      "snippet": "The development of Linux, a free ‘hobby’ operating system, was announced by Linus Torvalds 35 years ago today."
+    },
+    {
+      "title": "Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation — AI memory uses 3x more silicon than DDR5, company says memory wall is 'getting worse' as prices rise",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T12:19:38.000Z",
+      "snippet": "Micron Fellow Raghu Sreeramaneni told the Hot Chips 2026 conference that the silicon penalty HBM carries against DDR5 is growing with every generation."
+    },
+    {
+      "title": "Hot Chips 2026: Nvidia breaks down 88-core Vera CPU — spatial multithreading benchmarked, 1.2 TB/s SOCAMM2 memory, agentic workloads detailed, and more",
+      "link": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-nvidia-breaks-down-88-core-vera-cpu-spatial-multithreading-benchmarked-1-2-tb-s-socamm2-memory-agentic-workloads-detailed-and-more",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T11:53:48.000Z",
+      "snippet": "Nvidia has provided more color on its Vera CPU for agentic data centers at Hot Chips 2026, showcasing the benefits of spatial multithreading and the power benefits of the LPDDR5X memory system."
+    },
+    {
+      "title": "Stock up on Seagate hard drives with $30 off the 8TB Barracuda HDD — Its lowest price at Best Buy since April",
+      "link": "https://www.tomshardware.com/pc-components/hdds/stack-up-on-seagate-hard-drives-with-usd30-off-the-8tb-barracuda-hdd-its-lowest-price-at-best-buy-since-april",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T11:16:58.000Z",
+      "snippet": "Save $30 on an 8TB Seagate Barracuda HDD at Best Buy. The lowest price since April."
+    },
+    {
+      "title": "AI coder gets Doom running on a custom CPU designed by GPT-5.6 Sol — game viewport is overlaid on a pulsing schematic of the CPU in Turing Complete's sandbox environment",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-coder-gets-doom-running-on-a-custom-cpu-designed-by-gpt-5-6-sol-game-viewport-is-overlaid-on-a-pulsing-schematic-of-the-cpu-in-turing-completes-sandbox-environment",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T11:09:49.000Z",
+      "snippet": "An AI computing enthusiast has demonstrated Doom running on a custom CPU designed by GPT-5.6 Sol."
+    },
+    {
+      "title": "Asus ROG Strix B850-F Gaming Wifi Neo motherboard review: Pricey proposition for B850, but packed with features",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/asus-rog-strix-b850-f-gaming-wifi-neo-motherboard-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T11:05:00.000Z",
+      "snippet": "Maxsun’s Terminator B850M Pro II is a decent budget option in the Micro ATX form factor, but only if you can find it for the $199.99 MSRP."
+    },
+    {
+      "title": "One gigabyte of RAM cost as much as a house back in 1995 — $64,000 price tag resurfaced in 31-year-old press release, equivalent to $140,000 today",
+      "link": "https://www.tomshardware.com/pc-components/ram/one-gigabyte-of-ram-cost-as-much-as-a-house-back-in-1995-pcs-were-brutally-expensive-back-then-and-were-heading-back-in-that-direction",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T11:00:00.000Z",
+      "snippet": "One gigabyte of RAM could cost you a house back in 1995 — PCs were brutally expensive were back then, and we're heading back in that direction"
+    },
+    {
+      "title": "Save $500 on this 1440p-ready gaming PC with an Nvidia GeForce RTX 5070 right now — MSI Codex R2 pre-built drops below $1,500 with a 20-core Intel CPU, 16GB DDR5, and a 1TB SSD",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-1440p-ready-gaming-pc-with-an-nvidia-geforce-rtx-5070-right-now-msi-codex-r2-pre-built-drops-below-usd1-500-with-a-20-core-intel-cpu-16gb-ddr5-and-a-1tb-ssd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T10:47:19.000Z",
+      "snippet": "This $1,499 MSI Codex R2 gaming PC comes with a $500 saving for a PC with an Nvidia GeForce RTX 5070, 16GB of DDR5 RAM, and a 1TB SSD."
+    },
+    {
+      "title": "SpaceXAI will deploy standalone Nvidia Vera CPUs for Grok's agentic workloads — will use optimized Vera Rubin NVL72 in space with Starmind satellite",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/spacexai-will-deploy-standalone-nvidia-vera-cpus-for-groks-agentic-workloads",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T10:41:54.000Z",
+      "snippet": "Nvidia claims the chip completes agentic, reinforcement learning, and data processing tasks up to 1.8 times faster than x86 processors."
+    },
+    {
+      "title": "Windows veteran's vibe-coded Task Manager now also runs on Mac and Linux — downloadable app is the result of a 107-page spec fed to Claude Code",
+      "link": "https://www.tomshardware.com/software/windows/windows-veterans-vibe-coded-task-manager-now-also-runs-on-mac-and-linux-downloadable-app-is-the-result-of-a-107-page-spec-fed-to-claude-code",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T10:30:00.000Z",
+      "snippet": "Legendary Windows developer Dave Plummer has been busy finessing his revamped Task Manager, now dubbed TMOG."
+    },
+    {
+      "title": "Decades-long Linux ownership dispute effectively dead after Xinuos appeal rejected — US Court of Appeals halts the legal wrangling over IBM’s and Red Hat’s use of Project Monterey UNIX code",
+      "link": "https://www.tomshardware.com/software/linux/decades-long-linux-ownership-dispute-effectively-dead-after-xinuos-appeal-rejected-us-court-of-appeals-halts-the-legal-wrangling-over-ibms-and-red-hats-use-of-project-monterey-unix-code",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T10:00:00.000Z",
+      "snippet": "A decades-long dispute over the ownership of Linux looks like it is over. Earlier this month the United States Court of Appeals for the Second Circuit rejected Xinuos’ continued claims that IBM and Red Hat improperly contributed jointly‑developed Project Monterey UNIX code to Linux."
+    },
+    {
+      "title": "AliExpress allegedly uses your browser's audio system to fingerprint your PC — hidden code runs even when no sound is playing",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/aliexpress-allegedly-uses-your-browsers-audio-system-to-fingerprint-your-pc-hidden-code-runs-even-when-no-sound-is-playing",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T09:44:53.000Z",
+      "snippet": "A developer's investigation into a Bluetooth headphone issue uncovered hidden Web Audio processing on AliExpress that allegedly fingerprints browsers and collects detailed device information."
+    },
     {
       "title": "Hot Chips 2026: Intel Xeon 7 'Diamond Rapids' comes with up to 256 P-cores, 1.28 GB of last-level cache — next-gen 18A-P CPU also brings AVX 10.2 and uses UCIe-S instead of EMIB",
       "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-comes-with-up-to-256-p-cores-1-28-gb-of-last-level-cache-next-gen-18a-p-cpu-also-brings-avx-10-2-and-uses-ucie-s-instead-of-emib",
@@ -920,86 +1018,72 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-20T13:15:05.000Z",
       "snippet": "SK hynix removes 10% operating profit cap for employee profit-sharing program; union agrees to get bonuses in cash and stock."
-    },
-    {
-      "title": "Seasonic unveils world's first 80 Plus Ruby ATX power supply — Prime Enterprise RX-1600 delivers 1600W with up to 95.4% efficiency",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/seasonic-introduces-the-worlds-first-80-plus-ruby-certified-psu-using-a-standard-atx-form-factor",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T12:00:00.000Z",
-      "snippet": "Seasonic has introduced the world's first 80 Plus Ruby certified 115V ATX PSU, the Prime RX-1600. The new unit features an efficiency rating of up to 95% at 20% to 50% load."
-    },
-    {
-      "title": "Get 32GB of RAM for only $241 in this 3-item gaming combo from Newegg —save $249 on this inclusive bundle with Ryzen 7 9800X3D, Corsair Vengeance RAM, and a Gigabyte X870E motherboard",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/get-32gb-of-ram-for-only-usd241-in-this-3-item-gaming-combo-from-newegg-save-usd249-on-this-inclusive-bundle-with-ryzen-7-9800x3d-corsair-vengeance-ram-and-a-gigabyte-x870e-motherboard",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T11:46:55.000Z",
-      "snippet": "Newegg's AM5 combo bundles 32GB of Corsair Vengeance DDR5-6000 RAM with a Ryzen 7 9800X3D and Gigabyte X870E board for only $1,009.99. $249 savings puts the RAM at only $241"
-    },
-    {
-      "title": "The supercomputer race no longer means what it used to, as rankings lose relevance in the AI era — as privately held compute clusters are built, running HPL becomes a distraction",
-      "link": "https://www.tomshardware.com/tech-industry/supercomputers/the-supercomputer-race-no-longer-means-what-it-used-to-as-rankings-lose-relevance-in-the-ai-era-as-privately-held-compute-clusters-are-built-running-hpl-becomes-a-distraction",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T11:40:00.000Z",
-      "snippet": "We review the current state of high-performance supercomputing, interviewing experts, including the deputy head of high-performance computing at GWDG, to find out exactly where the current race stands."
-    },
-    {
-      "title": "SMIC posts record $3B quarter and hikes wafer prices — US sanctions hand Chinese foundry a captive AI market",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T11:20:00.000Z",
-      "snippet": "SMIC posted its first $3 billion quarter earlier this month, with revenue up 36.1% year on year, net profit nearly tripling to $479.2 million."
-    },
-    {
-      "title": "Physical media nostalgia sees fundraisers flock to Blu-Ray Kickstarter — drive with 9-in-1 dock achieves 160x funding goal halfway through campaign",
-      "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/physical-media-nostalgia-sees-fundraisers-flock-to-blu-ray-kickstarter-drive-with-9-in-1-dock-achieves-160x-funding-goal-halfway-through-campaign",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T11:00:39.000Z",
-      "snippet": "A 'grand piano style' Blu-ray drive and USB dock has got tech fans excited over on Kickstarter."
-    },
-    {
-      "title": "G.Skill pays out $2.4M settlement over misleading DDR4 and DDR5 speed marketing — buyers get $20 to $25 as vendor agrees to XMP and EXPO packaging warnings",
-      "link": "https://www.tomshardware.com/pc-components/ram/g-skill-starts-usd2-4m-class-action-payout-over-misleading-ram-speeds-usd20-to-usd25-cash-payments-heading-to-claimants",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T11:00:00.000Z",
-      "snippet": "G.Skill has started sending payments to claimants regarding the $2.4 million lawsuit over inadequately marketed RAM speeds."
-    },
-    {
-      "title": "Pine64 halts all Linux hardware manufacturing through at least mid-2027 due to shortages — memory crunch forces open-source maker to freeze SBCs, tablets, and phones",
-      "link": "https://www.tomshardware.com/pc-components/dram/pine64-halts-all-linux-device-production-until-at-least-mid-2027-as-memory-shortage-bites",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T10:30:00.000Z",
-      "snippet": "Microcontroller-based products, such as the PineTime smartwatch, PineVoice smart speaker, and Pinecil soldering iron, aren't affected."
-    },
-    {
-      "title": "Get an astonishing OLED 5090 gaming laptop for $3,599, $800 off — Gigabyte Aorus Master 16 features a 24-core Arrow Lake CPU, 32GB RAM, 2TB SSD",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/get-an-astonishing-oled-5090-gaming-laptop-for-usd3-599-usd800-off-gigabyte-aorus-master-16-features-a-24-core-arrow-lake-cpu-32gb-ram-2tb-ssd",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T10:16:16.000Z",
-      "snippet": "Get $800 off this RTX 5090 gaming laptop with Intel Core Ultra 9 275HX, 32GB of RAM, and a 2TB SSD."
-    },
-    {
-      "title": "Federal judge strikes down ATF 'ghost gun' rule for 3D printed parts — says restrictions violate Fifth Amendment and historical tradition of DIY gunsmithing",
-      "link": "https://www.tomshardware.com/3d-printing/federal-judge-strikes-down-atf-ghost-gun-rule-for-3d-printed-parts-says-restrictions-violate-fifth-amendment-and-historical-tradition-of-diy-gunsmithing",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T10:00:00.000Z",
-      "snippet": "Judge Reed O'Connor of the Northern District of Texas said that the ATF ruling that putting part kits that can easily be turned into firearms in the same category as actual guns is unconstitutional. He also said that the vagueness of some parts of the rule violated the Due Process Clause of the Fifth Amendment."
-    },
-    {
-      "title": "Console modder builds working Switch 2 Joy-Cons inside original Wii Remote shells — motion-sensing controllers snap magnetically onto a Switch 2",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/modder-builds-working-switch-2-joy-cons-inside-original-wii-remote-shells",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T09:45:00.000Z",
-      "snippet": "YouTuber Kouzex has transplanted the internals of a pair of Joy-Con 2 controllers into two original Wii Remote shells, producing motion controllers that snap magnetically onto a Switch 2."
-    },
-    {
-      "title": "Amazon delivery drone dumps Texas woman's parcel straight into her swimming pool — viral video surfaces the same week the company announces 500-city Prime Air expansion",
-      "link": "https://www.tomshardware.com/tech-industry/drones/amazon-delivery-drone-dumps-texas-womans-parcel-straight-into-her-swimming-pool-viral-video-surfaces-the-same-week-the-company-announces-500-city-prime-air-expansion",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-20T09:35:39.000Z",
-      "snippet": "A Texas woman has filmed the moment an Amazon Prime delivery drone dumped her package straight into her swimming pool."
     }
   ],
   "quantum": [
+    {
+      "title": "Amity Opens New York Research Hub for India-US Technology Collaboration",
+      "link": "https://thequantuminsider.com/2026/08/25/amity-global-research-hub-new-york-india-us/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-25T12:21:16.000Z",
+      "snippet": "Insider Brief Press release – In a significant step towards strengthening India–United States collaboration in science, technology and innovation, the Amity Global Research Hub (AGRH) was inaugurated at the Consulate General of India, New York, on August 21, 2026, under the theme “Shaping the Future through Emerging Technologies.” The launch marks the beginning of an international research platfor"
+    },
+    {
+      "title": "Scientists Look to the Brain to Improve Quantum Sensors",
+      "link": "https://thequantuminsider.com/2026/08/25/scientists-look-to-the-brain-to-improve-quantum-sensors/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-25T11:56:12.000Z",
+      "snippet": "Insider Brief A Washington University in St. Louis biologist is applying theories about how the brain balances order and chaos to a Department of Energy project aimed at making quantum sensors more accurate and energy efficient, according to an article on the university’s website. Keith Hengen, an associate professor of biology at Washington University, has […]"
+    },
+    {
+      "title": "Xanadu and Mitsubishi Chemical Advance Quantum Computing Work on EUV Lithography",
+      "link": "https://thequantuminsider.com/2026/08/25/xanadu-mitsubishi-quantum-semiconductor-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-25T11:44:18.000Z",
+      "snippet": "Insider Brief Press release – Xanadu Quantum Technologies Limited (“Xanadu“; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, has announced the next phase of its collaboration with Mitsubishi Chemical, a major Japanese chemical manufacturer, to advance semiconductor fabrication technologies using quantum computing algorithms. This next phase is supported by national innovation prog"
+    },
+    {
+      "title": "GSA Outlines Transition to Quantum-Resistant Technology",
+      "link": "https://thequantuminsider.com/2026/08/25/gsa-outlines-transition-to-quantum-resistant-technology/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-25T11:34:28.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — As the Administration advances its updated Cyber Strategy [PDF] and new Executive Order on Ushering in the Next Frontier of Quantum Innovation, GSA’s Office of Government-wide Policy, Federal Identity & Cybersecurity Division has been entrusted with critical responsibilities for protecting federal identity and building access systems, including supporting the governme"
+    },
+    {
+      "title": "Sitehop Launches National Security Unit to Secure Legacy Defence Networks",
+      "link": "https://thequantuminsider.com/2026/08/25/sitehop-unit-secure-legacy-defence-networks/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-25T11:29:56.000Z",
+      "snippet": "Insider Brief Press release – Sitehop, the UK-based post-quantum cybersecurity specialist, has launched a national security unit to help the UK and its Five Eyes allies secure ageing defence networks without disrupting critical systems already in service. The launch comes as defence and security bodies across the West race to protect legacy infrastructure in the […]"
+    },
+    {
+      "title": "India Highlights 6G and Quantum Communications as Technology Priorities",
+      "link": "https://thequantuminsider.com/2026/08/25/india-6g-quantum-communications-development/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-25T10:41:29.000Z",
+      "snippet": "Insider Brief India has an opportunity to create an impact in sixth-generation (6G) technology, quantum communications, and quantum security, Minister of State for Communications Chandra Sekhar Pemmasani said on Tuesday, speaking at the 43rd foundation day of the Centre for Development of Telematics (C-DoT). “We have the opportunity to impact 6G, rather than just reading […]"
+    },
+    {
+      "title": "Finnish Game Studio MiTale Explores Quantum Computing for Game Development",
+      "link": "https://thequantuminsider.com/2026/08/25/finnish-game-studio-mitale-quantum-computing-game-development/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-25T09:37:04.000Z",
+      "snippet": "Insider Brief Press release – Finnish independent game studio MiTale will showcase its upcoming post-apocalyptic role-playing game C.L.A.Y. – The Last Redemption at Gamescom 2026 in Cologne this week. C.L.A.Y. – The Last Redemption is a story-driven role-playing game set generations after the collapse of civilization. Behind its distinctive story world lies something still highly […]"
+    },
+    {
+      "title": "New Mexico Invests $3 Million in UNM’s Quantum Institute",
+      "link": "https://thequantuminsider.com/2026/08/25/new-mexico-invests-3-million-in-unms-quantum-institute/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-25T07:54:34.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — New Mexico is investing $3 million in The University of New Mexico’s Quantum New Mexico Institute (QNM-I) to strengthen the state’s quantum workforce and accelerate research and commercialization. Economic Development New Mexico and QNM-I recently signed an Intergovernmental Agreement that aims to build on the institute’s research excellence, attract top […]"
+    },
+    {
+      "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
+      "link": "https://thequantuminsider.com/2026/08/25/nist-researchers-supersize-quantum-technology-to-help-detect-faint-photons/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-25T07:44:50.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single photon counts. “Photons carry information,” said Kristen Parzuchowski, a postdoctoral researcher at the National Institute of Standards and Technology. “Whenever a photon comes into your […]"
+    },
     {
       "title": "U.S. Treasury Announces the Quantum-Readiness Task Force",
       "link": "https://thequantuminsider.com/2026/08/24/u-s-treasury-announces-the-quantum-readiness-task-force/",
@@ -1167,51 +1251,16 @@
       "source": "The Quantum Insider",
       "published": "2026-08-20T14:14:10.000Z",
       "snippet": "Insider Brief Press release – Symmatrics today announced the appointment of Joe Reddix as Vice President of Federal Sector, strengthening the company’s leadership team as demand grows for secure, resilient, and future-ready digital infrastructure across the federal government. In his new role, Reddix will lead Symmatrics‘ federal strategy and growth initiatives, helping agencies unify trust, secur"
-    },
-    {
-      "title": "Dirac Labs Raises $1.8M for Quantum Navigation Sensors",
-      "link": "https://thequantuminsider.com/2026/08/20/dirac-labs-raises-1-8m-quantum-navigation-sensors/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-20T12:05:00.000Z",
-      "snippet": "Insider Brief Press release – Dirac Labs, a quantum-enabled navigation company, today announced its $1.8M pre-seed funding to prototype its quantum sensors and conduct field trials to further refine its technology to provide universal positioning where GPS is unavailable.  Quantum sensing offers a resilient, alternative method of positioning by measuring features of Earth’s magnetic field, […]"
-    },
-    {
-      "title": "Rigetti Creates Systems Delivery Unit as Quantum System Deployments Grow",
-      "link": "https://thequantuminsider.com/2026/08/20/rigetti-systems-delivery-quantum-system-deployments/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-20T11:31:25.000Z",
-      "snippet": "Insider Brief Press release – Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti”), a pioneer in full-stack quantum computing, today announced a new operating structure designed to scale deployment of on-premises quantum systems, strengthen end-to-end operational execution, and further focus its engineering resources on quantum processor development. Rigetti is establishing a dedicated Systems Deliv"
-    },
-    {
-      "title": "FormationQ and Hartree Centre Partner to Advance Quantum Computing in the UK",
-      "link": "https://thequantuminsider.com/2026/08/20/formationq-hartree-centre-quantum-advanced-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-20T11:17:59.000Z",
-      "snippet": "Insider Brief Press release – FormationQ and the Hartree Centre, part of the Science and Technology Facilities Council (STFC) and UK Research and Innovation (UKRI), today announced a strategic partnership to accelerate the adoption of advanced quantum computing technologies across industry, government and research. This collaboration will explore how quantum computing, artificial intelligence (AI)"
-    },
-    {
-      "title": "Quantinuum Expands Research Operations in Albuquerque",
-      "link": "https://thequantuminsider.com/2026/08/20/quantinuum-expands-research-operations-albuquerque/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-20T10:15:37.000Z",
-      "snippet": "Insider Brief Press release – The State of New Mexico and the City of Albuquerque are backing the expansion of Quantinuum, a leading quantum computing company, further establishing Albuquerque as a national hub in quantum technology and advanced research. The city and state will each contribute $750,000 through their Local Economic Development Act (LEDA) funds […]"
-    },
-    {
-      "title": "GMV Builds Broad Quantum Portfolio Across Computing, Space, Communications and Cybersecurity",
-      "link": "https://thequantuminsider.com/2026/08/20/gmv-builds-broad-quantum-portfolio-across-computing-space-communications-and-cybersecurity/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-20T08:03:31.000Z",
-      "snippet": "Insider Brief European technology group GMV is expanding its quantum technology efforts across computing, communications, space, sensing and cybersecurity. It’s a portfolio approach that positions the company as an integrator of emerging quantum systems rather than a developer focused on a single type of quantum hardware. The privately held technology company said in a blog […]"
-    },
-    {
-      "title": "Caltech Team Uses Quantum Simulator to Probe Universal Rules of Quantum Matter",
-      "link": "https://thequantuminsider.com/2026/08/20/caltech-team-uses-quantum-simulator-to-probe-universal-rules-of-quantum-matter/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-20T07:36:22.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — When different materials transition from one phase to another, such a water coming to a boil or a magnet losing its ability to attract metals, something remarkable can happen: They begin to behave identically, following the same mathematical rules. “Physicists call this trait universality—the messy, microscopic details wash out and […]"
     }
   ],
   "education": [
+    {
+      "title": "Beyond spotting deepfakes: Teaching multilingual learners to interrogate AI",
+      "link": "https://www.eschoolnews.com/digital-learning/2026/08/25/beyond-spotting-deepfakes-teaching-multilingual-learners-to-interrogate-ai/",
+      "source": "eSchool News",
+      "published": "2026-08-25T10:00:00.000Z",
+      "snippet": "Long before computers entered our homes and classrooms, photographs helped shape what people believed. Images carried a particular kind of authority: We did not simply look at them; we often treated them as evidence."
+    },
     {
       "title": "Financial education must not sacrifice student privacy",
       "link": "https://www.eschoolnews.com/educational-leadership/2026/08/24/financial-education-must-not-sacrifice-student-privacy/",
@@ -1239,13 +1288,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-08-20T20:21:51.000Z",
       "snippet": "Most colleges and universities are asking IT and academic technology leaders to integrate artificial intelligence tools across campus. But that job may be easier said than done, as negative sentiment toward generative AI technology is growing, particularly among college-aged Americans.\nA recent Gallup survey found that excitement about AI among U.S. 14- to 29-year-olds has dropped 14 percentage po"
-    },
-    {
-      "title": "What it really takes to accelerate adolescent literacy across our district",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/08/20/what-it-really-takes-to-accelerate-adolescent-literacy-across-our-district/",
-      "source": "eSchool News",
-      "published": "2026-08-20T10:00:00.000Z",
-      "snippet": "When people hear about the literacy gains we’ve seen in our middle schools, they often ask a simple question: What program did you use?"
     }
   ]
 }
