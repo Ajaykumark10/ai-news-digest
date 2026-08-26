@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-26T03:30:00.000Z",
+      "snippet": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
+    },
+    {
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-26T00:06:20.000Z",
+      "snippet": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\""
+    },
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-25T19:03:47.000Z",
+      "snippet": "The company's new fundraising total now stands at $232 million."
+    },
+    {
       "title": "Claude Cowork finally remembers what you told the app in chat",
       "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -13,6 +34,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-25T15:00:00.000Z",
       "snippet": "Lica co-founders are going to work on Gamma's new research team."
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-25T14:22:04.000Z",
+      "snippet": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
     },
     {
       "title": "Accel-backed Keenable is indexing the web for AI agents",
@@ -195,48 +223,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-21T14:00:00.000Z",
       "snippet": "There's about to be a big fight to secure access to space."
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-21T00:13:44.000Z",
-      "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-20T22:36:37.000Z",
-      "snippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-20T22:09:51.000Z",
-      "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
-    },
-    {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-20T20:53:13.000Z",
-      "snippet": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
-    },
-    {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-20T19:18:21.000Z",
-      "snippet": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web."
-    },
-    {
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-20T19:15:05.000Z",
-      "snippet": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product."
     }
   ],
   "cloud": [
@@ -312,6 +298,13 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Commodore unveils striking Cyberpunk 2077 version of its C64U made in partnership with CD Projekt Red — Commodore 77 special edition uses more powerful AMD Artix XC7A100T processor",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/nda-5pm-et-tuesday-commodore-77-special-edition-c64u-uses-more-powerful-amd-artix-xc7a100t-processor-preorders-for-cyberpunk-2077-inspired-design-open-today-at-usd377",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-25T21:00:00.000Z",
+      "snippet": "A special edition of the Commodore 64 Ultimate made in collaboration with CD Projekt Red has been announced today. The new Commodore 77 takes its stylish inspiration from Cyberpunk 77, and is skillfully melded into the game's universe."
+    },
     {
       "title": "Hot Chips 2026: Samsung makes LPDDR5X smart with logic unit in memory — LPDDR5X-PIM is 3.01x faster than LPDDR5X in AI inference with 8x the bandwidth",
       "link": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
@@ -966,6 +959,13 @@
   ],
   "quantum": [
     {
+      "title": "Diraq Opens Santa Monica Hub to Expand Silicon Quantum Computing R&D",
+      "link": "https://thequantuminsider.com/2026/08/26/diraq-opens-us-technology-hub-santa-monica/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-26T06:18:50.000Z",
+      "snippet": "Insider Brief Press release – Diraq, the silicon quantum computing pioneer, today announced the opening of its U.S. Technology Hub in Santa Monica, California. The hub brings together a 20-strong multi-disciplinary team with deep expertise in silicon spin qubits, tapping into Southern California’s uniquely deep concentration of quantum talent, and placing Diraq alongside the region’s […]"
+    },
+    {
       "title": "Princeton to Lead $27.9M NSF Institute for Quantum Processor Manufacturing",
       "link": "https://thequantuminsider.com/2026/08/25/princeton-to-lead-27-9m-nsf-institute-for-quantum-processor-manufacturing/",
       "source": "The Quantum Insider",
@@ -1209,16 +1209,16 @@
       "source": "The Quantum Insider",
       "published": "2026-08-21T07:00:00.000Z",
       "snippet": "Insider Brief Press release – EBU (European Business Institute of Luxembourg) and Superpositions, a European quantum software company, recently announced a partnership to bring quantum computing into EBU’s business curriculum, as part of the school’s new Q-Ready initiative. EBU is introducing dedicated Quantum Computing courses and integrating quantum concepts into existing programmes, with the st"
-    },
-    {
-      "title": "Texas Quantum Strategy Takes Shape at UT Dallas Summit",
-      "link": "https://thequantuminsider.com/2026/08/20/texas-quantum-strategy-takes-shape-at-ut-dallas-summit/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-20T19:04:49.000Z",
-      "snippet": "Insider Brief North Texas in mid-August makes a persuasive case for staying indoors, which is indeed what the state’s quantum community did for two days at the University of Texas at Dallas. Registration had closed well before the doors opened. The people who got in came from Austin, Houston, College Station, Lubbock, San Antonio and […]"
     }
   ],
   "education": [
+    {
+      "title": "How Can AI Agents Support Lean Higher Ed Security Teams?",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/how-can-ai-agents-support-lean-higher-ed-security-teams",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-25T18:08:11.000Z",
+      "snippet": "Growing cyberthreats and limited head count create ongoing challenges for security teams at colleges and universities.\nAccording to research from Nile, 94% of higher education IT teams are understaffed amid rising cybersecurity threats. Artificial intelligence could be a way to augment their security strategies to free up staff and resources. \n“For organizations with lean security teams, there is "
+    },
     {
       "title": "Beyond spotting deepfakes: Teaching multilingual learners to interrogate AI",
       "link": "https://www.eschoolnews.com/digital-learning/2026/08/25/beyond-spotting-deepfakes-teaching-multilingual-learners-to-interrogate-ai/",
@@ -1246,13 +1246,6 @@
       "source": "eSchool News",
       "published": "2026-08-21T10:00:00.000Z",
       "snippet": "If I had been asked a few years ago, I would have told you that chronic absenteeism was a school system's problem to fix. With better data systems, staff trained on outreach, and improved intervention protocols, school districts could move the numbers on their own."
-    },
-    {
-      "title": "How Campus IT Leaders Can Innovate Despite AI Pushback",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/how-campus-it-leaders-can-innovate-despite-ai-pushback",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-20T20:21:51.000Z",
-      "snippet": "Most colleges and universities are asking IT and academic technology leaders to integrate artificial intelligence tools across campus. But that job may be easier said than done, as negative sentiment toward generative AI technology is growing, particularly among college-aged Americans.\nA recent Gallup survey found that excitement about AI among U.S. 14- to 29-year-olds has dropped 14 percentage po"
     }
   ]
 }
