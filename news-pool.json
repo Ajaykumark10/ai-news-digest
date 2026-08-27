@@ -1,6 +1,76 @@
 {
   "ai": [
     {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-27T19:52:52.000Z",
+      "snippet": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google."
+    },
+    {
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-27T16:00:00.000Z",
+      "snippet": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process."
+    },
+    {
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-27T14:56:52.000Z",
+      "snippet": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
+    },
+    {
+      "title": "AI’s memory crunch is coming for Android apps",
+      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-27T14:27:04.000Z",
+      "snippet": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
+    },
+    {
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-27T14:01:42.000Z",
+      "snippet": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
+    },
+    {
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "AI | VentureBeat",
+      "published": "2026-08-27T14:01:00.000Z",
+      "snippet": "Presented by Gravitee \n\nAgent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.\nThat’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That's the failure mode that should keep"
+    },
+    {
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-27T13:00:00.000Z",
+      "snippet": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes."
+    },
+    {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "source": "AI | VentureBeat",
+      "published": "2026-08-27T12:01:00.000Z",
+      "snippet": "Presented by EDB \n\nAs enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?\nThese are your agents, running on your models, touching your data in your inf"
+    },
+    {
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-27T11:35:59.000Z",
+      "snippet": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
+    },
+    {
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-27T06:32:51.000Z",
+      "snippet": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
+    },
+    {
       "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -300,37 +370,23 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-23T15:00:00.000Z",
       "snippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
-    },
-    {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-22T21:46:56.000Z",
-      "snippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-22T19:00:00.000Z",
-      "snippet": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-22T16:30:34.000Z",
-      "snippet": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge."
-    },
-    {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-22T16:00:00.000Z",
-      "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
     }
   ],
   "cloud": [
+    {
+      "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
+      "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-08-27T17:00:00.000Z",
+      "snippet": "Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort.\nThe post Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs appeared first on Microsoft Azure Blog."
+    },
+    {
+      "title": "Reimagining work: How Pythian’s internal AI playbook delivers customer ROI",
+      "link": "https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
+      "source": "Cloud Blog",
+      "published": "2026-08-27T16:00:00.000Z",
+      "snippet": "When Pythian rolled out Google Cloud’s Gemini Enterprise across our 500-person company in 27 countries, the goal was simple: use our own company as a proving ground to discover how enterprise AI actually delivers ROI.\nWhat we found changed our strategy entirely.\nSince the rollout of Gemini Enterprise and our previous enterprise AI deployments, Pythian observed firsthand why so many enterprise AI i"
+    },
     {
       "title": "Using OKF with Knowledge Catalog to serve context for agents",
       "link": "https://cloud.google.com/blog/products/data-analytics/scale-okf-bundles-across-an-organization-with-knowledge-catalog/",
@@ -365,6 +421,13 @@
       "source": "Cloud Blog",
       "published": "2026-08-26T13:30:00.000Z",
       "snippet": "The internet connected billions of people and mobile devices, putting computers in every hand. Now, we’re in the middle of the next big technology shift, deploying millions of autonomous AI agents to work alongside employees and end users. Today, we announced new FinOps controls for Gemini Enterprise to help organizations manage project-level AI spend and eliminate token shock. But the sheer scale"
+    },
+    {
+      "title": "FinOps for the AI era: New flexible billing and cost controls for agents",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-08-26T13:30:00.000Z",
+      "snippet": "Editor's note: A product image was updated after initial publication.\nAs AI takes on more complex work, business leaders face a new challenge: enabling rapid innovation using agents while protecting their margins and budgets. To get a real return on AI, financial operations (FinOps) and cost management must evolve alongside technology, giving you clear visibility, proactive cost controls, and flex"
     },
     {
       "title": "Your chance to start building AI agents from the absolute basics",
@@ -431,6 +494,160 @@
     }
   ],
   "hardware": [
+    {
+      "title": "China's YMTC aims to become the world's largest NAND maker by the end of 2027, report says — company plans to overtake Samsung and SK hynix",
+      "link": "https://www.tomshardware.com/pc-components/dram/chinas-ymtc-aims-to-become-the-worlds-largest-nand-maker-by-the-end-of-2027",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T16:54:24.000Z",
+      "snippet": "The target would require YMTC to nearly double its market share in 16 months."
+    },
+    {
+      "title": "Trump administration weighs expanding chip tariffs to laptops, consoles, and servers, report claims — January's data center exemptions may be scrapped",
+      "link": "https://www.tomshardware.com/tech-industry/policy/trump-administration-weighs-expanding-chip-tariffs-to-laptops-consoles-and-servers",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T16:13:27.000Z",
+      "snippet": "The Trump administration is weighing a second round of semiconductor tariffs that would extend duties beyond chips to products built with them."
+    },
+    {
+      "title": "Hot Chips 2026: Cerebras lays out the future of wafer-scale AI — Nexus system architecture triples rack-scale performance, CS-6 wafer to incorporate stacked DRAM",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T15:59:18.000Z",
+      "snippet": "At Hot Chips 2026, Cerebras revealed the next two generations of its wafer-scale accelerator roadmap. It also discussed the benefits of its new Nexus rack design for the CS-4 rack-scale accelerator and the performance of the three WS-3T wafer-scale engines contained within."
+    },
+    {
+      "title": "Glass substrate roadmaps examined — Absolics in final qualification and a first product that keeps slipping",
+      "link": "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T15:40:11.000Z",
+      "snippet": "Glass-core substrates, the replacement for organic chip packaging that Intel promised in September 2023, are now in final qualification but still not in a single commercial product"
+    },
+    {
+      "title": "Samsung's new Odyssey G6 monitor hits a ridiculous 1,100Hz refresh rate at 720p — displays each frame for less than a millisecond",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-new-odyssey-g6-monitor-hits-a-ridiculous-1-100hz-refresh-rate-at-720p-displays-each-frame-for-less-than-a-millisecond",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T15:29:53.000Z",
+      "snippet": "Ironically, the display with the four-digit refresh rate is actually the bottom of the display stack Samsung is showing off at Gamescom 2026."
+    },
+    {
+      "title": "Many talks between data center developers and local governments are wrapped in secrecy behind non-disclosure agreements — residents question the need for NDAs, but developers argue it’s important to avoid ‘running afoul of insider trading rules’",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/many-talks-between-data-center-developers-and-local-governments-are-under-nda-residents-question-the-needs-for-secrecy-but-developer-argues-its-important-to-avoid-running-afoul-of-insider-trading-rules",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T15:06:53.000Z",
+      "snippet": "Researchers discovered that most negotiations between data centers and local governments are protected by NDAs. These documents keep details in secret, with residents having a difficult time finding information about these projects because of the agreements."
+    },
+    {
+      "title": "The U.S. is Building CHIPS Act Fabs but Neglecting R&D",
+      "link": "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing",
+      "source": "IEEE Spectrum",
+      "published": "2026-08-27T15:00:03.000Z",
+      "snippet": "On 6 August, the U.S. Government Accountability Office (GAO) released a report on the state of the 2022 CHIPS and Science Act, a bipartisan federal law passed under the Biden Administration to boost U.S. semiconductor manufacturing and R&D. While manufacturing projects funded by the act are making notable progress, the money earmarked for R&D remains mostly unused, and the Department of Commerce, "
+    },
+    {
+      "title": "Save up to 61% on gaming PCs, laptops, and more in HP's Labor Day 2026 sale — huge discounts on a range of hardware, monitors, and peripherals",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-61-percent-on-gaming-pcs-laptops-and-more-in-hps-labor-day-2026-sale-huge-discounts-on-a-range-of-hardware-monitors-and-peripherals",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T14:24:56.000Z",
+      "snippet": "HP is hosting a Labor Day sale with up to 65% off our favorite tech products."
+    },
+    {
+      "title": "Ingenious indie hacker funds $3,000 MacBook purchase by selling advertising space on the lid — sticker space auction has already raised 111% of the price of the laptop",
+      "link": "https://www.tomshardware.com/laptops/macbooks/ingenious-indie-hacker-funds-usd3-000-macbook-purchase-by-selling-advertising-space-on-the-lid-sticker-space-auction-has-already-raised-111-percent-of-the-price-of-the-laptop",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T13:29:23.000Z",
+      "snippet": "An enterprising individual has successfully pre-sold enough advertisement sticker space on their dream MacBook’s lid to raise 111% of the laptop’s retail price."
+    },
+    {
+      "title": "EPA faces lawsuit over claims it fast-tracked approval of toxic 'data center chemicals' — exposure to photoacid generators used for semiconductor manufacturing could result in ‘sudden death,’ also appear to be long-lasting PFAS",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/epa-faces-lawsuit-over-claims-it-fast-tracked-approval-of-toxic-data-center-chemicals-exposure-to-photoacid-generators-used-for-semiconductor-manufacturing-could-result-in-sudden-death-also-appear-to-be-long-lasting-pfas",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T13:10:57.000Z",
+      "snippet": "An environmental group said that two new chemicals approved by the EPA for semiconductor manufacturing do not come with enough safeguards, so they're suing the agency for 'turning the new chemical review process on its head.'"
+    },
+    {
+      "title": "Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-to-buy-hugging-face-for-usd12-9-billion-report-claims-could-strengthen-nvidias-open-model-strategy-and-shore-up-position-against-rivals",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T13:00:51.000Z",
+      "snippet": "Nvidia reportedly plans to buy Hugging Face at a price that exceeds its revenue by over 80 times, making it a major strategic investment in AI ecosystem."
+    },
+    {
+      "title": "Hot Chips 2026: OpenAI's Jalapeño AI ASIC unpacked — accelerator developed using AI achieves efficiency and throughput gains against power-hungry Blackwell",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-openais-jalapeno-ai-asic-unpacked-accelerator-developed-using-ai-achieves-efficiency-and-throughput-gains-against-power-hungry-blackwell",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T13:00:00.000Z",
+      "snippet": "OpenAI's first AI accelerator fails to beat Nvidia's Blackwell in terms of raw performance, but it can offer very good performance-per-watt and low latency, which is exactly what the doctor ordered for inference workloads."
+    },
+    {
+      "title": "Alienware AW3926QW 39-inch WUHD OLED gaming monitor review: Premium play and imagery in a large format",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw3926qw-39-inch-wuhd-oled-gaming-monitor-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T13:00:00.000Z",
+      "snippet": "Alienware delivers an ultra-wide flagship with its AW3926QW. This curved 21:9 RGB Stripe Tandem OLED panel boasts 5120x2160 pixels (WUHD), 165 and 330 Hz modes, Adaptive-Sync, HDR10, Dolby Vision, HDR500 and wide gamut color."
+    },
+    {
+      "title": "Quantum computing used in 'first commercial game development' — IBM simulator generated maps, characters, and graphics in C.L.A.Y. RPG",
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/quantum-computing-used-in-first-commercial-game-development-ibm-simulator-generated-maps-characters-and-graphics-in-c-l-a-y-rpg",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T11:00:00.000Z",
+      "snippet": "Game studio MiTale Ltd. is promoting a narrative-driven post-apocalyptic RPG, which it claims is 'the first commercial game on the market utilizing quantum computing.'"
+    },
+    {
+      "title": "$215 discount turns Corsair's DDR5-6000 Vengeance memory kit into the cheapest 32GB of RAM at those speeds — 35% saving as stock dwindles and prices continue to rise",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/usd215-discount-turns-corsairs-ddr5-6000-vengeance-memory-kit-into-the-cheapest-32gb-of-ram-at-those-speeds-35-percent-saving-as-stock-dwindles-and-prices-continue-to-rise",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T10:44:57.000Z",
+      "snippet": "Corsair's Vengeance DDR5-6000 memory kit becomes the cheapest 32GB kit you can buy after a large $215 discount."
+    },
+    {
+      "title": "Beat PC component price rises with this unbelievably good value 9800X3D gaming desktop — get an RTX 5070, 32GB of DDR5, and a 2TB SSD all for less than $2,000",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/beat-pc-component-price-rises-with-this-unbelievably-good-value-9800x3d-gaming-desktop-get-an-rtx-5070-32gb-of-ddr5-and-a-2tb-ssd-all-for-less-than-usd2-000",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T10:44:47.000Z",
+      "snippet": "Get an RTX 5070, 9800X3D gaming PC with 32GB of DDR5 and a 2TB SSD for $1,999."
+    },
+    {
+      "title": "Resurrected RTX 3060 12GB price jumps 45% in the two months since it was revived — 2021-era GPU now costs nearly $500 across most retailers",
+      "link": "https://www.tomshardware.com/pc-components/gpus/resurrected-rtx-3060-12gb-price-jumps-45-percent-in-the-two-months-since-it-was-revived-2021-era-gpu-now-costs-nearly-usd500-across-most-retailers",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T10:30:00.000Z",
+      "snippet": "The RTX 3060 12GB was revived to offer consumers a budget GPU with a relatively large VRAM pool, but it has succumbed to the same fate as every other SKU like it. Launched at around $330, most variants now cost close to $500."
+    },
+    {
+      "title": "Polls reveal local utility hikes and noise drive US data center protests, not anti-AI sentiment— beliefs and political affiliation had minimal impact on AI data center views",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/polls-show-us-data-center-resistance-is-due-to-concerns-over-object-level-local-environmental-impact-beliefs-and-political-affiliation-had-minimal-impact-on-ai-data-center-views",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T10:00:00.000Z",
+      "snippet": "Data centers are facing bipartisan resistance from across the nation, but what's the reason behind this? The answer seems to be deceptively simple."
+    },
+    {
+      "title": "Hardware modder builds overclocked PS3 ‘Pro’ v3 with 3D-printed cooling mod — dual Noctua fans and server heatsinks provide FPS boost in 'almost every game'",
+      "link": "https://www.tomshardware.com/video-games/playstation/hardware-modder-builds-overclocked-ps3-pro-v3-with-3d-printed-cooling-mod-dual-noctua-fans-and-server-heatsinks-provide-fps-boost-in-almost-every-game",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T10:00:00.000Z",
+      "snippet": "A Sony PlayStation 3 console modder has shared images and details of their faster, cooler, and quieter ‘PS3 Pro v3’ design."
+    },
+    {
+      "title": "Atari revives 39 Activision games on cartridges that run seamlessly across five decades of hardware — Ultimate Deluxe collection that includes every title costs a wild $999.96",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/atari-drops-39-activision-games-on-cartridges-the-run-seamlessly-across-five-decades-of-hardware-ultimate-deluxe-collection-that-includes-every-title-clocks-in-at-usd999-96",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T09:30:00.000Z",
+      "snippet": "Atari teams up with Activision to launch the Atari x Activision Collection, featuring 39 iconic Activision titles."
+    },
+    {
+      "title": "Nvidia revenue tops $96 billion as memory commitments soar to $160 billion — CEO Jensen Huang says AI 'has reached its inflection point'",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-revenue-tops-usd96-billion-as-memory-commitments-soar-to-usd160-billion-ceo-jensen-huang-says-ai-has-reached-its-inflection-point",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-27T09:13:54.000Z",
+      "snippet": "Nvidia's Q2 FY2027 revenue tops $96 billion as the company commits to buy up to $160 billion worth of memory, increasing its total commitments to $279 billion ahead of a major demand bump."
+    },
+    {
+      "title": "Nvidia custom 'NVHBM' promises 30% higher bandwidth, 15% lower power than commodity HBM4e — custom base die and PHY will be available to NVLink Fusion partners",
+      "link": "https://www.tomshardware.com/pc-components/dram/nvidia-custom-nvhbm-promises-30-percent-higher-bandwidth-15-percent-lower-power-than-commodity-hbm4e-custom-base-die-and-phy-will-be-available-to-nvlink-fusion-partners",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-26T22:45:22.000Z",
+      "snippet": "Nvidia has unveiled NVHBM, a custom high-bandwidth memory implementation that promises higher bandwidth and lower power for customers building chips within the NVLink Fusion partner program."
+    },
     {
       "title": "Hot Chips 2026: Nvidia presents Groq 3 LPX architecture and unveils its first third-party inference benchmark — LP30-based rack already in production, company says",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-presents-groq-3-lpx-architecture-and-unveils-its-first-third-party-inference-benchmark",
@@ -1025,121 +1242,72 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-23T09:00:00.000Z",
       "snippet": "It has been a quarter century since the world’s first webcam was turned off for good. The Trojan Room Coffee Pot was retired on Wednesday, August 22, 2001, after 10 years of service at Cambridge University."
-    },
-    {
-      "title": "Microsoft blames RGB peripherals for crashing Windows 11 — RGB software is causing blue screens, crashes, and game freezes",
-      "link": "https://www.tomshardware.com/software/windows/microsoft-blames-rgb-peripherals-for-crashing-windows-11-rgb-software-is-causing-blue-screens-crashes-and-game-freezes",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T16:21:34.000Z",
-      "snippet": "RGB software is reportedly wreaking havoc on Windows PCs. The drivers used by these applications can trip up anti-cheat software, causing your games or entire system to crash. For now, the only solution is to disable the driver until an official update."
-    },
-    {
-      "title": "25 years after the death of 3dfx, the Voodoo 3 gets a Linux driver update — classic Voodoo GPUs can now boot without a PC BIOS",
-      "link": "https://www.tomshardware.com/software/linux/25-years-after-the-death-of-3dfx-the-voodoo-3-gets-a-linux-driver-update-classic-voodoo-gpus-can-now-boot-without-a-pc-bios",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T15:48:10.000Z",
-      "snippet": "It's been a quarter-century since the firm folded, but the graphics chips still have utility in esoteric use cases."
-    },
-    {
-      "title": "Snap-on LCD brings mini displays to any 120mm PC fan — Thermalright's Fan Frame Vision-1 lets you display information and custom themes on your case fans",
-      "link": "https://www.tomshardware.com/pc-components/case-fans/snap-on-lcd-brings-mini-displays-to-any-120mm-pc-fan-thermalrights-fan-frame-vision-1-lets-you-display-information-and-custom-themes-on-your-case-fans",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T14:49:09.000Z",
-      "snippet": "The Thermalright Fan Frame Vision-1 is a clip-on 3.69-inch screen that snaps directly in front of your PC case fans. These accessories let you display temperature, fan speed, and other information across your case, and even create a unified theme across all the screens in your PC."
-    },
-    {
-      "title": "Walk through a 3D cyberpunk city built purely from ASCII characters — a text-based metropolis runs on a 283KB Rust WebAssembly engine feeding a WebGL renderer",
-      "link": "https://www.tomshardware.com/tech-industry/ascii-cyberpunk-city-prototype-runs-on-rust-webassembly-engine-and-webgl-shaders",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T14:37:14.000Z",
-      "snippet": "Solo developer Grow Now! Games has put a playable browser build of its walkable ASCII cyberpunk city online, powered by a 283KB Rust WebAssembly engine and rendered in WebGL."
-    },
-    {
-      "title": "Logitech faces lawsuit for withholding $61M in tariff refunds from customers — lawsuit claims company extracted up to $97M from consumers in 2026 through tariff-justified price increases",
-      "link": "https://www.tomshardware.com/peripherals/logitech-faces-lawsuit-for-withholding-usd61m-in-tariff-refunds-from-customers-lawsuit-claims-company-extracted-up-to-usd97m-from-consumers-in-2026-through-tariff-justified-price-increases",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T14:13:50.000Z",
-      "snippet": "Consumers who bought products from Logitech after it increased its prices due to tariffs still haven't received their refunds, even after the U.S. government returned $61 million to the company. Now they're suing for their refunds, saying that 'Company extracted approximately $73 million to $97 million from consumers.'"
-    },
-    {
-      "title": "Razer HyperFlux V2 Review: The best wireless charging mat for Razer mice",
-      "link": "https://www.tomshardware.com/peripherals/gaming-mice/razer-hyperflux-v2-review-the-best-wireless-charging-mat-for-razer-mice",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T14:08:39.000Z",
-      "snippet": "Razer's HyperFlux V2 is a wireless charging mouse pad that works with current mice from Razer's Basilisk, Cobra, and Naga lines."
-    },
-    {
-      "title": "US authorities say Siemens controllers used for water and other infrastructure are being targeted by hackers — agencies claim threat actors use AI tools to generate exploitation scripts",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T13:57:17.000Z",
-      "snippet": "Siemens S7 PLCs, commonly used in critical infrastructure, are reportedly being targeted by hackers and could potentially lead to disruption of industrial processes, safety incidents, downtime or equipment damage, and more. U.S. agencies are telling operators to protect these systems by keeping them updated and ensuring that they're off the internet if possible."
-    },
-    {
-      "title": "Save $532 on a 480 Hz OLED gaming monitor — Amazon drops a massive 53% discount on the LG UltraGear 27GX790A-B",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/save-usd532-on-a-480-hz-oled-gaming-monitor-amazon-drops-a-massive-53-percent-discount-on-the-lg-ultragear-27gx790a-b",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T13:50:07.000Z",
-      "snippet": "The LG UltraGear 27GX790A-B packs a 27-inch 1440p WOLED panel with a 480 Hz refresh rate, 0.03ms response time, and support for DisplayHDR True Black 400."
-    },
-    {
-      "title": "This week on Tom's Hardware Premium: August 22, 2026 — foundries, supercomputers, China, and how to not overpay on a motherboard",
-      "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-22-2026-foundries-supercomputers-china-and-how-to-not-overpay-on-a-motherboard",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T13:00:00.000Z",
-      "snippet": "We recap this week's Tom's Hardware Premium articles, including our latest advice on your next motherboard purchase, a look inside Samsung's Fab roadmaps, and much more."
-    },
-    {
-      "title": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records",
-      "link": "https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T12:30:00.000Z",
-      "snippet": "As Intel boosts output of data center and notebook CPUs, AMD manages to outgrow it and keep capturing market share from its arch-rival."
-    },
-    {
-      "title": "Storage unit auction winner finds retro Pentium 4 PC with a see-through, UV-reactive PSU — Y2K time capsule discovered among 100 laptops and hundreds of RAM sticks",
-      "link": "https://www.tomshardware.com/pc-components/storage-unit-auction-winner-finds-retro-pentium-4-pc-with-a-see-through-uv-reactive-psu-y2k-time-capsule-discovered-among-100-laptops-and-hundreds-of-ram-sticks",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T12:00:00.000Z",
-      "snippet": "This vintage PC build looks like it came straight out of the 90s with a bold, in-your-face look that make sure you can't mistake it for anything but a gamer's lifeline. What you're looking at is an Apevia X-SuperAlien case with a 500W Apevia PSU."
-    },
-    {
-      "title": "Gamer uncovers factory plastic left on RTX 3070 VRM pads after five years, causing overheating — claims removal and repasting dropped GPU hotspot temperatures by 30°C",
-      "link": "https://www.tomshardware.com/pc-components/gpus/gigabyte-rtx-3070-owner-discovers-protective-film-on-vrm-thermal-pads-after-nearly-five-years-claims-removal-and-repasting-dropped-gpu-hotspot-temperatures-by-30-c",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T11:30:00.000Z",
-      "snippet": "A Gigabyte RTX 3070 owner discovered protective films covering its VRM thermal pads, after nearly five years of use potentially causing excessive temperatures and frequent black screens."
-    },
-    {
-      "title": "ASRock Steel Legend SL-1200P power supply review: A winning combination of genuine Platinum efficiency and a stand-out design",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/asrock-steel-legend-sl-1200p-power-supply-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T11:05:00.000Z",
-      "snippet": "The ASRock Steel Legend SL-1200P is a visually distinct, technically capable 1200W unit with genuine Platinum efficiency, dual 12V-2x6 outputs, and a few thoughtful engineering touches that set it apart."
-    },
-    {
-      "title": "GTA 6 leaks prompt Take-Two to subpoena Microsoft for Windows device IDs of everyone in three Discord servers — daily gameplay leaks shatter cloud of secrecy around the much-hyped game",
-      "link": "https://www.tomshardware.com/video-games/console-gaming/take-two-subpoenas-microsoft-for-windows-device-ids-of-everyone-in-three-discord-servers-in-gta-6-leak-hunt",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T11:00:00.000Z",
-      "snippet": "Take-Two Interactive filed two DMCA subpoenas demanding that Microsoft and Discord identify the person or people behind the \"CyberLeek\" persona."
-    },
-    {
-      "title": "Spending on physical games falls to lowest on record since 1995 — US console sales plunge 39% in July as memory costs push average price to $542",
-      "link": "https://www.tomshardware.com/video-games/console-gaming/us-console-sales-fall-39-percent-in-july-as-memory-costs-push-average-price-to-542",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T10:30:00.000Z",
-      "snippet": "U.S. console hardware sales fell 39% by unit volume in July against a year earlier, while the average price paid for a new system rose 16% to $542."
-    },
-    {
-      "title": "Back-to-back Amazon CPU scam delivers empty Ryzen 5 9600X boxes in 72 hours — $ 10,000-a-month business customer captures fraud on camera",
-      "link": "https://www.tomshardware.com/desktops/pc-building/alleged-amazon-cpu-scam-hits-pc-shop-twice-in-three-days-ryzen-5-9600x-orders-arrive-with-empty-retail-boxes",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-22T10:00:00.000Z",
-      "snippet": "A PC shop that spends over $10,000 a month on Amazon hardware says two AMD Ryzen 5 9600X orders arrived with the CPUs missing."
     }
   ],
   "quantum": [
+    {
+      "title": "FAU Researchers Use Quantum Machine Learning to Predict Heart Disease",
+      "link": "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-27T16:33:39.000Z",
+      "snippet": "Insider Brief Press release – Cardiovascular disease remains a major global health challenge, causing millions of deaths each year and imposing substantial healthcare costs. Early, accurate diagnosis is critical for improving outcomes and enabling timely intervention. While conventional machine learning has shown promise in disease prediction, it often struggles with highly complex and nonlinear c"
+    },
+    {
+      "title": "Bridgewater State University Receives $380K for Quantum Technology Education",
+      "link": "https://thequantuminsider.com/2026/08/27/bridgewater-state-university-receives-380k-for-quantum-technology-education/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-27T14:50:11.000Z",
+      "snippet": "Insider Brief Press release – Bridgewater State University has received approximately $380,000 from the Massachusetts Technology Collaborative (MassTech) to expand undergraduate education and research in quantum technologies, bringing three advanced quantum systems to campus. The MassTech Technology and Innovation Ecosystem award will support the acquisition of a two-qubit optical quantum computer"
+    },
+    {
+      "title": "NASA Awards Infleqtion $20M Contract for Quantum Gravity Sensor",
+      "link": "https://thequantuminsider.com/2026/08/27/nasa-awards-infleqtion-20m-contract-for-quantum-gravity-sensor/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-27T12:55:53.000Z",
+      "snippet": "Insider Brief Press release – Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced NASA has awarded the company a $20 million follow-on contract to continue development of the Quantum Gravity Gradiometer Pathfinder (QGGPf), a mission led by NASA’s Jet Propulsion Laboratory (JPL) that is designed […]"
+    },
+    {
+      "title": "Q-CTRL Demonstrates GPS-Free Quantum Gravimetric Navigation Demonstration in Maritime Field Trial",
+      "link": "https://thequantuminsider.com/2026/08/27/q-ctrl-demonstrates-gps-free-quantum-gravimetric-navigation-demonstration-in-maritime-field-trial/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-27T11:54:52.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Q-CTRL, the global leader in quantum infrastructure software, today announced a major milestone in real-world quantum sensing deployments. In a world-first field demonstration, the company successfully navigated a maritime vessel without GPS using a new form of software-ruggedized quantum gravimeter. Through a series of trials in the Coral Sea off […]"
+    },
+    {
+      "title": "Researchers Use IBM Quantum Computer to Test Drug-Docking Method",
+      "link": "https://thequantuminsider.com/2026/08/27/researchers-use-ibm-quantum-computer-to-test-drug-docking-method/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-27T11:33:12.000Z",
+      "snippet": "Insider Brief A team of Singapore-based researchers reports that a hybrid quantum-classical method could offer a new route to studying drug candidates using today’s Noisy Intermediate-Stage Quantum (NISQ) devices. The researchers used the method to examine how two small molecules bind to proteins. In both tests, the quantum computer identified the same molecular contacts as […]"
+    },
+    {
+      "title": "Finland’s Defence Tech Hub Expands Quantum and Dual-Use Technology Ecosystem",
+      "link": "https://thequantuminsider.com/2026/08/27/finlands-defence-tech-hub-expands-quantum-and-dual-use-technology-ecosystem/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-27T10:18:13.000Z",
+      "snippet": "Insider Brief Press release – A strong defence technology cluster has emerged within Espoo’s innovation ecosystem. Today, Defence Tech Hub brings together over 100 companies developing cutting-edge technologies for both civilian and defence applications. The hub is now consolidating its operations into an ecosystem where most of the operators are in Otaniemi, Espoo. Defence Tech […]"
+    },
+    {
+      "title": "Quantum eMotion’s Quantum Entropy Source Submitted for NIST Validation",
+      "link": "https://thequantuminsider.com/2026/08/27/quantum-emotion-submits-quantum-entropy-module-for-nist-review/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-27T10:01:51.000Z",
+      "snippet": "Insider Brief Press release – Quantum eMotion Corp. (“QeM” or the “Company”) (NYSE American: QNC; TSXV: QNC; FSE: 34Q0), a leader in quantum-secure cybersecurity solutions, today announced that Lightship Security Inc. has completed its independent assessment of QeM’s eCore-Q PCIe Quantum Entropy Module and submitted the supporting validation package through the production Entropy Source Validation"
+    },
+    {
+      "title": "ColibriTD Raises €4M to Expand Quantum Simulation Software",
+      "link": "https://thequantuminsider.com/2026/08/27/colibritd-raises-4m-to-expand-quantum-simulation-software/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-27T09:43:36.000Z",
+      "snippet": "Insider Brief Press release – ColibriTD, the French quantum software company specializing in multiphysics simulation, today announced the closing of a €4M Seed round led by Earlybird Venture Capital, with participation from, SymbiaVC and Medin VC. The round follows Earlybird’s initial €1M Pre-Seed investment in the company and will be deployed across R&D on H-DES, […]"
+    },
+    {
+      "title": "Cancer May Behave Like a Quantum System, Columbia Studies Suggest",
+      "link": "https://thequantuminsider.com/2026/08/27/cancer-may-behave-like-a-quantum-system-columbia-studies-suggest/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-27T08:05:17.000Z",
+      "snippet": "Insider Brief Cancer cells may behave in a way that resembles one of the defining rules of quantum physics, occupying only a limited number of stable states rather than an unlimited range of biological forms, according to Columbia University researchers. The comparison does not mean cancer is driven by quantum effects at the atomic level. […]"
+    },
     {
       "title": "Atsign Updates Core SDKs with NIST-Approved Post-Quantum Security",
       "link": "https://thequantuminsider.com/2026/08/27/atsign-adds-nist-approved-pqc-to-core-sdks/",
@@ -1429,6 +1597,20 @@
     }
   ],
   "education": [
+    {
+      "title": "Why Higher Ed CIOs Should Embrace a Federated Data Governance Strategy",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/why-higher-ed-cios-should-embrace-federated-data-governance-strategy",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-27T16:41:10.000Z",
+      "snippet": "In higher education, the standard advice on data governance has been pretty simple for a long time: Build a council, centralize decisions and route everything through IT.\nFor a while, that works. You stand up a committee, you write a charter, you centralize definitions and approvals. And then, quietly, the model stops working. IT becomes the bottleneck for every data question on campus. You’re cha"
+    },
+    {
+      "title": "Students won’t remember every lesson, but here’s what’ll stick",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/08/27/students-wont-remember-every-lesson-but-heres-whatll-stick/",
+      "source": "eSchool News",
+      "published": "2026-08-27T10:00:00.000Z",
+      "snippet": "For a lot of students, school can feel like a transaction: You do the work, you get the check mark, and then you move on. That model can unintentionally cap what students show us about what they know and can do."
+    },
     {
       "title": "Technology Powers University-Industry Research Partnerships",
       "link": "https://edtechmagazine.com/higher/article/2026/08/technology-powers-university-industry-research-partnerships",
