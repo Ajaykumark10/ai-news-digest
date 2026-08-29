@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-29T18:41:59.000Z",
+      "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-29T17:36:47.000Z",
+      "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine."
+    },
+    {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -13,6 +27,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-28T20:24:11.000Z",
       "snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-28T19:30:38.000Z",
+      "snippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
     },
     {
       "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
@@ -342,20 +363,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-24T21:24:17.000Z",
       "snippet": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135."
-    },
-    {
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-24T19:54:19.000Z",
-      "snippet": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
-    },
-    {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-24T18:03:55.000Z",
-      "snippet": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs."
     }
   ],
   "cloud": [
@@ -466,6 +473,13 @@
     }
   ],
   "hardware": [
+    {
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law — software distributed under the GPL, MIT, BSD, and Apache licenses are exempt",
+      "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-29T15:57:13.000Z",
+      "snippet": "California’s legislature has passed Assembly Bill 1856, exempting open-source operating systems from the State’s Digital Age Assurance Act months before the law is due to take effect on January 1, 2027."
+    },
     {
       "title": "Magnetic core memory USB drive transfers files in sneakernet first — text and image files get moved between PCs via hugely constrained archaic memory tech",
       "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/magnetic-core-memory-usb-drive-transfers-files-in-sneakernet-first-text-and-image-files-get-moved-between-pcs-via-hugely-constrained-archaic-memory-tech",
@@ -1186,34 +1200,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-24T21:07:45.000Z",
       "snippet": "Intel has pulled back the curtain on its next-gen Diamond Rapids Xeon CPUs, packing up to 256 P-cores and 1.28 TB of last-level cache."
-    },
-    {
-      "title": "Hot Chips 2026: SK hynix pushes hybrid bonding to HBM5 as AI memory hits 775-micron ceiling — firm extends MR-MUF through Nvidia Rubin",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T17:55:45.000Z",
-      "snippet": "The problem, per SK, is that HBM cubes are capped at a total thickness of 775 microns, the standard thickness of a 300mm logic wafer."
-    },
-    {
-      "title": "Hot Chips 2026: IBM's first dual-ISA core natively executes ARM and z/Architecture in the same core; all cores run at 5.7 GHz base frequency — next-gen mainframe AI processor is built on 2nm node with 11 cores",
-      "link": "https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T17:42:34.000Z",
-      "snippet": "IBM is vastly expanding softwarte support on its mainframes with its first dual-ISA CPU core that natively supports z/Architecture and ARM instructions."
-    },
-    {
-      "title": "LG's native 1,000 Hz 1080p gaming monitor has a matching $1,000 price tag — preorders open for the 25-inch UltraGear 25G590B",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/lgs-native-1-000-hz-1080p-gaming-monitor-has-a-matching-usd1-000-price-tag-preorders-open-for-the-25-inch-ultragear-25g590b",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T17:21:51.000Z",
-      "snippet": "The UltraGear 25G590B is the first 1,000 Hz gaming monitor with a native 1080p resolution"
-    },
-    {
-      "title": "Cooler Master Q300L v3 MicroATX case review: Sub-$45 MSRP offers incredible value for MicroATX chassis with included fans",
-      "link": "https://www.tomshardware.com/pc-components/pc-cases/cooler-master-q300l-v3-microatx-case-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T17:07:15.000Z",
-      "snippet": "Cooler Master’s Q300L V3 offers more airflow, bigger clearances, and a 20 Gbps USB-C for under $45"
     }
   ],
   "quantum": [
@@ -1230,6 +1216,13 @@
       "source": "The Quantum Insider",
       "published": "2026-08-29T07:00:00.000Z",
       "snippet": "Yuval Boger interviews Michaela Eichinger, a product solutions physicist at Quantum Machines and the author of a widely read quantum computing newsletter. They discuss her transition from academia to industry, her fascination with systems-level views of the quantum stack, and the role of communication in building the quantum ecosystem. The conversation covers the state of […]"
+    },
+    {
+      "title": "Canada Invests CAD $195 Million in Xanadu for Quantum Manufacturing",
+      "link": "https://thequantuminsider.com/2026/08/28/canada-195-million-xanadu-quantum-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-28T18:27:50.000Z",
+      "snippet": "Insider Brief PRESS RELEASE – Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced it has signed a definitive agreement with the Government of Canada for CAD $195 million support through the Strategic Response Fund, administered by Innovation, Science and Economic Development Canada. The funding, which represents the larges"
     },
     {
       "title": "Italian Court Upholds Halt to IBM’s €61 Million Campania Quantum Contract",
@@ -1580,27 +1573,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-24T21:09:02.000Z",
       "snippet": "Insider Brief PRESS RELEASE — The U.S. Department of the Treasury today announced the launch of the Quantum-Readiness Task Force, following President Donald J. Trump’s Executive Order 14412 establishing guidelines to strengthen cryptographic protections for America’s sensitive data, critical infrastructure, and digital economy. The Task Force supports the Administration’s efforts to secure America"
-    },
-    {
-      "title": "Infleqtion Helps Launch Japan’s First Operational Neutral-Atom Quantum Computer",
-      "link": "https://thequantuminsider.com/2026/08/24/infleqtion-japan-operational-neutral-atom-quantum-computer/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-24T17:36:46.000Z",
-      "snippet": "Insider Brief Press release – Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, has helped Japan reach a major quantum milestone, supporting a research team led by Professor Kenji Ohmori at the Institute for Molecular Science (IMS), part of the National Institutes of Natural Sciences, in launching the […]"
-    },
-    {
-      "title": "EuroHPC Opens €119M in Funding Calls for Quantum Technologies",
-      "link": "https://thequantuminsider.com/2026/08/24/eurohpc-119m-funding-calls-quantum-technologies/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-24T17:28:43.000Z",
-      "snippet": "Insider Brief Press release – The EuroHPC Joint Undertaking (EuroHPC JU) has launched six new calls to advance strategic quantum technologies and the infrastructure needed to accelerate the development and deployment of next-generation quantum systems in Europe. Trapped-Ion Platform Technologies This call, HORIZON-JU-EUROHPC-2026-TIPT-09, aims to advance Europe’s leadership in trapped-ion quantum "
-    },
-    {
-      "title": "Nations at the Quantum Table",
-      "link": "https://thequantuminsider.com/2026/08/24/nations-at-the-quantum-table/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-24T16:54:34.000Z",
-      "snippet": "Who’s Playing, Who’s Ahead, and What It Means Insider Brief A year ago, quantum computing read like a research story. Here was a technology that might eventually matter. Now, things are getting very, very real … and nations are preparing.  Since mid-2025, the United States, the United Kingdom, Japan, and Canada have each moved quantum […]"
     }
   ],
   "education": [
