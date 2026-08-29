@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-29T13:00:00.000Z",
+      "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
+    },
+    {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -349,41 +356,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-24T18:03:55.000Z",
       "snippet": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs."
-    },
-    {
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-24T15:24:18.000Z",
-      "snippet": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six."
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-24T15:00:00.000Z",
-      "snippet": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
-    },
-    {
-      "title": "How to encourage smarter AI use in the classroom",
-      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-24T14:20:19.000Z",
-      "snippet": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…"
-    },
-    {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-24T13:47:26.000Z",
-      "snippet": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen."
-    },
-    {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-24T09:00:00.000Z",
-      "snippet": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of ChatGPT,…"
     }
   ],
   "cloud": [
@@ -491,36 +463,85 @@
       "source": "Cloud Blog",
       "published": "2026-08-25T12:00:00.000Z",
       "snippet": "Protecting capital in today's markets requires immense speed and precision. A financial analyst preparing a deal memo works across licensed market data, internal models, and confidential client files. General-purpose AI lacks the real-time accuracy, verifiable data lineage, and strict security that financial institutions demand. While model intelligence is necessary, without deep integration into "
-    },
-    {
-      "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
-      "source": "AWS News Blog",
-      "published": "2026-08-24T16:20:15.000Z",
-      "snippet": "During my time at AWS, I have always looked for opportunities to work with students. I have delivered over 50 talks at universities across the region, and watching the potential in the room is always a strong motivator. It reminds me of why I do this work, and that the students I meet today may […]"
-    },
-    {
-      "title": "New AI-powered quick assessments in Migration Center turbocharge modernization",
-      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/",
-      "source": "Cloud Blog",
-      "published": "2026-08-24T16:00:00.000Z",
-      "snippet": "Technology leaders are under mounting pressure to modernize infrastructure, control multi-cloud operational spend, and build data foundations for generative AI. However, the discovery required for that level of transformation can entail weeks of manual spreadsheet analysis, mapping in-house infrastructure, and reconciling siloed, piecemeal cost estimates across disparate teams and sources. To help"
-    },
-    {
-      "title": "Empowering autonomous agents with advanced security governance",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
-      "source": "Cloud Blog",
-      "published": "2026-08-24T16:00:00.000Z",
-      "snippet": "AI agents are the ultimate insiders. We grant them permission to read emails, query databases, and trigger API calls. They don’t just retrieve information, they take action. \nAgents offer incredible potential for increased productivity and better customer experiences, but they also come with new security concerns. In our new State of AI infrastructure report, 79% of tech leaders cite security, gov"
     }
   ],
   "hardware": [
+    {
+      "title": "Magnetic core memory USB drive transfers files in sneakernet first — text and image files get moved between PCs via hugely constrained archaic memory tech",
+      "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/magnetic-core-memory-usb-drive-transfers-files-in-sneakernet-first-text-and-image-files-get-moved-between-pcs-via-hugely-constrained-archaic-memory-tech",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-29T15:14:44.000Z",
+      "snippet": "A dinner plate-sized magnetic core memory homebrew USB device has been used to transfer a text file from one PC to another for the first time."
+    },
+    {
+      "title": "Get a 32-inch Samsung Odyssey G55C curved gaming monitor for $199 — 1440p 165 Hz screen is 39% off at Amazon for a limited time",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/get-a-32-inch-samsung-odyssey-g55c-curved-gaming-monitor-for-usd199-1440p-165-hz-screen-is-39-percent-off-at-amazon-for-a-limited-time",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-29T14:20:00.000Z",
+      "snippet": "The Samsung Odyssey G55C is a 32-inch curved gaming monitor with a 1440p QHD resolution and 1ms response time. It's currently on sale at just $199.99, saving you $130 off its $329.99 MSRP."
+    },
+    {
+      "title": "Startup raises $7 million to build backpack-portable 8.8-ounce drone interceptors — Mara claims 20x cost advantage over other interceptors, priced one-for-one against attack drones",
+      "link": "https://www.tomshardware.com/tech-industry/drones/startup-raises-usd7-million-to-build-backpack-portable-8-8-ounce-drone-interceptors-mara-claims-20x-cost-advantage-over-other-interceptors-priced-one-for-one-against-attack-drones",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-29T14:16:20.000Z",
+      "snippet": "San Francisco defense startup Mara has secured $7 million in a pre-seed round to produce what it calls Spike, a portable counter-drone system housed inside a backpack."
+    },
+    {
+      "title": "Get up to $175 back for your pre-installed Windows 11 license — new portal provides legal forms, but warns buyers not to wipe storage first",
+      "link": "https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-29T11:39:30.000Z",
+      "snippet": "The Refund4Freedom site was put together by the Italian Linux Society and the Free Software Foundation Europe to help address the unfairness of unwanted OS bundling."
+    },
+    {
+      "title": "Grand Theft Auto 6 will run at only 30 FPS on consoles at launch, no performance mode promised — even the souped-up PS5 Pro might not get 60 FPS support",
+      "link": "https://www.tomshardware.com/video-games/grand-theft-auto-6-will-run-at-only-30-fps-on-consoles-at-launch-no-performance-mode-promised-even-the-souped-up-ps5-pro-might-not-get-60-fps-support",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-29T11:30:00.000Z",
+      "snippet": "GTA 6 is currently running at 30 FPS at Rockstar internally with no confirmation on a 60 FPS mode being available at launch, or even later."
+    },
+    {
+      "title": "Deco Gear DG49OLED240 49-inch 32:9 OLED gaming monitor review: Two 27-inch QHD screens without the dividing line",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/deco-gear-dg49oled240-49-inch-32-9-oled-gaming-monitor-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-29T11:05:00.000Z",
+      "snippet": "You can replace two 27-inch QHD monitors with one Deco Gear DG49OLED240. This 49-inch 32:9 QD-OLED panel has an 1800R curve, 240 Hz, 5120x1440 pixels, HDR10, DisplayHDR 400, wide gamut color, and Adaptive-Sync."
+    },
+    {
+      "title": "Microsoft-backed AI data center faces backlash over alleged unpermitted gas turbines and 1.5M-gallon LNG tank — groups' issues with $19.4B facility range from illegal construction to noise pollution",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-29T11:00:00.000Z",
+      "snippet": "The community surrounding the DataOne data center in Vineland, New Jersey, are complaining about the Microsoft-linked project. The company's deployment of several unpermitted gas turbines is just one of the issues that has been hounding the project, with potential water issues also surfacing in recent weeks."
+    },
+    {
+      "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/gta-6-leaker-cyberleek-cashes-out-roughly-250000-hours-before-rockstars-official-reveal",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-29T10:30:00.000Z",
+      "snippet": "The person or group behind nine days of Grand Theft Auto VI gameplay leaks cashed out of the $CYBERLEEK memecoin on Thursday, hours before Rockstar's Extended Look premiered on Netflix."
+    },
+    {
+      "title": "US Navy launches missiles from its first drone sailboat — Saildrone Surveyor launches dual JAGM missiles, carrier strike group tests armed USV and electronic warfare",
+      "link": "https://www.tomshardware.com/tech-industry/drones/us-navy-launches-missiles-from-its-first-drone-sailboat-saildrone-surveyor-launches-dual-jagm-missiles-carrier-strike-group-tests-armed-usv-and-electronic-warfare",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-29T10:00:00.000Z",
+      "snippet": "The U.S. Navy successfully tested a sail-powered autonomous drone in live-fire exercises in the Pacific."
+    },
     {
       "title": "MSI brings DDR4 back to gaming laptops amidst DRAM crisis — Katana 15 HX C14 available with up to Core i9-14900HX and RTX 5070",
       "link": "https://www.tomshardware.com/pc-components/ddr4/msi-brings-ddr4-back-to-gaming-laptops-amidst-dram-crisis-katana-15-hx-c14-available-with-up-to-core-i9-14900hx-and-rtx-5070",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-28T15:55:43.000Z",
       "snippet": "With 32GB DDR4 SO-DIMM memory kits costing roughly half as much as comparable DDR5 kits, MSI’s new Katana 15 HX C14 could help reduce the impact of soaring memory prices."
+    },
+    {
+      "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
+      "link": "https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-28T15:47:46.000Z",
+      "snippet": "The Trump administration is reportedly drafting a rule to close a loophole around remote access to advanced AI compute, and it could be shared with trade groups as early as September."
     },
     {
       "title": "Nvidia gears up its influence in Washington, forming PAC — tells employees that decisions Congress makes over the coming years could have substantial consequences for the AI industry, according to report",
@@ -1193,100 +1214,23 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-24T17:07:15.000Z",
       "snippet": "Cooler Master’s Q300L V3 offers more airflow, bigger clearances, and a 20 Gbps USB-C for under $45"
-    },
-    {
-      "title": "32GB of DDR5 6000 RAM now costs $400 — the latest price hike puts DIY PC building further out of reach than ever before",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-6000-ram-now-costs-usd400-the-latest-price-hike-puts-diy-pc-building-further-out-of-reach-than-ever-before",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T15:30:42.000Z",
-      "snippet": "32GB of DDR5 6000 RAM now costs more than $400."
-    },
-    {
-      "title": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T15:09:55.000Z",
-      "snippet": "A new report claims nine people have been indicted over the illegal smuggling of Nvidia B300 servers to China."
-    },
-    {
-      "title": "Two Intel chips break Amazon's top 10 CPUs for the first time in months — Core Ultra 7 270K and Core i7-14700K finally challenge AMD desktop dominance",
-      "link": "https://www.tomshardware.com/pc-components/cpus/two-intel-chips-break-amazons-top-10-cpus-for-the-first-time-in-months-core-ultra-7-270k-and-core-i7-14700k-finally-challenge-amd-desktop-dominance",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T14:11:31.000Z",
-      "snippet": "AMD has dominated the DIY space so thoroughly over the last few years that an Intel chip appearing in the top 10 at all is notable, but it's not really that surprising if you look at the details."
-    },
-    {
-      "title": "Marvell VP pushes for DDR4 recycling for use in CXL memory, amid the worst DRAM shortage in years — company introduces three-tier AI memory infrastructure",
-      "link": "https://www.tomshardware.com/pc-components/dram/marvell-sells-cxl-memory-recycling-into-the-worst-dram-shortage-in-years",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T13:11:37.000Z",
-      "snippet": "Marvell has introduced a three-tier \"AI memory infrastructure\" portfolio, announced at FMS 2026 in Santa Clara on August 4."
-    },
-    {
-      "title": "Asus ROG Gjallar Review: It looks better than it sounds",
-      "link": "https://www.tomshardware.com/speakers/asus-rog-gjallar-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T13:00:00.000Z",
-      "snippet": "Asus' first-ever gaming soundbar, the ROG Gjallar, is blocky and uninspired, with decent sound and a completely unnecessary audio control hub with built-in beamforming mics."
-    },
-    {
-      "title": "Undersea cable to Antarctica through Drake Passage is viable, researchers find — 1,600km route to Chile could spell an end to research data leaving in 'suitcases full of hard drives'",
-      "link": "https://www.tomshardware.com/networking/researcgers-find-a-drake-passage-cable-to-antarctica-is-buildable",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T12:03:28.000Z",
-      "snippet": "Antarctic research data still leaves the continent physically, on hard drives ferried out by ship and plane \"in suitcases full of hard drives.\""
-    },
-    {
-      "title": "Building Technology People Can Trust",
-      "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-      "source": "IEEE Spectrum",
-      "published": "2026-08-24T11:37:02.000Z",
-      "snippet": "This article is brought to you by Emerson.\nI’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity.\nIn semiconductors, we have seen that repeatedly. Every generation has delivered breakthroughs in performance and capability, but each step forward made"
-    },
-    {
-      "title": "Asus ZenScreen OLED (MQ16FC) portable monitor review: A great all-around performer",
-      "link": "https://www.tomshardware.com/monitors/portable-monitors/asus-zenscreen-oled-mq16fc-portable-monitor-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T11:05:00.000Z",
-      "snippet": "The Asus ZenScreen OLED (MQ16FC) excels on several fronts, including pricing."
-    },
-    {
-      "title": "Valve was founded 30 years ago today — changed PC gaming forever with Half-Life, then Steam",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/valve-was-founded-30-years-ago-today-changed-pc-gaming-forever-with-half-life-then-steam",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T10:31:08.000Z",
-      "snippet": "Today marks Valve’s 30th birthday. The company was founded on August 24, 1996, by Gabe Newell and Mike Harrington, both Microsoft veterans."
-    },
-    {
-      "title": "Kyoto University builds transistor that survives 600C temperatures, compatible with standard fabs — Standard ion implantation and bottom-gate design fix leakage and voltage drift",
-      "link": "https://www.tomshardware.com/tech-industry/kyoto-university-demonstrates-a-sic-transistor-that-runs-at-600c-using-standard-ion-implantation",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T10:30:00.000Z",
-      "snippet": "A research team at Kyoto University has built a silicon carbide transistor that operates at 600°C (873 K) using ion implantation."
-    },
-    {
-      "title": "Huge $2,200 discount makes this RTX 5090 gaming PC cheaper than the GPU's standalone price — epic HP Omen Max 45L rig ships with 64GB DDR5 and a 2TB SSD for just $4,799",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/huge-usd2-200-discount-makes-this-rtx-5090-gaming-pc-cheaper-than-the-gpus-standalone-price-epic-hp-omen-max-45l-rig-ships-with-64gb-ddr5-and-a-2tb-ssd-for-just-usd4-799",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T10:11:23.000Z",
-      "snippet": "A massive discount means this $4,799 HP Omen Max 45L gaming PC is now cheaper than individually buying the RTX 5090 it uses, thanks to a $2,200 discount."
-    },
-    {
-      "title": "Bring your ideas to life with epic savings on Flashforge 3D printers — Flashforge joins the AliExpress 828 mega-sale",
-      "link": "https://www.tomshardware.com/3d-printing/bring-your-ideas-to-life-with-epic-savings-on-flashforge-3d-printers-flashforge-joins-the-aliexpress-828-mega-sale",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T10:05:00.000Z",
-      "snippet": "AliExpress 828 sale brings unbeatable savings on Flashforge 3D printers and premium accessories."
-    },
-    {
-      "title": "Nintendo takes down over 400 GitHub repositories for Switch emulators in one go — Relentless DMCA strikes tied to piracy concerns over illegal cryptographic keys",
-      "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-takes-down-over-400-github-repositories-for-switch-emulators-in-one-go-relentless-dmca-strikes-tied-to-piracy-concerns-over-illegal-cryptographic-keys",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-24T10:00:00.000Z",
-      "snippet": "Nintendo is doing Nintendo things again as it goes after 7 different master repos containing Switch emulators, which total out to 401 repos wiped in a single day. Most of these belonged to Yuzu forks, such as Suyu, but there was one exception."
     }
   ],
   "quantum": [
+    {
+      "title": "Pasqal Shares Nearly Double in Nasdaq Debut",
+      "link": "https://thequantuminsider.com/2026/08/29/pasqal-shares-nearly-double-in-nasdaq-debut/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-29T07:41:53.000Z",
+      "snippet": "Insider Brief Pasqal shares nearly doubled during the French quantum computing company’s first day of trading on Nasdaq, reflecting strong investor interest in one of Europe’s leading quantum hardware developers. The shares closed Friday at $19.11, up 95.2% from Bleichroeder Acquisition Corp. II’s previous closing price of $9.79. Pasqal opened at $16.98 and traded as […]"
+    },
+    {
+      "title": "Michaela Eichinger (Quantum Machines): Why classical compute and HPC integration will define useful quantum",
+      "link": "https://thequantuminsider.com/2026/08/29/michaela-eichinger-quantum-machines-why-classical-compute-and-hpc-integration-will-define-useful-quantum/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-29T07:00:00.000Z",
+      "snippet": "Yuval Boger interviews Michaela Eichinger, a product solutions physicist at Quantum Machines and the author of a widely read quantum computing newsletter. They discuss her transition from academia to industry, her fascination with systems-level views of the quantum stack, and the role of communication in building the quantum ecosystem. The conversation covers the state of […]"
+    },
     {
       "title": "Italian Court Upholds Halt to IBM’s €61 Million Campania Quantum Contract",
       "link": "https://thequantuminsider.com/2026/08/28/italian-court-upholds-halt-to-ibms-e61-million-campania-quantum-contract/",
@@ -1657,48 +1601,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-24T16:54:34.000Z",
       "snippet": "Who’s Playing, Who’s Ahead, and What It Means Insider Brief A year ago, quantum computing read like a research story. Here was a technology that might eventually matter. Now, things are getting very, very real … and nations are preparing.  Since mid-2025, the United States, the United Kingdom, Japan, and Canada have each moved quantum […]"
-    },
-    {
-      "title": "Guest Post: How One of Europe’s Smallest Countries Became NATO’s Precision Photonics Capital",
-      "link": "https://thequantuminsider.com/2026/08/24/guest-post-how-one-of-europes-smallest-countries-became-natos-precision-photonics-capital/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-24T14:25:04.000Z",
-      "snippet": "Guest Post by Aktyvus Photonics Lithuania is becoming NATO’s precision photonics capital because it has what almost no one else does: 60 years of laser science, and companies fast enough to move at the speed the technology demands. Lithuania is NATO’s most exposed border, where precision photonics is a defence need for the country, not […]"
-    },
-    {
-      "title": "IonQ’s Skyloom Optical Communications Terminals Reach 84 On-Orbit Installations Following Latest Launch",
-      "link": "https://thequantuminsider.com/2026/08/24/ionq-skyloom-optical-communication-terminals-orbit/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-24T13:07:47.000Z",
-      "snippet": "Insider Brief Press release – Skyloom Global, LLC, an IonQ (NYSE:IONQ) company specializing in the development of space-based optical technology for secure, high-performance communications, today announced that dozens of additional optical communication terminals (OCTs) have been successfully deployed on orbit. The OCTs were aboard York Space Systems satellites supporting the Space Development Age"
-    },
-    {
-      "title": "Pasqal and Eleven Ventures Form Joint Venture for Quantum Computing in Saudi Arabia",
-      "link": "https://thequantuminsider.com/2026/08/24/pasqal-eleven-ventures-joint-venture-quantum-computing-saudi-arabia/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-24T12:58:17.000Z",
-      "snippet": "Insider Brief Press release – Pasqal, a global leader in neutral-atom quantum computing, and Eleven Ventures, a Kingdom of Saudi Arabia based investment platform and venture capital firm, today announced an agreement to establish a commercial joint venture to deploy, commercialize and scale Pasqal‘s quantum computing systems across the Kingdom of Saudi Arabia (the “Kingdom”) […]"
-    },
-    {
-      "title": "Sweden Sets 2036 Deadline for National Quantum Technology Strategy",
-      "link": "https://thequantuminsider.com/2026/08/24/sweden-sets-2036-deadline-for-national-quantum-technology-strategy/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-24T12:39:15.000Z",
-      "snippet": "Insider Brief Sweden has laid out a decade-long plan to turn its strong quantum research base into a more coordinated industry while preparing government and businesses for the security risks posed by future quantum computers. The Swedish government published its first national quantum technology strategy, setting five broad goals to guide research, commercialization, workforce development, […]"
-    },
-    {
-      "title": "University of Göttingen Researchers Map Molecular Wave Functions in 3D",
-      "link": "https://thequantuminsider.com/2026/08/24/university-gottingen-maps-molecular-wave-functions-3d/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-24T11:38:44.000Z",
-      "snippet": "Insider Brief Press release – Electrons cannot be fixed to a single location. This is one of the central insights of quantum mechanics. The wave function takes the place of the location: a mathematical quantity that contains all the important information about the particle. An interdisciplinary research team from the University of Göttingen has now […]"
-    },
-    {
-      "title": "TCG Defines Requirements for PQC-Ready Trusted Platform Modules",
-      "link": "https://thequantuminsider.com/2026/08/24/tcg-requirements-pqc-ready-trusted-platform-modules/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-24T10:27:48.000Z",
-      "snippet": "Insider Brief Press release – Businesses have been provided a clear benchmark for judging whether electronic device vendors’ claims of protection against quantum enabled attacks are valid, through new guidance released today from the Trusted Computing Group. TCG’s requirements for Trusted Platform Modules (TPMs) enables companies to request clear evidence from vendors that their products genuinely"
     }
   ],
   "education": [
@@ -1708,6 +1610,13 @@
       "source": "eSchool News",
       "published": "2026-08-28T10:00:00.000Z",
       "snippet": "Librarians and instructional designers have long understood that the first question someone asks is not always the question they need answered. In a library reference interview, a patron’s initial request is often just the starting point for uncovering the real information needed."
+    },
+    {
+      "title": "Why Higher Ed CIOs Should Embrace a Federated Data Governance Strategy",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/why-higher-ed-cios-should-embrace-federated-data-governance-strategy",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-27T16:41:10.000Z",
+      "snippet": "In higher education, the standard advice on data governance has been pretty simple for a long time: Build a council, centralize decisions and route everything through IT.\nFor a while, that works. You stand up a committee, you write a charter, you centralize definitions and approvals. And then, quietly, the model stops working. IT becomes the bottleneck for every data question on campus. You’re cha"
     },
     {
       "title": "Students won’t remember every lesson, but here’s what’ll stick",
@@ -1743,13 +1652,6 @@
       "source": "eSchool News",
       "published": "2026-08-25T10:00:00.000Z",
       "snippet": "Long before computers entered our homes and classrooms, photographs helped shape what people believed. Images carried a particular kind of authority: We did not simply look at them; we often treated them as evidence."
-    },
-    {
-      "title": "Financial education must not sacrifice student privacy",
-      "link": "https://www.eschoolnews.com/educational-leadership/2026/08/24/financial-education-must-not-sacrifice-student-privacy/",
-      "source": "eSchool News",
-      "published": "2026-08-24T10:00:00.000Z",
-      "snippet": "Financial education is gaining real momentum across the United States. More states are adopting mandates, more schools are adding graduation requirements, and more policymakers are acknowledging that students need practical preparation for the financial decisions they will face as adults."
     }
   ]
 }
