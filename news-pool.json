@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-30T15:00:00.000Z",
+      "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-29T18:41:59.000Z",
+      "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+    },
+    {
       "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -307,34 +321,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-25T17:50:33.000Z",
       "snippet": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context."
-    },
-    {
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-25T15:00:00.000Z",
-      "snippet": "Lica co-founders are going to work on Gamma's new research team."
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-25T14:22:04.000Z",
-      "snippet": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
-    },
-    {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-25T13:00:00.000Z",
-      "snippet": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents."
-    },
-    {
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-25T12:00:00.000Z",
-      "snippet": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product."
     }
   ],
   "cloud": [
@@ -358,6 +344,13 @@
       "source": "Cloud Blog",
       "published": "2026-08-27T16:00:00.000Z",
       "snippet": "When Pythian rolled out Google Cloud’s Gemini Enterprise across our 500-person company in 27 countries, the goal was simple: use our own company as a proving ground to discover how enterprise AI actually delivers ROI.\nWhat we found changed our strategy entirely.\nSince the rollout of Gemini Enterprise and our previous enterprise AI deployments, Pythian observed firsthand why so many enterprise AI i"
+    },
+    {
+      "title": "Deploy personal AI agents with Cloud Run instances",
+      "link": "https://cloud.google.com/blog/products/serverless/introducing-cloud-run-instances/",
+      "source": "Cloud Blog",
+      "published": "2026-08-27T16:00:00.000Z",
+      "snippet": "Need a low-cost, high-performance way to run long-lived, stateful workloads such as AI agents? Today, we introduced Cloud Run instances, which let you do just that.  \nConsider AI agents such as OpenClaw or Hermes, which are intended for individual developers or personal use. Because these agents often work continuously and tend to serve only one user at a time, their infrastructure requirements lo"
     },
     {
       "title": "Using OKF with Knowledge Catalog to serve context for agents",
@@ -407,44 +400,58 @@
       "source": "Cloud Blog",
       "published": "2026-08-26T09:07:00.000Z",
       "snippet": "Have you been hearing a lot about \"AI agents\" lately but aren't sure how to actually start building them? You don't need a background in machine learning or years of software experience to get started. The best way to learn is by doing, which is why we built Agent Valley.   \nAgent Valley is a free, 5-week live learning series designed to take you from scratch to building your very own hands-on age"
-    },
-    {
-      "title": "Happy 20th Birthday, Amazon EC2",
-      "link": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/",
-      "source": "AWS News Blog",
-      "published": "2026-08-25T16:11:02.000Z",
-      "snippet": "On the 20th Anniversary, we recognize how AWS has continued to push the boundaries of what cloud computing can deliver, building custom silicon for general-purpose and AI workloads and expanding EC2 into new form factors and deployment models that our customers in 2006 could not have imagined."
-    },
-    {
-      "title": "Bringing gVisor sandboxes to distributed Ray clusters",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gvisor-sandboxes-for-ray-clusters-on-gke/",
-      "source": "Cloud Blog",
-      "published": "2026-08-25T16:00:00.000Z",
-      "snippet": "The reinforcement learning (RL) ecosystem is rapidly adopting Ray as the unified compute runtime for complex post-training workflows. Across Google Cloud, we see customers using Ray for workloads ranging from multimodal data pipelines to frontier RL. But as agentic and reasoning models evolve, a critical bottleneck has emerged: orchestrating secure, isolated sandboxes at scale to safely execute dy"
-    },
-    {
-      "title": "The patch window is collapsing: Why security needs a new control plane",
-      "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-08-25T16:00:00.000Z",
-      "snippet": "Organizations need protection that operates in the gap between discovery and remediation.\nThe post The patch window is collapsing: Why security needs a new control plane appeared first on Microsoft Azure Blog."
-    },
-    {
-      "title": "Now introducing Gemini Enterprise for Legal",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal/",
-      "source": "Cloud Blog",
-      "published": "2026-08-25T12:00:00.000Z",
-      "snippet": "Few professions are as exacting as the practice of law. A team reviewing a contract or building a case works inside strictly privileged information, firm-specific playbooks, and a body of law that changes constantly. The work thrives on nuanced, professional judgment — and the systems supporting it inherit real obligations: ethical walls that cannot be crossed, matter permissions that cannot be fl"
-    },
-    {
-      "title": "Now introducing Gemini Enterprise for Financial Services",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/",
-      "source": "Cloud Blog",
-      "published": "2026-08-25T12:00:00.000Z",
-      "snippet": "Protecting capital in today's markets requires immense speed and precision. A financial analyst preparing a deal memo works across licensed market data, internal models, and confidential client files. General-purpose AI lacks the real-time accuracy, verifiable data lineage, and strict security that financial institutions demand. While model intelligence is necessary, without deep integration into "
     }
   ],
   "hardware": [
+    {
+      "title": "SpaceX starts in-house turbine blade manufacturing to boost gas-powered generator output for Elon's AI data centers — new manufacturing strategy cuts generator delays by 18 months",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-30T14:49:50.000Z",
+      "snippet": "Turbine blades and vanes are among the most complicated turbine engine parts to build, with processes taking as long as 60 to 90 weeks. Because of this, Musk wants to bring their manufacturing in-house at SpaceX."
+    },
+    {
+      "title": "Donkey Kong 64 finally gets a fully native PC port written in C — DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-30T14:26:14.000Z",
+      "snippet": "A team of veteran developers has recompiled Donkey Kong 64 in C, so it runs natively on Windows, Linux, and Mac. The entire project is free, uses no generative AI, but still includes more features than any vibecoded retro revival slop you can find online. You do need to bring your own ROM, though."
+    },
+    {
+      "title": "Massive 12TB Steam leak reveals decades of unreleased games — archived files include unseen Half-Life 2: Episode 3 builds and assets",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/massive-12tb-steam-leak-reveals-decades-of-unreleased-games-archived-files-include-unseen-half-life-2-episode-3-builds-and-assets",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-30T12:48:42.000Z",
+      "snippet": "Early builds of Valve games from 2003 to 2013 have been found in a 12TB archive pulled from the company's old servers. These pre-release versions act like time capsules, preserving the state of the game from before it underwent massive changes."
+    },
+    {
+      "title": "At least three exhibitors got robbed at Gamescom 2026 — laptops and handhelds with unfinished game builds stolen from locked cabinets",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/at-least-three-exhibitors-got-robbed-at-gamescom-2026-laptops-and-handhelds-with-unfinished-game-builds-stolen-from-locked-cabinets",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-30T12:34:59.000Z",
+      "snippet": "Several developers, publishers, and studios have had their laptops and handheld consoles stolen at Gamescom 2026. However, the organizers said that it's only responsible for general security, and exhibitors can book individual booth security separately."
+    },
+    {
+      "title": "Adata Urban Tapsafe 2TB review: Solid-state storage you unlock with your phone",
+      "link": "https://www.tomshardware.com/pc-components/external-ssds/adata-urban-tapsafe-2tb-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-30T12:05:00.000Z",
+      "snippet": "Adata's Urban Tapsafe portable SSD sports magnetic face plates, a metal mounting clip, the ability to unlock the drive with your phone, and share selective access with others via an app."
+    },
+    {
+      "title": "DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books — team trains neural net on Photoshop edits to process 526,000 scans",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-30T12:00:00.000Z",
+      "snippet": "An epic book preservation effort."
+    },
+    {
+      "title": "China's top DRAM maker CXMT sues Pentagon over its blacklisting — argues chips are standard civilian JEDEC spec, not defense hardware",
+      "link": "https://www.tomshardware.com/pc-components/dram/chinas-top-dram-maker-cxmt-sues-pentagon-over-its-blacklisting-argues-chips-are-standard-civilian-jedec-spec-not-defense-hardware",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-30T11:30:00.000Z",
+      "snippet": "Chinese DRAM maker CXMT wants the US Department of Defense to remove it from the list of companies linked to the Chinese military."
+    },
     {
       "title": "Corsair RM1000e (2026) ThermalProtect power supply review: Temperature-sensing 12V-2x6 cable shuts the GPU down before a connector can melt",
       "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-rm1000e-2026-thermalprotect-power-supply-review",
@@ -1046,90 +1053,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-25T17:00:00.000Z",
       "snippet": "Hyte’s Y50 RGB is an affordable option for anyone looking to get a glass chassis with included ARGB fans."
-    },
-    {
-      "title": "Get 16GB of DDR5 RAM for $70 and start your AM5 gaming rig with this bundle — $568 for Ryzen 7 7700X3D, 16GB G.Skill DDR5 RAM, Asus TUF B650-E motherboard, and free AIO",
-      "link": "https://www.tomshardware.com/pc-components/get-16gb-of-ddr5-ram-for-usd70-and-start-your-am5-gaming-rig-with-this-bundle-usd568-for-ryzen-7-7700x3d-16gb-g-skill-ddr5-ram-asus-tuf-b650-e-motherboard-and-free-aio",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T15:59:08.000Z",
-      "snippet": "568.99 ($200/26% off) gets you a 3-item Newegg combo: a Ryzen 7 7700X3D, Asus B650 board, 16GB of G.Skill DDR5-6000, and a free 240mm AIO thrown in — a inexpensive avenue into AM5."
-    },
-    {
-      "title": "Hot Chips 2026: Intel details cutting-edge tech in entry-level Wildcat Lake — value-focused 18A chips necessitated UCIe integration",
-      "link": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-intel-details-cutting-edge-tech-in-entry-level-wildcat-lake-value-focused-18a-chips-necessitated-ucie-integration",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T15:45:08.000Z",
-      "snippet": "Intel's Wildcat Lake is competing in the budget laptop market, but it takes a very different approach, leveraging a UCIe interconnect and Intel's latest 18A node."
-    },
-    {
-      "title": "Best RAM deals 2026 — discounts on DDR5 and DDR4 to beat the memory price crunch",
-      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/best-ram-memory-deals-ddr5-ddr4",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T15:14:44.000Z",
-      "snippet": "We're rounding up the best RAM deals from retailers across the U.S here."
-    },
-    {
-      "title": "Hot Chips 2026: Intel dives deep on Crescent Island AI accelerator — larger caches and deeper XMX engines target maximum AI FLOPS per watt",
-      "link": "https://www.tomshardware.com/pc-components/gpus/hot-chips-2026-intel-dives-deep-on-crescent-island-ai-accelerator-larger-caches-and-deeper-xmx-engines-target-maximum-ai-flops-per-watt",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T15:12:44.000Z",
-      "snippet": "At Hot Chips 2026, Intel detailed more about its Crescent Island AI accelerator, which uses the Xe3P architecture. The accelerator will use liquid-cooled chips and HBM4 memory to serve inference workloads in data centers."
-    },
-    {
-      "title": "Apple price hikes continue as Mac mini with 16GB RAM and 256GB is now $899 — 1TB storage option adds $500 to entry-level headless system",
-      "link": "https://www.tomshardware.com/desktops/mini-pcs/apple-price-hikes-continue-as-mac-mini-with-16gb-ram-and-256gb-is-now-usd899-1tb-storage-option-adds-usd500-to-entry-level-headless-system",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T14:37:55.000Z",
-      "snippet": "Apple's Mac mini and Mac Studio see price hikes, while memory and storage upgrades get even more expensive"
-    },
-    {
-      "title": "Apple launches new M6 and M5 Ultra Apple silicon chips — debuting in new Mac Mini and Mac Studio",
-      "link": "https://www.tomshardware.com/pc-components/cpus/apple-launches-new-m6-and-m5-ultra-apple-silicon-chips-debuting-in-new-mac-mini-and-mac-studio",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T13:26:19.000Z",
-      "snippet": "Apple has announced new M6 and M5 Ultra chips, a new Mac mini, and a new Mac Studio."
-    },
-    {
-      "title": "China strategically slows exports of critical materials used in semiconductor fabrication to Taiwan — germanium and quartz exports to the region also threaten optical and robotics supply chain",
-      "link": "https://www.tomshardware.com/tech-industry/china-strategically-slows-exports-of-critical-materials-used-in-semiconductor-fabrication-to-taiwan-germanium-and-quartz-exports-to-the-region-also-threaten-optical-and-robotics-supply-chain",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T13:00:00.000Z",
-      "snippet": "China slows exports of germanium, quartz-based materials, and magnets. The move potentially disrupts the optical connectivity, semiconductor, and robotics industries."
-    },
-    {
-      "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine, forensic teams say — first documented case of civilian deaths caused by a Russian drone using fully autonomous targeting",
-      "link": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T12:40:22.000Z",
-      "snippet": "A Russian Molniya drone carrying an Nvidia Jetson Orin module killed three civilians at a gas station in Zaporizhzhia last month."
-    },
-    {
-      "title": "Asus ROG Xbox Ally X20 with OLED screen available October 15, pre-orders start now — standalone system for $1,299.99, or an AR bundle for $2,499.99",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-with-oled-screen-available-october-15-pre-orders-start-now-standalone-system-for-usd1-299-99-or-an-ar-bundle-for-usd2-499-99",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T12:30:00.000Z",
-      "snippet": "At gamescom, Asus finally announced the pricing for the Asus ROG Xbox Ally X20, either as a standalone handheld or a bundle with AR glasses."
-    },
-    {
-      "title": "Linux was announced by Linus Torvalds 35 years ago today — humble OS started with 10,000 lines of code but has now grown to 40 million, dominates global infrastructure",
-      "link": "https://www.tomshardware.com/software/linux/linux-was-announced-by-linus-torvalds-35-years-ago-today-humble-os-started-with-10-000-lines-of-code-but-has-now-grown-to-40-million-dominates-global-infrastructure",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T12:28:05.000Z",
-      "snippet": "The development of Linux, a free ‘hobby’ operating system, was announced by Linus Torvalds 35 years ago today."
-    },
-    {
-      "title": "Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation — AI memory uses 3x more silicon than DDR5, company says memory wall is 'getting worse' as prices rise",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T12:19:38.000Z",
-      "snippet": "Micron Fellow Raghu Sreeramaneni told the Hot Chips 2026 conference that the silicon penalty HBM carries against DDR5 is growing with every generation."
-    },
-    {
-      "title": "Hot Chips 2026: Nvidia breaks down 88-core Vera CPU — spatial multithreading benchmarked, 1.2 TB/s SOCAMM2 memory, agentic workloads detailed, and more",
-      "link": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-nvidia-breaks-down-88-core-vera-cpu-spatial-multithreading-benchmarked-1-2-tb-s-socamm2-memory-agentic-workloads-detailed-and-more",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T11:53:48.000Z",
-      "snippet": "Nvidia has provided more color on its Vera CPU for agentic data centers at Hot Chips 2026, showcasing the benefits of spatial multithreading and the power benefits of the LPDDR5X memory system."
     }
   ],
   "quantum": [
@@ -1146,6 +1069,13 @@
       "source": "The Quantum Insider",
       "published": "2026-08-29T07:00:00.000Z",
       "snippet": "Yuval Boger interviews Michaela Eichinger, a product solutions physicist at Quantum Machines and the author of a widely read quantum computing newsletter. They discuss her transition from academia to industry, her fascination with systems-level views of the quantum stack, and the role of communication in building the quantum ecosystem. The conversation covers the state of […]"
+    },
+    {
+      "title": "Canada Invests CAD $195 Million in Xanadu for Quantum Manufacturing",
+      "link": "https://thequantuminsider.com/2026/08/28/canada-195-million-xanadu-quantum-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-28T18:27:50.000Z",
+      "snippet": "Insider Brief PRESS RELEASE – Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced it has signed a definitive agreement with the Government of Canada for CAD $195 million support through the Strategic Response Fund, administered by Innovation, Science and Economic Development Canada. The funding, which represents the larges"
     },
     {
       "title": "Italian Court Upholds Halt to IBM’s €61 Million Campania Quantum Contract",
@@ -1391,62 +1321,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-25T17:58:02.000Z",
       "snippet": "Insider Brief Press release – The U.S. National Science Foundation announced today that Princeton University will lead one of eight major initiatives to accelerate the development of quantum computing. The Princeton-led Quantum Leap Challenge Institute will devise techniques for fabricating hardware and develop education and workforce training programs that deepen U.S. leadership in quantum scienc"
-    },
-    {
-      "title": "IonQ Appoints Eric Ball and Timothy Baxter to Board",
-      "link": "https://thequantuminsider.com/2026/08/25/ionq-appoints-eric-ball-timothy-baxter-board/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-25T15:47:20.000Z",
-      "snippet": "Insider Brief Press release – IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced the appointment of two new board members: technology finance expert Dr. Eric Ball, and former SkyWater Technology Chairman and Samsung North America CEO Timothy Baxter. Each brings accretive experience to support IonQ’s next phases of expansion. “We’re […]"
-    },
-    {
-      "title": "NSF Extends Quantum Sensing Program With Five-Year $37.5M Award",
-      "link": "https://thequantuminsider.com/2026/08/25/nsf-renews-quantum-sensing-institute-37-5m-investment/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-25T15:39:38.000Z",
-      "snippet": "Insider Brief Press release – The U.S. National Science Foundation has renewed the Quantum Leap Challenge Institute for Quantum Sensing for Biophysics and Bioengineering (NSF QuBBE) with a $37.5 million, five-year investment to advance quantum sensing technologies that can reveal biological processes difficult or impossible to observe with conventional tools. The renewal will move NSF QuBBE into ["
-    },
-    {
-      "title": "Pasqal Welcomes Kingdom of Saudi Arabia Ministerial Delegation to French Headquarters",
-      "link": "https://thequantuminsider.com/2026/08/25/pasqal-saudi-arabian-delegation-french-quantum-facility/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-25T14:26:05.000Z",
-      "snippet": "Insider Brief Press release – Pasqal, a global provider of neutral-atom quantum computers, today welcomed a delegation of senior leaders from the Kingdom of Saudi Arabia (the “Kingdom”), led by His Excellency Engineer Abdullah Alswaha, Minister of Communications and Information Technology, at its French headquarters and quantum computer production site. The delegation brought together His […]"
-    },
-    {
-      "title": "Quantum Sky Appoints Sean Thompson as Chief Growth Officer",
-      "link": "https://thequantuminsider.com/2026/08/25/quantum-sky-sean-thompson-chief-growth-officer/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-25T14:16:27.000Z",
-      "snippet": "Insider Brief Press release – Quantum Sky (“Company,” formerly Tyto Athene, LLC), a mission technology integrator building quantum-ready capabilities for government agencies and a portfolio company of Arlington Capital Partners (“Arlington”), today announced the appointment of Sean Thompson as Chief Growth Officer (“CGO”). In this role, Thompson will lead the Company’s enterprise growth strategy, "
-    },
-    {
-      "title": "U.S. SpaceForce’s SpaceWERX Awards Casimir Inc. STTR Phase I Award",
-      "link": "https://thequantuminsider.com/2026/08/25/u-s-spaceforces-spacewerx-awards-casimir-inc-sttr-phase-i-award/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-25T13:21:50.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Casimir, Inc., a quantum energy technology company, announced it has been selected by SpaceWERX for a STTR Phase I contract focused on developing Casimir’s fully independent solid-state generator to address the most pressing challenges in the Department of the Air Force (DAF). The Air Force Research Laboratory and SpaceWERX, the […]"
-    },
-    {
-      "title": "Amity Opens New York Research Hub for India-US Technology Collaboration",
-      "link": "https://thequantuminsider.com/2026/08/25/amity-global-research-hub-new-york-india-us/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-25T12:21:16.000Z",
-      "snippet": "Insider Brief Press release – In a significant step towards strengthening India–United States collaboration in science, technology and innovation, the Amity Global Research Hub (AGRH) was inaugurated at the Consulate General of India, New York, on August 21, 2026, under the theme “Shaping the Future through Emerging Technologies.” The launch marks the beginning of an international research platfor"
-    },
-    {
-      "title": "Scientists Look to the Brain to Improve Quantum Sensors",
-      "link": "https://thequantuminsider.com/2026/08/25/scientists-look-to-the-brain-to-improve-quantum-sensors/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-25T11:56:12.000Z",
-      "snippet": "Insider Brief A Washington University in St. Louis biologist is applying theories about how the brain balances order and chaos to a Department of Energy project aimed at making quantum sensors more accurate and energy efficient, according to an article on the university’s website. Keith Hengen, an associate professor of biology at Washington University, has […]"
-    },
-    {
-      "title": "Xanadu and Mitsubishi Chemical Advance Quantum Computing Work on EUV Lithography",
-      "link": "https://thequantuminsider.com/2026/08/25/xanadu-mitsubishi-quantum-semiconductor-manufacturing/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-25T11:44:18.000Z",
-      "snippet": "Insider Brief Press release – Xanadu Quantum Technologies Limited (“Xanadu“; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, has announced the next phase of its collaboration with Mitsubishi Chemical, a major Japanese chemical manufacturer, to advance semiconductor fabrication technologies using quantum computing algorithms. This next phase is supported by national innovation prog"
     }
   ],
   "education": [
