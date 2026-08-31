@@ -1,18 +1,25 @@
 {
   "ai": [
     {
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-31T02:34:00.000Z",
+      "snippet": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
+    },
+    {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-30T16:54:25.000Z",
+      "snippet": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in."
+    },
+    {
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-30T15:00:00.000Z",
       "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-29T18:41:59.000Z",
-      "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
     },
     {
       "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
@@ -286,41 +293,6 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-08-26T07:01:00.000Z",
       "snippet": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in…"
-    },
-    {
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-26T03:30:00.000Z",
-      "snippet": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
-    },
-    {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-26T00:40:59.000Z",
-      "snippet": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
-    },
-    {
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-26T00:06:20.000Z",
-      "snippet": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\""
-    },
-    {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-25T19:03:47.000Z",
-      "snippet": "The company's new fundraising total now stands at $232 million."
-    },
-    {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-25T17:50:33.000Z",
-      "snippet": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context."
     }
   ],
   "cloud": [
@@ -404,11 +376,18 @@
   ],
   "hardware": [
     {
-      "title": "SpaceX starts in-house turbine blade manufacturing to boost gas-powered generator output for Elon's AI data centers — new manufacturing strategy cuts generator delays by 18 months",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months",
+      "title": "Speedy 34-inch 240 Hz ultrawide OLED monitor now $600 off — LG UltraGear 34GX900A-B only $599.99",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/speedy-34-inch-240-hz-ultrawide-oled-monitor-now-usd600-off-lg-ultragear-34gx900a-b-only-usd599-99",
       "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T14:49:50.000Z",
-      "snippet": "Turbine blades and vanes are among the most complicated turbine engine parts to build, with processes taking as long as 60 to 90 weeks. Because of this, Musk wants to bring their manufacturing in-house at SpaceX."
+      "published": "2026-08-30T18:08:43.000Z",
+      "snippet": "The LG UltraGear 34GX900A-B packs a fast 240 Hz OLED panel and 3440 x 1440 resolution into an immersive 800R curved display, now available for 50% off."
+    },
+    {
+      "title": "DLSS 5 mod brings next-gen tech to old Ampere GPUs, but frame rates are horrible — most games tank to single digits, high-end GPUs can hit up to 40 FPS in some cases",
+      "link": "https://www.tomshardware.com/pc-components/gpus/dlss-5-mod-brings-next-gen-tech-to-old-ampere-gpus-but-frame-rates-are-horrible-most-games-tank-to-single-digits-high-end-gpus-can-hit-up-to-40-fps-in-some-cases",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-30T16:30:30.000Z",
+      "snippet": "DLSS 5 now runs on Ampere GPUs thanks to a patched DLL, but performance is expectedly poor for the most part. You can get up to 30-40 FPS in edge cases with minimum in-game settings, but newer titles can tank FPS to single digits."
     },
     {
       "title": "Donkey Kong 64 finally gets a fully native PC port written in C — DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code",
@@ -1025,44 +1004,9 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-26T09:30:00.000Z",
       "snippet": "Enthusiast turns a Lenovo Yoga laptop and an AMD Radeon RX 7900 XT into \"the world's stupidest\" desktop for local LLMs"
-    },
-    {
-      "title": "Commodore unveils striking Cyberpunk 2077 version of its C64U made in partnership with CD Projekt Red — Commodore 77 special edition uses more powerful AMD Artix XC7A100T processor",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/nda-5pm-et-tuesday-commodore-77-special-edition-c64u-uses-more-powerful-amd-artix-xc7a100t-processor-preorders-for-cyberpunk-2077-inspired-design-open-today-at-usd377",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T21:00:00.000Z",
-      "snippet": "A special edition of the Commodore 64 Ultimate made in collaboration with CD Projekt Red has been announced today. The new Commodore 77 takes its stylish inspiration from Cyberpunk 77, and is skillfully melded into the game's universe."
-    },
-    {
-      "title": "Hot Chips 2026: Samsung makes LPDDR5X smart with logic unit in memory — LPDDR5X-PIM is 3.01x faster than LPDDR5X in AI inference with 8x the bandwidth",
-      "link": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T18:31:37.000Z",
-      "snippet": "Samsung detailed the industry's first LPDDR5X-PIM at Hot Chips 2026, adding logic directly to memory to speed up data-intensive workloads like AI inference."
-    },
-    {
-      "title": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T18:05:23.000Z",
-      "snippet": "OpenAI arrived at Hot Chips on Tuesday with benchmarks claiming its first in-house chip beats Nvidia's GB300."
-    },
-    {
-      "title": "Hands-on with Hyte’s Y50 RGB case: Premium looks at an affordable price",
-      "link": "https://www.tomshardware.com/pc-components/pc-cases/hands-on-with-hytes-y50-rgb-case-premium-looks-at-an-affordable-price",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-25T17:00:00.000Z",
-      "snippet": "Hyte’s Y50 RGB is an affordable option for anyone looking to get a glass chassis with included ARGB fans."
     }
   ],
   "quantum": [
-    {
-      "title": "Pasqal Shares Nearly Double in Nasdaq Debut",
-      "link": "https://thequantuminsider.com/2026/08/29/pasqal-shares-nearly-double-in-nasdaq-debut/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-29T07:41:53.000Z",
-      "snippet": "Insider Brief Pasqal shares nearly doubled during the French quantum computing company’s first day of trading on Nasdaq, reflecting strong investor interest in one of Europe’s leading quantum hardware developers. The shares closed Friday at $19.11, up 95.2% from Bleichroeder Acquisition Corp. II’s previous closing price of $9.79. Pasqal opened at $16.98 and traded as […]"
-    },
     {
       "title": "Michaela Eichinger (Quantum Machines): Why classical compute and HPC integration will define useful quantum",
       "link": "https://thequantuminsider.com/2026/08/29/michaela-eichinger-quantum-machines-why-classical-compute-and-hpc-integration-will-define-useful-quantum/",
@@ -1314,13 +1258,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-26T06:18:50.000Z",
       "snippet": "Insider Brief Press release – Diraq, the silicon quantum computing pioneer, today announced the opening of its U.S. Technology Hub in Santa Monica, California. The hub brings together a 20-strong multi-disciplinary team with deep expertise in silicon spin qubits, tapping into Southern California’s uniquely deep concentration of quantum talent, and placing Diraq alongside the region’s […]"
-    },
-    {
-      "title": "Princeton to Lead $27.9M NSF Institute for Quantum Processor Manufacturing",
-      "link": "https://thequantuminsider.com/2026/08/25/princeton-to-lead-27-9m-nsf-institute-for-quantum-processor-manufacturing/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-25T17:58:02.000Z",
-      "snippet": "Insider Brief Press release – The U.S. National Science Foundation announced today that Princeton University will lead one of eight major initiatives to accelerate the development of quantum computing. The Princeton-led Quantum Leap Challenge Institute will devise techniques for fabricating hardware and develop education and workforce training programs that deepen U.S. leadership in quantum scienc"
     }
   ],
   "education": [
@@ -1358,13 +1295,6 @@
       "source": "eSchool News",
       "published": "2026-08-26T10:00:00.000Z",
       "snippet": "Clear, timely communication is the bedrock of the relationship between a school and its families. It is the invisible thread connecting a student’s classroom progress to the support they receive at home."
-    },
-    {
-      "title": "How Can AI Agents Support Lean Higher Ed Security Teams?",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/how-can-ai-agents-support-lean-higher-ed-security-teams",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-25T18:08:11.000Z",
-      "snippet": "Growing cyberthreats and limited head count create ongoing challenges for security teams at colleges and universities.\nAccording to research from Nile, 94% of higher education IT teams are understaffed amid rising cybersecurity threats. Artificial intelligence could be a way to augment their security strategies to free up staff and resources. \n“For organizations with lean security teams, there is "
     }
   ]
 }
