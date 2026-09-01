@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-01T00:13:00.000Z",
+      "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+    },
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-31T20:13:45.000Z",
+      "snippet": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
+    },
+    {
       "title": "Instagram puts new limits on undisclosed AI profiles",
       "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -15,7 +29,7 @@
       "snippet": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
     },
     {
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-08-31T18:00:00.000Z",
@@ -209,23 +223,23 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-27T06:32:51.000Z",
       "snippet": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
-    },
-    {
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T00:24:57.000Z",
-      "snippet": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
-    },
-    {
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-26T23:47:18.000Z",
-      "snippet": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
     }
   ],
   "cloud": [
+    {
+      "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
+      "source": "Cloud Blog",
+      "published": "2026-09-01T14:00:00.000Z",
+      "snippet": "Introduction \nBeginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BREEZE COMET (formerly UNC5669), a financially motivated threat actor specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers. Th"
+    },
+    {
+      "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
+      "source": "Cloud Blog",
+      "published": "2026-08-31T23:00:00.000Z",
+      "snippet": "Many of the questions that matter in enterprise data aren't just about individual rows — they're about how things connect: how two accounts are linked, what path a payment took, what context grounds an AI agent's answer. That’s what a graph is built to solve. Historically, unlocking these insights meant extracting data into standalone graph databases, creating silos and operational overhead. To re"
+    },
     {
       "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
       "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
@@ -253,6 +267,13 @@
       "source": "Cloud Blog",
       "published": "2026-08-31T16:00:00.000Z",
       "snippet": "Welcome back to What’s new in AI infrastructure and orchestration this month, a collection of product updates, how-tos, customer stories, research and other resources about all the AI compute, networks, storage, frameworks, and orchestration software that you can find at Google Cloud. To be honest, we thought August would be a slow month, but nothing could be further from the truth. Read on and yo"
+    },
+    {
+      "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
+      "source": "AWS News Blog",
+      "published": "2026-08-31T14:45:25.000Z",
+      "snippet": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CSV, and JSON. DuckDB stays open source under its independent foundation […]"
     },
     {
       "title": "What’s new with Google Cloud",
@@ -285,6 +306,13 @@
   ],
   "hardware": [
     {
+      "title": "TP-Link announces its first consumer Wi-Fi 8 routers — Archer 8 Ultra preorder commences September 30, in select regions",
+      "link": "https://www.tomshardware.com/networking/routers/tp-link-announces-its-first-consumer-wi-fi-8-routers-archer-8-ultra-preorder-commences-september-30-in-select-regions",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-01T04:00:00.000Z",
+      "snippet": "TP-Link’s Wi-Fi 8 launch remains complicated in the US due to ongoing FCC restrictions"
+    },
+    {
       "title": "Kingston's NV3 1TB PCIe 4.0 SSD drops to $156.99 at Newegg — 27% off brings it down to just 15.7 cents per GB",
       "link": "https://www.tomshardware.com/pc-components/ssds/kingstons-nv3-1tb-pcie-4-0-ssd-drops-to-usd156-99-at-newegg-27-percent-off-brings-it-down-to-just-15-7-cents-per-gb",
       "source": " Latest from Tom's Hardware ",
@@ -304,6 +332,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-31T17:05:57.000Z",
       "snippet": "President Donald Trump claims that communities rejecting AI data center constructions \"want to end up being backwards and poor.\""
+    },
+    {
+      "title": "Motorless solid-state cooler uses heat to cool itself; could recycle processor heat into cooling — shape-memory alloy films could turn data center exhaust into refrigeration",
+      "link": "https://www.tomshardware.com/tech-industry/manufacturing/motorless-solid-state-cooler-uses-heat-to-cool-itself-could-recycle-processor-heat-into-cooling-shape-memory-alloy-films-could-turn-data-center-exhaust-into-refrigeration",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-08-31T15:40:00.000Z",
+      "snippet": "German and Japanese researchers demonstrate a heat-driven elastocaloric cooler that uses shape-memory alloys to turn waste heat into cooling."
     },
     {
       "title": "Save $240 on a four-item gaming build combo from Newegg – $1,113 buys a Ryzen 7 9800X3D, 32GB of Corsair DDR5 RAM, a Gigabyte X870E Motherboard, plus a free 240mm AIO and AMD game bundle",
@@ -334,11 +369,11 @@
       "snippet": "xTool’s new F2 Ultra UV cuts and engraves with cold UV light."
     },
     {
-      "title": "The EU’s AI Drive Undermines Its ​Own Chip Strategy",
+      "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
       "link": "https://spectrum.ieee.org/europes-ai-drive",
       "source": "IEEE Spectrum",
       "published": "2026-08-31T14:00:04.000Z",
-      "snippet": "This story was originally published by Tech Policy Press.\nThe European Union’s push for technological sovereignty faces an uncomfortable contradiction.\nAs the EU rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that underpin artificial intelligence. Yet Europe produces fewer than 10 percent of the world’s chips and remain"
+      "snippet": "This story was originally published by Tech Policy Press.\nThe European Union’s push for technological sovereignty faces an uncomfortable contradiction.\nAs the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that underpin artificial intelligence. Yet Europe produces fewer than 10 percent of the world’s chips and rema"
     },
     {
       "title": "Key Nvidia and Intel supplier raided over alleged China origin fraud — Unimicron faces probe over PCB origin washing, risk of 40% U.S. tariff penalty",
@@ -716,7 +751,7 @@
       "link": "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing",
       "source": "IEEE Spectrum",
       "published": "2026-08-27T15:00:03.000Z",
-      "snippet": "On 6 August, the U.S. Government Accountability Office (GAO) released a report on the state of the 2022 CHIPS and Science Act, a bipartisan federal law passed under the Biden Administration to boost U.S. semiconductor manufacturing and R&D. While manufacturing projects funded by the act are making notable progress, the money earmarked for R&D remains mostly unused, and the Department of Commerce, "
+      "snippet": "On 6 August, the U.S. Government Accountability Office (GAO) released a report on the state of the 2022 CHIPS and Science Act, a bipartisan federal law passed under the Biden administration to boost U.S. semiconductor manufacturing and R&D. While manufacturing projects funded by the act are making notable progress, the money earmarked for R&D remains mostly unused, and the Department of Commerce, "
     },
     {
       "title": "Save up to 61% on gaming PCs, laptops, and more in HP's Labor Day 2026 sale — huge discounts on a range of hardware, monitors, and peripherals",
@@ -815,16 +850,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-27T09:13:54.000Z",
       "snippet": "Nvidia's Q2 FY2027 revenue tops $96 billion as the company commits to buy up to $160 billion worth of memory, increasing its total commitments to $279 billion ahead of a major demand bump."
-    },
-    {
-      "title": "Nvidia custom 'NVHBM' promises 30% higher bandwidth, 15% lower power than commodity HBM4e — custom base die and PHY will be available to NVLink Fusion partners",
-      "link": "https://www.tomshardware.com/pc-components/dram/nvidia-custom-nvhbm-promises-30-percent-higher-bandwidth-15-percent-lower-power-than-commodity-hbm4e-custom-base-die-and-phy-will-be-available-to-nvlink-fusion-partners",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-26T22:45:22.000Z",
-      "snippet": "Nvidia has unveiled NVHBM, a custom high-bandwidth memory implementation that promises higher bandwidth and lower power for customers building chips within the NVLink Fusion partner program."
     }
   ],
   "quantum": [
+    {
+      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center",
+      "link": "https://thequantuminsider.com/2026/08/31/diraq-to-deploy-a-quantum-computer-inside-an-equinix-data-center/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-31T22:03:02.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Diraq and Equinix, Inc. (Nasdaq: EQIX), the world’s digital infrastructure company®, today announced plans to deploy a Diraq quantum computer at an Equinix data center in Sydney, Australia. The deployment will mark the world’s first silicon spin quantum computer to operate in a shared commercial data center, bringing quantum computing […]"
+    },
     {
       "title": "Anyon Systems and KMT Technologies Partner to Expand Quantum Computing Deployment",
       "link": "https://thequantuminsider.com/2026/08/31/anyon-systems-kmt-technologies-quantum-computing-deployment/",
@@ -845,6 +880,13 @@
       "source": "The Quantum Insider",
       "published": "2026-08-31T14:45:04.000Z",
       "snippet": "Insider Brief PRESS RELEASE – QTREX Quantum Ltd. (Nasdaq: QTEX) (“QTREX” or the “Company”) a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure, today announced that it will publicly unveil its ultra-high-density interconnect architecture, capable of supporting 17,280 coaxial lines per cryogenic stage in full-scale commercial systems, .at "
+    },
+    {
+      "title": "Diffraqtion Raises More Than $10M for Quantum Camera Development",
+      "link": "https://thequantuminsider.com/2026/08/31/diffraqtion-raises-10m-lockheed-martin-presidio/",
+      "source": "The Quantum Insider",
+      "published": "2026-08-31T14:36:49.000Z",
+      "snippet": "Insider Brief PRESS RELEASE – Diffraqtion, an MIT and University of Maryland spinout building quantum camera platforms for defense and space sensing, today announced strategic investments from Lockheed Martin Ventures and Presidio Ventures, the venture arm of Sumitomo Corporation, bringing total funding to over $10M. Following strong investor interest, Diffraqtion elected to cap its pre-seed, […]"
     },
     {
       "title": "Pasqal and KACST Partner on Quantum-Safe Cryptography Research",
@@ -1037,6 +1079,13 @@
     }
   ],
   "education": [
+    {
+      "title": "AWS Program Gives College Students Access to AI and Cloud Resources",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/aws-program-gives-college-students-access-ai-and-cloud-resources",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-31T20:38:37.000Z",
+      "snippet": "Amazon Web Services recently announced the launch of Student Rewards, offering free educational and certification opportunities to verified university students. The company has committed more than $500 million in resources to support workforce development via artificial intelligence and cloud computing education for students enrolled in college. \nVerified students over the age of 18 can receive pr"
+    },
     {
       "title": "Why Trust Matters as Higher Ed Adopts AI Tools",
       "link": "https://edtechmagazine.com/higher/article/2026/08/why-trust-matters-higher-ed-adopts-ai-tools",
