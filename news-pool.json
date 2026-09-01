@@ -8,13 +8,6 @@
       "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
     },
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-31T20:13:45.000Z",
-      "snippet": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
-    },
-    {
       "title": "Instagram puts new limits on undisclosed AI profiles",
       "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -216,13 +209,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-27T11:35:59.000Z",
       "snippet": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
-    },
-    {
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T06:32:51.000Z",
-      "snippet": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
     }
   ],
   "cloud": [
@@ -239,13 +225,6 @@
       "source": "Cloud Blog",
       "published": "2026-08-31T23:00:00.000Z",
       "snippet": "Many of the questions that matter in enterprise data aren't just about individual rows — they're about how things connect: how two accounts are linked, what path a payment took, what context grounds an AI agent's answer. That’s what a graph is built to solve. Historically, unlocking these insights meant extracting data into standalone graph databases, creating silos and operational overhead. To re"
-    },
-    {
-      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
-      "source": "AWS News Blog",
-      "published": "2026-08-31T19:53:34.000Z",
-      "snippet": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics."
     },
     {
       "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
@@ -305,6 +284,41 @@
     }
   ],
   "hardware": [
+    {
+      "title": "$899 gets you a fully fledged DDR5 gaming PC in Best Buy's Labor Day sales — save $300 off the iBuypower Slate PC powered by Intel's B570 graphics with 10GB of VRAM",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/usd899-gets-you-a-fully-fledged-ddr5-gaming-pc-in-best-buys-labor-day-sales-save-usd300-off-the-ibuypower-slate-pc-powered-by-intels-b570-graphics-with-10gb-of-vram",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-01T11:20:38.000Z",
+      "snippet": "Save $300 on a brand-new iBuypower Slate gaming PC in the Best Buy Labor Day sales."
+    },
+    {
+      "title": "CXMT reportedly begins risk production of HBM3E memory in breakthrough for Chinese DRAM production — company could be in mass production in 2027",
+      "link": "https://www.tomshardware.com/pc-components/dram/cxmt-reportedly-begins-risk-production-of-hbm3e-memory-in-breakthrough-for-chinese-dram-production-company-could-be-in-mass-production-in-2027",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-01T10:30:00.000Z",
+      "snippet": "CXMT is reportedly sampling its HBM3E memory with Alibaba Group's T-Head and Cambricon Technologies."
+    },
+    {
+      "title": "Sony argues ‘reasonable consumers would not be misled’ into believing they own digital games in class action motion — PlayStation Store ‘buy’ button lawsuit may never reach a courtroom",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/playstation-store-buy-button-class-action-may-never-reach-a-courtroom",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-01T10:00:00.000Z",
+      "snippet": "Sony Interactive Entertainment asked a federal judge to push a proposed class action lawsuit over the PlayStation Store’s “buy” and “purchase” labels out of court and into individual arbitration."
+    },
+    {
+      "title": "Arm faces potential shareholder revolt over CEO's 'excessive' $800 million pay package — huge stock award would only be fully realised if chip designer hits $2 trillion valuation",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/arm-faces-potential-shareholder-revolt-over-ceos-excessive-usd800-million-pay-package-huge-stock-award-would-only-be-fully-realised-if-chip-designer-hits-usd2-trillion-valuation",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-01T10:00:00.000Z",
+      "snippet": "Proxy advisers kick against Arm's proposal to approve a performance pay plan that could award CEO Rene Haas about $800 million if the chip designer reaches a $2 trillion valuation."
+    },
+    {
+      "title": "Linux kernel nears record 2,000 vulnerabilities per release as AI bug hunters scour 40 million lines of code — maintainers say they are 'completely overwhelmed' by CVE finds",
+      "link": "https://www.tomshardware.com/software/linux/linux-kernel-nears-2-000-cves-per-release-as-ai-bug-hunters-scour-40-million-lines-of-code-maintainers-say-they-are-completely-overwhelmed",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-01T09:30:00.000Z",
+      "snippet": "AI-assisted bug hunting is driving Linux toward 2,000 CVEs per release, surfacing real flaws and mountains of low-priority work for overwhelmed maintainers."
+    },
     {
       "title": "TP-Link announces its first consumer Wi-Fi 8 routers — Archer 8 Ultra preorder commences September 30, in select regions",
       "link": "https://www.tomshardware.com/networking/routers/tp-link-announces-its-first-consumer-wi-fi-8-routers-archer-8-ultra-preorder-commences-september-30-in-select-regions",
@@ -794,65 +808,44 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-27T13:00:00.000Z",
       "snippet": "Alienware delivers an ultra-wide flagship with its AW3926QW. This curved 21:9 RGB Stripe Tandem OLED panel boasts 5120x2160 pixels (WUHD), 165 and 330 Hz modes, Adaptive-Sync, HDR10, Dolby Vision, HDR500 and wide gamut color."
-    },
-    {
-      "title": "Quantum computing used in 'first commercial game development' — IBM simulator generated maps, characters, and graphics in C.L.A.Y. RPG",
-      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/quantum-computing-used-in-first-commercial-game-development-ibm-simulator-generated-maps-characters-and-graphics-in-c-l-a-y-rpg",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-27T11:00:00.000Z",
-      "snippet": "Game studio MiTale Ltd. is promoting a narrative-driven post-apocalyptic RPG, which it claims is 'the first commercial game on the market utilizing quantum computing.'"
-    },
-    {
-      "title": "$215 discount turns Corsair's DDR5-6000 Vengeance memory kit into the cheapest 32GB of RAM at those speeds — 35% saving as stock dwindles and prices continue to rise",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/usd215-discount-turns-corsairs-ddr5-6000-vengeance-memory-kit-into-the-cheapest-32gb-of-ram-at-those-speeds-35-percent-saving-as-stock-dwindles-and-prices-continue-to-rise",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-27T10:44:57.000Z",
-      "snippet": "Corsair's Vengeance DDR5-6000 memory kit becomes the cheapest 32GB kit you can buy after a large $215 discount."
-    },
-    {
-      "title": "Beat PC component price rises with this unbelievably good value 9800X3D gaming desktop — get an RTX 5070, 32GB of DDR5, and a 2TB SSD all for less than $2,000",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/beat-pc-component-price-rises-with-this-unbelievably-good-value-9800x3d-gaming-desktop-get-an-rtx-5070-32gb-of-ddr5-and-a-2tb-ssd-all-for-less-than-usd2-000",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-27T10:44:47.000Z",
-      "snippet": "Get an RTX 5070, 9800X3D gaming PC with 32GB of DDR5 and a 2TB SSD for $1,999."
-    },
-    {
-      "title": "Resurrected RTX 3060 12GB price jumps 45% in the two months since it was revived — 2021-era GPU now costs nearly $500 across most retailers",
-      "link": "https://www.tomshardware.com/pc-components/gpus/resurrected-rtx-3060-12gb-price-jumps-45-percent-in-the-two-months-since-it-was-revived-2021-era-gpu-now-costs-nearly-usd500-across-most-retailers",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-27T10:30:00.000Z",
-      "snippet": "The RTX 3060 12GB was revived to offer consumers a budget GPU with a relatively large VRAM pool, but it has succumbed to the same fate as every other SKU like it. Launched at around $330, most variants now cost close to $500."
-    },
-    {
-      "title": "Polls reveal local utility hikes and noise drive US data center protests, not anti-AI sentiment— beliefs and political affiliation had minimal impact on AI data center views",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/polls-show-us-data-center-resistance-is-due-to-concerns-over-object-level-local-environmental-impact-beliefs-and-political-affiliation-had-minimal-impact-on-ai-data-center-views",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-27T10:00:00.000Z",
-      "snippet": "Data centers are facing bipartisan resistance from across the nation, but what's the reason behind this? The answer seems to be deceptively simple."
-    },
-    {
-      "title": "Hardware modder builds overclocked PS3 ‘Pro’ v3 with 3D-printed cooling mod — dual Noctua fans and server heatsinks provide FPS boost in 'almost every game'",
-      "link": "https://www.tomshardware.com/video-games/playstation/hardware-modder-builds-overclocked-ps3-pro-v3-with-3d-printed-cooling-mod-dual-noctua-fans-and-server-heatsinks-provide-fps-boost-in-almost-every-game",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-27T10:00:00.000Z",
-      "snippet": "A Sony PlayStation 3 console modder has shared images and details of their faster, cooler, and quieter ‘PS3 Pro v3’ design."
-    },
-    {
-      "title": "Atari revives 39 Activision games on cartridges that run seamlessly across five decades of hardware — Ultimate Deluxe collection that includes every title costs a wild $999.96",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/atari-drops-39-activision-games-on-cartridges-the-run-seamlessly-across-five-decades-of-hardware-ultimate-deluxe-collection-that-includes-every-title-clocks-in-at-usd999-96",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-27T09:30:00.000Z",
-      "snippet": "Atari teams up with Activision to launch the Atari x Activision Collection, featuring 39 iconic Activision titles."
-    },
-    {
-      "title": "Nvidia revenue tops $96 billion as memory commitments soar to $160 billion — CEO Jensen Huang says AI 'has reached its inflection point'",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-revenue-tops-usd96-billion-as-memory-commitments-soar-to-usd160-billion-ceo-jensen-huang-says-ai-has-reached-its-inflection-point",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-27T09:13:54.000Z",
-      "snippet": "Nvidia's Q2 FY2027 revenue tops $96 billion as the company commits to buy up to $160 billion worth of memory, increasing its total commitments to $279 billion ahead of a major demand bump."
     }
   ],
   "quantum": [
+    {
+      "title": "The Quantum Insider Launches TQI 2.0, A Comprehensive Intelligence Workspace For The Quantum Economy",
+      "link": "https://thequantuminsider.com/2026/09/01/the-quantum-insider-launches-tqi-2-0-a-comprehensive-intelligence-workspace-for-the-quantum-economy/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-01T10:21:38.000Z",
+      "snippet": "The Quantum Insider today announced the rollout of TQI 2.0, a major update to its data intelligence platform that transforms the service from a specialized quantum database into a comprehensive intelligence workspace designed to support strategic decision-making across the global quantum technology ecosystem. The new platform introduces expanded financial intelligence, AI-powered search, advanced "
+    },
+    {
+      "title": "Guest Post: The Quantum Industry is Both Overhyped And Underestimated",
+      "link": "https://thequantuminsider.com/2026/09/01/guest-post-the-quantum-industry-is-both-overhyped-and-underestimated/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-01T09:19:03.000Z",
+      "snippet": "Guest Post By Ian Foley The problem with quantum computing is not that the industry is moving too slowly. It is that different parts of it are moving at very different speeds. The science is advancing, capital has arrived early, and commercial adoption is still searching for its breakthrough moment. That mismatch explains both the […]"
+    },
+    {
+      "title": "Quantum-Classical Software Tests New Approach to Protein Folding",
+      "link": "https://thequantuminsider.com/2026/09/01/quantum-classical-software-tests-new-approach-to-protein-folding/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-01T09:05:00.000Z",
+      "snippet": "Insider Brief Researchers have developed a software package that uses quantum and classical computing to search for the shapes of short peptides, a package that could serve as an early approach to studying flexible proteins linked to cancer and other diseases. The open-source package, called QuPepFold, is designed to make quantum-assisted protein-folding simulations available to […]"
+    },
+    {
+      "title": "Quantum-Tunnelling Field-Effect Transistor Designed to Overcome Integrated-Circuit Chip Development Barriers",
+      "link": "https://thequantuminsider.com/2026/09/01/quantum-tunnelling-field-effect-transistor-designed-to-overcome-integrated-circuit-chip-development-barriers/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-01T08:35:00.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — The next generation of microelectronics relies on radical improvements in transistor switching performance to advance computing power. However, conventional semiconductor technology has hit a physical limit known as the “Boltzmann tyranny,” which restricts the energy efficiency of traditional transistors and stalls progress in high-performance electronics. To address "
+    },
+    {
+      "title": "MIT Quantum Initiative Launches Postdoctoral Fellowship Program",
+      "link": "https://thequantuminsider.com/2026/09/01/mit-quantum-initiative-launches-postdoctoral-fellowship-program/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-01T07:46:46.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — The MIT Quantum Initiative (QMIT) has launched a new postdoctoral fellowship program to accelerate interdisciplinary quantum research and develop the next generation of scientific leaders working at the frontiers of quantum science and technology. Supported by a grant from the Gordon and Betty Moore Foundation, the program reflects QMIT’s vision of expanding […]"
+    },
     {
       "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center",
       "link": "https://thequantuminsider.com/2026/08/31/diraq-to-deploy-a-quantum-computer-inside-an-equinix-data-center/",
@@ -1041,50 +1034,15 @@
       "source": "The Quantum Insider",
       "published": "2026-08-27T11:33:12.000Z",
       "snippet": "Insider Brief A team of Singapore-based researchers reports that a hybrid quantum-classical method could offer a new route to studying drug candidates using today’s Noisy Intermediate-Stage Quantum (NISQ) devices. The researchers used the method to examine how two small molecules bind to proteins. In both tests, the quantum computer identified the same molecular contacts as […]"
-    },
-    {
-      "title": "Finland’s Defence Tech Hub Expands Quantum and Dual-Use Technology Ecosystem",
-      "link": "https://thequantuminsider.com/2026/08/27/finlands-defence-tech-hub-expands-quantum-and-dual-use-technology-ecosystem/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-27T10:18:13.000Z",
-      "snippet": "Insider Brief Press release – A strong defence technology cluster has emerged within Espoo’s innovation ecosystem. Today, Defence Tech Hub brings together over 100 companies developing cutting-edge technologies for both civilian and defence applications. The hub is now consolidating its operations into an ecosystem where most of the operators are in Otaniemi, Espoo. Defence Tech […]"
-    },
-    {
-      "title": "Quantum eMotion’s Quantum Entropy Source Submitted for NIST Validation",
-      "link": "https://thequantuminsider.com/2026/08/27/quantum-emotion-submits-quantum-entropy-module-for-nist-review/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-27T10:01:51.000Z",
-      "snippet": "Insider Brief Press release – Quantum eMotion Corp. (“QeM” or the “Company”) (NYSE American: QNC; TSXV: QNC; FSE: 34Q0), a leader in quantum-secure cybersecurity solutions, today announced that Lightship Security Inc. has completed its independent assessment of QeM’s eCore-Q PCIe Quantum Entropy Module and submitted the supporting validation package through the production Entropy Source Validation"
-    },
-    {
-      "title": "ColibriTD Raises €4M to Expand Quantum Simulation Software",
-      "link": "https://thequantuminsider.com/2026/08/27/colibritd-raises-4m-to-expand-quantum-simulation-software/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-27T09:43:36.000Z",
-      "snippet": "Insider Brief Press release – ColibriTD, the French quantum software company specializing in multiphysics simulation, today announced the closing of a €4M Seed round led by Earlybird Venture Capital, with participation from, SymbiaVC and Medin VC. The round follows Earlybird’s initial €1M Pre-Seed investment in the company and will be deployed across R&D on H-DES, […]"
-    },
-    {
-      "title": "Cancer May Behave Like a Quantum System, Columbia Studies Suggest",
-      "link": "https://thequantuminsider.com/2026/08/27/cancer-may-behave-like-a-quantum-system-columbia-studies-suggest/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-27T08:05:17.000Z",
-      "snippet": "Insider Brief Cancer cells may behave in a way that resembles one of the defining rules of quantum physics, occupying only a limited number of stable states rather than an unlimited range of biological forms, according to Columbia University researchers. The comparison does not mean cancer is driven by quantum effects at the atomic level. […]"
-    },
-    {
-      "title": "Atsign Updates Core SDKs with NIST-Approved Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/08/27/atsign-adds-nist-approved-pqc-to-core-sdks/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-27T07:00:00.000Z",
-      "snippet": "Insider Brief Press release – Atsign today announced the integration of NIST-approved, Post-Quantum Cryptography (PQC) across its core SDKs. The integration gives developers and enterprise teams a zero-code-rewrite path to protecting sensitive data flows against emerging quantum threats. Breaking the key elements of current cryptographic techniques, such as digital signatures, digital identity and"
     }
   ],
   "education": [
     {
-      "title": "AWS Program Gives College Students Access to AI and Cloud Resources",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/aws-program-gives-college-students-access-ai-and-cloud-resources",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-31T20:38:37.000Z",
-      "snippet": "Amazon Web Services recently announced the launch of Student Rewards, offering free educational and certification opportunities to verified university students. The company has committed more than $500 million in resources to support workforce development via artificial intelligence and cloud computing education for students enrolled in college. \nVerified students over the age of 18 can receive pr"
+      "title": "We stopped waiting for the teacher pipeline–we built our own",
+      "link": "https://www.eschoolnews.com/educational-leadership/2026/09/01/we-stopped-waiting-for-the-teacher-pipeline-we-built-our-own/",
+      "source": "eSchool News",
+      "published": "2026-09-01T10:00:00.000Z",
+      "snippet": "Every hiring season, school districts ask the same question: Where are the teachers? We stopped asking and started building."
     },
     {
       "title": "Why Trust Matters as Higher Ed Adopts AI Tools",
@@ -1113,13 +1071,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-08-27T16:41:10.000Z",
       "snippet": "In higher education, the standard advice on data governance has been pretty simple for a long time: Build a council, centralize decisions and route everything through IT.\nFor a while, that works. You stand up a committee, you write a charter, you centralize definitions and approvals. And then, quietly, the model stops working. IT becomes the bottleneck for every data question on campus. You’re cha"
-    },
-    {
-      "title": "Students won’t remember every lesson, but here’s what’ll stick",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/08/27/students-wont-remember-every-lesson-but-heres-whatll-stick/",
-      "source": "eSchool News",
-      "published": "2026-08-27T10:00:00.000Z",
-      "snippet": "For a lot of students, school can feel like a transaction: You do the work, you get the check mark, and then you move on. That model can unintentionally cap what students show us about what they know and can do."
     }
   ]
 }
