@@ -1,6 +1,41 @@
 {
   "ai": [
     {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T20:19:14.000Z",
+      "snippet": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T17:18:13.000Z",
+      "snippet": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]"
+    },
+    {
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T17:09:57.000Z",
+      "snippet": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]"
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T17:09:06.000Z",
+      "snippet": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads."
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T16:04:10.000Z",
+      "snippet": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
+    },
+    {
       "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
       "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -12,7 +47,7 @@
       "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-02T15:01:23.000Z",
-      "snippet": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others."
+      "snippet": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
     },
     {
       "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
@@ -216,27 +251,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-29T13:00:00.000Z",
       "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
-    },
-    {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-28T20:24:11.000Z",
-      "snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-28T19:30:38.000Z",
-      "snippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
-    },
-    {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-28T18:19:40.000Z",
-      "snippet": "There's a lot of capital pouring into the business of giving models away."
     }
   ],
   "cloud": [
@@ -255,7 +269,7 @@
       "snippet": "AI models have clearly proven their ability to discover and exploit vulnerabilities without much, if any, human assistance. To help defenders gain the advantage with AI, we built the Mantis harness to automate the discovery, triage, reproduction, and patching of software vulnerabilities. \nAvailable to all as an open-source framework, Mantis is part of Google’s internal approach to find and fix vul"
     },
     {
-      "title": "How Blackline simplifies perimeter policy intelligence with VPC Service Controls",
+      "title": "How BlackLine simplifies perimeter policy intelligence with VPC Service Controls",
       "link": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
       "source": "Cloud Blog",
       "published": "2026-09-01T16:00:00.000Z",
@@ -267,6 +281,13 @@
       "source": "Cloud Blog",
       "published": "2026-09-01T16:00:00.000Z",
       "snippet": "Editor’s note: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more.\n\n\nThis month, we focused on making AI highly practical for your business, including its associated costs. This meant tailoring our models for specialized industries – starting with Financial Services and Leg"
+    },
+    {
+      "title": "Introducing TabFM in BigQuery: Predictive analytics reimagined",
+      "link": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
+      "source": "Cloud Blog",
+      "published": "2026-09-01T16:00:00.000Z",
+      "snippet": "Historically, enterprise predictive analytics tasks such as predicting churn, purchase intent, or fraud scoring have meant building custom models using libraries like XGBoost, Random Forest, or Deep Neural Networks (DNNs). While effective, the traditional train-tune-deploy-retrain cycle can be complex and time-consuming. Additionally, the overhead of manual feature engineering, hyperparameter tuni"
     },
     {
       "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
@@ -353,6 +374,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-02T14:43:10.000Z",
       "snippet": "GoPro is merging with optical-photonics company Starman Optical in a deal worth at least $285 million. This move will wipe out the company's $92 million outstanding debt, let it start manufacturing its cameras in the U.S., and expand its portfolio to include optical transceivers for AI data centers."
+    },
+    {
+      "title": "Samsung teases new HBM5 with twice the performance of HBM4E —ambitious data transfer rates could hint at 4,096-bit interface",
+      "link": "https://www.tomshardware.com/pc-components/dram/samsung-teases-new-hbm5-with-twice-the-performance-of-hbm4e-ambitious-data-transfer-rates-could-hint-at-4-096-bit-interface",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T14:38:20.000Z",
+      "snippet": "Samsung expects HBM5 to deliver 4 TB/s of bandwidth per stack by late 2020s, which will enable AI accelerators with aggregated memory bandwidth of around 100 TB/s."
     },
     {
       "title": "Russian hacker faces up to 20 years in prison, following extradition and indictment over US phishing campaign that allegedly infected 80,000 PCs — hacker stole victims' data via remote access",
@@ -889,6 +917,34 @@
   ],
   "quantum": [
     {
+      "title": "Quobly and TNO Partner on Silicon Spin Qubit Development",
+      "link": "https://thequantuminsider.com/2026/09/02/quobly-tno-mou-industrialization-silicon-spin-qubits/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T18:54:26.000Z",
+      "snippet": "Insider Brief PRESS RELEASE – Quobly, a French quantum computing company developing industrially scalable quantum computers based on silicon spin qubits, and TNO, the Netherlands Organisation for Applied Scientific Research, have signed a Memorandum of Understanding (MoU) to strengthen their technical cooperation on the development and industrialization of silicon spin qubit technology. The agreem"
+    },
+    {
+      "title": "Quandela Joins Canada’s Quantum Computing Sandbox With Photonic Quantum Platform",
+      "link": "https://thequantuminsider.com/2026/09/02/quandela-canada-quantum-computing-sandbox-photonic-platform/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T18:46:36.000Z",
+      "snippet": "Insider Brief PRESS RELEASE – Quandela, a leading player in photonic quantum  computing technologies, has signed a memorandum of understanding with  CMC Microsystems to join the Quantum Computing Sandbox as a provider of cloud-based  computing services. Quandela’s expertise, based within the country, now joins forces with  other providers to offer a comprehensive suite of quantum […]"
+    },
+    {
+      "title": "Scientists Observe Einstein’s Gravity in The Quantum World",
+      "link": "https://thequantuminsider.com/2026/09/02/scientists-observe-einsteins-gravity-in-the-quantum-world/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T18:05:00.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — An international team including Nobel Prize-winning physicist Professor Sir Roger Penrose has observed a long-predicted effect of gravity on a falling quantum object for the first time. The result shows that a fundamental principle at the heart of Einstein’s theory of gravity remains consistent with the behaviour of matter in […]"
+    },
+    {
+      "title": "PsiQuantum and Brookhaven Lab Partner on Fault-Tolerant Quantum Algorithms",
+      "link": "https://thequantuminsider.com/2026/09/02/psiquantum-brookhaven-quantum-application-development-construct/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T13:46:15.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — PsiQuantum and the U.S. Department of Energy’s (DOE) Brookhaven National Laboratory today announced a collaboration that will leverage PsiQuantum’s software platform, Construct, to support Brookhaven Lab scientists researching new algorithms and scientific applications for the first generation of fault-tolerant quantum computers.   “We are excited to partner with PsiQ"
+    },
+    {
       "title": "Pasqal and True Nexus Apply Quantum Computing to Protein Gelation",
       "link": "https://thequantuminsider.com/2026/09/02/pasqal-true-nexus-quantum-computing-protein-function/",
       "source": "The Quantum Insider",
@@ -1111,30 +1167,16 @@
       "source": "The Quantum Insider",
       "published": "2026-08-29T07:00:00.000Z",
       "snippet": "Yuval Boger interviews Michaela Eichinger, a product solutions physicist at Quantum Machines and the author of a widely read quantum computing newsletter. They discuss her transition from academia to industry, her fascination with systems-level views of the quantum stack, and the role of communication in building the quantum ecosystem. The conversation covers the state of […]"
-    },
-    {
-      "title": "Canada Invests CAD $195 Million in Xanadu for Quantum Manufacturing",
-      "link": "https://thequantuminsider.com/2026/08/28/canada-195-million-xanadu-quantum-manufacturing/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-28T18:27:50.000Z",
-      "snippet": "Insider Brief PRESS RELEASE – Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, today announced it has signed a definitive agreement with the Government of Canada for CAD $195 million support through the Strategic Response Fund, administered by Innovation, Science and Economic Development Canada. The funding, which represents the larges"
-    },
-    {
-      "title": "Italian Court Upholds Halt to IBM’s €61 Million Campania Quantum Contract",
-      "link": "https://thequantuminsider.com/2026/08/28/italian-court-upholds-halt-to-ibms-e61-million-campania-quantum-contract/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-28T18:21:50.000Z",
-      "snippet": "Insider Brief Italy’s highest administrative court has upheld the cancellation of a €61.2 million contract awarded to IBM Italia for the first quantum computer planned for the Campania region. The Council of State rejected an appeal by the Campania regional government and confirmed an earlier ruling that found problems with how the bidding process was […]"
-    },
-    {
-      "title": "New Mexico Offers Matching Funds for DARPA Quantum Computing Projects",
-      "link": "https://thequantuminsider.com/2026/08/28/new-mexico-darpa-quantum-benchmarking-matching-funds/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-28T18:19:41.000Z",
-      "snippet": "Insider Brief PRESS RELEASE – New Mexico is offering matching funds to quantum companies pursuing DARPA’s Quantum Benchmarking Initiative (QBI) Stage C to bring that work to New Mexico. Economic Development New Mexico’s Technology and Innovation Office (TIO) announced today that QBI Stage C has been added to the list of priority federal programs eligible […]"
     }
   ],
   "education": [
+    {
+      "title": "What Shadow IT Can Teach Higher Ed Tech Leaders About the Faculty Experience",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/what-shadow-it-can-teach-higher-ed-tech-leaders-about-faculty-experience",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-02T20:43:24.000Z",
+      "snippet": "Higher education IT leaders increasingly aim to consolidate digital tools and reduce friction. To do so, they first must address the shadow IT concerns emerging from faculty going rogue and creating their own work-arounds.\nBy and large, higher ed faculty seek out shadow IT not to create problems but to solve problems their current technology setup cannot address. \n“Usually, shadow IT is not done f"
+    },
     {
       "title": "A new approach to middle school math data boosted our state test scores",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/02/a-new-approach-to-middle-school-math-data/",
@@ -1148,6 +1190,13 @@
       "source": "eSchool News",
       "published": "2026-09-01T10:00:00.000Z",
       "snippet": "Every hiring season, school districts ask the same question: Where are the teachers? We stopped asking and started building."
+    },
+    {
+      "title": "AWS Program Gives College Students Access to AI and Cloud Resources",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/aws-program-gives-college-students-access-ai-and-cloud-resources",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-31T20:38:37.000Z",
+      "snippet": "Amazon Web Services recently announced the launch of Student Rewards, offering free educational and certification opportunities to verified university students. The company has committed more than $500 million in resources to support workforce development via artificial intelligence and cloud computing education for students enrolled in college. \nVerified students over the age of 18 can receive pr"
     },
     {
       "title": "Why Trust Matters as Higher Ed Adopts AI Tools",
