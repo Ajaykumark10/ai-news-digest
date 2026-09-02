@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-01T22:08:24.000Z",
+      "snippet": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-01T20:53:05.000Z",
+      "snippet": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements."
+    },
+    {
       "title": "Anthropic’s new Fable release is cheaper, less restrictive",
       "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -188,13 +202,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-28T12:21:06.000Z",
       "snippet": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
-    },
-    {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T23:16:45.000Z",
-      "snippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
     }
   ],
   "cloud": [
@@ -225,13 +232,6 @@
       "source": "Cloud Blog",
       "published": "2026-09-01T14:00:00.000Z",
       "snippet": "Introduction \nBeginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BREEZE COMET (formerly UNC5669), a financially motivated threat actor specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers. Th"
-    },
-    {
-      "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
-      "source": "Cloud Blog",
-      "published": "2026-08-31T23:00:00.000Z",
-      "snippet": "Many of the questions that matter in enterprise data aren't just about individual rows — they're about how things connect: how two accounts are linked, what path a payment took, what context grounds an AI agent's answer. That’s what a graph is built to solve. Historically, unlocking these insights meant extracting data into standalone graph databases, creating silos and operational overhead. To re"
     },
     {
       "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
@@ -291,13 +291,6 @@
     }
   ],
   "hardware": [
-    {
-      "title": "Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pours-usd3-5-billion-into-mediatek-company-will-adopt-nvlink-fusion-for-its-custom-ai-accelerators",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T14:42:22.000Z",
-      "snippet": "Nvidia invests $3.5 billion in MediaTek as the companies expand their partnership into custom AI infrastructure with NVLink Fusion, local AI computing, and automotive platforms."
-    },
     {
       "title": "Alienware 16X Aurora review: A thoroughly competent gaming laptop",
       "link": "https://www.tomshardware.com/laptops/gaming-laptops/alienware-16x-aurora-review",
@@ -798,13 +791,6 @@
       "snippet": "Insider Brief PRESS RELEASE – Arqit Quantum Inc. (NASDAQ: ARQQ, ARQQW), a global leader in quantum-safe encryption, Es’hailSat – the Qatar Satellite Company – a world-class satellite operator and service provider with coverage spanning the MENA region – and Advanced International Electronic Equipment Company (AIEE), a specialist systems integrator for secure communications infrastructure, today an"
     },
     {
-      "title": "QC Ware and IonQ Demonstrate Hybrid Quantum Chemistry Workflow for Drug Discovery",
-      "link": "https://thequantuminsider.com/2026/09/01/qc-ware-ionq-hybrid-quantum-chemistry-drug-discovery/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-01T12:59:34.000Z",
-      "snippet": "Insider Brief PRESS RELEASE – QC Ware today announced a technology demonstration of a hybrid quantum-classical chemistry workflow using its Promethium® platform and IonQ‘s Forte trapped-ion quantum computer via Amazon Braket. The demonstration modeled the heme active site of cytochrome P450nor, a nitric oxide reductase in the cytochrome P450 superfamily — the same superfamily whose […]"
-    },
-    {
       "title": "The Quantum Insider Launches TQI 2.0, A Comprehensive Intelligence Workspace For The Quantum Economy",
       "link": "https://thequantuminsider.com/2026/09/01/the-quantum-insider-launches-tqi-2-0-a-comprehensive-intelligence-workspace-for-the-quantum-economy/",
       "source": "The Quantum Insider",
@@ -1008,13 +994,6 @@
       "source": "eSchool News",
       "published": "2026-09-01T10:00:00.000Z",
       "snippet": "Every hiring season, school districts ask the same question: Where are the teachers? We stopped asking and started building."
-    },
-    {
-      "title": "AWS Program Gives College Students Access to AI and Cloud Resources",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/aws-program-gives-college-students-access-ai-and-cloud-resources",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-31T20:38:37.000Z",
-      "snippet": "Amazon Web Services recently announced the launch of Student Rewards, offering free educational and certification opportunities to verified university students. The company has committed more than $500 million in resources to support workforce development via artificial intelligence and cloud computing education for students enrolled in college. \nVerified students over the age of 18 can receive pr"
     },
     {
       "title": "Why Trust Matters as Higher Ed Adopts AI Tools",
