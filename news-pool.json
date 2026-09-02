@@ -1,6 +1,48 @@
 {
   "ai": [
     {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T16:01:48.000Z",
+      "snippet": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
+    },
+    {
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T15:01:23.000Z",
+      "snippet": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others."
+    },
+    {
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T14:56:34.000Z",
+      "snippet": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
+    },
+    {
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T14:03:57.000Z",
+      "snippet": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-02T14:00:00.000Z",
+      "snippet": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…"
+    },
+    {
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T12:09:42.000Z",
+      "snippet": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed."
+    },
+    {
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
       "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -195,36 +237,29 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-28T18:19:40.000Z",
       "snippet": "There's a lot of capital pouring into the business of giving models away."
-    },
-    {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-28T12:46:12.000Z",
-      "snippet": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-28T12:21:06.000Z",
-      "snippet": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
     }
   ],
   "cloud": [
+    {
+      "title": "Simplify pipelines with new BigQuery identity columns",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
+      "source": "Cloud Blog",
+      "published": "2026-09-02T16:00:00.000Z",
+      "snippet": "To further empower our customers in their data journey, we are excited to announce the launch of identity columns in BigQuery. This new feature allows users to define columns that automatically generate sequential 64-bit integer values, simplifying the way you manage unique identifiers within your tables.\nData engineers are always looking for ways to make data ingestion smoother and more reliable."
+    },
+    {
+      "title": "Getting started with Mantis, our open-source bug finding-and-fixing harness",
+      "link": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
+      "source": "Cloud Blog",
+      "published": "2026-09-02T16:00:00.000Z",
+      "snippet": "AI models have clearly proven their ability to discover and exploit vulnerabilities without much, if any, human assistance. To help defenders gain the advantage with AI, we built the Mantis harness to automate the discovery, triage, reproduction, and patching of software vulnerabilities. \nAvailable to all as an open-source framework, Mantis is part of Google’s internal approach to find and fix vul"
+    },
     {
       "title": "How Blackline simplifies perimeter policy intelligence with VPC Service Controls",
       "link": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
       "source": "Cloud Blog",
       "published": "2026-09-01T16:00:00.000Z",
       "snippet": "Establishing network-level perimeters with VPC Service Controls (VPC-SC) is a critical step that can help you protect your cloud environment against data exfiltration, compromised accounts, and insider threats.\nToday, Google Cloud is excited to share new policy intelligence capabilities in VPC-SC that can help drive even greater operational simplicity. With our latest release of the VPC-SC violati"
-    },
-    {
-      "title": "Introducing TabFM in BigQuery: Predictive analytics reimagined",
-      "link": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
-      "source": "Cloud Blog",
-      "published": "2026-09-01T16:00:00.000Z",
-      "snippet": "Historically, enterprise predictive analytics tasks such as predicting churn, purchase intent, or fraud scoring have meant building custom models using libraries like XGBoost, Random Forest, or Deep Neural Networks (DNNs). While effective, the traditional train-tune-deploy-retrain cycle can be complex and time-consuming. Additionally, the overhead of manual feature engineering, hyperparameter tuni"
     },
     {
       "title": "What Google Cloud announced in AI this month",
@@ -295,16 +330,128 @@
       "source": "AWS News Blog",
       "published": "2026-08-31T14:45:25.000Z",
       "snippet": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CSV, and JSON. DuckDB stays open source under its independent foundation […]"
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "source": "Cloud Blog",
-      "published": "2026-08-28T16:00:00.000Z",
-      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nAug 24 - A"
     }
   ],
   "hardware": [
+    {
+      "title": "Microsoft will expand Windows 11 Memory Integrity feature to more PCs starting in October — security feature reduces gaming performance on some systems",
+      "link": "https://www.tomshardware.com/software/windows/microsoft-will-expand-windows-11-memory-integrity-feature-to-more-pcs-starting-in-october-security-feature-reduces-gaming-performance-on-some-systems",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T16:07:29.000Z",
+      "snippet": "Microsoft will begin enabling Memory Integrity by default on more eligible Windows PCs through quality updates in October, expanding kernel-level protection while preserving existing opt-outs for users who previously disabled the feature."
+    },
+    {
+      "title": "The current state of Hybrid Bonding in 2026 — TSMC sits at 6 microns and the HBM delay that nobody expected",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T15:05:41.000Z",
+      "snippet": "Hybrid bonding, the copper-to-copper joining technique that replaces solder microbumps in 3D chip stacks, is in high-volume production on logic and freshly postponed on memory."
+    },
+    {
+      "title": "GoPro to expand into AI data centers after $285 million merger with optical-photonics company — move to solve camera maker’s financial woes, move manufacturing back into the US",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/gopro-to-expand-into-ai-data-centers-after-usd285-million-merger-with-optical-photonics-company-move-to-solve-camera-makers-financial-woes-move-manufacturing-back-into-the-us",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T14:43:10.000Z",
+      "snippet": "GoPro is merging with optical-photonics company Starman Optical in a deal worth at least $285 million. This move will wipe out the company's $92 million outstanding debt, let it start manufacturing its cameras in the U.S., and expand its portfolio to include optical transceivers for AI data centers."
+    },
+    {
+      "title": "Russian hacker faces up to 20 years in prison, following extradition and indictment over US phishing campaign that allegedly infected 80,000 PCs — hacker stole victims' data via remote access",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/russian-hacker-faces-up-to-20-years-in-prison-following-extradition-and-indictment-over-us-phishing-campaign-that-allegedly-infected-80-000-pcs-hacker-stole-victims-data-via-remote-access",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T14:22:37.000Z",
+      "snippet": "Russian national faces US charges over a phishing campaign that allegedly infected 80,000 PCs and stole credentials and personal data"
+    },
+    {
+      "title": "Tape companies ship 160 exabytes of storage in 2025, AI data demands drive 'unprecedented data growth' — capacity shipped in Q1 2026 rose 57% YOY driven by AI, LTO‑9 momentum, and early LTO‑10 uptake",
+      "link": "https://www.tomshardware.com/pc-components/storage/tape-companies-ship-160-exabytes-of-storage-in-2025-ai-data-demands-drive-unprecedented-data-growth-capacity-shipped-in-q1-2026-rose-57-percent-yoy-driven-by-ai-lto-9-momentum-and-early-lto-10-uptake",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T13:24:55.000Z",
+      "snippet": "Tape storage companies celebrate capacity shipment growth of 57% YOY for Q1 2026."
+    },
+    {
+      "title": "We explored early DLSS 5 performance with community mods — and the limits of the 12V-2x6 power connector may hold it back on the RTX 5090",
+      "link": "https://www.tomshardware.com/pc-components/gpus/we-explored-early-dlss-5-performance-with-community-mods-and-the-limits-of-the-12v-2x6-power-connector-may-hold-it-back-on-the-rtx-5090",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T13:21:38.000Z",
+      "snippet": "DLSS 5 officially releases later this week, but we tested it on the RTX 5090 using community mods to see what kind of performance drop and extra power draw you can expect."
+    },
+    {
+      "title": "FBI investigating 153 million US and Canadian driver’s licenses leaked on Russian cybercrime forum, including that of US SecDef Pete Hegseth — data is suspected to have come from an ID-authentication service provider",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-investigating-153-million-us-and-canadian-drivers-licenses-leaked-on-russian-cybercrime-forum-including-that-of-us-secdef-pete-hegseth-data-is-suspected-to-have-come-from-an-id-authentication-service-provider",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T13:14:05.000Z",
+      "snippet": "The leak was traced to a major ID-authentication service based in Louisiana, serving major companies like Hertz, Target, and the United States Coast Guard."
+    },
+    {
+      "title": "$30 buys you a brand-new HyperX gaming headset — save 40% on the CloudX Stinger 2 with massive 50mm drivers",
+      "link": "https://www.tomshardware.com/peripherals/gaming-headsets/usd30-buys-you-a-brand-new-hyperx-gaming-headset-save-40-percent-on-the-cloudx-stinger-2-with-massive-50mm-drivers",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T13:12:33.000Z",
+      "snippet": "With a massive 40% knocked off the list price, the HyperX CloudX Stinger 2 is only $29.99 on the HyperX store."
+    },
+    {
+      "title": "Fractal Define One case review: Balancing noise and thermals",
+      "link": "https://www.tomshardware.com/pc-components/pc-cases/fractal-define-one-case-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T13:05:00.000Z",
+      "snippet": "Fractal’s Define One rounds off the boxy Define, while still keeping the iconic closed-front design. A focus on GPU airflow and three included Momentum 14 fans highlight this $154 mid-tower chassis."
+    },
+    {
+      "title": "Fractal Summit case review: real wood accents scream premium, but it only stands out in white or black",
+      "link": "https://www.tomshardware.com/pc-components/pc-cases/fractal-summit-case-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T13:00:00.000Z",
+      "snippet": "The Fractal Summit is a good-looking, open-face mid-tower with real wood accents that's easy to build in. But noise-normalized thermals landed a bit warmer than we expected."
+    },
+    {
+      "title": "Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy",
+      "link": "https://www.tomshardware.com/cameras/korean-researchers-build-usd7-hidden-camera-detector-gadget-uses-led-lights-and-ai-to-separate-reflections-from-lenses",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T12:20:00.000Z",
+      "snippet": "This gadget only costs $7 but can help your catch hidden cameras through the use of the companion AI app that installs on your phone. It works by changing the location of the LED light source to compare different reflections and determine if it's a hidden camera or not."
+    },
+    {
+      "title": "Questionable PC power supply 'explodes,' bursts into flames the moment it's plugged into a socket in viral video — video captures moment repair shop worker avoids disaster",
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/questionable-pc-power-supply-explodes-bursts-into-flames-the-moment-its-plugged-into-a-socket-viral-video-captures-moment-repair-shop-worker-avoids-disaster",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T11:40:00.000Z",
+      "snippet": "Clearly, one PSU in Vietnam did not live up to this expectation, as CCTV footage from a shop shows it bursting into flames as soon as it's plugged into the socket. Even though it caught on fire, thankfully, no one was injured as the tester acted quickly to cut it off from the wall."
+    },
+    {
+      "title": "EFF asks California governor to veto bill that would require online age verification — Electronic Frontier Foundation argues bill would result in privacy-invasive checks and step on First Amendment",
+      "link": "https://www.tomshardware.com/tech-industry/eff-asks-california-governor-to-veto-bill-that-would-require-online-age-verification-electronic-frontier-foundation-argues-bill-would-result-in-privacy-invasive-checks-and-step-on-first-amendment",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T11:20:00.000Z",
+      "snippet": "Electronic Frontier Foundation asks California governor to veto bill that would require online age verification — EFF argues A.B. 1709 would result in privacy-invasive checks and step on First Amendment"
+    },
+    {
+      "title": "This 32GB DDR5 RAM kit is now the cheapest on sale, dropping back under $400 — 13% discount on an unflashy PNY memory kit for new gaming PC builds or upgrades",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/this-32gb-ddr5-ram-kit-is-now-the-cheapest-on-sale-dropping-back-under-usd400-13-percent-discount-on-an-unflashy-pny-memory-kit-for-new-gaming-pc-builds-or-upgrades",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T11:13:14.000Z",
+      "snippet": "This 32GB DDR5 memory kit from PNY is the cheapest you'll find on sale at the moment, now just $399.99."
+    },
+    {
+      "title": "AI data center investment projected to hit $32 trillion by 2050 — infrastructure spending estimated to exceed capital requirements for railways, electrification, or the internet",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-investment-projected-to-hit-usd32-trillion-by-2050-infrastructure-spending-estimated-to-exceed-capital-requirements-for-railways-electrification-or-the-internet",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T11:00:26.000Z",
+      "snippet": "These investments aren't massive one-time expenses — data center operators are expected to upgrade their expensive GPUs and related infrastructure every four to six years, as new semiconductor technologies arrive on the market."
+    },
+    {
+      "title": "Techie creates a database of coil-whining graphics cards, power supplies, and liquid cooler pumps — open-source project wants community reports of affected parts",
+      "link": "https://www.tomshardware.com/pc-components/techie-creates-a-database-of-coil-whining-graphics-cards-power-supplies-and-liquid-cooler-pumps-open-source-project-wants-community-reports-of-affected-parts",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T11:00:00.000Z",
+      "snippet": "Techie creates a database of coil-whining graphics cards, PSUs, and AIO pumps — open-source project wants community reports of affected parts"
+    },
+    {
+      "title": "Startups want to rent your idle gaming PC for AI tasks — Startups pitch an 'Airbnb for AI inference,' but profitability remains unproven",
+      "link": "https://www.tomshardware.com/pc-components/gpus/startups-pitch-an-airbnb-for-ai-inference-that-pays-gamers-for-their-idle-pcs",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T11:00:00.000Z",
+      "snippet": "If your gaming rig spends most of its life doing nothing, a pair of startups would be willing to pay you something close to minimum wage for its downtime"
+    },
     {
       "title": "You can now play GTA V natively on a Nintendo Switch thanks to unofficial Homebrew port — game runs at 30 FPS but requires a jailbroken, overclocked Switch",
       "link": "https://www.tomshardware.com/video-games/nintendo/you-can-now-play-gta-v-natively-on-a-nintendo-switch-thanks-to-unofficial-homebrew-port-game-runs-at-30-fps-but-requires-a-jailbroken-overclocked-switch",
@@ -334,7 +481,7 @@
       "snippet": "The entire second batch of Russian Rassvet satellites have failed to reach their target operational altitudes, according to reports."
     },
     {
-      "title": "Oklahoma City tries to charge farmer arrested at data center debate $17,000 for body cam footage of the incident — accused faces trespassing charge for going over allotted speaking time by 30 seconds at a public debate",
+      "title": "Oklahoma city tries to charge farmer arrested at data center debate $17,000 for body cam footage of the incident — accused faces trespassing charge for going over allotted speaking time by 30 seconds at a public debate",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/oklahoma-city-tries-to-charge-farmer-arrested-at-data-center-debate-usd17-000-for-body-cam-footage-of-the-incident-accused-faces-trespassing-charge-for-going-over-allotted-speaking-time-by-30-seconds-at-a-public-debate",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-02T10:00:00.000Z",
@@ -738,100 +885,72 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-29T10:00:00.000Z",
       "snippet": "The U.S. Navy successfully tested a sail-powered autonomous drone in live-fire exercises in the Pacific."
-    },
-    {
-      "title": "MSI brings DDR4 back to gaming laptops amidst DRAM crisis — Katana 15 HX C14 available with up to Core i9-14900HX and RTX 5070",
-      "link": "https://www.tomshardware.com/pc-components/ddr4/msi-brings-ddr4-back-to-gaming-laptops-amidst-dram-crisis-katana-15-hx-c14-available-with-up-to-core-i9-14900hx-and-rtx-5070",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T15:55:43.000Z",
-      "snippet": "With 32GB DDR4 SO-DIMM memory kits costing roughly half as much as comparable DDR5 kits, MSI’s new Katana 15 HX C14 could help reduce the impact of soaring memory prices."
-    },
-    {
-      "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
-      "link": "https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T15:47:46.000Z",
-      "snippet": "The Trump administration is reportedly drafting a rule to close a loophole around remote access to advanced AI compute, and it could be shared with trade groups as early as September."
-    },
-    {
-      "title": "Nvidia gears up its influence in Washington, forming PAC — tells employees that decisions Congress makes over the coming years could have substantial consequences for the AI industry, according to report",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-gears-up-its-influence-in-washington-forming-pac-tells-employees-that-decisions-congress-makes-over-the-coming-years-could-have-substantial-consequences-for-the-ai-industry-according-to-report",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T15:19:27.000Z",
-      "snippet": "Nvidia establishes its employees federal political action committee (PAC) to fund politicians whose positions are favorable to Nvidia's interests."
-    },
-    {
-      "title": "Security researchers find surveillance implants in Chinese-made routers sold worldwide — three different backdoor-like implants hidden in firmware",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/security-researchers-find-surveillance-implants-in-chinese-made-routers-sold-worldwide-three-different-backdoor-like-implants-hidden-in-firmware",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T14:13:12.000Z",
-      "snippet": "Security researchers at Vulncheck discovered intentionally masked surveillance implants embedded in the firmware of numerous devices from Shenzhen Zhibotong Electronics."
-    },
-    {
-      "title": "Save up to $600 on iBuyPower gaming PCs in its Labor Day sale — beat the component crisis with big bundles and coupons",
-      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-usd600-on-ibuypower-gaming-pcs-in-its-labor-day-sale-beat-the-component-crisis-with-big-bundles-and-coupons",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T14:00:00.000Z",
-      "snippet": "iBuypower is hosting a Labor Day sale with up to 65% off our favorite tech products."
-    },
-    {
-      "title": "DLSS 5 has already been ported to work on RTX 4000 Series graphics cards — incompatible CUDA instructions get patched to work on previous-gen hardware",
-      "link": "https://www.tomshardware.com/pc-components/gpus/exclusive-dlss-5-has-already-been-ported-to-work-on-rtx-4000-series-graphics-cards-incompatible-cuda-instructions-get-patched-to-work-on-previous-gen-hardware",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T13:57:35.000Z",
-      "snippet": "One modder has reverse-engineered DLSS 5 to function on RTX 4000 series Ada Lovelace-based GPUs, porting incompatible CUDA instructions within the Neural Rendering DLL, enabling them to be read on previous-gen hardware."
-    },
-    {
-      "title": "Cloudflare frees up 100TB of RAM by shrinking 1.1.1.1's DNS cache entries — 250 billion cached DNS entries at any given time means one wasted byte costs 250GB",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/cloudflare-frees-100tb-of-ram-by-shrinking-dns-cache-entries",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T13:14:41.000Z",
-      "snippet": "Cloudflare says that it has freed up roughly 100TB of RAM across its global fleet without reconfiguring any physical RAM modules in its servers."
-    },
-    {
-      "title": "Nvidia denies pausing AI cloud commitments initiative after reported partner backlash — report claims company told cloud providers it could only lease its GPUs to Nvidia-approved customers",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-denies-pausing-ai-cloud-commitments-initiative-after-reported-partner-backlash-report-claims-company-told-cloud-providers-it-could-only-lease-its-gpus-to-nvidia-approved-customers",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T13:13:58.000Z",
-      "snippet": "Nvidia denies putting AI cloud commitments initiative on hold despite reports that some deals were paused amid partner pushback over customer controls and concerns about potential antitrust scrutiny."
-    },
-    {
-      "title": "Micron workers increasingly support strike over bonus pay — labor union wants profit-sharing scheme, as employees at Samsung, SK hynix enjoy bonuses worth hundreds of thousands of dollars",
-      "link": "https://www.tomshardware.com/tech-industry/micron-workers-increasingly-support-strike-over-bonus-pay-labor-union-wants-profit-sharing-scheme-as-employees-at-samsung-sk-hynix-enjoy-bonuses-worth-hundreds-of-thousands-of-dollars",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T13:07:55.000Z",
-      "snippet": "80% of Micron workers in Taiwan have signaled that they're willing to go on strike if the company does not strike a deal over bonuses. The employees want to replace the current bonus system with a profit-sharing scheme, allowing them to take advantage of the AI-driven memory boom."
-    },
-    {
-      "title": "Save a ridiculous 76% on this 7-in-1 Hyper Dual Monitor Thunderbolt 4 Dock — just $24 buys a dual 4K60Hz HyperDrive docking station for pennies on the dollar",
-      "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/save-a-ridiculous-76-percent-on-this-7-in-1-hyper-dual-monitor-thunderbolt-4-dock-just-usd24-buys-a-dual-4k60hz-hyperdrive-docking-station-for-pennies-on-the-dollar",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T11:59:37.000Z",
-      "snippet": "Grab the HyperDrive Thunderbolt 4 7-in-1 dock for under $25 with code WOOTDOCK (76% off) - run two 4K60Hz monitors or one 8K30Hz display and additional connectivity for a pittance"
-    },
-    {
-      "title": "X busts 200,000-strong Chinese bot farm, including accounts making claims about AI data centers and electricity — suspect accounts posted claims about pricing and grid strain to 'manipulate' debate",
-      "link": "https://www.tomshardware.com/tech-industry/policy/x-busts-200-000-strong-chinese-bot-farm-including-accounts-making-claims-about-ai-data-centers-and-electricity-suspect-accounts-posted-claims-about-pricing-and-grid-strain-to-manipulate-debate",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T11:07:22.000Z",
-      "snippet": "The X Safety Team said that at least 200 bot accounts have been making posts to influence public opinion data centers and energy policy. The accounts share links to legitimate news stories and then add their own spin designed to inflame emotions."
-    },
-    {
-      "title": "MSI MPG Ai1600TS PCIE5 1600W power supply review: GPU Safeguard+ protection with Titanium effeciency",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/msi-mpg-ai1600ts-pcie5-1600w-power-supply-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T11:05:00.000Z",
-      "snippet": "MSI's flagship 1600W unit delivers confirmed Titanium efficiency, an all-Japanese component selection, and a genuinely novel approach to GPU power management, but the price tag demands serious justification."
-    },
-    {
-      "title": "Google clamps down on Android app RAM usage amid AI memory crisis — developers have until February 2027 to adapt to new memory-optimizing rules",
-      "link": "https://www.tomshardware.com/phones/android/google-clamps-down-on-android-app-ram-usage-amid-ai-memory-crisis-developers-have-until-february-2027-to-adapt-to-new-memory-optimizing-rules",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T11:00:00.000Z",
-      "snippet": "Google implements stricter memory limits and introduces new performance standards for Android apps."
     }
   ],
   "quantum": [
+    {
+      "title": "Pasqal and True Nexus Apply Quantum Computing to Protein Gelation",
+      "link": "https://thequantuminsider.com/2026/09/02/pasqal-true-nexus-quantum-computing-protein-function/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T13:34:55.000Z",
+      "snippet": "Insider Brief PRESS RELEASE – Pasqal (Nasdaq: PSQL), a global provider of neutral-atom quantum computers, and True Nexus, a computational intelligence company focused on making protein functionality programmable for real-world food applications, today announced a major milestone in their collaboration: the successful use of Pasqal’s neutral-atom quantum technology to encode selected protein struct"
+    },
+    {
+      "title": "QuSecure Demonstrates Post-Quantum Security for U.S. Army at Project Convergence",
+      "link": "https://thequantuminsider.com/2026/09/02/qusecure-post-quantum-security-us-army-project-convergence/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T13:22:15.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — QuSecure™, Inc., a leader in post-quantum cryptography (PQC) and cryptographic agility, today announced it demonstrated operational readiness at Project Convergence Capstone 6 (PCC6), the capstone event for Army Transformation and Training Command (T2COM). At the event, QuSecure’s flagship PQC product, QuProtect R3, successfully provided quantum-resistant communicatio"
+    },
+    {
+      "title": "IBM Ventures Invests in BQP as Quantum-Algorithm Physics Acceleration Reaches Production",
+      "link": "https://thequantuminsider.com/2026/09/02/ibm-ventures-invests-in-bqp-as-quantum-algorithm-physics-acceleration-reaches-production/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T13:05:00.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — BQP, the physics acceleration company, today announced a strategic investment from IBM Ventures, the venture capital arm of IBM. The investment brings BQP‘s total funding to $8M and funds BQPhy®’s expansion from engineering design into operational deployment, scaling delivery and go-to-market as BQP expands beyond aerospace and defense. Venn10 Capital […]"
+    },
+    {
+      "title": "Cyprus and Greece Establish Quantum-Secure Satellite Link",
+      "link": "https://thequantuminsider.com/2026/09/02/cyprus-greece-quantum-secure-satellite-link/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T12:59:10.000Z",
+      "snippet": "Insider Brief Cyprus and Greece have established their first quantum-secure satellite data connection, Sparkle and Hellas Sat, a satellite operator serving Greece and Cyprus, announced on Wednesday, in a development aimed at protecting communications against future cyber threats, the Cyprus Mail reported. The connection links Sparkle‘s data centre in Metamorfosi, Athens, with Hellas Sat infrastruc"
+    },
+    {
+      "title": "QuNorth Clears Facility Milestone for MAGNE Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/09/02/qunorth-clears-facility-milestone-for-magne-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T12:52:20.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Ramboll has completed the specialized facilities that will house MAGNE, one of the world’s most powerful commercial quantum computers. The milestone enables QuNorth to begin installation of the system in Copenhagen. Ramboll delivered the building and technical infrastructure required for MAGNE, including a computer room, server room and airlock, as […]"
+    },
+    {
+      "title": "KACST and Imperial College London Partner on Quantum Brain Research",
+      "link": "https://thequantuminsider.com/2026/09/02/saudi-arabia-kacst-imperial-college-quantum-brain-research/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T12:16:59.000Z",
+      "snippet": "Insider Brief Saudi Arabia’s King Abdulaziz City for Science and Technology (KACST) signed a research partnership with Imperial College London to advance quantum brain research, study quantum mechanical phenomena, and connect quantum science with engineering, neuroscience, and biochemistry, Asharq Al-Awsat reported. The agreement was signed in the presence of KACST President Dr. Munir Eldesouki on"
+    },
+    {
+      "title": "Quantum Computing Use Widens as Price and Access Shape Demand, Quantum Rings Study Finds",
+      "link": "https://thequantuminsider.com/2026/09/02/quantum-computing-use-widens-as-price-and-access-shape-demand-quantum-rings-study-finds/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T11:45:20.000Z",
+      "snippet": "Insider Brief Quantum computing users are pushing toward larger circuits while concentrating most jobs on cheaper hardware, offering an early view of how price, speed and technical needs are shaping demand for commercial quantum systems. The typical circuit submitted through Quantum Rings’ Open Quantum platform still used six quantum bits, or qubits, during the summer. […]"
+    },
+    {
+      "title": "Guest Post: Why Financial Infrastructure Needs Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/09/02/financial-systems-quantum-risks/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T11:28:14.000Z",
+      "snippet": "Guest Post By Ryan Kirkley, Founder & CEO, Global Settlement Holdings. A temporal asymmetry lies at the heart of financial infrastructure. Settlement systems and payment rails are built to run for thirty to fifty years, and most of what moves the dollar today was last built forty years ago. Fedwire settled an average of $4.6 […]"
+    },
+    {
+      "title": "Former U.S. Army Cyber Command Chief of Staff Joins Qtonic Quantum",
+      "link": "https://thequantuminsider.com/2026/09/02/former-army-cyber-command-chief-of-staff-joins-qtonic-quantum/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T11:15:08.000Z",
+      "snippet": "Insider Brief Press release – Col. Reginald M. Harris, U.S. Army (Retired), who served as Chief of Staff of U.S. Army Cyber Command and commanded the 1st Cyber Protection Battalion (Provisional), has joined Qtonic Quantum Corp to lead the company’s federal and defense government affairs. Harris will represent Qtonic Quantum, a quantum cyber risk and […]"
+    },
     {
       "title": "In an Age of Deep Tech, The City Summit Bets on Human Connections",
       "link": "https://thequantuminsider.com/2026/09/02/in-an-age-of-deep-tech-the-city-summit-bets-on-human-connections/",
@@ -1013,27 +1132,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-28T18:19:41.000Z",
       "snippet": "Insider Brief PRESS RELEASE – New Mexico is offering matching funds to quantum companies pursuing DARPA’s Quantum Benchmarking Initiative (QBI) Stage C to bring that work to New Mexico. Economic Development New Mexico’s Technology and Innovation Office (TIO) announced today that QBI Stage C has been added to the list of priority federal programs eligible […]"
-    },
-    {
-      "title": "California Awards $9.7 Million to Build Southern Quantum Workforce and Industry Network",
-      "link": "https://thequantuminsider.com/2026/08/28/california-awards-9-7-million-to-build-southern-quantum-workforce-and-industry-network/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-28T15:15:31.000Z",
-      "snippet": "Insider Brief California has awarded $9.7 million to a Southern California quantum initiative designed to expand workforce training, shared testing resources and funding opportunities for emerging companies. The quantum award is part of a broader $48.5 million package supporting 18 projects across eight economic regions and 33 counties. The latest funding round covers industries including […]"
-    },
-    {
-      "title": "Three Law Firms Hold Nearly Two-Thirds of Recorded Quantum Legal Work",
-      "link": "https://thequantuminsider.com/2026/08/28/three-law-firms-hold-nearly-two-thirds-of-recorded-quantum-legal-work/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-28T13:12:06.000Z",
-      "snippet": "Insider Brief A quantum computer depends on layers of hardware, control systems and software. As the technology moves from the laboratory into the commercial market, a legal layer is forming around it as law firms handle acquisitions, public listings, patent disputes and government-backed projects. Three law firms account for nearly two-thirds of the publicly recorded […]"
-    },
-    {
-      "title": "India to Establish Quantum and AI University Campus in Amaravati",
-      "link": "https://thequantuminsider.com/2026/08/28/india-quantum-ai-university-campus-amaravati/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-28T12:43:51.000Z",
-      "snippet": "Insider Brief Andhra Pradesh Chief Minister N. Chandrababu Naidu has approved the establishment of India’s first dedicated Quantum and AI University campus in Amaravati, to be set up by the National Institute of Electronics and Information Technology (NIELIT) under the Ministry of Electronics and Information Technology (MeitY), The Hindu BusinessLine reported. The decision was taken […]"
     }
   ],
   "education": [
@@ -1050,13 +1148,6 @@
       "source": "eSchool News",
       "published": "2026-09-01T10:00:00.000Z",
       "snippet": "Every hiring season, school districts ask the same question: Where are the teachers? We stopped asking and started building."
-    },
-    {
-      "title": "AWS Program Gives College Students Access to AI and Cloud Resources",
-      "link": "https://edtechmagazine.com/higher/article/2026/08/aws-program-gives-college-students-access-ai-and-cloud-resources",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-08-31T20:38:37.000Z",
-      "snippet": "Amazon Web Services recently announced the launch of Student Rewards, offering free educational and certification opportunities to verified university students. The company has committed more than $500 million in resources to support workforce development via artificial intelligence and cloud computing education for students enrolled in college. \nVerified students over the age of 18 can receive pr"
     },
     {
       "title": "Why Trust Matters as Higher Ed Adopts AI Tools",
