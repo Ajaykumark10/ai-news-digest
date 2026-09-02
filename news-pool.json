@@ -8,6 +8,13 @@
       "snippet": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
     },
     {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-01T21:06:24.000Z",
+      "snippet": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+    },
+    {
       "title": "Google’s Android update tackles motion sickness, accessibility, and more",
       "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -234,6 +241,13 @@
       "snippet": "Introduction \nBeginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BREEZE COMET (formerly UNC5669), a financially motivated threat actor specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers. Th"
     },
     {
+      "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
+      "source": "Cloud Blog",
+      "published": "2026-08-31T23:00:00.000Z",
+      "snippet": "Many of the questions that matter in enterprise data aren't just about individual rows — they're about how things connect: how two accounts are linked, what path a payment took, what context grounds an AI agent's answer. That’s what a graph is built to solve. Historically, unlocking these insights meant extracting data into standalone graph databases, creating silos and operational overhead. To re"
+    },
+    {
       "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
       "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
       "source": "AWS News Blog",
@@ -291,6 +305,90 @@
     }
   ],
   "hardware": [
+    {
+      "title": "You can now play GTA V natively on a Nintendo Switch thanks to unofficial Homebrew port — game runs at 30 FPS but requires a jailbroken, overclocked Switch",
+      "link": "https://www.tomshardware.com/video-games/nintendo/you-can-now-play-gta-v-natively-on-a-nintendo-switch-thanks-to-unofficial-homebrew-port-game-runs-at-30-fps-but-requires-a-jailbroken-overclocked-switch",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T10:40:00.000Z",
+      "snippet": "A team of modders have taken leaked source code and recompiled it to run the game logic natively on the Switch's Arm-based SoC. As long as you overclock the system, you can get a relatively-stable 30 FPS experience without major battery drain or overheating."
+    },
+    {
+      "title": "Researchers easily trick Fortune-500 companies' AI agents into running arbitrary code — supply-chain attack via llms.txt guidance file illustrates how data has become code",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T10:20:00.000Z",
+      "snippet": "Researchers easily trick Fortune-500 companies' AI agents into running arbitrary code. This supply-chain attack, done via using data in public llms.txt guidance files, illustrates the dangers of data becoming code."
+    },
+    {
+      "title": "China's EUV technology 'at a similar stage to ASML in 2004,' analyst claims — Beijing's semiconductor industry remains well behind Western rivals",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-euv-technology-at-a-similar-stage-to-asml-in-2004-analyst-claims-beijings-semiconductor-industry-remains-well-behind-western-rivals",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T10:15:00.000Z",
+      "snippet": "Despite rumors, there is no evidence that Chinese makers of lithography tools can produce immersion lithography scanners in quantity."
+    },
+    {
+      "title": "Russian Starlink rival flounders after entire batch of satellites fails to reach operational altitude — many of the 16 launched hit less than half their 870km target, and two are already falling back to Earth",
+      "link": "https://www.tomshardware.com/tech-industry/space/russian-starlink-rival-flounders-after-entire-batch-of-satellites-fails-to-reach-operational-altitude-many-of-the-16-launched-hit-less-than-half-their-870km-target-and-two-are-already-falling-back-to-earth",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T10:00:00.000Z",
+      "snippet": "The entire second batch of Russian Rassvet satellites have failed to reach their target operational altitudes, according to reports."
+    },
+    {
+      "title": "Oklahoma City tries to charge farmer arrested at data center debate $17,000 for body cam footage of the incident — accused faces trespassing charge for going over allotted speaking time by 30 seconds at a public debate",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/oklahoma-city-tries-to-charge-farmer-arrested-at-data-center-debate-usd17-000-for-body-cam-footage-of-the-incident-accused-faces-trespassing-charge-for-going-over-allotted-speaking-time-by-30-seconds-at-a-public-debate",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T10:00:00.000Z",
+      "snippet": "Claremore admits that one of its reasons for charging so much is because it fears that the documents will be \"subject to wide distribution, including on social media.\""
+    },
+    {
+      "title": "Acer's Swift Blade 14 weighs just 1.76 pounds and uses Wildcat Lake — company introduces new sub-brand ahead of IFA tradeshow",
+      "link": "https://www.tomshardware.com/laptops/acers-swift-blade-14-weighs-just-1-76-pounds-and-uses-wildcat-lake-company-introduces-new-sub-brand-ahead-of-ifa-tradeshow",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T09:30:00.000Z",
+      "snippet": "Acer is increasing its lineup of mid-level laptops, with a new, lightweight Swift Blade 14 and a Swift Air 16 with slightly better specs."
+    },
+    {
+      "title": "Acer launches seven new gaming monitors across Nitro and Predator families — tri-mode panels, QD-OLEDs, Mini LEDs, 1,000 Hz, and more",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-launches-seven-new-gaming-monitors-across-nitro-and-predator-families-tri-mode-panels-qd-oleds-mini-leds-1-000-hz-and-more",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T09:30:00.000Z",
+      "snippet": "Acer has seven new gaming monitors, including a 1,000 Hz 1080p beast"
+    },
+    {
+      "title": "Acer’s wild Project DualPlay Mini is a foldable handheld that doubles as a netbook — concept shown alongside Predator Atlas 7 handheld sporting Intel’s Arc G-series chip",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/acers-wild-project-dualplay-mini-is-a-foldable-handheld-that-doubles-as-a-netbook-concept-shown-alongside-predator-atlas-7-handheld-sporting-intels-arc-g-series-chip",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T09:30:00.000Z",
+      "snippet": "Using the recent Predator Atlas 8 as a blueprint, Acer revealed the smaller Atlas 7 alongside a unique concept called Project DualPlay Mini at IFA 2026."
+    },
+    {
+      "title": "Developer uses Claude Code to debloat Android smart TV for 'unbelievable' performance upgrade — TV now smoother than it was new as autonomous agent deactivates apps, shortens animations, all without root access",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-uses-claude-code-to-debloat-android-smart-tv-for-unbelievable-performance-upgrade-tv-now-smoother-than-it-was-new-as-autonomous-agent-deactivates-apps-shortens-animations-all-without-root-access",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T09:00:00.000Z",
+      "snippet": "A developer revitalized his smart TV performance by using Claude Code to debloat it."
+    },
+    {
+      "title": "Alienware's new QD-OLED gaming monitors boast 4K 165 Hz, 1080p 560 Hz panels — Dell’s new OLEDs target gamers who prioritize speed or crave pixel density",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/alienwares-new-qd-oled-gaming-monitors-boast-4k-165-hz-1080p-560-hz-panels-dells-new-oleds-target-gamers-who-prioritize-speed-or-crave-pixel-density",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T07:00:00.000Z",
+      "snippet": "Alienware’s AW3226Q and AW2527HX gaming monitors target two different segments of the market."
+    },
+    {
+      "title": "Dell's new 14-inch laptops take on the MacBook Neo in a new way — ports and colors",
+      "link": "https://www.tomshardware.com/laptops/dells-new-14-inch-laptops-take-on-the-macbook-neo-in-a-new-way-ports-and-colors",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-02T07:00:00.000Z",
+      "snippet": "Dell's new 14S laptops are mainstream devices with more colors and more  ports than the XPS 13."
+    },
+    {
+      "title": "Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pours-usd3-5-billion-into-mediatek-company-will-adopt-nvlink-fusion-for-its-custom-ai-accelerators",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-01T14:42:22.000Z",
+      "snippet": "Nvidia invests $3.5 billion in MediaTek as the companies expand their partnership into custom AI infrastructure with NVLink Fusion, local AI computing, and automotive platforms."
+    },
     {
       "title": "Alienware 16X Aurora review: A thoroughly competent gaming laptop",
       "link": "https://www.tomshardware.com/laptops/gaming-laptops/alienware-16x-aurora-review",
@@ -731,51 +829,23 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-28T11:00:00.000Z",
       "snippet": "Google implements stricter memory limits and introduces new performance standards for Android apps."
-    },
-    {
-      "title": "Samsung's new 2TB 990 SSD is 36% off at Amazon — nearly $200 off this Gen 4 all-rounder",
-      "link": "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-36-percent-off-at-amazon-nearly-usd200-off-this-gen-4-all-rounder",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T10:37:21.000Z",
-      "snippet": "Get 36% off the new Samsung 990 2TB SSD, a $190 saving."
-    },
-    {
-      "title": "Intel 14A defect density is dropping faster than the company expected — 'we have not seen this performance since 22nm,' says CFO",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-defect-density-is-dropping-faster-than-the-company-expected-we-have-not-seen-this-performance-since-22nm-says-cfo",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T10:30:00.000Z",
-      "snippet": "Intel says defect density of 14A process technology is declining rapidly as internal teams are already developing 14A-based products, while external clients are now wondering about capacity that Intel can provide them."
-    },
-    {
-      "title": "Modders get leaked DLSS 5 running in Control — early Blackwell test drops RTX 5070 Ti from 71 to 35 FPS at 4K",
-      "link": "https://www.tomshardware.com/pc-components/gpus/modders-get-leaked-dlss-5-running-in-control-early-blackwell-test-drops-rtx-5070-ti-from-71-to-35-fps-at-4k",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T10:00:00.000Z",
-      "snippet": "DLSS 5 has apparently leaked, originating from inside a new game."
-    },
-    {
-      "title": "SK hynix breaks ground on the first HBM plant in the US, bringing key AI component production to the States — says production starts in 2029",
-      "link": "https://www.tomshardware.com/pc-components/dram/sk-hynix-breaks-ground-on-the-first-hbm-plant-in-the-us-bringing-key-ai-component-production-to-the-states-says-production-starts-in-2029",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T09:58:37.000Z",
-      "snippet": "SK hynix breaks ground on HBM assembly plant in the U.S. that will form a connection between DRAM wafers produced in South Korea and their consumers among AI companies in the U.S."
-    },
-    {
-      "title": "Indiana power provider proposes $59 million rate cut for state, says data centers and other large customers are driving increased revenue — move could potentially save residential users $100 annually",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/indiana-power-provider-proposes-usd59-million-rate-cut-for-state-says-data-centers-and-other-large-customers-are-driving-increased-revenue-move-could-potentially-save-residential-users-usd100-annually",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T09:37:11.000Z",
-      "snippet": "I&M, which serves part of Indiana, says that it plans to cut electricity prices for the state, resulting in savings of about $59 million for residential users. This translates to about $100 a year for each home, with the savings coming from increased revenue from larger consumers like data centers."
-    },
-    {
-      "title": "Claude nukes a developer's 700 GB home directory while testing deletion safeguards; automatic model safety downgrade may have contributed to the screw-up — Anthropic safety harness downgraded model to Opus 4.8 before fatal variable collision",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-nukes-a-developers-700-gb-home-directory-while-testing-a-script-to-ensure-it-wouldnt-do-so-automatic-model-downgrade-may-have-contributed-to-the-screw-up",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-28T09:30:00.000Z",
-      "snippet": "Claude nuked a developer's 700 GB home directory while testing a script to ensure that wouldn't happen, and it's possible that an automatic model downgrade likely contributed to the screw-up"
     }
   ],
   "quantum": [
+    {
+      "title": "In an Age of Deep Tech, The City Summit Bets on Human Connections",
+      "link": "https://thequantuminsider.com/2026/09/02/in-an-age-of-deep-tech-the-city-summit-bets-on-human-connections/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T07:45:42.000Z",
+      "snippet": "Insider Brief The technologies changing defense, medicine and finance are advancing faster than the institutions expected to manage them. Getting the right people in the same room is a critical step toward optimizing the good that these technologies can do, while minimizing potential adverse effects. The sixth annual City Quantum & AI Summit is aimed […]"
+    },
+    {
+      "title": "Meissner Raises $2.6 Million to Search For New Superconducting Materials",
+      "link": "https://thequantuminsider.com/2026/09/02/meissner-raises-2-6-million-to-search-for-new-superconducting-materials/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-02T07:27:55.000Z",
+      "snippet": "Insider Brief Toronto-based materials startup Meissner has raised $2.6 million in pre-seed financing to search for superconductors that could support advances in quantum computing, fusion energy and other emerging industries. The $2.6 million U.S. round, equivalent to about $3.6 million Canadian, included backing from BDC Capital’s Thrive Venture Fund and a group of Canadian technology […]"
+    },
     {
       "title": "Symmatrics Launches AI and Post-Quantum Readiness Pledge",
       "link": "https://thequantuminsider.com/2026/09/01/symmatrics-ai-post-quantum-readiness-pledge/",
@@ -789,6 +859,13 @@
       "source": "The Quantum Insider",
       "published": "2026-09-01T13:59:29.000Z",
       "snippet": "Insider Brief PRESS RELEASE – Arqit Quantum Inc. (NASDAQ: ARQQ, ARQQW), a global leader in quantum-safe encryption, Es’hailSat – the Qatar Satellite Company – a world-class satellite operator and service provider with coverage spanning the MENA region – and Advanced International Electronic Equipment Company (AIEE), a specialist systems integrator for secure communications infrastructure, today an"
+    },
+    {
+      "title": "QC Ware and IonQ Demonstrate Hybrid Quantum Chemistry Workflow for Drug Discovery",
+      "link": "https://thequantuminsider.com/2026/09/01/qc-ware-ionq-hybrid-quantum-chemistry-drug-discovery/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-01T12:59:34.000Z",
+      "snippet": "Insider Brief PRESS RELEASE – QC Ware today announced a technology demonstration of a hybrid quantum-classical chemistry workflow using its Promethium® platform and IonQ‘s Forte trapped-ion quantum computer via Amazon Braket. The demonstration modeled the heme active site of cytochrome P450nor, a nitric oxide reductase in the cytochrome P450 superfamily — the same superfamily whose […]"
     },
     {
       "title": "The Quantum Insider Launches TQI 2.0, A Comprehensive Intelligence Workspace For The Quantum Economy",
@@ -957,43 +1034,29 @@
       "source": "The Quantum Insider",
       "published": "2026-08-28T12:43:51.000Z",
       "snippet": "Insider Brief Andhra Pradesh Chief Minister N. Chandrababu Naidu has approved the establishment of India’s first dedicated Quantum and AI University campus in Amaravati, to be set up by the National Institute of Electronics and Information Technology (NIELIT) under the Ministry of Electronics and Information Technology (MeitY), The Hindu BusinessLine reported. The decision was taken […]"
-    },
-    {
-      "title": "Guest Post: Quantum Readiness Starts With the Infrastructure We’re Building Today",
-      "link": "https://thequantuminsider.com/2026/08/28/quantum-readiness-infrastructure-around-qpus/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-28T10:35:03.000Z",
-      "snippet": "Guest Post by Kyle Okamoto, President of Axe Compute. When people talk about quantum readiness, the conversation often moves quickly to the quantum computer itself. How many qubits will we need? When will fault-tolerant systems arrive? Which industries will find commercial applications first? Those questions matter, but I think there is another one worth asking: […]"
-    },
-    {
-      "title": "Types of Quantum Computers: 6 Major Quantum Computing Approaches",
-      "link": "https://thequantuminsider.com/2026/08/28/main-types-of-quantum-computers-explained/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-28T10:00:00.000Z",
-      "snippet": "Insider Brief IBM and IonQ use very different physical systems to build quantum computers. IBM uses superconducting circuits that must be cooled to extremely low temperatures, while IonQ traps charged atoms using electromagnetic fields. Both approaches can create and control quantum states, but they come with different engineering challenges. Building a useful qubit is difficult […]"
-    },
-    {
-      "title": "Pasqal Announces Board of Directors Ahead of Nasdaq Listing",
-      "link": "https://thequantuminsider.com/2026/08/28/pasqal-announces-board-of-directors-ahead-of-nasdaq-trading/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-28T09:45:57.000Z",
-      "snippet": "Insider Brief PRESS RELEASE – Pasqal, a global leader in neutral-atom quantum computing, today announced the composition of the Board of Directors of Pasqal Holding SA (the combined company), following the completion of its business combination with Bleichroeder Acquisition Corp. II. The combined company’s ordinary shares are expected to begin trading on Nasdaq under the […]"
-    },
-    {
-      "title": "QuEra Uses Anthropic AI Agent to Automate Critical Quantum Computer Process",
-      "link": "https://thequantuminsider.com/2026/08/28/quera-uses-anthropic-ai-agent-to-automate-critical-quantum-computer-process/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-28T08:15:30.000Z",
-      "snippet": "Insider Brief QuEra Computing reported that an artificial-intelligence agent developed software that can restore a critical quantum computer laser system in seconds, potentially reducing the need for specialists to maintain machines at customer sites. The Boston-based quantum computing company reported in a news release that Anthropic’s Claude wrote and tested a control program that recovered […]"
     }
   ],
   "education": [
+    {
+      "title": "A new approach to middle school math data boosted our state test scores",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/02/a-new-approach-to-middle-school-math-data/",
+      "source": "eSchool News",
+      "published": "2026-09-02T10:00:00.000Z",
+      "snippet": "Picture a group of middle school math teachers meeting to mull over a specific problem. Their eighth graders keep missing the same assessment question about graphing a system equation, and the educators’ assignment is to figure out why."
+    },
     {
       "title": "We stopped waiting for the teacher pipeline–we built our own",
       "link": "https://www.eschoolnews.com/educational-leadership/2026/09/01/we-stopped-waiting-for-the-teacher-pipeline-we-built-our-own/",
       "source": "eSchool News",
       "published": "2026-09-01T10:00:00.000Z",
       "snippet": "Every hiring season, school districts ask the same question: Where are the teachers? We stopped asking and started building."
+    },
+    {
+      "title": "AWS Program Gives College Students Access to AI and Cloud Resources",
+      "link": "https://edtechmagazine.com/higher/article/2026/08/aws-program-gives-college-students-access-ai-and-cloud-resources",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-08-31T20:38:37.000Z",
+      "snippet": "Amazon Web Services recently announced the launch of Student Rewards, offering free educational and certification opportunities to verified university students. The company has committed more than $500 million in resources to support workforce development via artificial intelligence and cloud computing education for students enrolled in college. \nVerified students over the age of 18 can receive pr"
     },
     {
       "title": "Why Trust Matters as Higher Ed Adopts AI Tools",
@@ -1008,13 +1071,6 @@
       "source": "eSchool News",
       "published": "2026-08-31T10:00:00.000Z",
       "snippet": "Many parents, policymakers, and educators are worried about screens in schools. They’ve observed the positive effects of cell phone bans and are wondering how edtech might contribute to real issues, including declining attention spans and learning loss."
-    },
-    {
-      "title": "Answering the question behind the question",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/08/28/answering-the-question-behind-the-question/",
-      "source": "eSchool News",
-      "published": "2026-08-28T10:00:00.000Z",
-      "snippet": "Librarians and instructional designers have long understood that the first question someone asks is not always the question they need answered. In a library reference interview, a patron’s initial request is often just the starting point for uncovering the real information needed."
     }
   ]
 }
