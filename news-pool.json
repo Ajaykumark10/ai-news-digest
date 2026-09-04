@@ -1,6 +1,90 @@
 {
   "ai": [
     {
+      "title": "Architecting memory and storage in the AI era",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-04T18:39:19.000Z",
+      "snippet": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…"
+    },
+    {
+      "title": "What will Apple’s John Ternus era look like?",
+      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T17:18:00.000Z",
+      "snippet": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T16:21:11.000Z",
+      "snippet": "It's the latest failure of OpenAI's internal monitoring and security systems."
+    },
+    {
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T14:47:11.000Z",
+      "snippet": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
+    },
+    {
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T14:00:00.000Z",
+      "snippet": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-04T09:25:19.000Z",
+      "snippet": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…"
+    },
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T04:21:03.000Z",
+      "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
+    },
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T00:48:42.000Z",
+      "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
+    },
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-03T19:36:29.000Z",
+      "snippet": "The high-profile startup's annual revenue run rate stands at over $100 million."
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-03T18:37:57.000Z",
+      "snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-03T18:19:56.000Z",
+      "snippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs."
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-03T18:01:45.000Z",
+      "snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+    },
+    {
       "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
       "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -13,6 +97,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-03T15:00:00.000Z",
       "snippet": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini."
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-03T12:42:45.000Z",
+      "snippet": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
     },
     {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
@@ -244,44 +335,51 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-31T02:34:00.000Z",
       "snippet": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
-    },
-    {
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-30T16:54:25.000Z",
-      "snippet": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in."
-    },
-    {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-30T15:00:00.000Z",
-      "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-29T18:41:59.000Z",
-      "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
-    },
-    {
-      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-29T17:51:10.000Z",
-      "snippet": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
-    },
-    {
-      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-29T17:36:47.000Z",
-      "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine."
     }
   ],
   "cloud": [
+    {
+      "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
+      "link": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
+      "source": "Cloud Blog",
+      "published": "2026-09-04T16:00:00.000Z",
+      "snippet": "As a global media and technology company connecting hundreds of millions of users to finance, sports, and entertainment platforms, Yahoo operates a massive data infrastructure where analytics workloads must run continuously at high speed. In deadline-driven data environments, relying on fixed virtual machine (VM) configurations creates a brittle system; if a specific machine shape faces a regional"
+    },
+    {
+      "title": "Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/",
+      "source": "Cloud Blog",
+      "published": "2026-09-04T16:00:00.000Z",
+      "snippet": "When Google's Finance Engineering team needed to modernize their legacy data layer, they chose Spanner, a globally distributed, strongly consistent, multi-model database with high availability capabilities. But migrating to Spanner without taking production services offline was a daunting engineering challenge: As the internal team responsible for the application, we needed to manually rewrite dua"
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-09-04T07:00:00.000Z",
+      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nAug 31 - S"
+    },
+    {
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-09-03T16:00:00.000Z",
+      "snippet": "August 31 - September 4\nStateful processing is available in BigQuery continuous queries in Preview\nStateful operations significantly expand what’s possible with BigQuery continuous queries. This feature allows users to leverage functions like JOINs, aggregations, and windowing functions directly in their streaming queries. Now you can calculate metrics over time (for example, a 30-minute average) "
+    },
+    {
+      "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
+      "source": "Cloud Blog",
+      "published": "2026-09-03T09:00:00.000Z",
+      "snippet": "Integrating modern generative AI capabilities into Kotlin applications shouldn't require juggling raw HTTP clients or bridging disparate Java libraries. Today, we're excited to announce the 1.0 release of the Google Gen AI SDK for Kotlin (google-genai-kotlin). You can dive right into the code, explore runnable samples, and star the project today on GitHub at googleapis/kotlin-genai.\nBuilt from the"
+    },
+    {
+      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
+      "link": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
+      "source": "Cloud Blog",
+      "published": "2026-09-03T07:30:00.000Z",
+      "snippet": "For the ninth consecutive year, Gartner® has named Google a Leader in the Gartner Magic Quadrant™ for Strategic Cloud Platform Services, positioned furthest for Completeness of Vision. \n\n\n\n\n\n\n\n\n  \n    \nWe believe this recognition reflects our longstanding dedication to helping customers build and scale their most demanding workloads reliably and securely on Google Cloud. As we enter the agentic er"
+    },
     {
       "title": "Simplify pipelines with new BigQuery identity columns",
       "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
@@ -383,6 +481,125 @@
   ],
   "hardware": [
     {
+      "title": "Grab a new 3D printer for as low as $229 right now in Creality's Labor Day flash sale, with up to 50% off —big sale discounts also include resin and filament bundles, along with 3D scanners and toolkits",
+      "link": "https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-for-as-low-as-usd229-right-now-in-crealitys-labor-day-flash-sale-with-up-to-50-percent-off-big-sale-discounts-also-include-resin-and-filament-bundles-along-with-3d-scanners-and-toolkits",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T17:00:00.000Z",
+      "snippet": "Grab a new 3D printer in Creality's Labor Day flash sale, with discounts on printers and accessories available."
+    },
+    {
+      "title": "Minisforum launches local AI solutions at IFA 2026 — AI Agent NAS N5 and AI Mini Workstation MS-S1 use AMD Ryzen AI Max+ Pro 495 processors designed to run models locally",
+      "link": "https://www.tomshardware.com/pc-components/nas/minisforum-launches-local-ai-solutions-at-ifa-2026-ai-agent-nas-n5-and-ai-mini-workstation-ms-s1-use-amd-ryzen-ai-max-pro-495-processors-designed-to-run-models-locally",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T16:15:00.000Z",
+      "snippet": "Minisforum unveiled the NAS N5 Max-P495 and MS-S1 Max-P945 at IFA 2026. The NAS and mini-PC are powered by the AMD Ryzen AI Max+ Pro 495, which can be configured with up to 192GB of unified memory and packs a Radeon 8065S integrated GPU."
+    },
+    {
+      "title": "Save up to $900 in the Best Buy Labor Day sale on tech, with huge discounts on gaming PCs, laptops and monitors — secure an upgrade fast to beat rising hardware costs",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-usd900-in-the-best-buy-labor-day-sale-on-tech-with-huge-discounts-on-gaming-pcs-laptops-and-monitors-secure-an-upgrade-fast-to-beat-rising-hardware-costs",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T15:30:00.000Z",
+      "snippet": "There's a big Labor Day sale over at Best Buy right now, securing you huge discounts on tech, including gaming PCs, handhelds, laptops, and monitors."
+    },
+    {
+      "title": "Nvidia app update fails to block unofficial DLSS multi-frame generation mod on RTX 40 series gaming GPUs — modders restore support across multiple games within hours",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/nvidia-app-update-fails-to-block-unofficial-dlss-multi-frame-generation-on-rtx-40-series-modders-restore-support-across-multiple-games-within-hours",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T14:56:38.000Z",
+      "snippet": "When NVIDIA launched the GeForce RTX 50 series, a major part of the hype surrounding the new GPU family was its support for DLSS Multi-Frame Generation. This feature was officially locked to the new RTX 50 \"Blackwell\" GPUs, but modders have been working on unlocking it for RTX 40-series cards for a while now."
+    },
+    {
+      "title": "Get this stunning MSI RTX 5060 Ti 16G deal at Walmart for $200 less than anywhere else — only $569.99 for the solid mid-range Shadow 2x OC Plus gaming GPU is a steal by anyone's standards",
+      "link": "https://www.tomshardware.com/pc-components/get-this-stunning-msi-rtx-5060-ti-16g-deal-at-walmart-for-usd200-less-than-anywhere-else-only-usd569-99-for-the-solid-mid-range-shadow-2x-oc-plus-gaming-gpu-is-a-steal-by-anyones-standards",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T14:38:41.000Z",
+      "snippet": "Snag an MSI RTX 5060 Ti 16G Shadow 2x OC Plus at Walmart for an awesome $200 less than anywhere else - $569 price is the best we've found by a longshot"
+    },
+    {
+      "title": "HyperX Omen 15 review: Strong gaming performance and colorful OLED display, with obvious cost-cutting measures",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/hyperx-omen-15-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T13:52:40.000Z",
+      "snippet": "While gaming performance is strong, there are some signs of cost-cutting."
+    },
+    {
+      "title": "Denver data center continuously waters its lawn even after city announced drought restrictions, enraging residents — it’s unclear if site is breaking the law or using its own recycled water",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/denver-data-center-continuously-waters-its-lawn-even-after-city-announced-drought-restrictions-enraging-residents-its-unclear-if-site-is-breaking-the-law-or-using-its-own-recycled-water",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T13:26:18.000Z",
+      "snippet": "An AI data center is reportedly watering its lawn despite the area suffering from a drought. One resident said that we can't water our lawns until next summer, but you better believe that they are watering their entire green with so many sprinklers."
+    },
+    {
+      "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores and dual liquid-cooled MI350P accelerators — 'the most powerful workstation in the world' can run trillion-parameter models, says AMD",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T12:58:37.000Z",
+      "snippet": "AMD's Threadripper Halo Station packs a 96-core Zen 5 Threadripper, dual MI350P accelerators with support for four, and 2TB of DDR5."
+    },
+    {
+      "title": "Discrete graphics card sales hit four-year record despite soaring memory prices — AMD gains market share as notebook graphics carry the market",
+      "link": "https://www.tomshardware.com/pc-components/gpus/discrete-graphics-card-sales-hit-four-year-record-despite-high-prices-shipments-reach-13-24-million-units-as-market-defies-pc-slump",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T12:45:23.000Z",
+      "snippet": "Shipments of standalone graphics processors for PCs grow sequentially and year-over-year amid shortage of components and increased prices."
+    },
+    {
+      "title": "Fractal Design Refine 2 Review: Slightly refined",
+      "link": "https://www.tomshardware.com/peripherals/gaming-chairs/fractal-design-refine-2-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T12:31:14.000Z",
+      "snippet": "Fractal Design's second-generation gaming chair lives up to its name — it's slightly refined from its predecessor, which means it's not really that different."
+    },
+    {
+      "title": "Fake DDR5 memory kits now on sale starting at $43 — V-Color sells 0GB dummy modules and single-stick memory kits with a fake stick for $300",
+      "link": "https://www.tomshardware.com/pc-components/ram/fake-ddr5-memory-kits-now-on-sale-starting-at-usd43-v-color-sells-0gb-dummy-modules-and-single-stick-memory-kits-with-a-fake-stick-for-usd300",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T11:30:00.000Z",
+      "snippet": "V-Color's DDR5 filler memory featuring a real stick paired with a dummy module is now available around the UK and Europe, while the company's 0GB kits that just come with filler sticks are on sale in the US as well."
+    },
+    {
+      "title": "Grab Hoto's 25-bit electric screwdriver set for under $30 right now, perfect for PC builds and projects — limited-time deal knocks 40% off the usual price for a multi-torque driver with a 1,500 mAh battery and 25 heavy-duty bits for hobbyists",
+      "link": "https://www.tomshardware.com/desktops/pc-building/grab-hotos-25-bit-electric-screwdriver-set-for-under-usd30-right-now-perfect-for-pc-builds-and-projects-limited-time-deal-knocks-40-percent-off-the-usual-price-for-a-multi-torque-driver-with-a-1-500-mah-battery-and-25-heavy-duty-bits-for-hobbyists",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T11:21:55.000Z",
+      "snippet": "Save 40% on this Hoto electric screwdriver with 25 hardened bits, now just $29.99 for a limited time only."
+    },
+    {
+      "title": "SpaceXAI offers 50% Starlink discount to placate data center's residential neighbors; 2,000 have signed up — goodwill gesture comes amid vociferous community backlash",
+      "link": "https://www.tomshardware.com/service-providers/network-providers/over-2-000-subscribers-grab-discounted-starlink-plans-in-tennessee-and-mississippi-spacexai-offers-50-percent-off-for-people-living-near-its-data-centers-and-other-developments",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T11:00:00.000Z",
+      "snippet": "SpaceXAI Memphis said on its X account that more than 2,000 subscribers from the Memphis and Southaven area have already signed up for the discounted Starlink offer. Elon Musk is giving subscribers living near his data centers up to $65 off on their monthly internet bill."
+    },
+    {
+      "title": "This 32GB of Team Group DDR5 RAM is the cheapest DDR5-6400 kit on the market – only $405 with promo code, buy the least expensive DDR5-6400 kit around with environmentally conscious T-Force Vulcan Eco RAM",
+      "link": "https://www.tomshardware.com/pc-components/this-32gb-of-team-group-ddr5-ram-is-the-cheapest-ddr5-6400-kit-on-the-market-only-usd405-with-promo-code-buy-the-least-expensive-ddr5-6400-kit-around-with-environmentally-conscious-t-force-vulcan-eco-ram",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T10:54:32.000Z",
+      "snippet": "Newegg's 32GB TeamGroup T-Force Vulcan Eco DDR5-6400 CL38 kit is down to $405 with code LDSF243, making it the least expensive DDR5-6400 kit around amid the RAMpocalypse — and it's even cheaper than most DDR5-6000 kits at the 'egg."
+    },
+    {
+      "title": "Chinese chipmaker CXMT allegedly used a written roadmap to steal Samsung DRAM tech — South Korean court says 'Project Hefei' lifted 620-step recipe to build 10% global market share",
+      "link": "https://www.tomshardware.com/pc-components/dram/chinas-cmxt-had-an-actual-roadmap-for-its-alleged-industrial-espionage-from-samsung-south-korean-court-says-project-hefei-was-responsible-for-cxmts-current-position-as-major-dram-maker",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T10:30:00.000Z",
+      "snippet": "CXMT's alleged industrial espionage from Samsung had an actual roadmap — South Korean court says Project Hefei was responsible for CXMT's current position as major DRAM maker"
+    },
+    {
+      "title": "Lexar announces ‘world’s thinnest portable SSD’ in celebration of the brand’s 30th anniversary – Lexar Muse drive achieves 0.15-inch thickness with proprietary pogo-pin cable, magnetic sleeve for phone mounting",
+      "link": "https://www.tomshardware.com/pc-components/external-ssds/lexar-announces-worlds-thinnest-portable-ssd-in-celebration-of-the-brands-30th-anniversary-lexar-muse-drive-achieves-0-15-inch-thickness-with-proprietary-pogo-pin-cable-magnetic-sleeve-for-phone-mounting",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T07:00:00.000Z",
+      "snippet": "Lexar’s slimmest-ever Muse drive aims for a barely there design that magnetically attaches to your iPhone for recording directly on the drive. But to achieve its petite 80×48×3.8 mm dimensions, it uses a proprietary cable and a magnetic sleeve for mounting."
+    },
+    {
+      "title": "Nvidia acquires Hugging Face for $12.93 billion — company gains control of major AI model distribution platform",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-acquires-hugging-face-for-usd12-93-billion-company-gains-control-of-major-ai-model-distribution-platform",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-03T19:05:37.000Z",
+      "snippet": "Nvidia expands beyond AI hardware with its $12.93 billion acquisition of Hugging Face, gains control of a major open AI model platform, vows to preserve its support for competing models, clouds, and hardware platforms."
+    },
+    {
       "title": "Lenovo ditches fans in favor of solid-state AirJet tech in super-slim, 1.8-pound AeroBlade laptop concept – company also lands at IFA with a 14-inch rollable screen notebook that expands to 17 inches",
       "link": "https://www.tomshardware.com/laptops/lenovo-ditches-fans-in-favor-of-solid-state-airjet-tech-in-super-slim-1-8-pound-aeroblade-laptop-concept-company-also-lands-at-ifa-with-a-14-inch-rollable-screen-notebook-that-expands-to-17-inches",
       "source": " Latest from Tom's Hardware ",
@@ -416,6 +633,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-03T16:00:00.000Z",
       "snippet": "AMD's Gorgon Halo chips are breaking cover. Ahead of IFA, Lenovo showed off the THinkCentre X Ultra with an AMD Ryzen AI Max+ Pro 495."
+    },
+    {
+      "title": "Nvidia's RTX Spark N1X launches in October for laptops and desktops — 18 or 20 CPU cores, paired with 5,120 or6,144 CUDA cores, up to 128GB of unified memory",
+      "link": "https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-03T16:00:00.000Z",
+      "snippet": "Systems with Nvidia's RTX Spark N1X chips will launch in October in mini PCs and laptops, with the chips coming in two configurations."
     },
     {
       "title": "Intel's Core Ultra 400 'Nova Lake' launch schedule leaks out — mass production in Q4, first Nova Lake CPUs in Q1 2027",
@@ -920,106 +1144,71 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-31T09:30:00.000Z",
       "snippet": "A Taiwanese man sued his wife for having an affair using recordings from a robot vacuum to prove his case. He won, but got sued by the wife for infringing on her personal privacy and was fined the equivalent of 30% of what he earned as compensation previously."
-    },
-    {
-      "title": "Speedy 34-inch 240 Hz ultrawide OLED monitor now $600 off — LG UltraGear 34GX900A-B only $599.99",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/speedy-34-inch-240-hz-ultrawide-oled-monitor-now-usd600-off-lg-ultragear-34gx900a-b-only-usd599-99",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T18:08:43.000Z",
-      "snippet": "The LG UltraGear 34GX900A-B packs a fast 240 Hz OLED panel and 3440 x 1440 resolution into an immersive 800R curved display, now available for 50% off."
-    },
-    {
-      "title": "DLSS 5 mod brings next-gen tech to old Ampere GPUs, but frame rates are horrible — most games tank to single digits, high-end GPUs can hit up to 40 FPS in some cases",
-      "link": "https://www.tomshardware.com/pc-components/gpus/dlss-5-mod-brings-next-gen-tech-to-old-ampere-gpus-but-frame-rates-are-horrible-most-games-tank-to-single-digits-high-end-gpus-can-hit-up-to-40-fps-in-some-cases",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T16:30:30.000Z",
-      "snippet": "DLSS 5 now runs on Ampere GPUs thanks to a patched DLL, but performance is expectedly poor for the most part. You can get up to 30-40 FPS in edge cases with minimum in-game settings, but newer titles can tank FPS to single digits."
-    },
-    {
-      "title": "SpaceX starts in-house turbine blade manufacturing to boost gas-powered generator output for Elon's AI data centers — new manufacturing strategy cuts generator delays by 18 months",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T14:49:50.000Z",
-      "snippet": "Turbine blades and vanes are among the most complicated turbine engine parts to build, with processes taking as long as 60 to 90 weeks. Because of this, Musk wants to bring their manufacturing in-house at SpaceX."
-    },
-    {
-      "title": "Donkey Kong 64 finally gets a fully native PC port written in C — DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T14:26:14.000Z",
-      "snippet": "A team of veteran developers has recompiled Donkey Kong 64 in C, so it runs natively on Windows, Linux, and Mac. The entire project is free, uses no generative AI, but still includes more features than any vibecoded retro revival slop you can find online. You do need to bring your own ROM, though."
-    },
-    {
-      "title": "Massive 12TB Steam leak reveals decades of unreleased games — archived files include unseen Half-Life 2: Episode 3 builds and assets",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/massive-12tb-steam-leak-reveals-decades-of-unreleased-games-archived-files-include-unseen-half-life-2-episode-3-builds-and-assets",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T12:48:42.000Z",
-      "snippet": "Early builds of Valve games from 2003 to 2013 have been found in a 12TB archive pulled from the company's old servers. These pre-release versions act like time capsules, preserving the state of the game from before it underwent massive changes."
-    },
-    {
-      "title": "At least three exhibitors got robbed at Gamescom 2026 — laptops and handhelds with unfinished game builds stolen from locked cabinets",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/at-least-three-exhibitors-got-robbed-at-gamescom-2026-laptops-and-handhelds-with-unfinished-game-builds-stolen-from-locked-cabinets",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T12:34:59.000Z",
-      "snippet": "Several developers, publishers, and studios have had their laptops and handheld consoles stolen at Gamescom 2026. However, the organizers said that it's only responsible for general security, and exhibitors can book individual booth security separately."
-    },
-    {
-      "title": "Adata Urban Tapsafe 2TB review: Solid-state storage you unlock with your phone",
-      "link": "https://www.tomshardware.com/pc-components/external-ssds/adata-urban-tapsafe-2tb-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T12:05:00.000Z",
-      "snippet": "Adata's Urban Tapsafe portable SSD sports magnetic face plates, a metal mounting clip, the ability to unlock the drive with your phone, and share selective access with others via an app."
-    },
-    {
-      "title": "DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books — team trains neural net on Photoshop edits to process 526,000 scans",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T12:00:00.000Z",
-      "snippet": "An epic book preservation effort."
-    },
-    {
-      "title": "China's top DRAM maker CXMT sues Pentagon over its blacklisting — argues chips are standard civilian JEDEC spec, not defense hardware",
-      "link": "https://www.tomshardware.com/pc-components/dram/chinas-top-dram-maker-cxmt-sues-pentagon-over-its-blacklisting-argues-chips-are-standard-civilian-jedec-spec-not-defense-hardware",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T11:30:00.000Z",
-      "snippet": "Chinese DRAM maker CXMT wants the US Department of Defense to remove it from the list of companies linked to the Chinese military."
-    },
-    {
-      "title": "Corsair RM1000e (2026) ThermalProtect power supply review: Temperature-sensing 12V-2x6 cable shuts the GPU down before a connector can melt",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-rm1000e-2026-thermalprotect-power-supply-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T11:05:00.000Z",
-      "snippet": "Corsair's mainstream RMe series returns for 2026 with Platinum-class efficiency, a 500W fanless window, and a temperature-sensing 12V-2x6 cable that shuts the GPU down before a connector can melt."
-    },
-    {
-      "title": "Poor liquid metal application almost destroys Asus Zephyrus M16 laptop, eats through the processor lid — paste replacement triples framerates, drops temps, and eliminates hard crashes",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/poor-liquid-metal-application-almost-destroys-asus-zephyrus-m16-laptop-eats-through-the-processor-lid-paste-replacement-triples-framerates-drops-temps-and-eliminates-hard-crashes",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T11:00:00.000Z",
-      "snippet": "A user on Reddit shared their story about how the factory-applied liquid metal on their Asus Zephyrus M16 gaming laptop corroded the heatsink and lid of their CPU. It got so bad that the corrosion was about to eat away and seep onto the silicon itself, but thankfully a simple re-paste job averted catastrophe."
-    },
-    {
-      "title": "Modders solder power cables directly to RTX 5090 PCB to eliminate notorious melting 16-pin connector — bare-board Galax HOF card pulls 600W under chiller cooling",
-      "link": "https://www.tomshardware.com/pc-components/gpus/modders-solder-power-cables-directly-to-rtx-5090-pcb-to-eliminate-notorious-melting-16-pin-connector-bare-board-galax-hof-card-pulls-600w-under-chiller-cooling",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T10:30:00.000Z",
-      "snippet": "TecLab, a Brazilian YouTuber, has just shown the most dangerous method of bypassing the 16-pin connector on an RTX 5090 — by soldering wires directly to the card's PCB. In an attempt to save the GPU from melting, they've created perhaps an even bigger fire hazard."
-    },
-    {
-      "title": "US military uses high-energy lasers to shoot down three Mexican cartel drones over the southern border — narcos suspected of using UAVs for surveillance and reconnaissance to support illegal activities",
-      "link": "https://www.tomshardware.com/tech-industry/drones/us-military-uses-high-energy-lasers-to-shoot-down-three-mexican-cartel-drones-over-the-southern-border-narcos-suspected-of-using-uavs-for-surveillance-and-reconnaissance-to-support-illegal-activities",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-30T10:00:00.000Z",
-      "snippet": "The US military has successfully deployed a laser defense system on the southern border of the country and shot down alleged Mexican cartel drones. These UAVs are suspected of spotting U.S. law enforcement operations and help the criminal organizations traffic humans and goods into the United States."
     }
   ],
   "quantum": [
+    {
+      "title": "Quantum Computing Challenges Holding Back Practical Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/09/04/main-challenges-facing-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-04T15:05:17.000Z",
+      "snippet": "Insider Brief Quantum computing has attracted billions in investment, sustained media attention, and some of the most concentrated scientific talent on a single engineering problem. Progress has been significant, but the results so far have yet to match the scale of investment and research behind the field. To date, no quantum computer has outperformed a […]"
+    },
+    {
+      "title": "QuFi Launches Post-Quantum Verification Platform for Digital Assets",
+      "link": "https://thequantuminsider.com/2026/09/04/qufi-post-quantum-verification-platform-digital-assets/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-04T13:54:09.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — As the digital asset industry transitions toward post-quantum security, blockchain networks face an emerging infrastructure challenge. Depending on the cryptographic scheme and implementation, post-quantum signatures can be more than 100 times larger than the elliptic-curve signatures widely used today. This can drive substantial increases in storage, bandwidth, and c"
+    },
+    {
+      "title": "RIKEN Adopts QunaSys QURI SDK for Quantum-HPC Hybrid Computing",
+      "link": "https://thequantuminsider.com/2026/09/04/riken-qunasys-software-jhpc-quantum-project/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-04T10:22:53.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — QunaSys Inc. (headquartered in Bunkyo-ku, Tokyo; Representative Director and CEO: Tennin Yan; hereinafter “QunaSys”), a company specializing in the development of quantum computing algorithms and software, announced that its quantum software development kit “QURI SDK Enterprise” has been officially adopted for RIKEN’s Quantum-HPC Hybrid Platform as part of the “JHPC-q"
+    },
+    {
+      "title": "MIT Qubit Design Could Speed Quantum Operations While Preserving Data",
+      "link": "https://thequantuminsider.com/2026/09/04/mit-qubit-design-could-speed-quantum-operations-while-preserving-data/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-04T08:21:29.000Z",
+      "snippet": "Insider Brief MIT researchers have designed a quantum computing component that simulations suggest could perform faster operations while preserving stored information. It’s an advance that potentially could help future machines complete longer, more reliable calculations, according to the researchers. The architecture separates two jobs within a quantum bit, or qubit. One component stores informat"
+    },
+    {
+      "title": "Jülich Launches Trapped-Ion Quantum Computer For Supercomputing Integration",
+      "link": "https://thequantuminsider.com/2026/09/04/julich-launches-trapped-ion-quantum-computer-for-supercomputing-integration/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-04T07:49:31.000Z",
+      "snippet": "Insider Brief Germany’s Forschungszentrum Jülich has inaugurated a quantum computer intended to help researchers and companies test how quantum processors can work alongside conventional supercomputers. The system, called JION, is operational at the Jülich Supercomputing Centre, according to the research center. Its first public calculation was performed during the inauguration ceremony. JION will"
+    },
+    {
+      "title": "Scientek and Classiq Partner to Accelerate Quantum Software Adoption in Taiwan",
+      "link": "https://thequantuminsider.com/2026/09/04/scientek-classiq-quantum-software-access-taiwan/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-04T07:00:00.000Z",
+      "snippet": "Insider Brief PRESS RELEASE – Scientek Corporation (科榮股份有限公司) and Classiq, the leading quantum computing software company, today announced a go-to-market agreement to expand access to Classiq’s hardware-agnostic quantum software platform across Taiwan’s semiconductor, research and academic communities. Under the partnership agreement, Scientek will introduce Classiq’s platform to semiconductor com"
+    },
+    {
+      "title": "Quantum Foundry Copenhagen Plans 5,300-Square-Meter Chip Facility",
+      "link": "https://thequantuminsider.com/2026/09/04/new-copenhagen-facility-to-strengthen-europes-quantum-manufacturing-capabilities/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-04T05:05:00.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Today, Quantum Foundry Copenhagen and the Novo Nordisk Foundation announce plans to establish a new 5,300 m² quantum chip fabrication facility in Copenhagen. The facility will develop and scale the advanced manufacturing equipment needed to produce the next generation of quantum chips and strengthen Europe’s position in an increasingly competitive […]"
+    },
     {
       "title": "Quantinuum and Aramco Sign MOU to Explore Industrial Quantum Computing",
       "link": "https://thequantuminsider.com/2026/09/03/quantinuum-aramco-mou-industrial-quantum-computing/",
       "source": "The Quantum Insider",
       "published": "2026-09-03T16:03:50.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Quantinuum, a leading quantum computing company, today announced the signing of a non-binding MOU with Aramco, one of the world’s leading integrated energy and chemicals companies, to explore a series of industrial use cases, enhance quantum computing capabilities, and prepare for a potential research collaboration focused on fault-tolerant quantum computing.  […]"
+    },
+    {
+      "title": "Quantum Motion Raises Additional Funding for Silicon Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/03/quantum-motion-additional-funding-silicon-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-03T15:45:23.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantum Motion, the leader in silicon spin-based quantum computing, today announced the second close of its series C funding round to accelerate the scale-up of its fault-tolerant quantum hardware. This second close of the series C round led by DCVC and Kembara contributes investments from Imec.ventures, Lansdowne Partners, Sony Innovation Fund, S3 […]"
     },
     {
       "title": "Andhra University Plans Centres of Excellence for Quantum, AI and Semiconductors",
@@ -1324,6 +1513,13 @@
     }
   ],
   "education": [
+    {
+      "title": "Building an everyday equitable practice for AI in schools",
+      "link": "https://www.eschoolnews.com/digital-learning/2026/09/03/building-an-everyday-equitable-practice-for-ai-in-schools/",
+      "source": "eSchool News",
+      "published": "2026-09-03T10:00:00.000Z",
+      "snippet": "AI technology is advancing rapidly in schools, but research is increasingly showing that Large Language Models (LLMs) lack the common sense, morality, and knowledge of individual classroom dynamics needed to be truly equitable."
+    },
     {
       "title": "What Shadow IT Can Teach Higher Ed Tech Leaders About the Faculty Experience",
       "link": "https://edtechmagazine.com/higher/article/2026/09/what-shadow-it-can-teach-higher-ed-tech-leaders-about-faculty-experience",
