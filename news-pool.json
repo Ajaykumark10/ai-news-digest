@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T23:36:14.000Z",
+      "snippet": "The round is being raised just months after the robot data startup exited from stealth."
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T23:15:11.000Z",
+      "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
+    },
+    {
       "title": "Architecting memory and storage in the AI era",
       "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "source": "Artificial intelligence – MIT Technology Review",
@@ -20,6 +34,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-04T16:21:11.000Z",
       "snippet": "It's the latest failure of OpenAI's internal monitoring and security systems."
+    },
+    {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T16:04:08.000Z",
+      "snippet": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]"
     },
     {
       "title": "Google’s Gemini Spark can now manage your Google Photos library",
@@ -328,13 +349,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-31T12:56:46.000Z",
       "snippet": "Circleback is also introducing new pricing plans starting from $14 per month."
-    },
-    {
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-31T02:34:00.000Z",
-      "snippet": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
     }
   ],
   "cloud": [
@@ -353,6 +367,13 @@
       "snippet": "When Google's Finance Engineering team needed to modernize their legacy data layer, they chose Spanner, a globally distributed, strongly consistent, multi-model database with high availability capabilities. But migrating to Spanner without taking production services offline was a daunting engineering challenge: As the internal team responsible for the application, we needed to manually rewrite dua"
     },
     {
+      "title": "Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/",
+      "source": "Cloud Blog",
+      "published": "2026-09-04T15:36:00.000Z",
+      "snippet": "Moving Large Language Models (LLMs) from experimental prototypes into enterprise production exposes a critical truth: your infrastructure dictates both your performance ceilings and your unit economics. Standard hardware benchmarks often ignore a fundamental reality—not all LLM requests stress the silicon in the same way. \nIn this post, we dive into a comprehensive benchmarking exercise comparing "
+    },
+    {
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "source": "Cloud Blog",
@@ -360,11 +381,25 @@
       "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nAug 31 - S"
     },
     {
+      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-09-03T18:15:00.000Z",
+      "snippet": "GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days.\nThe post GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry appeared first on Microsoft Azure Blog."
+    },
+    {
       "title": "What’s new with Google Data Cloud",
       "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "source": "Cloud Blog",
       "published": "2026-09-03T16:00:00.000Z",
       "snippet": "August 31 - September 4\nStateful processing is available in BigQuery continuous queries in Preview\nStateful operations significantly expand what’s possible with BigQuery continuous queries. This feature allows users to leverage functions like JOINs, aggregations, and windowing functions directly in their streaming queries. Now you can calculate metrics over time (for example, a 30-minute average) "
+    },
+    {
+      "title": "How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop",
+      "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-09-03T15:00:00.000Z",
+      "snippet": "Learn how Microsoft used Azure Arc and Azure Virtual Desktop to simplify hybrid security operations, improve visibility, and scale globally.\nThe post How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop appeared first on Microsoft Azure Blog."
     },
     {
       "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
@@ -393,6 +428,13 @@
       "source": "Cloud Blog",
       "published": "2026-09-02T16:00:00.000Z",
       "snippet": "AI models have clearly proven their ability to discover and exploit vulnerabilities without much, if any, human assistance. To help defenders gain the advantage with AI, we built the Mantis harness to automate the discovery, triage, reproduction, and patching of software vulnerabilities. \nAvailable to all as an open-source framework, Mantis is part of Google’s internal approach to find and fix vul"
+    },
+    {
+      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-09-02T16:00:00.000Z",
+      "snippet": "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale.\nThe post The Economics of Agent Optimization: Context engineering for enterprise AI agents appeared first on Microsoft Azure Blog."
     },
     {
       "title": "How BlackLine simplifies perimeter policy intelligence with VPC Service Controls",
@@ -481,6 +523,13 @@
   ],
   "hardware": [
     {
+      "title": "DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon",
+      "link": "https://www.tomshardware.com/pc-components/gpus/dlss-5-officially-launches-inside-nba-2k27-limited-to-rtx-50-series-gpus-for-now-nvidia-promises-to-bring-neutral-rendering-tech-to-rtx-40-series-soon",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T23:09:31.000Z",
+      "snippet": "Nvidia's controversial neural-rendering tech, DLSS 5, is now officially available in NBA 2K27, marking the start of a new era for the company. DLSS 5 will also come to RTX 40-series soon after current work on optimizing it for the RTX 50-series has reached a satisfactory state."
+    },
+    {
       "title": "Grab a new 3D printer for as low as $229 right now in Creality's Labor Day flash sale, with up to 50% off —big sale discounts also include resin and filament bundles, along with 3D scanners and toolkits",
       "link": "https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-for-as-low-as-usd229-right-now-in-crealitys-labor-day-flash-sale-with-up-to-50-percent-off-big-sale-discounts-also-include-resin-and-filament-bundles-along-with-3d-scanners-and-toolkits",
       "source": " Latest from Tom's Hardware ",
@@ -500,6 +549,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-04T15:30:00.000Z",
       "snippet": "There's a big Labor Day sale over at Best Buy right now, securing you huge discounts on tech, including gaming PCs, handhelds, laptops, and monitors."
+    },
+    {
+      "title": "Frontier AI faces pricing reckoning as token volume explodes 25-fold — mid-tier models deliver 90% of flagship capability at one-sixth the cost",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-04T15:21:56.000Z",
+      "snippet": "As frontier AI developers push for cost savings as much as intelligence enhancements, new models push the boundaries of the pareto frontier, with even small advantages crowning new kings."
     },
     {
       "title": "Nvidia app update fails to block unofficial DLSS multi-frame generation mod on RTX 40 series gaming GPUs — modders restore support across multiple games within hours",
@@ -1130,23 +1186,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-08-31T10:30:00.000Z",
       "snippet": "CXMT claims to be the first to mass-produce LPDDR6 memory. Yet, for a niche phone."
-    },
-    {
-      "title": "Diehard Asus customer gets RMA denied for a cheap 2.4 GHz headset receiver despite spending more than $30,000 with the brand — firm refuses to send a cheap dongle, then relents after social media backlash",
-      "link": "https://www.tomshardware.com/peripherals/diehard-asus-customer-gets-rma-denied-for-a-cheap-2-4-ghz-headset-receiver-despite-spending-more-than-usd30-000-with-the-brand-firm-refuses-to-send-a-cheap-dongle-then-relents-after-social-media-backlash",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-31T10:00:00.000Z",
-      "snippet": "Asus refused to replace a loyal customer's wireless headset receiver because accessories are apparently not covered under warranty. The customer was not happy to see his dedication be put into question like this, brining receipts of past purchases to express their disappointment over this betrayal."
-    },
-    {
-      "title": "Man uses robot vacuum to covertly record his wife's affair, wins divorce settlement but gets sentenced to prison for making an illegal recording — Husband lands behind bars after counter-suit over privacy rights",
-      "link": "https://www.tomshardware.com/tech-industry/man-uses-robot-vacuum-to-covertly-record-his-wifes-affair-wins-divorce-settlement-but-gets-sentenced-to-prison-for-making-an-illegal-recording-husband-lands-behind-bars-after-counter-suit-over-privacy-rights",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-08-31T09:30:00.000Z",
-      "snippet": "A Taiwanese man sued his wife for having an affair using recordings from a robot vacuum to prove his case. He won, but got sued by the wife for infringing on her personal privacy and was fined the equivalent of 30% of what he earned as compensation previously."
     }
   ],
   "quantum": [
+    {
+      "title": "Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress",
+      "link": "https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-05T07:00:00.000Z",
+      "snippet": "Yuval Boger interviews Brian Gaucher, an experienced engineer and IBM veteran who co-chaired ERVA’s report Engineering Research to Advance Quantum Technologies. Brian explains that while U.S. quantum science remains strong, global competition is accelerating and the key limiter is no longer physics discovery but engineering the path from “lab to fab”—scalable, manufacturable, reliable systems. The"
+    },
     {
       "title": "Quantum Computing Challenges Holding Back Practical Quantum Computers",
       "link": "https://thequantuminsider.com/2026/09/04/main-challenges-facing-quantum-computing/",
@@ -1496,20 +1545,6 @@
       "source": "The Quantum Insider",
       "published": "2026-08-31T10:55:17.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Yaqumo Inc. (Headquarters: Chiyoda-ku, Tokyo; Representative Director and CEO: Kazuhiro Nakashoji; hereinafter “Yaqumo”) is pleased to announce that it has been selected for the public solicitation, “Post-5G Information and Communication Systems Infrastructure Enhancement R&D Project (Acceleration of the Development and Demonstration of Next-Generation Quantum Compute"
-    },
-    {
-      "title": "S-Transistors Raises €2.6 Million Pre-Seed Round to Introduce Superconducting Transistor Platform",
-      "link": "https://thequantuminsider.com/2026/08/31/s-transistors-raises-e2-6-million-pre-seed-round-to-introduce-superconducting-transistor-platform/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-31T08:05:00.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Newly launched Finnish startup S-Transistors, originating from VTT Technical Research Centre of Finland, has raised €2.6 million in pre-seed funding to pioneer a fundamentally new class of integrated circuits based on superconducting transistors. The technology has several promising applications, from energy-efficient classical computing to spacecraft electronics, but"
-    },
-    {
-      "title": "French National Quantum Update: August 2026",
-      "link": "https://thequantuminsider.com/2026/08/31/french-national-quantum-update-august-2026/",
-      "source": "The Quantum Insider",
-      "published": "2026-08-31T07:41:39.000Z",
-      "snippet": "Executive Summary France’s quantum sector entered a more public-market-facing phase in August 2026, with Pasqal dominating the headlines through its Nasdaq debut, technical progress and expansion into Saudi Arabia. The developments increasingly placed the neutral-atom quantum computing company at the center of France’s conversations on commercialization. Pasqal completed its combination with Bleic"
     }
   ],
   "education": [
@@ -1554,13 +1589,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-08-31T14:27:32.000Z",
       "snippet": "One of the major barriers to artificial intelligence adoption across industries is the idea of displacement. Will AI eventually be able to replace humans? Will automation render our skills — and our jobs — obsolete? Most of us understand that however powerful this technology might be, it still requires human oversight to ensure it’s working properly. The question now is how we can collaborate with"
-    },
-    {
-      "title": "A blanket screen-time ban won’t fix what’s broken in edtech",
-      "link": "https://www.eschoolnews.com/educational-leadership/2026/08/31/a-blanket-screen-time-ban-wont-fix-whats-broken-in-edtech/",
-      "source": "eSchool News",
-      "published": "2026-08-31T10:00:00.000Z",
-      "snippet": "Many parents, policymakers, and educators are worried about screens in schools. They’ve observed the positive effects of cell phone bans and are wondering how edtech might contribute to real issues, including declining attention spans and learning loss."
     }
   ]
 }
