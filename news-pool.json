@@ -272,48 +272,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-01T20:53:05.000Z",
       "snippet": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements."
-    },
-    {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T19:39:22.000Z",
-      "snippet": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
-    },
-    {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T17:35:37.000Z",
-      "snippet": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T17:00:00.000Z",
-      "snippet": "OpenAI said that the integration provides read-only access to health records for clinicians."
-    },
-    {
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T16:31:04.000Z",
-      "snippet": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
-    },
-    {
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T15:51:55.000Z",
-      "snippet": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
-    },
-    {
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T15:45:51.000Z",
-      "snippet": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
     }
   ],
   "cloud": [
@@ -407,27 +365,6 @@
       "source": "Microsoft Azure Blog",
       "published": "2026-09-02T16:00:00.000Z",
       "snippet": "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale.\nThe post The Economics of Agent Optimization: Context engineering for enterprise AI agents appeared first on Microsoft Azure Blog."
-    },
-    {
-      "title": "How BlackLine simplifies perimeter policy intelligence with VPC Service Controls",
-      "link": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
-      "source": "Cloud Blog",
-      "published": "2026-09-01T16:00:00.000Z",
-      "snippet": "Establishing network-level perimeters with VPC Service Controls (VPC-SC) is a critical step that can help you protect your cloud environment against data exfiltration, compromised accounts, and insider threats.\nToday, Google Cloud is excited to share new policy intelligence capabilities in VPC-SC that can help drive even greater operational simplicity. With our latest release of the VPC-SC violati"
-    },
-    {
-      "title": "What Google Cloud announced in AI this month",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "source": "Cloud Blog",
-      "published": "2026-09-01T16:00:00.000Z",
-      "snippet": "Editor’s note: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more.\n\n\nThis month, we focused on making AI highly practical for your business, including its associated costs. This meant tailoring our models for specialized industries – starting with Financial Services and Leg"
-    },
-    {
-      "title": "Introducing TabFM in BigQuery: Predictive analytics reimagined",
-      "link": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
-      "source": "Cloud Blog",
-      "published": "2026-09-01T16:00:00.000Z",
-      "snippet": "Historically, enterprise predictive analytics tasks such as predicting churn, purchase intent, or fraud scoring have meant building custom models using libraries like XGBoost, Random Forest, or Deep Neural Networks (DNNs). While effective, the traditional train-tune-deploy-retrain cycle can be complex and time-consuming. Additionally, the overhead of manual feature engineering, hyperparameter tuni"
     }
   ],
   "hardware": [
@@ -1085,6 +1022,13 @@
   ],
   "quantum": [
     {
+      "title": "NEC Halts Development of Quantum Computer Hardware",
+      "link": "https://thequantuminsider.com/2026/09/06/nec-halts-development-of-quantum-computer-hardware/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-06T18:34:34.000Z",
+      "snippet": "Insider Brief NEC has ended its effort to build a working quantum computer, pulling back from a field that the company helped pioneer. The company discontinued development of a physical quantum computing system at the end of March, Nikkei Asia reported. NEC apparently concluded that bringing the technology to market would take too long to […]"
+    },
+    {
       "title": "Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress",
       "link": "https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/",
       "source": "The Quantum Insider",
@@ -1321,13 +1265,6 @@
       "source": "The Quantum Insider",
       "published": "2026-09-02T07:27:55.000Z",
       "snippet": "Insider Brief Toronto-based materials startup Meissner has raised $2.6 million in pre-seed financing to search for superconductors that could support advances in quantum computing, fusion energy and other emerging industries. The $2.6 million U.S. round, equivalent to about $3.6 million Canadian, included backing from BDC Capital’s Thrive Venture Fund and a group of Canadian technology […]"
-    },
-    {
-      "title": "Symmatrics Launches AI and Post-Quantum Readiness Pledge",
-      "link": "https://thequantuminsider.com/2026/09/01/symmatrics-ai-post-quantum-readiness-pledge/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-01T16:08:57.000Z",
-      "snippet": "Insider Brief PRESS RELEASE – A new industry commitment convened by Symmatrics, the pioneer of Internet-scale One-Time Pad symmetric encryption and creator of a breakthrough quantum-secure trust layer, is bringing organizations together around a shared priority: preparing now for the security challenges of the AI and quantum era. The new cross-sector AI & Post-Quantum Readiness Pledge, accessible "
     }
   ],
   "education": [
