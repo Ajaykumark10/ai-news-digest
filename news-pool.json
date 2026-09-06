@@ -29,6 +29,13 @@
       "snippet": "The round is being raised just months after the robot data startup exited from stealth."
     },
     {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T23:15:11.000Z",
+      "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
+    },
+    {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -307,13 +314,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-01T15:45:51.000Z",
       "snippet": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
-    },
-    {
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T15:10:58.000Z",
-      "snippet": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
     }
   ],
   "cloud": [
@@ -332,6 +332,13 @@
       "snippet": "When Google's Finance Engineering team needed to modernize their legacy data layer, they chose Spanner, a globally distributed, strongly consistent, multi-model database with high availability capabilities. But migrating to Spanner without taking production services offline was a daunting engineering challenge: As the internal team responsible for the application, we needed to manually rewrite dua"
     },
     {
+      "title": "Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/",
+      "source": "Cloud Blog",
+      "published": "2026-09-04T15:36:00.000Z",
+      "snippet": "Moving Large Language Models (LLMs) from experimental prototypes into enterprise production exposes a critical truth: your infrastructure dictates both your performance ceilings and your unit economics. Standard hardware benchmarks often ignore a fundamental reality—not all LLM requests stress the silicon in the same way. \nIn this post, we dive into a comprehensive benchmarking exercise comparing "
+    },
+    {
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "source": "Cloud Blog",
@@ -346,11 +353,11 @@
       "snippet": "The recognition for Microsoft over the past couple of weeks comes down to models, infrastructure, data, applications, and developer tools working as one system when AI moves into production.\nThe post Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment appeared first on Microsoft Azure Blog."
     },
     {
-      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
+      "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry",
       "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
       "source": "Microsoft Azure Blog",
       "published": "2026-09-03T18:15:00.000Z",
-      "snippet": "GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days.\nThe post GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry appeared first on Microsoft Azure Blog."
+      "snippet": "GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days.\nThe post GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry appeared first on Microsoft Azure Blog."
     },
     {
       "title": "What’s new with Google Data Cloud",
@@ -421,16 +428,65 @@
       "source": "Cloud Blog",
       "published": "2026-09-01T16:00:00.000Z",
       "snippet": "Historically, enterprise predictive analytics tasks such as predicting churn, purchase intent, or fraud scoring have meant building custom models using libraries like XGBoost, Random Forest, or Deep Neural Networks (DNNs). While effective, the traditional train-tune-deploy-retrain cycle can be complex and time-consuming. Additionally, the overhead of manual feature engineering, hyperparameter tuni"
-    },
-    {
-      "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
-      "source": "Cloud Blog",
-      "published": "2026-09-01T14:00:00.000Z",
-      "snippet": "Introduction \nBeginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BREEZE COMET (formerly UNC5669), a financially motivated threat actor specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers. Th"
     }
   ],
   "hardware": [
+    {
+      "title": "Single-slot low-profile 75W RTX 3060 with no power connectors disappoints in tests — GPU runs entirely off the PCIe slot, but offers severely crippled performance and frightening thermals",
+      "link": "https://www.tomshardware.com/pc-components/gpus/single-slot-low-profile-75w-rtx-3060-with-no-power-connectors-disappoints-in-tests-gpu-runs-entirely-off-the-pcie-slot-but-offers-severely-crippled-performance-and-frightening-thermals",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-06T14:58:29.000Z",
+      "snippet": "If you want to cut your 12GB RTX 3060's performance in half while worsening its thermals, this might be the perfect product for you."
+    },
+    {
+      "title": "OpenAI admits to 'wiki incident' after its agents were discovered using a programming hub to communicate — says more transparency is needed regarding misalignments",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-06T14:31:54.000Z",
+      "snippet": "OpenAI has admitted that its experimental AI agents used an open German programming wiki to communicate."
+    },
+    {
+      "title": "FSP Mega GM 1200W power supply review: An in-house FSP platform that quietly overshoots its own Gold label",
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/fsp-mega-gm-1200w-power-supply-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-06T13:57:18.000Z",
+      "snippet": "The FSP Mega GM 1200W power supply features Platinum-grade efficiency, an all-Japanese capacitor set, and a compact footprint that is rare on a 1200W unit."
+    },
+    {
+      "title": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures — facility operated for years under a city stop-work order",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-06T13:44:22.000Z",
+      "snippet": "A Bitcoin mining data center in El Reno, Oklahoma has been condemned after it leaked 3 million gallons of water."
+    },
+    {
+      "title": "Samsung 990 2TB PCIe 4.0 SSD falls to $339.99 on Amazon — $190 discount makes high-capacity storage more affordable",
+      "link": "https://www.tomshardware.com/pc-components/ssds/samsung-990-2tb-pcie-4-0-ssd-falls-to-usd339-99-on-amazon-usd190-discount-makes-high-capacity-storage-more-affordable",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-06T13:08:31.000Z",
+      "snippet": "Samsung's 2TB 990 offers plenty of fast storage for games and is currently $190 cheaper than its regular $529.99 price."
+    },
+    {
+      "title": "MSI MEG CoreLiquid E15 360 AIO Review: Bold and stunning, with market-leading performance",
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/msi-meg-coreliquid-e15-360-aio-review-bold-and-stunning-with-market-leading-performance",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-06T12:48:03.000Z",
+      "snippet": "MSI’s MEG CoreLiquid E15 360 AIO is a luxury cooling product, with a stunning 6.7-inch screen and industry-leading thermal performance."
+    },
+    {
+      "title": "Sales of CD and vinyl music sees strong resurgence amid physical media backlash — US sales of ‘retro media’ were up 59% and 18%, respectively, in H1 2026",
+      "link": "https://www.tomshardware.com/service-providers/streaming/sales-of-cd-and-vinyl-music-sees-strong-resurgence-amid-physical-media-backlash-us-sales-of-retro-media-were-up-59-percent-and-18-percent-respectively-in-h1-2026",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-06T12:16:13.000Z",
+      "snippet": "Music industry physical revenues jumped by 25.9% in H1 2026, 'powered by 17.7% vinyl growth and a 58.6% increase in CDs,' reported the RIAA."
+    },
+    {
+      "title": "PS5 emulator can now run the console version of GTA V at up to 60 FPS on PC, but quickly crashes as tweakers continue to optimize — PS5 emulation advancing at an astronomical pace leading up to GTA VI launch",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/ps5-emulator-can-now-run-the-console-version-of-gta-v-at-up-to-60-fps-on-pc-but-quickly-crashes-as-tweakers-continue-to-optimize-ps5-emulation-advancing-at-an-astronomical-pace-leading-up-to-gta-vi-launch",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-06T11:48:08.000Z",
+      "snippet": "A spark was lit under the PS5 emulation scene a couple of months ago and instead of fading over time, it seems to be burning brighter than ever. GTA V now runs between 40-60 FPS for a few minutes before crashing, along with several other games being rendered smoothly."
+    },
     {
       "title": "Former Old School RuneScape dev gets jail time for stealing $400,000 from players — virtual gold stolen and sold on the black market before Jagex caught the culprit using hidden firewall tweaks",
       "link": "https://www.tomshardware.com/video-games/former-old-school-runescape-dev-gets-jail-time-for-stealing-usd400-000-from-players-virtual-gold-stolen-and-sold-on-the-black-market-before-jagex-caught-the-culprit-using-hidden-firewall-tweaks",
@@ -451,6 +507,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-05T18:51:54.000Z",
       "snippet": "If you're looking for a capable machine for everyday tasks and media consumption without breaking the bank, there isn't a better deal out there than this one."
+    },
+    {
+      "title": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth — Project Zenith will debut on AMD's flagship Ryzen AI Halo platform",
+      "link": "https://www.tomshardware.com/software/windows/stripped-down-windows-11-for-ai-developers-demands-64gb-ram-and-insane-250-gb-s-bandwidth-project-zenith-will-debut-on-amds-flagship-ryzen-ai-halo-platform",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-05T17:18:57.000Z",
+      "snippet": "Project Zenith is a version of Windows 11 that lets developers work right out of the box. It comes pre-installed with developer tools like Visual Studio Code, GitHub Copilot, and WSL 2+ Ubuntu, among others, and includes features that make developing and running AI agents more secure."
     },
     {
       "title": "Gamescom apologizes after backlash over callous response to indie dev hardware thefts — pledges security overhaul and invites devs to the roundtable",
@@ -1018,76 +1081,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-02T07:00:00.000Z",
       "snippet": "Dell's new 14S laptops are mainstream devices with more colors and more  ports than the XPS 13."
-    },
-    {
-      "title": "Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pours-usd3-5-billion-into-mediatek-company-will-adopt-nvlink-fusion-for-its-custom-ai-accelerators",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T14:42:22.000Z",
-      "snippet": "Nvidia invests $3.5 billion in MediaTek as the companies expand their partnership into custom AI infrastructure with NVLink Fusion, local AI computing, and automotive platforms."
-    },
-    {
-      "title": "Alienware 16X Aurora review: A thoroughly competent gaming laptop",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/alienware-16x-aurora-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T14:31:18.000Z",
-      "snippet": "The Alienware 16X Aurora pairs a gorgeous 240 Hz OLED display with solid performance, sturdy build quality, and strong upgradeability, though its size and battery life limit portability."
-    },
-    {
-      "title": "Nvidia's controversial DLSS 5 will launch September 3 with NBA2K27, company shares first benchmarks — available on all RTX 50 series GPUs, laptops, and GeForce NOW",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T13:00:00.000Z",
-      "snippet": "Nvidia has confirmed DLSS 5 will launch on September 3 in NBA2K27. It will be supported on all RTX 50 series GPUs, laptops, and GeForce NOW."
-    },
-    {
-      "title": "Nvidia's top-end RTX 5090 gaming GPU now costs at least $5,000 — Blackwell cards continue to endure drastic price hikes",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-top-end-rtx-5090-gaming-gpu-now-costs-at-least-usd5-000-blackwell-cards-continue-to-endure-drastic-price-hikes",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T12:04:18.000Z",
-      "snippet": "The entire PC hardware industry is in shambles when it comes to consumer products, and GPUs are one of the most affected components. Everything from budget options to high-end models is now significantly more expensive than what it could be had for a year ago."
-    },
-    {
-      "title": "National telecoms provider could make $2.7 billion selling recycled copper in AI boom — BT to strip 200,000 tons from legacy network",
-      "link": "https://www.tomshardware.com/networking/national-telecoms-provider-to-make-usd2-7-billion-selling-old-copper-in-ai-boom-bt-to-strip-200-000-tons-from-legacy-network",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T12:00:00.000Z",
-      "snippet": "The UK's largest telecommunications company, BT, could potentially make $2.7 billion as it recycles all the old copper in its network as it upgrades to fiber optic. The massive amount is driven by the AI boom, as data center operators require more and more copper wires for power."
-    },
-    {
-      "title": "Chinese court freezes $318 million in Nexperia assets as Wingtech presses to regain control — Dutch chipmaker says seizures won't affect day-to-day operations",
-      "link": "https://www.tomshardware.com/tech-industry/chinese-court-freezes-318-million-in-nexperia-assets-as-wingtech-presses-to-regain-control",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T11:57:20.000Z",
-      "snippet": "The total value of the frozen assets exceeds Wingtech’s entire first-half revenue, with the company reporting 1.51 billion yuan in H1 2026 sales, down more than 90% year over year."
-    },
-    {
-      "title": "BlindLock hides your password manager and secure vault in a PNG image — also offers secure notes, 2FA, and a crypto address book, with optional hardware security keys",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/blindlock-hides-your-password-manager-and-secure-vault-in-a-png-image-also-offers-secure-notes-2fa-and-a-crypto-address-book-with-optional-hardware-security-keys",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T11:45:16.000Z",
-      "snippet": "A new local‑only password manager, notes app, and secure vault that hides your secrets in an ordinary-looking .PNG image file is now available."
-    },
-    {
-      "title": "Save $300 on this 240Hz OLED gaming laptop with an RTX 5070 Ti, now just $1,899 — Acer Predator Helios rig ships with a 24-core Intel CPU, 32GB DDR5 and a 1TB SSD",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd300-on-this-240hz-oled-gaming-laptop-with-an-rtx-5070-ti-now-just-usd1-899-acer-predator-helios-rig-ships-with-a-24-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T11:27:25.000Z",
-      "snippet": "This Acer Predator Helios Neo 16S AI gaming laptop has dropped to just $1,899.99, giving you a high-end rig with an RTX 5070 Ti, 32GB DDR5 and a 1TB SSD."
-    },
-    {
-      "title": "$899 gets you a fully fledged DDR5 gaming PC in Best Buy's Labor Day sales — save $300 off the iBuypower Slate PC powered by Intel's B570 graphics with 10GB of VRAM",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/usd899-gets-you-a-fully-fledged-ddr5-gaming-pc-in-best-buys-labor-day-sales-save-usd300-off-the-ibuypower-slate-pc-powered-by-intels-b570-graphics-with-10gb-of-vram",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T11:20:38.000Z",
-      "snippet": "Save $300 on a brand-new iBuypower Slate gaming PC in the Best Buy Labor Day sales."
-    },
-    {
-      "title": "Hot Chips 2026: Samsung reveals a three-phase HBM roadmap that puts logic and compute inside memory — zHBM ultimately stacks DRAM directly on top of the processor",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/hot-chips-2026-samsung-reveals-a-three-phase-hbm-roadmap-that-puts-logic-and-compute-inside-memory-zhbm-ultimately-stacks-dram-directly-on-top-of-the-processor",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-01T11:06:15.000Z",
-      "snippet": "Samsung detailed a three-phase HBM roadmap at Hot Chips 2026 that progressively moves logic into the base die and ultimately stacks DRAM directly on the processor."
     }
   ],
   "quantum": [
@@ -1097,6 +1090,13 @@
       "source": "The Quantum Insider",
       "published": "2026-09-05T07:00:00.000Z",
       "snippet": "Yuval Boger interviews Brian Gaucher, an experienced engineer and IBM veteran who co-chaired ERVA’s report Engineering Research to Advance Quantum Technologies. Brian explains that while U.S. quantum science remains strong, global competition is accelerating and the key limiter is no longer physics discovery but engineering the path from “lab to fab”—scalable, manufacturable, reliable systems. The"
+    },
+    {
+      "title": "Europe Looks to Quantum Act to Turn Research Strength Into Industry",
+      "link": "https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-04T17:59:10.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Europe’s quantum community gathered yesterday at the European Parliament for “Europe’s Quantum Moment: From Lab to Leadership”, an event hosted by MEP Dr. Sergey Lagodinskythat brought together representatives from the European Commission, European Council and European Parliament, as well as quantum researchers, business leaders and investors. The goal of this […]"
     },
     {
       "title": "Quantum Computing Challenges Holding Back Practical Quantum Computers",
@@ -1328,23 +1328,16 @@
       "source": "The Quantum Insider",
       "published": "2026-09-01T16:08:57.000Z",
       "snippet": "Insider Brief PRESS RELEASE – A new industry commitment convened by Symmatrics, the pioneer of Internet-scale One-Time Pad symmetric encryption and creator of a breakthrough quantum-secure trust layer, is bringing organizations together around a shared priority: preparing now for the security challenges of the AI and quantum era. The new cross-sector AI & Post-Quantum Readiness Pledge, accessible "
-    },
-    {
-      "title": "Arqit, Es’hailSat and AIEE Demonstrate Quantum-Safe Satellite Communications",
-      "link": "https://thequantuminsider.com/2026/09/01/arqit-eshailsat-aiee-quantum-safe-satellite-communications/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-01T13:59:29.000Z",
-      "snippet": "Insider Brief PRESS RELEASE – Arqit Quantum Inc. (NASDAQ: ARQQ, ARQQW), a global leader in quantum-safe encryption, Es’hailSat – the Qatar Satellite Company – a world-class satellite operator and service provider with coverage spanning the MENA region – and Advanced International Electronic Equipment Company (AIEE), a specialist systems integrator for secure communications infrastructure, today an"
-    },
-    {
-      "title": "QC Ware and IonQ Demonstrate Hybrid Quantum Chemistry Workflow for Drug Discovery",
-      "link": "https://thequantuminsider.com/2026/09/01/qc-ware-ionq-hybrid-quantum-chemistry-drug-discovery/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-01T12:59:34.000Z",
-      "snippet": "Insider Brief PRESS RELEASE – QC Ware today announced a technology demonstration of a hybrid quantum-classical chemistry workflow using its Promethium® platform and IonQ‘s Forte trapped-ion quantum computer via Amazon Braket. The demonstration modeled the heme active site of cytochrome P450nor, a nitric oxide reductase in the cytochrome P450 superfamily — the same superfamily whose […]"
     }
   ],
   "education": [
+    {
+      "title": "Career readiness in the AI era needs decision practice, not just tool access",
+      "link": "https://www.eschoolnews.com/digital-learning/2026/09/04/career-readiness-in-the-ai-era-needs-decision-practice-not-just-tool-access/",
+      "source": "eSchool News",
+      "published": "2026-09-04T10:00:00.000Z",
+      "snippet": "Schools are racing to teach students how to use AI. That is necessary, but it is not enough. The workplace advantage will increasingly belong to people who can decide when an AI output is useful, when it is incomplete and when it is wrong."
+    },
     {
       "title": "Building an everyday equitable practice for AI in schools",
       "link": "https://www.eschoolnews.com/digital-learning/2026/09/03/building-an-everyday-equitable-practice-for-ai-in-schools/",
