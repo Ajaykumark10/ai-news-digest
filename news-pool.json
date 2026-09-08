@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-08T16:20:31.000Z",
+      "snippet": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+    },
+    {
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-08T10:34:00.000Z",
+      "snippet": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…"
+    },
+    {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -20,6 +34,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-06T16:45:00.000Z",
       "snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-05T22:49:55.000Z",
+      "snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
     },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -146,51 +167,37 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-03T18:01:45.000Z",
       "snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
-    },
-    {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-03T16:09:01.000Z",
-      "snippet": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-03T15:00:00.000Z",
-      "snippet": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini."
-    },
-    {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-03T12:42:45.000Z",
-      "snippet": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T23:01:00.000Z",
-      "snippet": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T22:44:56.000Z",
-      "snippet": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T22:24:09.000Z",
-      "snippet": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
     }
   ],
   "cloud": [
+    {
+      "title": "Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/",
+      "source": "Cloud Blog",
+      "published": "2026-09-08T16:00:00.000Z",
+      "snippet": "Enterprise agent adoption isn’t one-size-fits-all. While many teams will opt for managed commercial platforms, such as Gemini Enterprise Agent Platform for turnkey agent deployment and governance, developers with bespoke workflows or custom execution engines often choose to build their own lightweight agent hubs.\nIf you are building a centralized agent hub from the ground up, you need tools that r"
+    },
+    {
+      "title": "Agentic analytics with the Data Agent Kit",
+      "link": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
+      "source": "Cloud Blog",
+      "published": "2026-09-08T16:00:00.000Z",
+      "snippet": "Imagine your director sends you a chat message Monday morning: Our average order value dropped 7% in January, but total revenue stayed flat. Why?\nIf you’re a data practitioner, you know why these types of questions can be tough. They’re totally open ended. There’s not a single root cause dashboard you can open. Was there an error in the web logs? Was a promo code misconfigured? You won’t know unti"
+    },
+    {
+      "title": "How KDDI built Buffmee, a faster, reliable consumer RAG app",
+      "link": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
+      "source": "Cloud Blog",
+      "published": "2026-09-08T16:00:00.000Z",
+      "snippet": "When building consumer-facing generative AI applications,  balancing high generation quality with fast response times across diverse media types, can be challenging. KDDI, a major telecommunications carrier in Japan, tackled this challenge head-on when they developed Buffmee, their consumer Retrieval-Augmented Generation (RAG) app.  \nBuffmee is an interactive AI service built on the concept of 'AI"
+    },
+    {
+      "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
+      "source": "Cloud Blog",
+      "published": "2026-09-08T14:00:00.000Z",
+      "snippet": "Executive Summary \nSince the release of our May 2026 report detailing adversarial misuse of artificial intelligence (AI), Google Threat Intelligence Group (GTIG) has observed forward leaning adversaries transition from basic prompting to agentic AI workflows and AI-enabled automation. In these operations, human-in-the-loop latency is dramatically reduced, compressing the traditional window for def"
+    },
     {
       "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
       "link": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
@@ -232,37 +239,135 @@
       "source": "Microsoft Azure Blog",
       "published": "2026-09-03T18:15:00.000Z",
       "snippet": "GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days.\nThe post GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry appeared first on Microsoft Azure Blog."
-    },
-    {
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "source": "Cloud Blog",
-      "published": "2026-09-03T16:00:00.000Z",
-      "snippet": "August 31 - September 4\nStateful processing is available in BigQuery continuous queries in Preview\nStateful operations significantly expand what’s possible with BigQuery continuous queries. This feature allows users to leverage functions like JOINs, aggregations, and windowing functions directly in their streaming queries. Now you can calculate metrics over time (for example, a 30-minute average) "
-    },
-    {
-      "title": "How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop",
-      "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-09-03T15:00:00.000Z",
-      "snippet": "Learn how Microsoft used Azure Arc and Azure Virtual Desktop to simplify hybrid security operations, improve visibility, and scale globally.\nThe post How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop appeared first on Microsoft Azure Blog."
-    },
-    {
-      "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
-      "source": "Cloud Blog",
-      "published": "2026-09-03T09:00:00.000Z",
-      "snippet": "Integrating modern generative AI capabilities into Kotlin applications shouldn't require juggling raw HTTP clients or bridging disparate Java libraries. Today, we're excited to announce the 1.0 release of the Google Gen AI SDK for Kotlin (google-genai-kotlin). You can dive right into the code, explore runnable samples, and star the project today on GitHub at googleapis/kotlin-genai.\nBuilt from the"
-    },
-    {
-      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
-      "link": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
-      "source": "Cloud Blog",
-      "published": "2026-09-03T07:30:00.000Z",
-      "snippet": "For the ninth consecutive year, Gartner® has named Google a Leader in the Gartner Magic Quadrant™ for Strategic Cloud Platform Services, positioned furthest for Completeness of Vision. \n\n\n\n\n\n\n\n\n  \n    \nWe believe this recognition reflects our longstanding dedication to helping customers build and scale their most demanding workloads reliably and securely on Google Cloud. As we enter the agentic er"
     }
   ],
   "hardware": [
+    {
+      "title": "Intel reportedly set to hike CPU prices by 10% ahead of 'major annual product' launch in March 2027 — report says AMD will follow up between June and July",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-set-to-hike-cpu-prices-by-10-percent-ahead-of-major-annual-product-launch-in-march-2027-report-says-amd-will-follow-up-between-june-and-july",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T14:18:42.000Z",
+      "snippet": "Intel is reportedly set to raise CPU prices by 10%, following two other price increases, as it prepares for a major product launch in March 2027."
+    },
+    {
+      "title": "Benchmarking Qwen 3.8 27B on RTX 5090 and beyond — VRAM capacity alone can't overcome severe software and inference engine bottlenecks",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T13:30:02.000Z",
+      "snippet": "Following the release of Qwen 3.8 27B, we put our trusty hardware to the test to see which hardware might be best suited for running this open-weight AI model."
+    },
+    {
+      "title": "Super Smash Bros Melee gets fully decompiled after over six years of effort — ambitious and technically impressive project delivers GameCube classic as C code",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/super-smash-bros-melee-gets-fully-decompiled-after-over-six-years-of-effort-ambitious-and-technically-impressive-project-delivers-gamecube-classic-as-c-code",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T12:57:45.000Z",
+      "snippet": "A Super Smash Bros Melee decompilation project hit its key long-standing goal a few hours ago."
+    },
+    {
+      "title": "Sony threatens to cut off customer support and pursue legal action over harassment as backlash to PlayStation’s physical-disc phaseout intensifies — company to move forward with no disc decision despite several lawsuits",
+      "link": "https://www.tomshardware.com/video-games/playstation/sony-threatens-to-cut-off-customer-support-and-pursue-legal-action-over-harassment-as-backlash-to-playstations-physical-disc-phaseout-intensifies-company-to-move-forward-with-no-disc-decision-despite-several-lawsuits",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T12:20:00.000Z",
+      "snippet": "Sony Japan has introduced a customer-harassment policy as anger continues over PlayStation’s plan to phase out physical game discs by 2028."
+    },
+    {
+      "title": "All-in-one 'DLSS Unlocked' mod brings DLSS 5 and multi-frame gen to RTX 20, 30, and 40 series — hybrid tool taps AMD FSR 3.1 to boost frame rates up to 6X",
+      "link": "https://www.tomshardware.com/pc-components/gpus/all-in-one-dlss-unlocked-mod-brings-dlss-5-and-multi-frame-gen-to-rtx-20-30-and-40-series-hybrid-tool-taps-amd-fsr-3-1-to-boost-frame-rates-up-to-6x",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T12:00:00.000Z",
+      "snippet": "Performance for the mod remains untested but just the sheer utility of DLSS Unlocked easily puts it at the top of the RTX GPUs mod list. It combines OptiScaler_DLSSNR with DLSS Enabled to bring neural rendering and multi-frame gen to all RTX GPUs."
+    },
+    {
+      "title": "NEC has quietly quit quantum computing hardware development, report claims — company says it will continue to evaluate practical applications and industrialization of quantum technologies",
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/nec-has-quietly-quit-quantum-computing-hardware-development-report-claims-company-says-it-will-continue-to-evaluate-practical-applications-and-industrialization-of-quantum-technologies",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T11:45:00.000Z",
+      "snippet": "NEC reportedly quits development of quantum computers, but plans to explore practical applications for such systems."
+    },
+    {
+      "title": "Vintage Emulator Studio recreates 44 legendary synths down to the chip level — free MAME-powered component-level emulation should offer exceedingly accurate sound",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/vintage-emulator-studio-recreates-44-legendary-synths-down-to-the-chip-level-free-mame-powered-component-level-emulation-should-offer-exceedingly-accurate-sound",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T11:40:00.000Z",
+      "snippet": "Vintage Emulator Studio brings iconic vintage synths and samplers to life — MAME-powered component-level emulation should offer exceedingly accurate sound"
+    },
+    {
+      "title": "Hackers drain $320 million in Bitcoin from Liquid Network, emptying roughly 95% of federation wallet — attackers claim they’re the ‘good guys’ and will return funds after the vulnerability is fixed",
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/hackers-drain-usd320-million-in-bitcoin-from-liquid-network-emptying-roughly-95-percent-of-federation-wallet-attackers-claim-theyre-the-good-guys-and-will-return-funds-after-the-vulnerability-is-fixed",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T11:20:00.000Z",
+      "snippet": "Hackers claiming to be white hats drained about $320 million in Bitcoin from Liquid Network’s federation wallet, promising to return the funds after the  platform fixes the underlying bug"
+    },
+    {
+      "title": "Google maps entire brain and central nervous system of adult male fruit fly, software engineers immediately make it run Doom — AI-powered 3D model of over 166,000 neurons can also play Super Mario 64",
+      "link": "https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-software-engineers-immediately-make-it-run-doom-ai-powered-3d-model-of-over-166-000-neurons-can-also-play-super-mario-64",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T11:06:26.000Z",
+      "snippet": "Scientists mapped the complete brain and central nervous system of an adult male fruit fly for the first time. Days later the full MaleCNS v1.0 fruit fly connectome was being trained to play Doom and Mario 64."
+    },
+    {
+      "title": "Get a 32GB DDR5 gaming PC for just $1,379 at Newegg — $420 discount includes 20-core Intel CPU and RTX 5060",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-a-32gb-ddr5-gaming-pc-for-just-usd1-379-at-newegg-usd420-discount-includes-20-core-intel-cpu-and-rtx-5060",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T11:02:34.000Z",
+      "snippet": "Save over $400 on this DDR5 gaming PC with RTX 5060 and Core i7-14700F."
+    },
+    {
+      "title": "This $389 32GB DDR5 RAM kit is the cheapest on sale right now for a gaming PC upgrade — higher-spec RAM for $415 gives PC builders rare choice as the AI boom continues to force memory prices higher",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/this-usd389-32gb-ddr5-ram-kit-is-the-cheapest-on-sale-right-now-for-a-gaming-pc-upgrade-higher-spec-ram-for-usd415-gives-pc-builders-rare-choice-as-the-ai-boom-continues-to-force-memory-prices-higher",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T11:00:24.000Z",
+      "snippet": "These DDR5 32GB memory kits are the cheapest you'll find on sale right now, starting at $389."
+    },
+    {
+      "title": "Thailand asks data center operators to suspend 49 buildouts until legal framework is complete — new legislation is supposed to create 'airtight' requirements for large-scale data centers",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/thailand-asks-datacenter-operators-to-suspend-buildouts-until-legal-framework-is-complete-new-legislation-is-supposed-to-create-airtight-requirements-for-large-scale-datacenters",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T11:00:00.000Z",
+      "snippet": "Thailand asks datacenter operators to suspend buildouts until legal framework is complete — new legislation is supposed to create \"airtight\" requirements for large-scale datacenters"
+    },
+    {
+      "title": "German scammer dupes two different buyers into spending thousands on hollow RTX 5090 GPUs — stripped-out cards netted fraudster $5,000 despite being worthless",
+      "link": "https://www.tomshardware.com/pc-components/gpus/german-scammer-dupes-two-different-buyers-into-spending-thousands-on-hollow-rtx-5090-gpus-stripped-out-cards-netted-fraudster-usd5-000-despite-being-worthless",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T10:30:00.000Z",
+      "snippet": "Graphics card scams without the core and memory chips are spreading worldwide, with the latest report coming from Germany."
+    },
+    {
+      "title": "One-slot, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local LLM work",
+      "link": "https://www.tomshardware.com/pc-components/gpus/one-slot-low-profile-nvidia-rtx-3060-12-gb-with-two-monitor-outputs-breaks-cover-at-newegg-for-usd496-bus-powered-model-looking-for-a-use-case-in-local-llm-work",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T10:15:00.000Z",
+      "snippet": "Small-form-factor, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local LLM work"
+    },
+    {
+      "title": "Tech enthusiast finds $12,000 stack of RAM in their garage — work let them keep an old server stuffed with 1,920GB of DDR4",
+      "link": "https://www.tomshardware.com/pc-components/ddr4/tech-enthusiast-finds-usd12-000-stack-of-ram-in-their-garage-work-let-them-keep-an-old-server-stuffed-with-1-920gb-of-ddr4",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T10:00:00.000Z",
+      "snippet": "A computing enthusiast found a fat stack of DDR4 RAM sticks that might be worth $10,000 in their garage."
+    },
+    {
+      "title": "Belgian-Chinese semiconductor researcher arrested over alleged GaN trade-secret theft — prosecutors suspect BelGaN insiders transferred chip IP to China before the company collapsed",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/belgian-chinese-semiconductor-researcher-arrested-over-alleged-gan-trade-secret-theft-prosecutors-suspect-belgan-insiders-transferred-chip-ip-to-china-before-the-company-collapsed",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T09:50:00.000Z",
+      "snippet": "Belgian authorities have arrested a former BelGaN researcher on suspicion of industrial espionage, alleging that proprietary gallium nitride semiconductor technology was transferred to a Chinese rival as the Belgian chipmaker headed toward bankruptcy."
+    },
+    {
+      "title": "Intel surpasses one million High-NA EUV wafers processed, outpaces the rest of the industry combined — company also trailblazing giant 6×12 photomasks to speed production and lower costs",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-surpasses-one-million-high-na-euv-wafers-processed-outpaces-the-rest-of-the-industry-combined-company-also-trailblazing-giant-6-12-photomasks-to-speed-production-and-lower-costs1",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T06:00:00.000Z",
+      "snippet": "Intel is leading the semiconductor industry with High-NA fleet and process-maturity milestone as it reaches 1 million wafers processed using High-NA tools, moves forward with 6×12 photomask effort."
+    },
+    {
+      "title": "Arm debuts next-gen semi-custom Neoverse CSS N4 ‘Ranger’ platform — compute subsystem packs up to 128 cores per die on TSMC N3P",
+      "link": "https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-08T02:00:00.000Z",
+      "snippet": "Arm’s new Neoverse CSS N4 platform can pack up to 128 cores per die and 256 MB of L3 cache, representing a large increase in support over the previous Neoverse CSS N2 platform."
+    },
     {
       "title": "Save up to 38% on a new gaming PC before the Labor Day sales end and beat the price rises — lock down last-minute savings on new pre-built rigs from Best Buy, Newegg, and Walmart",
       "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-38-percent-on-a-new-gaming-pc-before-the-labor-day-sales-end-and-beat-the-price-rises-lock-down-last-minute-savings-on-new-pre-built-rigs-from-best-buy-newegg-and-walmart",
@@ -276,6 +381,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-07T14:05:05.000Z",
       "snippet": "The X1 will combine gantry and galvo technology in one machine."
+    },
+    {
+      "title": "OpenAI’s GPT-6 Astra model autonomously completes Portal in 24 hours — feat cost just $571 in tokens",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-6-astra-model-autonomously-completes-portal-in-24-hours-feat-cost-just-usd571-in-tokens",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-07T13:25:56.000Z",
+      "snippet": "An AI enthusiast has conducted an experiment where OpenAI's new GPT-6 Astra played through the entirety of Valve's Portal 3D puzzler game on its own."
     },
     {
       "title": "Astonishing mod runs DLSS 5 on a second GPU to boost neural-rendered FPS up to 127% — game renders on one card, neural post-processing runs on the other, much like dedicated PhysX GPUs",
@@ -647,156 +759,72 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-03T19:05:37.000Z",
       "snippet": "Nvidia expands beyond AI hardware with its $12.93 billion acquisition of Hugging Face, gains control of a major open AI model platform, vows to preserve its support for competing models, clouds, and hardware platforms."
-    },
-    {
-      "title": "Lenovo ditches fans in favor of solid-state AirJet tech in super-slim, 1.8-pound AeroBlade laptop concept – company also lands at IFA with a 14-inch rollable screen notebook that expands to 17 inches",
-      "link": "https://www.tomshardware.com/laptops/lenovo-ditches-fans-in-favor-of-solid-state-airjet-tech-in-super-slim-1-8-pound-aeroblade-laptop-concept-company-also-lands-at-ifa-with-a-14-inch-rollable-screen-notebook-that-expands-to-17-inches",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T16:00:00.000Z",
-      "snippet": "Lenovo is rolling out two new laptop concepts at IFA 2026: A 1.83-pound, 0.39-inch-thick AeroBlade using Frore System’s AirJet solid-state cooling tech, and a compact 14-inch rollable-screen portable that expands to a 17-inch screen, dubbed Project Swan."
-    },
-    {
-      "title": "Lenovo details its RTX Spark laptops — Yoga Pro 9n and Yoga 9n 2-in-1 get full specs, stylus support",
-      "link": "https://www.tomshardware.com/laptops/lenovo-details-its-rtx-spark-laptops-yoga-pro-9n-and-yoga-9n-2-in-1-get-full-specs-stylus-support",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T16:00:00.000Z",
-      "snippet": "Lenovo detailed its RTX Spark laptops ahead of IFA in Berlin, releasing full specs and showing off stylus compatibility."
-    },
-    {
-      "title": "Lenovo’s IdeaPad Vibe laptops stand out with seven colors and swappable keycaps – 14,15-inch models with Snapdragon X and AMD AI 400 CPUs to start at $699",
-      "link": "https://www.tomshardware.com/laptops/lenovos-ideapad-vibe-laptops-stand-out-with-seven-colors-and-swappable-keycaps-14-15-inch-models-with-snapdragon-x-and-amd-ai-400-cpus-to-start-at-usd699",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T16:00:00.000Z",
-      "snippet": "Lenovo’s latest IdeaPad laptops are all about colorful vibes. The Vibe lineup will come in seven hues, with swappable keyboard keycaps so you can match the chassis or go for a pop of contrast. The 14- and 15-inch laptops will land later this year, starting at $699."
-    },
-    {
-      "title": "Nvidia PAIR utility joins every GPU in your home into a cluster for agentic AI tasks — tool uses spare cycles to keep agent swarms from hammering one GPU",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T16:00:00.000Z",
-      "snippet": "Nvidia's Personal AI Router (PAIR) clustering utility lets agentic AI workloads take advantage of every spare GPU cycle on a home network, potentially making  for faster execution and more private inference."
-    },
-    {
-      "title": "Lenovo ThinkCentre X Ultra packs Gorgon Halo — AMD Ryzen AI Max+ Pro 495 shows up in mini workstation",
-      "link": "https://www.tomshardware.com/laptops/lenovo-thinkcentre-x-ultra-packs-gorgon-halo-amd-ryzen-ai-max-pro-495-shows-up-in-mini-workstation",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T16:00:00.000Z",
-      "snippet": "AMD's Gorgon Halo chips are breaking cover. Ahead of IFA, Lenovo showed off the THinkCentre X Ultra with an AMD Ryzen AI Max+ Pro 495."
-    },
-    {
-      "title": "Nvidia's RTX Spark N1X launches in October for laptops and desktops — 18 or 20 CPU cores, paired with 5,120 or6,144 CUDA cores, up to 128GB of unified memory",
-      "link": "https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T16:00:00.000Z",
-      "snippet": "Systems with Nvidia's RTX Spark N1X chips will launch in October in mini PCs and laptops, with the chips coming in two configurations."
-    },
-    {
-      "title": "Intel's Core Ultra 400 'Nova Lake' launch schedule leaks out — mass production in Q4, first Nova Lake CPUs in Q1 2027",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intels-core-ultra-400-nova-lake-launch-schedule-leaks-out-mass-production-in-q4-first-nova-lake-cpus-in-q1-2027",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T15:58:41.000Z",
-      "snippet": "Intel's Core Ultra 400-series 'Nova Lake-S' CPUs are on track for mass production next quarter, but they will only launch in Q1 2027 with 28-core models coming first."
-    },
-    {
-      "title": "How to install a PS5 SSD in 2026",
-      "link": "https://www.tomshardware.com/pc-components/ssds/how-to-install-a-ps5-ssd-in-2026",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T15:30:00.000Z",
-      "snippet": "Learn how to install an M.2 NVMe SSD in your PlayStation 5, PlayStation 5 Slim, or PlayStation 5 Pro in under five minutes."
-    },
-    {
-      "title": "Almost 70% of voters in Missouri city vote to recall council member who said yes to AI data center tax breaks — councilor said disagreement over an issue shouldn’t be enough to unseat him",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/almost-70-percent-of-voters-in-missouri-city-recall-council-member-who-said-yes-to-ai-data-center-tax-breaks-councilor-said-disagreement-over-an-issue-shouldnt-be-enough-to-unseat-him",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T14:52:55.000Z",
-      "snippet": "The people of Independence, Missouri, voted to recall councilor John Perkins after he voted to give a Nebius data center tax breaks amounting to more than $6 billion. Perkins said that a single vote should not be enough grounds to overturn an election from two years ago."
-    },
-    {
-      "title": "OpenAI CEO Sam Altman says 38,000 ChatGPT queries use as much water as the production of one almond — says data centers use no more water than an office building",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T14:35:53.000Z",
-      "snippet": "Sam Altman says that a single almond uses up more water than 38,000 ChatGPT queries. He said that the concerns of people about data centers using up so much water are nothing but a \"robust meme,\" and that the claim doesn't hold up to any scrutiny."
-    },
-    {
-      "title": "Save up to 46% on PC hardware in Amazon's Labor Day 2026 sale — huge discounts on tech",
-      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-46-percent-on-pc-hardware-in-amazons-labor-day-2026-sale-huge-discounts-on-tech",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T14:29:01.000Z",
-      "snippet": "Amazon is hosting a Labor Day sale with up to 46% off our favorite tech products."
-    },
-    {
-      "title": "Benchmarking 31 different CPUs in Onimusha: Way of the Sword — X3D beats flagships by 10%, 270K Plus falls behind Raptor Lake Refresh",
-      "link": "https://www.tomshardware.com/pc-components/cpus/benchmarking-31-different-cpus-in-onimusha-way-of-the-sword-x3d-beats-flagships-by-10-percent-270k-plus-falls-behind-raptor-lake-refresh",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T12:32:30.000Z",
-      "snippet": "Onimusha: Way of the Sword closes out an excellent year for Capcom. We put the RE Engine to the test once again, benchmarking 31 different CPUs to see how they scale in the game."
-    },
-    {
-      "title": "Intel scraps 44-year-old 'Fellow' title for top scientists, changes 'standard of technical leadership' — technical luminaries must now deliver measurable business results, combine deep expertise with strategic vision and 'measurable tactical progress'",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intel-eliminates-fellow-titles-changes-standard-of-technical-leadership-combines-deep-expertise-with-strategic-vision-and-measurable-tactical-progress",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T12:13:44.000Z",
-      "snippet": "Intel gets rid of hundreds of vice presidents, replaces 'Fellows' with 'distinguished engineers,' changes 'standards of technical leadership.'"
-    },
-    {
-      "title": "RPCS3 emulator devs slam Nvidia DLSS 5 as 'AI-slop generator' — says industry pushing 'more upscalers and frame generation to hallucinate games and hide their lack of optimisation'",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/rpcs3-emulator-devs-slam-nvidia-dlss-5-as-ai-slop-generator-says-industry-pushing-more-upscalers-and-frame-generation-to-hallucinate-games-and-hide-their-lack-of-optimisation",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T12:10:38.000Z",
-      "snippet": "RPCS3 explains why modern temporal upscalers are difficult to implement in PS3 emulation as modders continue experimenting with the leaked DLSS 5 DLL."
-    },
-    {
-      "title": "Iconic Packard Bell brand rises from the ashes after 13 years with the DotBook 14 at IFA — colorful and affordable Intel Twin Lake laptop is Europe-only, for now",
-      "link": "https://www.tomshardware.com/laptops/iconic-packard-bell-brand-rises-from-the-ashes-after-13-years-with-the-dotbook-14-at-ifa-colorful-and-affordable-intel-twin-lake-laptop-is-europe-only-for-now",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T12:03:26.000Z",
-      "snippet": "Packard Bell is back, under the wing of Acer at IFA 2026, with the Taiwanese PC maker’s unveiling of the colorful Dot family, including a laptop, headphones, input peripherals, and more."
-    },
-    {
-      "title": "TSMC fab equipment demand nearly doubles in six months — AI surge pushes 2026 CapEx toward $64B amid tool shortages",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-fab-equipment-demand-nearly-doubles-in-six-months-ai-surge-pushes-2026-capex-toward-usd64b-amid-tool-shortages",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T11:00:00.000Z",
-      "snippet": "TSMC's equipment requirements have nearly doubled in just eight months as AI demand drives an unprecedented fab expansion, yet its 2026 CapEx budget has risen by only around 15%."
-    },
-    {
-      "title": "Get a DDR5 gaming PC with RTX 5060 Ti for just $1,399 — save 21% on the Intel Core Ultra 7 270K Plus-powered CyberPower system",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-a-ddr5-gaming-pc-with-rtx-5060-ti-for-just-usd1-399-save-21-percent-on-the-intel-core-ultra-7-270k-plus-powered-cyberpower-system",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T10:55:28.000Z",
-      "snippet": "Save $370 on a new CyberPower system with Intel Core Ultra 7 270K Plus processor and Nvidia RTX 5060 Ti graphics."
-    },
-    {
-      "title": "Score a gigabit LAN upgrade for less than $10 with this limited-time TP-Link switch deal — plug-and-play network upgrade for your home or office unlocks 5 ultra-fast Ethernet ports to help you ditch laggy Wi-Fi",
-      "link": "https://www.tomshardware.com/networking/network-switches/score-a-gigabit-lan-upgrade-for-less-than-usd10-with-this-limited-time-tp-link-switch-deal-plug-and-play-network-upgrade-for-your-home-or-office-unlocks-5-ultra-fast-ethernet-ports-to-help-you-ditch-laggy-wi-fi",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T10:50:55.000Z",
-      "snippet": "Grab a 41% saving on this 5-port TP-Link gigabit Ethernet switch, down to only $9.98 for a limited-time only."
-    },
-    {
-      "title": "Nexus Mods acquires SteamDB after 13 years of solo dev work — promises no ads, no paywalls, and smarter mod-update tracking",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/nexus-mods-acquires-steamdb-after-13-years-of-solo-dev-work-promises-no-ads-no-paywalls-and-smarter-mod-update-tracking",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T10:30:00.000Z",
-      "snippet": "Nexus Mods takes in SteamDB under its wing — new owners promise site will remain ad-free and non-paywalled"
-    },
-    {
-      "title": "Steve Wozniak-signed Apple 1 motherboard expected to achieve up to $800,000 at auction — fully working board also comes with a signed letter from Steve Jobs",
-      "link": "https://www.tomshardware.com/desktops/steve-wozniak-signed-apple-1-motherboard-expected-to-achieve-up-to-usd800-000-at-auction-fully-working-board-also-comes-with-a-signed-letter-from-steve-jobs",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T10:15:00.000Z",
-      "snippet": "A 'beautifully preserved in working condition' Apple-1 computer motherboard signed by Steve Wozniak with a letter signed by Steve Jobs is up for auction next month at Bonhams in New York."
-    },
-    {
-      "title": "Chinese supercomputer manufacturer reveals the 'world's first' 64-thread mobile workstation for AI — homegrown CPU paired with mystery GPU with 16GB of VRAM promises cloud-level performance",
-      "link": "https://www.tomshardware.com/laptops/chinese-supercomputer-manufacturer-reveals-the-worlds-first-64-thread-mobile-workstation-for-ai-domestic-cpu-paired-with-mystery-gpu-with-16gb-of-vram-promises-cloud-level-performance",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-03T10:00:00.000Z",
-      "snippet": "Sugon has released a teaser of an upcoming mobile workstation with a 64-thread processor and 16GB of VRAM to tackle AI models."
     }
   ],
   "quantum": [
+    {
+      "title": "Quantum Startups Among 16 Finalists Selected for Constructor Start Demo Day",
+      "link": "https://thequantuminsider.com/2026/09/08/quantum-startups-among-16-finalists-selected-for-constructor-start-demo-day/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-08T14:14:53.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Sixteen finalists selected from more than 2,100 applications will present live at Constructor Start‘s fourth Demo Day on September 21 in Bremen, Germany, where the program’s investment decisions are made and announced live on stage. Constructor Capital invests $100,000 directly in each winning team, a confirmed $300,000 this year, in […]"
+    },
+    {
+      "title": "QUDORA Joins EuroHPC Quantum Grand Challenge With Near Field Quantum Control Project",
+      "link": "https://thequantuminsider.com/2026/09/08/qudora-selected-eu-quantum-grand-challenge-near-field-quantum-control/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-08T13:37:10.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — QUDORA Technologies, the German full-stack quantum computing company, today announced that it has been selected under the EuroHPC Joint Undertaking’s (EuroHPC JU) Quantum Grand Challenge, an EU program designed to accelerate the development of market-ready, utility-scale quantum computing platforms. QUDORA is one of 13 companies chosen from across Europe, and […]"
+    },
+    {
+      "title": "Daniel Freedman Joins Quantum X Labs as Distinguished Quantum Scientist",
+      "link": "https://thequantuminsider.com/2026/09/08/daniel-freedman-joins-quantum-x-labs-distinguished-quantum-scientist/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-08T13:29:03.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X Labs” or the “Company”), today announced the appointment of Professor Daniel Freedman as Distinguished Quantum Scientist, effective immediately. Professor Freedman brings to Quantum X Labs a distinguished career spanning fundamental research, artificial intelligence, applied mathematics, computational science and quantum-r"
+    },
+    {
+      "title": "SkyWater and Qolab Partner on Superconducting Quantum Device Manufacturing",
+      "link": "https://thequantuminsider.com/2026/09/08/skywater-qolab-superconducting-quantum-device-manufacturing/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-08T13:14:22.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — SkyWater Technology and Qolab today announced a multi-year commercial collaboration. The agreement is designed to transition superconducting technology from custom development programs to repeatable wafer manufacturing. The engagement combines platform-based wafer services, defined production terms, and coordinated capacity planning. The framework provides Qolab with "
+    },
+    {
+      "title": "PsiQuantum Finalizes $100 Million Award with the U.S. Department of Commerce",
+      "link": "https://thequantuminsider.com/2026/09/08/psiquantum-finalizes-100m-us-government-award-quantum-computing-rd/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-08T13:07:18.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — PsiQuantum announced today that the company has signed definitive documentation with the U.S. Department of Commerce for a $100 million award to strengthen American leadership in quantum computing and semiconductor supply-chain security. In May 2026, the company announced that it had signed a letter of intent with the Department for $100 million […]"
+    },
+    {
+      "title": "NLM Photonics Adds New Investors to Scale Organic Photonics Technology",
+      "link": "https://thequantuminsider.com/2026/09/08/nlm-photonics-new-investors-organic-photonics/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-08T13:05:00.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — NLM Photonics, the leader in the development of organic electro-optic (OEO) technology based upon its Selerion™ family of materials, has added new financial and strategic investors to its cap table to accelerate commercialization of its organic photonic ecosystem. Pangaea Ventures, widely regarded as the world’s leading hard tech venture capital […]"
+    },
+    {
+      "title": "IonQ and Congruity360 Sign $8.18M Quantum-Safe Network Agreement",
+      "link": "https://thequantuminsider.com/2026/09/08/ionq-congruity360-8-18m-quantum-safe-network-agreement/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-08T13:01:41.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, and Congruity360, a leading unstructured data management and governance provider, today announced an $8.18 million agreement. Under the collaboration, Congruity360 will broaden its enterprise data management platform with a quantum-safe network using IonQ’s PQC and QKD appliances, protecti"
+    },
+    {
+      "title": "SkyWater Launches Quantum Semiconductor Manufacturing Business",
+      "link": "https://thequantuminsider.com/2026/09/08/skywater-launches-quantum-semiconductor-manufacturing-business/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-08T12:52:45.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — SkyWater Technology announced the launch of SkyWater Quantum Solutions, a dedicated merchant supplier offering focused on semiconductor process development, integration, and manufacturing. This unique offering will provide semiconductor solutions for quantum-computing, networking, and sensing applications. Dr. Mihir Bhaskar will lead SkyWater Quantum Solutions as seni"
+    },
+    {
+      "title": "IonQ Estimates 20,000-Qubit Machine Could Break Bitcoin’s secp256k1 in 26 Days",
+      "link": "https://thequantuminsider.com/2026/09/08/ionq-estimates-20000-qubit-machine-could-break-bitcoin-secp256k1-26-days/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-08T12:45:17.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today published the first complete, end-to-end fault-tolerant resource estimate for running Shor’s algorithm. The historic paper by IonQ’s research team uses the recently published Walking Cat architecture to demonstrate how a specific application can be optimized for a trapped-ion quantum"
+    },
     {
       "title": "India’s Global Fintech Fest 2026 to Highlight Quantum Technology, AI and Tokenization",
       "link": "https://thequantuminsider.com/2026/09/07/global-fintech-fest-2026-quantum-technology-ai-mumbai/",
@@ -880,92 +908,22 @@
       "source": "The Quantum Insider",
       "published": "2026-09-04T05:05:00.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Today, Quantum Foundry Copenhagen and the Novo Nordisk Foundation announce plans to establish a new 5,300 m² quantum chip fabrication facility in Copenhagen. The facility will develop and scale the advanced manufacturing equipment needed to produce the next generation of quantum chips and strengthen Europe’s position in an increasingly competitive […]"
-    },
-    {
-      "title": "Quantinuum and Aramco Sign MOU to Explore Industrial Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/09/03/quantinuum-aramco-mou-industrial-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-03T16:03:50.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Quantinuum, a leading quantum computing company, today announced the signing of a non-binding MOU with Aramco, one of the world’s leading integrated energy and chemicals companies, to explore a series of industrial use cases, enhance quantum computing capabilities, and prepare for a potential research collaboration focused on fault-tolerant quantum computing.  […]"
-    },
-    {
-      "title": "Quantum Motion Raises Additional Funding for Silicon Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/09/03/quantum-motion-additional-funding-silicon-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-03T15:45:23.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Quantum Motion, the leader in silicon spin-based quantum computing, today announced the second close of its series C funding round to accelerate the scale-up of its fault-tolerant quantum hardware. This second close of the series C round led by DCVC and Kembara contributes investments from Imec.ventures, Lansdowne Partners, Sony Innovation Fund, S3 […]"
-    },
-    {
-      "title": "Andhra University Plans Centres of Excellence for Quantum, AI and Semiconductors",
-      "link": "https://thequantuminsider.com/2026/09/03/andhra-university-quantum-ai-semiconductor-research-centres/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-03T14:39:15.000Z",
-      "snippet": "Insider Brief Andhra University intends to set up Centres of Excellence covering quantum technology, AI systems, and semiconductors, Vice-Chancellor G.P. Raja Sekhar said Tuesday, The Hindu reported. Raja Sekhar made the announcement while opening a three-day international conference on Quantum-Enhanced Sustainable Technologies for AI Systems (QUEST-AI), hosted by the cluster departments of Andhra"
-    },
-    {
-      "title": "Argonne and JPMorganChase Develop New Method to Study QAOA at Scale",
-      "link": "https://thequantuminsider.com/2026/09/03/argonne-jpmorganchase-method-study-qaoa-at-scale/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-03T14:09:00.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Quantum computers have arisen as a possible solution for highly complex mathematical problems, offering ​“quantum advantage” over classical computers in certain cases. The Quantum Approximate Optimization Algorithm (QAOA) is a leading candidate for realizing this advantage, and some success has been achieved for small problems. But demonstrations on large problems hav"
-    },
-    {
-      "title": "SEALSQ and wolfSSL Add wolfTPM Support for QVault Post-Quantum TPM",
-      "link": "https://thequantuminsider.com/2026/09/03/sealsq-announces-wolftpm-support-post-quantum-tpm-technology/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-03T13:45:26.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or “Company”), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, and wolfSSL Inc., a recognized leader in embedded cryptography, today announced wolfTPM support for the SEALSQ QVault TPM. Market First The SEALSQ QVault TPM is on […]"
-    },
-    {
-      "title": "Quobly and Orange Quantum Systems Partner on Silicon Spin Qubit Testing",
-      "link": "https://thequantuminsider.com/2026/09/03/quobly-orange-quantum-systems-silicon-spin-qubit-testing/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-03T13:38:46.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Quobly, a French quantum computing company developing silicon spin qubit processors for industrial-scale deployment, and Orange Quantum Systems (OrangeQS), a company based in Delft specializing in automated diagnostics and high-throughput test systems for solid-state quantum chips, have signed a Memorandum of Understanding (MoU) to collaborate on the characterization "
-    },
-    {
-      "title": "George Mason and TreQ Partner on Open-Architecture Quantum Computing in Virginia",
-      "link": "https://thequantuminsider.com/2026/09/03/george-mason-treq-open-architecture-quantum-northern-virginia/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-03T13:20:46.000Z",
-      "snippet": "Insider Brief PRESS RELEASE – George Mason University and Oxford-based frontier computing company TreQ announced a groundbreaking partnership to bring open-architecture quantum infrastructure to the Commonwealth of Virginia beginning with the first open-architecture quantum computing system in the state and National Capital Region. Located on one of George Mason’s Northern Virginia campuses, the s"
-    },
-    {
-      "title": "Quantum Strategies Are Converging As China Turns to Venture Capital Model to Expand Its Quantum Industry",
-      "link": "https://thequantuminsider.com/2026/09/03/quantum-strategies-are-converging-as-china-turns-to-venture-capital-model-to-expand-its-quantum-industry/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-03T12:43:40.000Z",
-      "snippet": "Insider Brief China is adding venture-style financing to its state-led quantum strategy, combining public capital with regional investment networks to accelerate the formation of technology companies. Three regional funds established through China’s National Venture Capital Guidance Fund have raised a combined 121.8 billion yuan, or about $17.5 billion, according to the The National Bureau of […]"
-    },
-    {
-      "title": "G+D Develops Quantum-Safe Technologies for Next-Generation Identity Cards",
-      "link": "https://thequantuminsider.com/2026/09/03/gd-quantum-safe-next-generation-identity-cards/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-03T11:42:50.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — SecurityTech company Giesecke+Devrient (G+D) is contributing its expertise to the European research project uPQComing (“Enhancing Cyber-Resilience for the upcoming Post-Quantum era”) and developing technologies for the next generation of quantum-safe identity cards. The project, funded by the Chips Joint Undertaking (Chips JU), aims to prepare critical digital infrast"
-    },
-    {
-      "title": "Kensho and Classiq Partner to Expand Quantum Software Access in Taiwan",
-      "link": "https://thequantuminsider.com/2026/09/03/kensho-classiq-quantum-software-taiwan/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-03T11:00:45.000Z",
-      "snippet": "Insider Brief Kensho and leading quantum computing software company Classiq today announced that they have entered into a market development partnership agreement to expand access to the Classiq quantum software platform in Taiwan. Kensho will leverage its existing customer network to introduce the platform to government agencies, research institutions and enterprises, while providing local suppor"
     }
   ],
   "education": [
+    {
+      "title": "Why reading interventions plateau—and why New York’s new dyslexia center won’t change that",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/07/why-reading-interventions-plateau-and-why-new-yorks-new-dyslexia-center-wont-change-that/",
+      "source": "eSchool News",
+      "published": "2026-09-07T10:00:00.000Z",
+      "snippet": "I’ve sat across from more than one district administrator staring at a dashboard full of reading intervention minutes and a flat progress line. The pattern is familiar: a student gets pulled for extra decoding practice, scores move for six or eight weeks, and then they stall — not because the student stopped trying, and not because the intervention stopped running."
+    },
     {
       "title": "Career readiness in the AI era needs decision practice, not just tool access",
       "link": "https://www.eschoolnews.com/digital-learning/2026/09/04/career-readiness-in-the-ai-era-needs-decision-practice-not-just-tool-access/",
       "source": "eSchool News",
       "published": "2026-09-04T10:00:00.000Z",
       "snippet": "Schools are racing to teach students how to use AI. That is necessary, but it is not enough. The workplace advantage will increasingly belong to people who can decide when an AI output is useful, when it is incomplete and when it is wrong."
-    },
-    {
-      "title": "Building an everyday equitable practice for AI in schools",
-      "link": "https://www.eschoolnews.com/digital-learning/2026/09/03/building-an-everyday-equitable-practice-for-ai-in-schools/",
-      "source": "eSchool News",
-      "published": "2026-09-03T10:00:00.000Z",
-      "snippet": "AI technology is advancing rapidly in schools, but research is increasingly showing that Large Language Models (LLMs) lack the common sense, morality, and knowledge of individual classroom dynamics needed to be truly equitable."
     }
   ]
 }
