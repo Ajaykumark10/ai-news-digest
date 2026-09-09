@@ -1,13 +1,6 @@
 {
   "ai": [
     {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-09-09T03:10:08.000Z",
-      "snippet": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…"
-    },
-    {
       "title": "Hackers are stealing Claude tokens from subscribers",
       "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -167,20 +160,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-04T14:00:00.000Z",
       "snippet": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
-    },
-    {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-09-04T09:25:19.000Z",
-      "snippet": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…"
-    },
-    {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-04T04:21:03.000Z",
-      "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
     }
   ],
   "cloud": [
@@ -213,13 +192,6 @@
       "snippet": "Executive Summary \nSince the release of our May 2026 report detailing adversarial misuse of artificial intelligence (AI), Google Threat Intelligence Group (GTIG) has observed forward leaning adversaries transition from basic prompting to agentic AI workflows and AI-enabled automation. In these operations, human-in-the-loop latency is dramatically reduced, compressing the traditional window for def"
     },
     {
-      "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
-      "source": "AWS News Blog",
-      "published": "2026-09-07T14:24:08.000Z",
-      "snippet": "Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable 5.1 is built for long-running, high-stakes work that runs for hours and spans many applications. It can own more of a software project on its […]"
-    },
-    {
       "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
       "link": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
       "source": "Cloud Blog",
@@ -239,16 +211,23 @@
       "source": "Cloud Blog",
       "published": "2026-09-04T15:36:00.000Z",
       "snippet": "Moving Large Language Models (LLMs) from experimental prototypes into enterprise production exposes a critical truth: your infrastructure dictates both your performance ceilings and your unit economics. Standard hardware benchmarks often ignore a fundamental reality—not all LLM requests stress the silicon in the same way. \nIn this post, we dive into a comprehensive benchmarking exercise comparing "
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "source": "Cloud Blog",
-      "published": "2026-09-04T07:00:00.000Z",
-      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nAug 31 - S"
     }
   ],
   "hardware": [
+    {
+      "title": "Researcher reverse-engineers infamous Stuxnet malware source code, publishes it on Github for all — attack targeted Iranian nuclear facilities and was the first software of its type to cause physical damage",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/researcher-reconstructs-infamous-stuxnet-malware-source-code-attack-targeted-iranian-nuclear-facilities-and-was-the-first-software-of-its-type-to-cause-physical-damage",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-09T10:30:00.000Z",
+      "snippet": "An anonymous security researcher has reconstructed the source code of the infamous Stuxnet worm, which was built to subtly interfere with Iranian uranium enrichment during the Bush and Obama administrations."
+    },
+    {
+      "title": "Big Tech eyes glacier-strewn Patagonia for building mega AI data centers — region offers 17,300 glaciers, coldness, and cheap energy, but fiber lines are scarce",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/glacier-strewn-patagonia-pitches-for-mega-data-center-business-coldness-and-energy-resources-a-plus-but-poor-connectivity-issues-need-to-be-resolved",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-09T10:00:00.000Z",
+      "snippet": "Patagonia, a region of Argentina with 17,300 glaciers has the potential to turn into a data center hotspot."
+    },
     {
       "title": "TSMC to start using High-NA EUV lithography in 2030 — A10 or A11 technology prime candidates for use",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-to-start-using-high-na-euv-lithography-in-2030-a10-or-a11-technology-prime-candidates-for-use",
@@ -738,43 +717,36 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-04T11:21:55.000Z",
       "snippet": "Save 40% on this Hoto electric screwdriver with 25 hardened bits, now just $29.99 for a limited time only."
-    },
-    {
-      "title": "SpaceXAI offers 50% Starlink discount to placate data center's residential neighbors; 2,000 have signed up — goodwill gesture comes amid vociferous community backlash",
-      "link": "https://www.tomshardware.com/service-providers/network-providers/over-2-000-subscribers-grab-discounted-starlink-plans-in-tennessee-and-mississippi-spacexai-offers-50-percent-off-for-people-living-near-its-data-centers-and-other-developments",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-04T11:00:00.000Z",
-      "snippet": "SpaceXAI Memphis said on its X account that more than 2,000 subscribers from the Memphis and Southaven area have already signed up for the discounted Starlink offer. Elon Musk is giving subscribers living near his data centers up to $65 off on their monthly internet bill."
-    },
-    {
-      "title": "This 32GB of Team Group DDR5 RAM is the cheapest DDR5-6400 kit on the market – only $405 with promo code, buy the least expensive DDR5-6400 kit around with environmentally conscious T-Force Vulcan Eco RAM",
-      "link": "https://www.tomshardware.com/pc-components/this-32gb-of-team-group-ddr5-ram-is-the-cheapest-ddr5-6400-kit-on-the-market-only-usd405-with-promo-code-buy-the-least-expensive-ddr5-6400-kit-around-with-environmentally-conscious-t-force-vulcan-eco-ram",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-04T10:54:32.000Z",
-      "snippet": "Newegg's 32GB TeamGroup T-Force Vulcan Eco DDR5-6400 CL38 kit is down to $405 with code LDSF243, making it the least expensive DDR5-6400 kit around amid the RAMpocalypse — and it's even cheaper than most DDR5-6000 kits at the 'egg."
-    },
-    {
-      "title": "Chinese chipmaker CXMT allegedly used a written roadmap to steal Samsung DRAM tech — South Korean court says 'Project Hefei' lifted 620-step recipe to build 10% global market share",
-      "link": "https://www.tomshardware.com/pc-components/dram/chinas-cmxt-had-an-actual-roadmap-for-its-alleged-industrial-espionage-from-samsung-south-korean-court-says-project-hefei-was-responsible-for-cxmts-current-position-as-major-dram-maker",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-04T10:30:00.000Z",
-      "snippet": "CXMT's alleged industrial espionage from Samsung had an actual roadmap — South Korean court says Project Hefei was responsible for CXMT's current position as major DRAM maker"
-    },
-    {
-      "title": "Lexar announces ‘world’s thinnest portable SSD’ in celebration of the brand’s 30th anniversary – Lexar Muse drive achieves 0.15-inch thickness with proprietary pogo-pin cable, magnetic sleeve for phone mounting",
-      "link": "https://www.tomshardware.com/pc-components/external-ssds/lexar-announces-worlds-thinnest-portable-ssd-in-celebration-of-the-brands-30th-anniversary-lexar-muse-drive-achieves-0-15-inch-thickness-with-proprietary-pogo-pin-cable-magnetic-sleeve-for-phone-mounting",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-04T07:00:00.000Z",
-      "snippet": "Lexar’s slimmest-ever Muse drive aims for a barely there design that magnetically attaches to your iPhone for recording directly on the drive. But to achieve its petite 80×48×3.8 mm dimensions, it uses a proprietary cable and a magnetic sleeve for mounting."
     }
   ],
   "quantum": [
     {
-      "title": "IonQ Uses Investor Day to Detail Superion Roadmap, SkyWater Strategy and Quantum Security Plans",
-      "link": "https://thequantuminsider.com/2026/09/08/ionq-uses-investor-day-to-detail-superion-roadmap-skywater-strategy-and-quantum-security-plans/",
+      "title": "Cleveland Clinic, RIKEN and IBM Team Advance to Finals for 2026 ACM Gordon Bell Prize",
+      "link": "https://thequantuminsider.com/2026/09/09/cleveland-clinic-riken-and-ibm-team-advance-to-finals-for-2026-acm-gordon-bell-prize/",
       "source": "The Quantum Insider",
-      "published": "2026-09-08T18:45:21.000Z",
-      "snippet": "Insider Brief IonQ used its first investor day following the acquisition of SkyWater Technology to outline a more integrated strategy spanning quantum computers, semiconductor manufacturing, cybersecurity and foundry services. The event, held Tuesday at the New York Stock Exchange, came about five weeks after IonQ completed its roughly $1.8 billion acquisition of SkyWater. IonQ presented […]"
+      "published": "2026-09-09T08:30:20.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — A multidisciplinary team from Cleveland Clinic, RIKEN and IBM (NYSE: IBM) has been named as a finalist for the 2026 Association for Computing Machinery (ACM) Gordon Bell Prize for simulating the largest biologically meaningful molecules ever modeled with quantum computers, reaching a scale of 12,635 atoms. To achieve these results, the team united […]"
+    },
+    {
+      "title": "OpenAI Says AI Agents May Make Great Quantum Lab Assistants",
+      "link": "https://thequantuminsider.com/2026/09/09/openai-says-ai-agents-may-make-great-quantum-lab-assistants/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-09T08:20:24.000Z",
+      "snippet": "Insider Brief Artificial intelligence agents can independently run many routine quantum-computing experiments, potentially reducing days of hands-on laboratory work while leaving scientists responsible for difficult measurements and unexpected results, according to an OpenAI blog post. In the post, the company described an experiment in which Beatriz Yankelevich, a graduate student in the Massachu"
+    },
+    {
+      "title": "QNu Labs Raises ₹200 Crore ($21 Million USD) Led by National Quantum Mission And Speciale Invest",
+      "link": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%e2%82%b9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-09T07:34:02.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — QNu Labs, a leading deep-tech cybersecurity company building quantum-safe solutions, has raised ₹200 crore (about $21 million USD) in Series A1 round led by the National Quantum Mission and Speciale Invest with participation from Sony Innovation Fund, Gaja Capital and Artha Ventures, among other investors. The round takes QNu Labs’ […]"
+    },
+    {
+      "title": "Fujitsu And Yaqumo Begin Testing on Neutral-Atom Quantum Computer Hardware",
+      "link": "https://thequantuminsider.com/2026/09/09/fujitsu-and-yaqumo-begin-testing-on-neutral-atom-quantum-computer-hardware/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-09T07:15:23.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Fujitsu Limited (Fujitsu) and Yaqumo Inc. (Yaqumo) today announced that they have begun verifying quantum computing architectures and basic software on actual neutral-atom quantum computers (1) to accelerate the practical use of quantum computers. Fujitsu will combine its “STAR architecture (2),” a quantum computing architecture developed primarily for superconducting"
     },
     {
       "title": "Quantum Startups Among 16 Finalists Selected for Constructor Start Demo Day",
@@ -894,41 +866,6 @@
       "source": "The Quantum Insider",
       "published": "2026-09-04T13:54:09.000Z",
       "snippet": "Insider Brief PRESS RELEASE — As the digital asset industry transitions toward post-quantum security, blockchain networks face an emerging infrastructure challenge. Depending on the cryptographic scheme and implementation, post-quantum signatures can be more than 100 times larger than the elliptic-curve signatures widely used today. This can drive substantial increases in storage, bandwidth, and c"
-    },
-    {
-      "title": "RIKEN Adopts QunaSys QURI SDK for Quantum-HPC Hybrid Computing",
-      "link": "https://thequantuminsider.com/2026/09/04/riken-qunasys-software-jhpc-quantum-project/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-04T10:22:53.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — QunaSys Inc. (headquartered in Bunkyo-ku, Tokyo; Representative Director and CEO: Tennin Yan; hereinafter “QunaSys”), a company specializing in the development of quantum computing algorithms and software, announced that its quantum software development kit “QURI SDK Enterprise” has been officially adopted for RIKEN’s Quantum-HPC Hybrid Platform as part of the “JHPC-q"
-    },
-    {
-      "title": "MIT Qubit Design Could Speed Quantum Operations While Preserving Data",
-      "link": "https://thequantuminsider.com/2026/09/04/mit-qubit-design-could-speed-quantum-operations-while-preserving-data/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-04T08:21:29.000Z",
-      "snippet": "Insider Brief MIT researchers have designed a quantum computing component that simulations suggest could perform faster operations while preserving stored information. It’s an advance that potentially could help future machines complete longer, more reliable calculations, according to the researchers. The architecture separates two jobs within a quantum bit, or qubit. One component stores informat"
-    },
-    {
-      "title": "Jülich Launches Trapped-Ion Quantum Computer For Supercomputing Integration",
-      "link": "https://thequantuminsider.com/2026/09/04/julich-launches-trapped-ion-quantum-computer-for-supercomputing-integration/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-04T07:49:31.000Z",
-      "snippet": "Insider Brief Germany’s Forschungszentrum Jülich has inaugurated a quantum computer intended to help researchers and companies test how quantum processors can work alongside conventional supercomputers. The system, called JION, is operational at the Jülich Supercomputing Centre, according to the research center. Its first public calculation was performed during the inauguration ceremony. JION will"
-    },
-    {
-      "title": "Scientek and Classiq Partner to Accelerate Quantum Software Adoption in Taiwan",
-      "link": "https://thequantuminsider.com/2026/09/04/scientek-classiq-quantum-software-access-taiwan/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-04T07:00:00.000Z",
-      "snippet": "Insider Brief PRESS RELEASE – Scientek Corporation (科榮股份有限公司) and Classiq, the leading quantum computing software company, today announced a go-to-market agreement to expand access to Classiq’s hardware-agnostic quantum software platform across Taiwan’s semiconductor, research and academic communities. Under the partnership agreement, Scientek will introduce Classiq’s platform to semiconductor com"
-    },
-    {
-      "title": "Quantum Foundry Copenhagen Plans 5,300-Square-Meter Chip Facility",
-      "link": "https://thequantuminsider.com/2026/09/04/new-copenhagen-facility-to-strengthen-europes-quantum-manufacturing-capabilities/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-04T05:05:00.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Today, Quantum Foundry Copenhagen and the Novo Nordisk Foundation announce plans to establish a new 5,300 m² quantum chip fabrication facility in Copenhagen. The facility will develop and scale the advanced manufacturing equipment needed to produce the next generation of quantum chips and strengthen Europe’s position in an increasingly competitive […]"
     }
   ],
   "education": [
@@ -945,13 +882,6 @@
       "source": "eSchool News",
       "published": "2026-09-07T10:00:00.000Z",
       "snippet": "I’ve sat across from more than one district administrator staring at a dashboard full of reading intervention minutes and a flat progress line. The pattern is familiar: a student gets pulled for extra decoding practice, scores move for six or eight weeks, and then they stall — not because the student stopped trying, and not because the intervention stopped running."
-    },
-    {
-      "title": "Career readiness in the AI era needs decision practice, not just tool access",
-      "link": "https://www.eschoolnews.com/digital-learning/2026/09/04/career-readiness-in-the-ai-era-needs-decision-practice-not-just-tool-access/",
-      "source": "eSchool News",
-      "published": "2026-09-04T10:00:00.000Z",
-      "snippet": "Schools are racing to teach students how to use AI. That is necessary, but it is not enough. The workplace advantage will increasingly belong to people who can decide when an AI output is useful, when it is incomplete and when it is wrong."
     }
   ]
 }
