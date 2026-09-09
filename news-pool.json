@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-09T03:10:08.000Z",
+      "snippet": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…"
+    },
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-08T21:10:27.000Z",
+      "snippet": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-08T21:04:06.000Z",
+      "snippet": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+    },
+    {
       "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
       "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -160,13 +181,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-04T04:21:03.000Z",
       "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-04T00:48:42.000Z",
-      "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
     }
   ],
   "cloud": [
