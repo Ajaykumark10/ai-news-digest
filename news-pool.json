@@ -1,6 +1,48 @@
 {
   "ai": [
     {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T20:24:48.000Z",
+      "snippet": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded."
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T20:03:43.000Z",
+      "snippet": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+    },
+    {
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T19:21:48.000Z",
+      "snippet": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone."
+    },
+    {
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T18:16:29.000Z",
+      "snippet": "The update uses Apple Intelligence to make better sense of your health data."
+    },
+    {
+      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T18:08:35.000Z",
+      "snippet": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI."
+    },
+    {
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T17:36:05.000Z",
+      "snippet": "The company also argued that its on-device models offer consumers more privacy."
+    },
+    {
       "title": "Superintelligence is coming. Should we let it?",
       "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -40,14 +82,14 @@
       "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-09T14:18:34.000Z",
-      "snippet": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped."
+      "snippet": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped."
     },
     {
       "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
       "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-09T13:00:00.000Z",
-      "snippet": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund."
+      "snippet": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access."
     },
     {
       "title": "Instacart launches an AI grocery shopping assistant called Clementine",
@@ -61,7 +103,7 @@
       "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-09T12:30:00.000Z",
-      "snippet": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to […]"
+      "snippet": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space."
     },
     {
       "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
@@ -195,30 +237,30 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-04T21:12:11.000Z",
       "snippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
-    },
-    {
-      "title": "Architecting memory and storage in the AI era",
-      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-09-04T18:39:19.000Z",
-      "snippet": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…"
-    },
-    {
-      "title": "What will Apple’s John Ternus era look like?",
-      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-04T17:18:00.000Z",
-      "snippet": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]"
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-04T16:21:11.000Z",
-      "snippet": "It's the latest failure of OpenAI's internal monitoring and security systems."
     }
   ],
   "cloud": [
+    {
+      "title": "Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
+      "source": "Cloud Blog",
+      "published": "2026-09-09T19:00:00.000Z",
+      "snippet": "We are thrilled to announce the general availability of the AlloyDB Omni Red Hat RPM orchestrator, that brings production-ready security, resiliency, and low-downtime operations to PostgreSQL workloads in your enterprise environments. This GA milestone builds on the foundation laid during our preview release and launches alongside AlloyDB Omni version 18.3.0 to bring cloud-like database automation"
+    },
+    {
+      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
+      "source": "Cloud Blog",
+      "published": "2026-09-09T18:00:00.000Z",
+      "snippet": "We are excited to share that Gartner has named Google a Leader in its inaugural 2026 Magic Quadrant for Enterprise AI Assistants. In this comprehensive evaluation of top enterprise AI assistant vendors, Gartner placed Google in the Leaders quadrant for its evaluation across both Completeness of Vision and Ability to Execute.\nGemini Enterprise helps organizations bring helpful, secure AI directly i"
+    },
+    {
+      "title": "Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL",
+      "link": "https://cloud.google.com/blog/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql/",
+      "source": "Cloud Blog",
+      "published": "2026-09-09T16:30:00.000Z",
+      "snippet": "So, you’ve planned your database modernization journey. You’ve set up Google Cloud’s Database Migration Service (DMS), configured replication, and successfully synchronized your application databases from your on-premises or cloud systems to a fully managed Cloud SQL for SQL Server instance.\nThe replication is complete, the data is up to date, and you’re ready for cutover. But when your applicatio"
+    },
     {
       "title": "How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts",
       "link": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
@@ -232,6 +274,13 @@
       "source": "Cloud Blog",
       "published": "2026-09-09T16:00:00.000Z",
       "snippet": "Spanner is Google Cloud’s no-compromise operational database that gives you the horizontal scale and always-on availability of a modern distributed system along with the rich feature set and familiar ecosystem of a relational database. Innovators in industries like banking, retail, media and entertainment, and AI infrastructure rely on Spanner today for their most critical workloads. We’re excited"
+    },
+    {
+      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
+      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-09-08T20:00:00.000Z",
+      "snippet": "For research and development (R&D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from what does not work, and adapting their approach as new information becomes available.\nThe post Beyond the benchmark: How an adaptive approach"
     },
     {
       "title": "Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit",
@@ -270,6 +319,20 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Apple A20 Pro powers iPhone Duo, 18 Pro — the company's first 2-nanometer smartphone chip",
+      "link": "https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-09T17:33:21.000Z",
+      "snippet": "Apple's new A20 Pro SOC will power the iPhone 18 Pro and iPhone Duo as its first 2 nm smartphone chip."
+    },
+    {
+      "title": "Switch 2 Zelda 40th Anniversary Edition preorders hit $1,000 on eBay — Amazon and Walmart are your last shot at $520 MSRP",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/switch-2-zelda-40th-anniversary-edition-preorders-hit-usd1-000-on-ebay-amazon-and-walmart-are-your-last-shot-at-usd520-msrp",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-09T17:06:03.000Z",
+      "snippet": "Scalpers have started selling preorders of the Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition on eBay, starting at $700."
+    },
     {
       "title": "Intel-backed auto-overclocking tool Hypertune optimizes individual systems, not test profiles — tool claims FPS improvement of up to 60% on Intel-based systems",
       "link": "https://www.tomshardware.com/pc-components/cpus/intel-backed-auto-overclocking-tool-hypertune-optimizes-individual-systems-not-test-profiles-tool-claims-fps-improvement-of-up-to-60-percent-on-intel-based-systems",
@@ -780,16 +843,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-04T23:09:31.000Z",
       "snippet": "Nvidia's controversial neural-rendering tech, DLSS 5, is now officially available in NBA 2K27, marking the start of a new era for the company. DLSS 5 will also come to RTX 40-series soon after current work on optimizing it for the RTX 50-series has reached a satisfactory state."
-    },
-    {
-      "title": "Grab a new 3D printer for as low as $229 right now in Creality's Labor Day flash sale, with up to 50% off —big sale discounts also include resin and filament bundles, along with 3D scanners and toolkits",
-      "link": "https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-for-as-low-as-usd229-right-now-in-crealitys-labor-day-flash-sale-with-up-to-50-percent-off-big-sale-discounts-also-include-resin-and-filament-bundles-along-with-3d-scanners-and-toolkits",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-04T17:00:00.000Z",
-      "snippet": "Grab a new 3D printer in Creality's Labor Day flash sale, with discounts on printers and accessories available."
     }
   ],
   "quantum": [
+    {
+      "title": "a16z Crypto Rebuilds Jolt Proof System With Post-Quantum Security And Faster Performance",
+      "link": "https://thequantuminsider.com/2026/09/09/a16z-crypto-rebuilds-jolt-proof-system-with-post-quantum-security-and-faster-performance/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-09T16:53:52.000Z",
+      "snippet": "Insider Brief A16z Crypto has released a lattice-based version of its Jolt proof system that it says can resist attacks from future quantum computers while producing proofs two to three times faster than the technology it replaces. The open-source system, called Lattice Jolt, is a zero-knowledge virtual machine, or zkVM. These systems allow a computer […]"
+    },
     {
       "title": "Former IBM Executive Joerg Behrend Joins Q.ANT as VP Hardware",
       "link": "https://thequantuminsider.com/2026/09/09/q-ant-appoints-joerg-behrend-vice-president-hardware/",
@@ -985,16 +1048,16 @@
       "source": "The Quantum Insider",
       "published": "2026-09-05T07:00:00.000Z",
       "snippet": "Yuval Boger interviews Brian Gaucher, an experienced engineer and IBM veteran who co-chaired ERVA’s report Engineering Research to Advance Quantum Technologies. Brian explains that while U.S. quantum science remains strong, global competition is accelerating and the key limiter is no longer physics discovery but engineering the path from “lab to fab”—scalable, manufacturable, reliable systems. The"
-    },
-    {
-      "title": "Europe Looks to Quantum Act to Turn Research Strength Into Industry",
-      "link": "https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-04T17:59:10.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Europe’s quantum community gathered yesterday at the European Parliament for “Europe’s Quantum Moment: From Lab to Leadership”, an event hosted by MEP Dr. Sergey Lagodinskythat brought together representatives from the European Commission, European Council and European Parliament, as well as quantum researchers, business leaders and investors. The goal of this […]"
     }
   ],
   "education": [
+    {
+      "title": "What Could Brain-Computer Interfaces Mean for Students With Disabilities?",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/what-could-brain-computer-interfaces-mean-students-disabilities",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-09T17:43:24.000Z",
+      "snippet": "Picture this: A college student sits at their desk, staring at a cursor blinking on a blank document, and suddenly, words start appearing on the screen — without the student touching the keyboard. It’s not science fiction; it’s happening now with the use of brain-computer interface technology, which interprets electrical brain activity through an EEG headset or an implanted chip and sends those si"
+    },
     {
       "title": "Are Colleges Ready To Support the AI Workforce?",
       "link": "https://edtechmagazine.com/higher/article/2026/09/are-colleges-ready-support-ai-workforce",
