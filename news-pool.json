@@ -8,6 +8,13 @@
       "snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
     },
     {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T22:25:22.000Z",
+      "snippet": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
+    },
+    {
       "title": "Massachusetts hits data centers with new clean power rules",
       "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -241,6 +248,13 @@
       "snippet": "We are thrilled to announce the general availability of the AlloyDB Omni Red Hat RPM orchestrator, that brings production-ready security, resiliency, and low-downtime operations to PostgreSQL workloads in your enterprise environments. This GA milestone builds on the foundation laid during our preview release and launches alongside AlloyDB Omni version 18.3.0 to bring cloud-like database automation"
     },
     {
+      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
+      "source": "Cloud Blog",
+      "published": "2026-09-09T18:00:00.000Z",
+      "snippet": "We are excited to share that Gartner has named Google a Leader in its inaugural 2026 Magic Quadrant for Enterprise AI Assistants. In this comprehensive evaluation of top enterprise AI assistant vendors, Gartner placed Google in the Leaders quadrant for its evaluation across both Completeness of Vision and Ability to Execute.\nGemini Enterprise helps organizations bring helpful, secure AI directly i"
+    },
+    {
       "title": "Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL",
       "link": "https://cloud.google.com/blog/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql/",
       "source": "Cloud Blog",
@@ -305,6 +319,34 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Save $250 on this 1080p-ready gaming laptop with an RTX 5060, now just $1049 — MSI Cyborg 15 rig ships with a 15.6-inch 144Hz display, 16GB DDR5 RAM, and an eight-core Intel CPU",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd250-on-this-1080p-ready-gaming-laptop-with-an-rtx-5060-now-just-usd1049-msi-cyborg-15-rig-ships-with-a-15-6-inch-144hz-display-16gb-ddr5-ram-and-an-eight-core-intel-cpu",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T10:53:35.000Z",
+      "snippet": "This MSI gaming laptop is fit for 1080p gaming, thanks to an RTX 5060, with $250 off knocking the price down to just $1049.99."
+    },
+    {
+      "title": "Steam enforces Australian age verification via credit cards — debit card glitches and low credit adoption alienate core gamers, privacy-first mindset leads to dearth of options that may hinder consumers",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-enforces-australian-age-verification-via-credit-cards-debit-card-glitches-and-low-credit-adoption-alienate-core-gamers-privacy-first-mindset-leads-to-dearth-of-options-that-may-hinder-consumers",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T10:30:00.000Z",
+      "snippet": "Valve starts enforcing Australian age verification law, but its privacy-minded choice of bank card as the only verification method is causing issues with many consumers."
+    },
+    {
+      "title": "Self-taught tinkerer demos working room-sized Cold War-era supercomputer with vacuum tubes — takes 15 minutes to warm up and smells like burning dust, 8-bit design uses 460 recycled 1950s Soviet tubes",
+      "link": "https://www.tomshardware.com/desktops/pc-building/self-taught-electronics-tinkerer-builds-cold-war-era-vacuum-tube-computer-8-bit-design-uses-460-recycled-6n3p-vacuum-tubes-manufactured-in-the-1950s",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T10:00:00.000Z",
+      "snippet": "A self-taught electronics tinkerer called Mike recently shared details of his retro-computing vacuum tube computer project."
+    },
+    {
+      "title": "Apple A20 Pro powers iPhone Duo, 18 Pro — the company's first 2-nanometer smartphone chip",
+      "link": "https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-09T17:33:21.000Z",
+      "snippet": "Apple's new A20 Pro SOC will power the iPhone 18 Pro and iPhone Duo as its first 2 nm smartphone chip."
+    },
     {
       "title": "Switch 2 Zelda 40th Anniversary Edition preorders open on Amazon for $519.99 — here's your last shot to grab the limited-edition console at MSRP",
       "link": "https://www.tomshardware.com/video-games/handheld-gaming/switch-2-zelda-40th-anniversary-edition-preorders-hit-usd1-000-on-ebay-amazon-and-walmart-are-your-last-shot-at-usd520-msrp",
@@ -794,30 +836,51 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-05T11:00:00.000Z",
       "snippet": "We tested Nvidia's DLSS 5 in NBA 2K27 across every RTX 50-series graphics card at 1080p, 1440p, and 4K to see just how much performance it costs to explore the frontiers of neural rendering."
-    },
-    {
-      "title": "Taiwan cracks down on tech businesses with illegal Chinese ownership — 166 investigations and at least 36 convictions since 2020",
-      "link": "https://www.tomshardware.com/tech-industry/policy/taiwan-cracks-down-on-tech-businesses-with-illegal-chinese-ownership-166-investigations-and-at-least-36-convictions-since-2020",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T10:40:00.000Z",
-      "snippet": "Taiwan's top investigative agency has been tracking Chinese businesses operating on the island without proper authority and shutting them down. These companies have been hiring Taiwanese experts to help with their semiconductor research and development."
-    },
-    {
-      "title": "Trump slaps up to 100% tariffs on imported drones and critical components in latest move against China's proliferation of  U.S. drone market, citing national security — products from allied nation face 10-15% rates",
-      "link": "https://www.tomshardware.com/tech-industry/drones/trump-slaps-up-to-100-percent-tariffs-on-imported-drones-and-critical-components-in-latest-move-against-chinas-proliferation-of-u-s-drone-market-citing-national-security-products-from-allied-nation-face-10-15-percent-rates",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T10:20:00.000Z",
-      "snippet": "The Trump administration has imposed tariffs of up to 100% on imported drones and key components, as Washington intensifies its push to reduce reliance on Chinese drone technology and rebuild a domestic supply chain."
-    },
-    {
-      "title": "Japan to mass-procure 3D-printed rocket-powered drone interceptor — Terra B1 capable of countering one-way attack platforms",
-      "link": "https://www.tomshardware.com/tech-industry/drones/japan-to-mass-procure-3d-printed-rocket-powered-drone-interceptor-terra-b1-capable-of-countering-one-way-attack-platforms",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T10:00:00.000Z",
-      "snippet": "Japan’s military has decided to mass-procure Terra B1 interceptor drones. These drones are made using 3D printers and are based on the tried and tested A1 model from Terra Drone, which began to be deployed by Ukraine earlier this year."
     }
   ],
   "quantum": [
+    {
+      "title": "Steve Hoffman Discusses Quantum Technology Adoption in U.S. Defense",
+      "link": "https://thequantuminsider.com/2026/09/10/steve-hoffman-quantum-technology-adoption-us-defense/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T09:47:42.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — HELM Innovations Highlights Urgency of Operationalizing Quantum Technology in Fed Gov Today Interview Founder and President Steve Hoffman discusses how DoW can better connect emerging technology with warfighter needs, experimentation and operational transition HELM Innovations, LLC Founder and President Steve Hoffman joined Francis Rose on Fed Gov Today to discuss why"
+    },
+    {
+      "title": "JETRO and Purdue University Sign MOU on Advanced Technology Collaboration",
+      "link": "https://thequantuminsider.com/2026/09/10/jetro-purdue-university-mou-advanced-technology-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T09:39:33.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — The Japan External Trade Organization (JETRO) and Purdue University today announced the signing of a Memorandum of Understanding (MOU) to strengthen innovation collaboration in advanced technology fields and further connect the innovation ecosystems of Japan and the United States. The MOU was signed by Norihiko Ishiguro, Chairman and CEO of JETRO, […]"
+    },
+    {
+      "title": "IQM Plans Logical-Qubit System for Finland’s LUMI AI Factory",
+      "link": "https://thequantuminsider.com/2026/09/10/iqm-plans-logical-qubit-system-for-finlands-lumi-ai-factory/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T07:26:46.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — QM Quantum Computers (Nasdaq: IQMX) today announced its upgrade path for a logical-qubit-capable quantum computer. The deployment to the LUMI AI Factory, led by CSC – IT Center for Science, will support R&D efforts toward fault-tolerant quantum computing and advancements in hybrid computing. The system, named LUMI-IQ, is an integral […]"
+    },
+    {
+      "title": "IBM, Lockheed Martin Announce Swiss Quantum Innovation Hub at ETH Zurich, Anchored by Switzerland’s First IBM Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/09/10/ibm-lockheed-martin-announce-swiss-quantum-innovation-hub-at-eth-zurich-anchored-by-switzerlands-first-ibm-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T07:21:03.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — IBM (NYSE: IBM) and Lockheed Martin (NYSE: LMT), through an offset agreement with armasuisse, Switzerland’s Federal Office for Defence Procurement, today established a hub for quantum innovation at ETH Zurich, a prominent public research university. The new hub plans to host the country’s first IBM Quantum System Two at the Swiss National Supercomputing Center […]"
+    },
+    {
+      "title": "SEALSQ Expands Quantum Highway to Nine Hubs Across Four Countries",
+      "link": "https://thequantuminsider.com/2026/09/10/sealsq-expands-quantum-highway-nine-hubs-four-countries/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T07:00:00.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or the “Company”), a global leader in secure semiconductors, PKI and post-quantum cybersecurity technologies, and its parent company WISeKey International Holding Ltd (SIX: WIHN; NASDAQ: WKEY) (“WISeKey”), today provided an update on the SEALSQ Quantum Highway™, the physical and digital backbone of the Quantum Corridor first […]"
+    },
+    {
+      "title": "a16z Crypto Rebuilds Jolt Proof System With Post-Quantum Security And Faster Performance",
+      "link": "https://thequantuminsider.com/2026/09/09/a16z-crypto-rebuilds-jolt-proof-system-with-post-quantum-security-and-faster-performance/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-09T16:53:52.000Z",
+      "snippet": "Insider Brief A16z Crypto has released a lattice-based version of its Jolt proof system that it says can resist attacks from future quantum computers while producing proofs two to three times faster than the technology it replaces. The open-source system, called Lattice Jolt, is a zero-knowledge virtual machine, or zkVM. These systems allow a computer […]"
+    },
     {
       "title": "Former IBM Executive Joerg Behrend Joins Q.ANT as VP Hardware",
       "link": "https://thequantuminsider.com/2026/09/09/q-ant-appoints-joerg-behrend-vice-president-hardware/",
@@ -1006,16 +1069,23 @@
       "source": "The Quantum Insider",
       "published": "2026-09-07T07:21:59.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Quantum computers are being built in several ways: superconducting circuits, trapped ions, neutral atoms, semiconductor spins and photonics. Photonic quantum systems have one fundamental advantage: their information carriers can travel through optical fibre, making the same technology relevant to both quantum processors and quantum networks. What photonic quantum syst"
-    },
-    {
-      "title": "Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress",
-      "link": "https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-05T07:00:00.000Z",
-      "snippet": "Yuval Boger interviews Brian Gaucher, an experienced engineer and IBM veteran who co-chaired ERVA’s report Engineering Research to Advance Quantum Technologies. Brian explains that while U.S. quantum science remains strong, global competition is accelerating and the key limiter is no longer physics discovery but engineering the path from “lab to fab”—scalable, manufacturable, reliable systems. The"
     }
   ],
   "education": [
+    {
+      "title": "The everyday access control gaps schools overlook",
+      "link": "https://www.eschoolnews.com/educational-leadership/2026/09/10/the-everyday-access-control-gaps-schools-overlook/",
+      "source": "eSchool News",
+      "published": "2026-09-10T10:00:00.000Z",
+      "snippet": "School leaders have invested heavily in campus security over the past decade. Cameras, visitor management systems, emergency communication platforms, and access control upgrades have become standard parts of many districts' safety strategies."
+    },
+    {
+      "title": "What Could Brain-Computer Interfaces Mean for Students With Disabilities?",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/what-could-brain-computer-interfaces-mean-students-disabilities",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-09T17:43:24.000Z",
+      "snippet": "Picture this: A college student sits at their desk, staring at a cursor blinking on a blank document, and suddenly, words start appearing on the screen — without the student touching the keyboard. It’s not science fiction; it’s happening now with the use of brain-computer interface technology, which interprets electrical brain activity through an EEG headset or an implanted chip and sends those si"
+    },
     {
       "title": "Are Colleges Ready To Support the AI Workforce?",
       "link": "https://edtechmagazine.com/higher/article/2026/09/are-colleges-ready-support-ai-workforce",
