@@ -1,18 +1,32 @@
 {
   "ai": [
     {
+      "title": "AI agents are flooding public services with new requests",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-10T14:53:50.000Z",
+      "snippet": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch."
+    },
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-10T14:17:37.000Z",
+      "snippet": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
+    },
+    {
+      "title": "Powering AI is an architecture problem",
+      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-10T11:00:00.000Z",
+      "snippet": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…"
+    },
+    {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-10T00:00:37.000Z",
       "snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
-    },
-    {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-09T22:25:22.000Z",
-      "snippet": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
     },
     {
       "title": "Massachusetts hits data centers with new clean power rules",
@@ -241,6 +255,20 @@
   ],
   "cloud": [
     {
+      "title": "Introducing the Google Cloud Developer Plugin for AI Coding Agents",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
+      "source": "Cloud Blog",
+      "published": "2026-09-10T19:53:00.000Z",
+      "snippet": "Agent skills fit well alongside documentation and remote MCP servers as ways of enabling the success of your AI workflows. They reduce context window usage for certain use cases, and they're straightforward to install. However, you might have noticed that managing individual skills can be unwieldy, or that some skills are most useful when they act alongside other skills or MCP servers toward the s"
+    },
+    {
+      "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
+      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
+      "source": "AWS News Blog",
+      "published": "2026-09-09T22:01:47.000Z",
+      "snippet": "AWS introduces Amazon EBS Volume Clones with cross-account copy, so you can create copies of your EBS volumes into other AWS accounts and optionally re-encrypt them with an AWS Key Management Service (AWS KMS) key in the target account."
+    },
+    {
       "title": "Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available",
       "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
       "source": "Cloud Blog",
@@ -248,11 +276,11 @@
       "snippet": "We are thrilled to announce the general availability of the AlloyDB Omni Red Hat RPM orchestrator, that brings production-ready security, resiliency, and low-downtime operations to PostgreSQL workloads in your enterprise environments. This GA milestone builds on the foundation laid during our preview release and launches alongside AlloyDB Omni version 18.3.0 to bring cloud-like database automation"
     },
     {
-      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
-      "source": "Cloud Blog",
+      "title": "Two zones or three? A design framework for zone-resilient Azure workloads",
+      "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
+      "source": "Microsoft Azure Blog",
       "published": "2026-09-09T18:00:00.000Z",
-      "snippet": "We are excited to share that Gartner has named Google a Leader in its inaugural 2026 Magic Quadrant for Enterprise AI Assistants. In this comprehensive evaluation of top enterprise AI assistant vendors, Gartner placed Google in the Leaders quadrant for its evaluation across both Completeness of Vision and Ability to Execute.\nGemini Enterprise helps organizations bring helpful, secure AI directly i"
+      "snippet": "Zone resiliency isn't a single number you apply to a whole workload. The useful question isn't “how many zones?” but “how many zones does each component need to survive the loss of one?” Decide zone patterns component by component, use service-managed zone redundancy wherever it fits, and reserve three-zone designs for the components that genuinely require a third failure domain.\nThe post Two zone"
     },
     {
       "title": "Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL",
@@ -319,6 +347,83 @@
     }
   ],
   "hardware": [
+    {
+      "title": "This $399 Elegoo Centauri Carbon 2 Combo with $1 filament is the perfect 3D printer deal for beginners — flash sale discount nets you a Core XY printer with four-color system and auto bed leveling",
+      "link": "https://www.tomshardware.com/3d-printing/this-usd399-elegoo-centauri-carbon-2-combo-deal-with-usd1-filament-is-the-perfect-3d-printer-deal-for-beginners-flash-sale-discount-nets-you-a-core-xy-printer-with-four-color-system-and-auto-bed-leveling",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T15:00:00.000Z",
+      "snippet": "Grab this budget-friendly 3D printer from Elegoo, the Centauri Carbon 2 Combo, for $399, and pay just $1 extra for 1KG of filament."
+    },
+    {
+      "title": "Minecraft-spawned crypto kingpin faces 20 years for $245 million heist — mastermind's role in hacking campaign fueled their supercar, bodyguards, and private jet habit",
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/minecraft-spawned-crypto-kingpin-faces-20-years-for-usd245-million-heist-masterminds-role-in-hacking-campaign-fueled-their-supercar-bodyguards-and-private-jet-habit",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T14:25:28.000Z",
+      "snippet": "The ringleader of a cybercrime gang, which reportedly formed after meetups in Minecraft online, has plead guilty to a racketeering charge and now faces up to 20 years in jail."
+    },
+    {
+      "title": "OpenAI's rogue AI agents accessed more websites to communicate than originally believed — defiant LLMs accessed old wikis and abandoned websites to co-ordinate in a bid to dupe assessors",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-rogue-ai-agents-accessed-more-websites-to-communicate-than-originally-believed-defiant-llms-accessed-old-wikis-and-abandoned-websites-to-co-ordinate-in-a-bid-to-dupe-assessors",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T13:20:00.000Z",
+      "snippet": "Rogue OpenAI agents used dozens of website to exchange information, new investigations have found. However, the real impact is yet to be determined."
+    },
+    {
+      "title": "Libernovo Omni Pro Review: Cooler than you think",
+      "link": "https://www.tomshardware.com/peripherals/gaming-chairs/libernovo-omni-pro-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T13:06:32.000Z",
+      "snippet": "Libernovo's Omni Pro is a dynamic, ergonomic gaming chair with motorized lumbar support and a ventilation fan that works surprisingly well."
+    },
+    {
+      "title": "Old MacBook uses a mirror, webcam, and AI agent to code its own AMD GPU drivers — 'agent-first' Omarchy Linux debugs itself, AI can check its own progress on screen in real-time",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/old-macbook-uses-a-mirror-webcam-and-ai-agent-to-code-its-own-amd-gpu-drivers-agent-first-omarchy-linux-debugs-itself-ai-can-check-its-own-progress-on-screen-in-real-time",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T13:00:00.000Z",
+      "snippet": "Using an 'age of agents' Linux distro a 'MacBook is using its webcam to look at its screen in a mirror to improve AMD Radeon chip support.'"
+    },
+    {
+      "title": "China's AI accelerator supplier Biren posts 2,000% year-over-year revenue growth — US export controls benefit homegrown chips as Nvidia and AMD exit market",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-ai-accelerator-supplier-biren-posts-2-000-percent-year-over-year-revenue-growth-export-controls-benefit-homegrown-chips-as-nvidia-and-amd-exit-market",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T12:40:00.000Z",
+      "snippet": "Biren Technology shows unprecedented shipments growth in 1H 2026 as competition from AMD and Nvidia vanishes (at least officially)."
+    },
+    {
+      "title": "Chinese quartz approved for semiconductor equipment and DRAM manufacturing, but it still can't break America's monopoly — China secures domestic supply for chipmaking components, but Spruce Pine still holds the crucible monopoly",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-quartz-approved-for-semiconductor-equipment-and-dram-manufacturing-but-it-still-cant-break-americas-monopoly-china-secures-domestic-supply-for-chipmaking-components-but-spruce-pine-still-holds-the-crucible-monopoly",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T12:20:00.000Z",
+      "snippet": "Pacific Quartz gets its high-purity quartz qualified for semiconductor equipment and DRAM manufacturing."
+    },
+    {
+      "title": "The state of ABF substrates in data center silicon in 2026 — solving the supply crunch and material wall beneath every AI accelerator",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-abf-substrates-in-data-center-silicon-in-2026-solving-the-supply-crunch-and-material-wall-beneath-every-ai-accelerator",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T12:00:00.000Z",
+      "snippet": "ABF substrates underpin today’s most advanced AI chips, but soaring demand and expanding accelerator packages are creating new supply and technical bottlenecks that the industry is currently racing to resolve"
+    },
+    {
+      "title": "Modded RTX 5090 ditches 16-pin power for triple 8-pin connectors — draws up to 900W and hits 3,400 MHz",
+      "link": "https://www.tomshardware.com/pc-components/gpus/modded-rtx-5090-ditches-16-pin-power-for-triple-8-pin-connectors-draws-up-to-900w-and-hits-3-400-mhz",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T11:40:00.000Z",
+      "snippet": "TecLab’s experiment puts the humble 8-pin connector to an extreme test, with the modified RTX 5090 pulling more than 120A while avoiding the newer 12V-2x6 design altogether."
+    },
+    {
+      "title": "TSMC, Samsung, and Intel shore up support with ASML to deploy larger High-NA EUV photomasks — 6×12-inch photomask transition may take years despite unified effort",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-samsung-and-intel-shore-up-support-with-asml-to-deploy-larger-high-na-euv-photomasks-6-12-inch-photomask-transition-may-take-years-despite-unified-effort",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T11:20:00.000Z",
+      "snippet": "ASML, Intel, Samsung, and TSMC back development of 6×12-inch to build large processors using High-NA EUV lithography systems without stitching."
+    },
+    {
+      "title": "Developer uses Claude to vibe code a Windows 3.1 shell in an hour — reanimated 12MB retro launcher runs on both Windows 11 and Apple Silicon",
+      "link": "https://www.tomshardware.com/software/windows/developer-uses-claude-to-vibe-code-a-windows-3-1-shell-in-an-hour-reanimated-12mb-retro-launcher-runs-on-both-windows-11-and-apple-silicon",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T11:00:00.000Z",
+      "snippet": "There’s a new vibe-coded clone of the Windows 3.1 Program Manager that runs on modern Windows 11 or macOS systems."
+    },
     {
       "title": "Save $250 on this 1080p-ready gaming laptop with an RTX 5060, now just $1049 — MSI Cyborg 15 rig ships with a 15.6-inch 144Hz display, 16GB DDR5 RAM, and an eight-core Intel CPU",
       "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd250-on-this-1080p-ready-gaming-laptop-with-an-rtx-5060-now-just-usd1049-msi-cyborg-15-rig-ships-with-a-15-6-inch-144hz-display-16gb-ddr5-ram-and-an-eight-core-intel-cpu",
@@ -780,65 +885,58 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-05T16:18:54.000Z",
       "snippet": "The Gamescom organizers apologized for their initial response and outlined plans to prevent future incidents. They also praised the community for supporting the affected developers."
-    },
-    {
-      "title": "Nvidia returns to selling Founder's Edition RTX 50-series GPUs at MSRP in person at PAX West — Verified Priority Access has RTX 5090, RTX 5080, and RTX 5070 at list price",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-returns-to-selling-founders-edition-rtx-50-series-gpus-at-msrp-in-person-at-pax-west-verified-priority-access-has-rtx-5090-rtx-5080-and-rtx-5070-at-list-price",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T15:04:13.000Z",
-      "snippet": "Nvidia is offering its RTX 5090, RTX 5080, and RTX 5070 Founder's Edition models at MSRP at PAX West."
-    },
-    {
-      "title": "AMD reportedly prepping Ryzen 5 7500 (non-F) CPU with integrated graphics at double the price — Six-core Zen 4 chip rumored to share identical specs with its F-moniker cousin",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-reportedly-prepping-ryzen-5-7500-non-f-cpu-with-integrated-graphics-at-double-the-price-six-core-zen-4-chip-rumored-to-share-identical-specs-with-its-f-moniker-cousin",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T13:09:23.000Z",
-      "snippet": "A new report suggests AMD is preparing a non-F version of the Ryzen 5 7500F with integrated graphics. It would cost 230 Euros, or $267, which would put it above even the 7600X3D in terms of pricing, despite sharing identical specs with the 7500F."
-    },
-    {
-      "title": "Best of IFA 2026: MacBook Neo competitors, monitors, and wild laptop concepts",
-      "link": "https://www.tomshardware.com/tech-industry/best-of-ifa-2026",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T12:05:00.000Z",
-      "snippet": "This year in Berlin, IFA exhibitors showed off several affordable, colorful new laptops, some wild concept devices, and a surprising number of monitors that run the gamut from budget to high-refresh OLED."
-    },
-    {
-      "title": "Modder gets Nvidia's DLSS 5 working on AMD's RDNA 4 GPUs — RX 9070 XT only manages 30 FPS at 1080p right now, but 5070 Ti-level performance is the eventual goal",
-      "link": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-on-amds-rdna-4-gpus-rx-9070-xt-only-manages-30-fps-at-1080p-right-now-but-5070-ti-level-performance-is-the-eventual-goal",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T12:00:00.000Z",
-      "snippet": "If you have an RX 9000 series GPU, you can try out DLSS 5 on your PC right now and absolutely destroy the stable performance you were getting before."
-    },
-    {
-      "title": "Xbox Game Pass imposes monthly cloud gaming limits, just 15 hours per month for Ultimate — subscribers and non-subscribers can buy more hours to keep gaming",
-      "link": "https://www.tomshardware.com/video-games/cloud-gaming/xbox-game-pass-adds-monthly-time-limits-subscribers-and-non-subcribers-can-buy-more-hours-to-keep-gaming",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T11:45:00.000Z",
-      "snippet": "Microsoft has added monthly limits to its Xbox Game Pass cloud gaming service, where subscribers and non-subscribers can purchase extra playtime when they surpass their limits."
-    },
-    {
-      "title": "Dodge the RAMpocalypse with 20% discounts on Corsair RAM — hundreds off on 32GB and 64GB DDR5-6400 kits",
-      "link": "https://www.tomshardware.com/pc-components/dodge-the-rampocalypse-with-20-percent-discounts-on-corsair-ram-hundreds-off-on-32gb-and-64gb-ddr5-6400-kits",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T11:30:00.000Z",
-      "snippet": "Enjoy limited-time discounts of up to 23% on select Corsair DDR5 memory kits."
-    },
-    {
-      "title": "‘World’s first fully transparent video game console’ is on its way to Kickstarter — Arduview handheld’s shell, PCB, and display are all transparent",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/worlds-first-fully-transparent-video-game-console-is-on-its-way-to-kickstarter-arduview-handhelds-shell-pcb-and-display-are-all-transparent",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T11:12:46.000Z",
-      "snippet": "The first units of the ‘world’s first fully transparent video game console’ are shipping to founders, and now the Arduview project is on its way to Kickstarter."
-    },
-    {
-      "title": "We tested DLSS 5 in NBA 2K27 with every RTX 50-series GPU — first official release comes with a big performance hit, but almost every Blackwell card can run it at 1080p",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/we-tested-dlss-5-in-nba-2k27-with-every-rtx-50-series-gpu-first-official-release-comes-with-a-big-performance-hit-but-almost-every-blackwell-card-can-run-it-at-1080p",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T11:00:00.000Z",
-      "snippet": "We tested Nvidia's DLSS 5 in NBA 2K27 across every RTX 50-series graphics card at 1080p, 1440p, and 4K to see just how much performance it costs to explore the frontiers of neural rendering."
     }
   ],
   "quantum": [
+    {
+      "title": "Altera and Riverlane Partner to Bring Quantum Error Correction Support to Agilex FPGAs",
+      "link": "https://thequantuminsider.com/2026/09/10/altera-riverlane-partner-bring-quantum-error-correction-support-agilex-fpgas/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T15:50:45.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Altera, the world’s largest pure-play FPGA solutions provider, and Riverlane, the world leader in quantum error correction (QEC) technology and tools, today announced their partnership to help quantum hardware developers build more flexible control and error-correction systems that can process quantum data in parallel and rapidly move correction information through […"
+    },
+    {
+      "title": "Infleqtion and Cisco Collaborate on Quantum Networking Research",
+      "link": "https://thequantuminsider.com/2026/09/10/infleqtion-cisco-networked-quantum-systems/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T13:46:50.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Infleqtion, a global leader in quantum computing and quantum sensing powered by neutral atom technology, today announced a collaboration with Cisco to pursue joint research and development focused on connecting, operating, and scaling quantum systems. Together, the companies will explore architectures to link individual devices into distributed, more capable networks,"
+    },
+    {
+      "title": "Cal State East Bay Opens Pathways to Careers in Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/09/10/cal-state-east-bay-undergraduate-quantum-technology-program/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T11:55:16.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — California is building the future of computing, and Cal State East Bay is helping ensure its students have a pathway to it. A new $37.5 million National Science Foundation investment will help bring quantum science out of research labs and into undergraduate classrooms. As part of the UC Berkeley-led initiative, […]"
+    },
+    {
+      "title": "Singular Photonics Launches Litavis SPAD Image Sensor",
+      "link": "https://thequantuminsider.com/2026/09/10/singular-photonics-launches-litavis-spad-image-sensor/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T11:28:55.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Singular Photonics, an innovator in single-photon imaging, today announced the launch of its most advanced image sensor to date. Litavis is the world’s first single-photon avalanche diode (SPAD) sensor using in-pixel processing to unify imaging, timing, histogramming and photon statistics on a single chip. Designed to bring unprecedented flexibility and […]"
+    },
+    {
+      "title": "Italy Courts IonQ as Rome Seeks Deeper U.S. Quantum Ties",
+      "link": "https://thequantuminsider.com/2026/09/10/italy-courts-ionq-as-rome-seeks-deeper-u-s-quantum-ties/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T11:22:25.000Z",
+      "snippet": "Insider Brief Italy is seeking closer cooperation with IonQ and other U.S. technology groups as Rome tries to turn its scientific strengths into a more competitive quantum industry. Alessio Butti, Italy’s undersecretary of state for technological innovation and digital transition, placed quantum technology near the center of a three-city U.S. mission that began in New […]"
+    },
+    {
+      "title": "Xanadu and AMD Launch Backline for Low-Latency Quantum-Classical Computing",
+      "link": "https://thequantuminsider.com/2026/09/10/xanadu-amd-backline-low-latency-quantum-classical-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T11:21:51.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Xanadu Quantum Technologies Limited (“Xanadu“; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, in collaboration with AMD today announced the release of Backline, an open-platform solution, co-designed by Xanadu and AMD, for rapid communications between quantum and classical computing hardware. Backline is built using Xanadu’s open-source PennyLane sof"
+    },
+    {
+      "title": "Chalmers Researchers Make Bosonic Quantum Operations More Than 1,000 Times Faster",
+      "link": "https://thequantuminsider.com/2026/09/10/chalmers-researchers-faster-bosonic-quantum-operations/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-10T11:14:28.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk that computational errors will occur. Now, researchers at Chalmers University of Technology, in Sweden, have developed a new method that allows a wide […]"
+    },
     {
       "title": "Steve Hoffman Discusses Quantum Technology Adoption in U.S. Defense",
       "link": "https://thequantuminsider.com/2026/09/10/steve-hoffman-quantum-technology-adoption-us-defense/",
@@ -1092,13 +1190,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-09-09T14:44:02.000Z",
       "snippet": "For decades, colleges prepared students for a predictable workforce. Students chose a major, learned a defined set of skills and entered a career path that changed slowly over time. Artificial intelligence has ended that arrangement.\nEvery few weeks, another report warns that AI will eliminate jobs. A recent Graduate Management Admission Council survey of more than 600 corporate recruiters found t"
-    },
-    {
-      "title": "AACTE releases national framework on AI in educator preparation",
-      "link": "https://www.eschoolnews.com/digital-learning/2026/09/09/aacte-releases-national-framework-on-ai-in-educator-preparation/",
-      "source": "eSchool News",
-      "published": "2026-09-09T10:00:00.000Z",
-      "snippet": "A new national framework from AACTE (American Association of Colleges for Teacher Education) aims to help educator preparation programs (EPPs) navigate the rapidly changing role of artificial intelligence in education."
     },
     {
       "title": "When practice becomes data: Helping teachers respond to student misconceptions",
