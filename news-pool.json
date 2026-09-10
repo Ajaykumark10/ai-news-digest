@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-10T00:00:37.000Z",
+      "snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T21:43:34.000Z",
+      "snippet": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
+    },
+    {
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -29,7 +43,7 @@
       "snippet": "The update uses Apple Intelligence to make better sense of your health data."
     },
     {
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
       "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-09T18:08:35.000Z",
@@ -216,27 +230,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-05T18:05:27.000Z",
       "snippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
-    },
-    {
-      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-04T23:36:14.000Z",
-      "snippet": "The round is being raised just months after the robot data startup exited from stealth."
-    },
-    {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-04T23:15:11.000Z",
-      "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
-    },
-    {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-04T21:12:11.000Z",
-      "snippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
     }
   ],
   "cloud": [
@@ -246,13 +239,6 @@
       "source": "Cloud Blog",
       "published": "2026-09-09T19:00:00.000Z",
       "snippet": "We are thrilled to announce the general availability of the AlloyDB Omni Red Hat RPM orchestrator, that brings production-ready security, resiliency, and low-downtime operations to PostgreSQL workloads in your enterprise environments. This GA milestone builds on the foundation laid during our preview release and launches alongside AlloyDB Omni version 18.3.0 to bring cloud-like database automation"
-    },
-    {
-      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
-      "source": "Cloud Blog",
-      "published": "2026-09-09T18:00:00.000Z",
-      "snippet": "We are excited to share that Gartner has named Google a Leader in its inaugural 2026 Magic Quadrant for Enterprise AI Assistants. In this comprehensive evaluation of top enterprise AI assistant vendors, Gartner placed Google in the Leaders quadrant for its evaluation across both Completeness of Vision and Ability to Execute.\nGemini Enterprise helps organizations bring helpful, secure AI directly i"
     },
     {
       "title": "Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL",
@@ -320,14 +306,7 @@
   ],
   "hardware": [
     {
-      "title": "Apple A20 Pro powers iPhone Duo, 18 Pro — the company's first 2-nanometer smartphone chip",
-      "link": "https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-09T17:33:21.000Z",
-      "snippet": "Apple's new A20 Pro SOC will power the iPhone 18 Pro and iPhone Duo as its first 2 nm smartphone chip."
-    },
-    {
-      "title": "Switch 2 Zelda 40th Anniversary Edition preorders hit $1,000 on eBay — Amazon and Walmart are your last shot at $520 MSRP",
+      "title": "Switch 2 Zelda 40th Anniversary Edition preorders open on Amazon for $519.99 — here's your last shot to grab the limited-edition console at MSRP",
       "link": "https://www.tomshardware.com/video-games/handheld-gaming/switch-2-zelda-40th-anniversary-edition-preorders-hit-usd1-000-on-ebay-amazon-and-walmart-are-your-last-shot-at-usd520-msrp",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-09T17:06:03.000Z",
@@ -836,23 +815,9 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-05T10:00:00.000Z",
       "snippet": "Japan’s military has decided to mass-procure Terra B1 interceptor drones. These drones are made using 3D printers and are based on the tried and tested A1 model from Terra Drone, which began to be deployed by Ukraine earlier this year."
-    },
-    {
-      "title": "DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon",
-      "link": "https://www.tomshardware.com/pc-components/gpus/dlss-5-officially-launches-inside-nba-2k27-limited-to-rtx-50-series-gpus-for-now-nvidia-promises-to-bring-neutral-rendering-tech-to-rtx-40-series-soon",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-04T23:09:31.000Z",
-      "snippet": "Nvidia's controversial neural-rendering tech, DLSS 5, is now officially available in NBA 2K27, marking the start of a new era for the company. DLSS 5 will also come to RTX 40-series soon after current work on optimizing it for the RTX 50-series has reached a satisfactory state."
     }
   ],
   "quantum": [
-    {
-      "title": "a16z Crypto Rebuilds Jolt Proof System With Post-Quantum Security And Faster Performance",
-      "link": "https://thequantuminsider.com/2026/09/09/a16z-crypto-rebuilds-jolt-proof-system-with-post-quantum-security-and-faster-performance/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-09T16:53:52.000Z",
-      "snippet": "Insider Brief A16z Crypto has released a lattice-based version of its Jolt proof system that it says can resist attacks from future quantum computers while producing proofs two to three times faster than the technology it replaces. The open-source system, called Lattice Jolt, is a zero-knowledge virtual machine, or zkVM. These systems allow a computer […]"
-    },
     {
       "title": "Former IBM Executive Joerg Behrend Joins Q.ANT as VP Hardware",
       "link": "https://thequantuminsider.com/2026/09/09/q-ant-appoints-joerg-behrend-vice-president-hardware/",
@@ -1051,13 +1016,6 @@
     }
   ],
   "education": [
-    {
-      "title": "What Could Brain-Computer Interfaces Mean for Students With Disabilities?",
-      "link": "https://edtechmagazine.com/higher/article/2026/09/what-could-brain-computer-interfaces-mean-students-disabilities",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-09-09T17:43:24.000Z",
-      "snippet": "Picture this: A college student sits at their desk, staring at a cursor blinking on a blank document, and suddenly, words start appearing on the screen — without the student touching the keyboard. It’s not science fiction; it’s happening now with the use of brain-computer interface technology, which interprets electrical brain activity through an EEG headset or an implanted chip and sends those si"
-    },
     {
       "title": "Are Colleges Ready To Support the AI Workforce?",
       "link": "https://edtechmagazine.com/higher/article/2026/09/are-colleges-ready-support-ai-workforce",
