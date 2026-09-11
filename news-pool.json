@@ -1,6 +1,48 @@
 {
   "ai": [
     {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-10T21:35:00.000Z",
+      "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
+    },
+    {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-10T20:59:51.000Z",
+      "snippet": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
+    },
+    {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-10T20:57:30.000Z",
+      "snippet": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
+    },
+    {
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-10T19:50:04.000Z",
+      "snippet": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
+    },
+    {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-10T17:54:44.000Z",
+      "snippet": "Come inside the mind of a bot trying to convince the internet it's human."
+    },
+    {
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-10T17:45:00.000Z",
+      "snippet": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper."
+    },
+    {
       "title": "AI agents are flooding public services with new requests",
       "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -27,6 +69,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-10T00:00:37.000Z",
       "snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T22:25:22.000Z",
+      "snippet": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
     },
     {
       "title": "Massachusetts hits data centers with new clean power rules",
@@ -208,7 +257,7 @@
       "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-09-08T10:34:00.000Z",
-      "snippet": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…"
+      "snippet": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture. But what it lacks in decor,…"
     },
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -230,27 +279,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-06T16:45:00.000Z",
       "snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
-    },
-    {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-05T22:49:55.000Z",
-      "snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-05T19:35:24.000Z",
-      "snippet": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-05T18:05:27.000Z",
-      "snippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
     }
   ],
   "cloud": [
@@ -262,6 +290,20 @@
       "snippet": "Agent skills fit well alongside documentation and remote MCP servers as ways of enabling the success of your AI workflows. They reduce context window usage for certain use cases, and they're straightforward to install. However, you might have noticed that managing individual skills can be unwieldy, or that some skills are most useful when they act alongside other skills or MCP servers toward the s"
     },
     {
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-09-10T16:00:00.000Z",
+      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nSept 7 - S"
+    },
+    {
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-09-10T16:00:00.000Z",
+      "snippet": "September 7 - September 10\nPub/Sub SMTs can now AI Inference your Gemini Enterprise Agent Platform models!\nPub/Sub AI Inference SMTs allow you to apply inference on an incoming stream of events using models hosted in Gemini Enterprise Agent Platform. The model’s prediction is appended to your event, making it available for downstream processing in your data warehouse (like BigQuery) or operational"
+    },
+    {
       "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
       "source": "AWS News Blog",
@@ -269,18 +311,18 @@
       "snippet": "AWS introduces Amazon EBS Volume Clones with cross-account copy, so you can create copies of your EBS volumes into other AWS accounts and optionally re-encrypt them with an AWS Key Management Service (AWS KMS) key in the target account."
     },
     {
-      "title": "Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available",
-      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
-      "source": "Cloud Blog",
-      "published": "2026-09-09T19:00:00.000Z",
-      "snippet": "We are thrilled to announce the general availability of the AlloyDB Omni Red Hat RPM orchestrator, that brings production-ready security, resiliency, and low-downtime operations to PostgreSQL workloads in your enterprise environments. This GA milestone builds on the foundation laid during our preview release and launches alongside AlloyDB Omni version 18.3.0 to bring cloud-like database automation"
-    },
-    {
       "title": "Two zones or three? A design framework for zone-resilient Azure workloads",
       "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
       "source": "Microsoft Azure Blog",
       "published": "2026-09-09T18:00:00.000Z",
       "snippet": "Zone resiliency isn't a single number you apply to a whole workload. The useful question isn't “how many zones?” but “how many zones does each component need to survive the loss of one?” Decide zone patterns component by component, use service-managed zone redundancy wherever it fits, and reserve three-zone designs for the components that genuinely require a third failure domain.\nThe post Two zone"
+    },
+    {
+      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
+      "source": "Cloud Blog",
+      "published": "2026-09-09T18:00:00.000Z",
+      "snippet": "We are excited to share that Gartner has named Google a Leader in its inaugural 2026 Magic Quadrant for Enterprise AI Assistants. In this comprehensive evaluation of top enterprise AI assistant vendors, Gartner placed Google in the Leaders quadrant for its evaluation across both Completeness of Vision and Ability to Execute.\nGemini Enterprise helps organizations bring helpful, secure AI directly i"
     },
     {
       "title": "Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL",
@@ -347,6 +389,104 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Save 20% on this 144-in-1 screwdriver set, perfect for hobbyists and PC builders under $40 — epic starter toolkit ships with electric and precision drivers, along with 120 magnetic bits and 22 maintenance tools",
+      "link": "https://www.tomshardware.com/desktops/pc-building/save-20-percent-on-this-144-in-1-screwdriver-set-perfect-for-hobbyists-and-pc-builders-under-usd40-epic-starter-toolkit-ships-with-electric-and-precision-drivers-along-with-120-magnetic-bits-and-22-maintenance-tools",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T15:32:15.000Z",
+      "snippet": "This 144-in-1 repair toolkit from Strebito is on sale, with 120 bits and a number of other tools for less than $40."
+    },
+    {
+      "title": "GameStop is reopening recently closed stores despite massive retail cuts — select locations return nationwide starting September 11",
+      "link": "https://www.tomshardware.com/tech-industry/gamestop-is-reopening-recently-closed-stores-despite-massive-retail-cuts-select-locations-return-nationwide-starting-september-11",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T12:50:35.000Z",
+      "snippet": "After shutting down hundreds of locations and dramatically shrinking its physical retail footprint, GameStop is bringing select stores back as its business continues to evolve beyond physical games."
+    },
+    {
+      "title": "Hardware-accurate NeoGeo AES+ delayed to late 2027 due to memory shortage — decision driven by surging demand and AI-driven RAM crunch",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/neogeo-aes-console-remake-delayed-for-nearly-a-year-decision-driven-by-ram-shortage-and-unexpected-popularity",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T11:30:00.000Z",
+      "snippet": "NeoGeo AES+ console remake delayed for nearly a year — decision driven by RAM shortage and unexpected popularity"
+    },
+    {
+      "title": "Thermalright TR-KG750 750W power supply review: HKC-built KG unit with a Thermalright badge for $91",
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/thermalright-tr-kg750-750w-power-supply-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T11:05:00.000Z",
+      "snippet": "Thermalright's HKC-built KG series brings ATX 3.1, a native 12V-2x6 connector and a five-year warranty at a low price point, with the compromises visible inside."
+    },
+    {
+      "title": "Hands On: Sharge's Disk Pro 2 Ultra is a compact, magnetic DIY SSD dock with active cooling, 80W passthrough charging, and HDMI 2.1, supporting up to 8TB drives",
+      "link": "https://www.tomshardware.com/pc-components/external-ssds/hands-on-sharges-disk-pro-2-ultra",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T11:05:00.000Z",
+      "snippet": "One of our favorite external SSDs gets an upgrade as a compact DIY hub with an M.2 slot, active cooling, USB ports, up to HDMI 2.1, and a removable cable."
+    },
+    {
+      "title": "Desktop graphics card shipments hit four-year high of 12.5 million despite increasing prices — Nvidia takes 90% share as gamers rush to beat looming price spikes",
+      "link": "https://www.tomshardware.com/pc-components/gpus/desktop-graphics-card-shipments-hit-four-year-high-of-12-5-million-despite-increasing-prices-nvidia-takes-90-percent-share-as-gamers-rush-to-beat-looming-price-spikes",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T11:00:00.000Z",
+      "snippet": "Shipments of desktop add-in-boards in Q2 were the highest since Q1 2022 despite rising prices and dropping sales of desktop PCs, according to new numbers from Jon Peddie Research."
+    },
+    {
+      "title": "Snag a huge $1,000 saving on this RTX 5090 OLED gaming laptop from HP, now $3,699 — 16-inch HyperX rig delivers 1600p gaming with ultra-fast 240Hz refresh rate, coupled with 32GB DDR5 RAM and a 2TB SSD",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/snag-a-huge-usd1-000-saving-on-this-rtx-5090-oled-gaming-laptop-from-hp-now-usd3-699-16-inch-hyperx-rig-delivers-1600p-gaming-with-ultra-fast-240hz-refresh-rate-coupled-with-32gb-ddr5-ram-and-a-2tb-ssd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T10:50:59.000Z",
+      "snippet": "The HyperX Omen Max 16, featuring the powerful Nvidia GeForce RTX 5090 GPU, is down to $3,699.99 right now, saving you $1,000."
+    },
+    {
+      "title": "Windows 11 can now reinstall itself from the cloud — Cloud Rebuild revives dead systems without secondary boot media, wipes broken installation and downloads a fresh copy of the OS",
+      "link": "https://www.tomshardware.com/software/windows/windows-11-can-now-reinstall-itself-from-the-cloud-cloud-rebuild-revives-dead-systems-without-secondary-boot-media-wipes-broken-installation-and-downloads-a-fresh-copy-of-the-os",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T10:30:00.000Z",
+      "snippet": "Windows 11 users can soon recover from serious installation problems without relying on a USB drive or a custom recovery image."
+    },
+    {
+      "title": "Anthropic says Claude thwarted bioweapon research from state-sponsored actors — covert accounts used U.S. proxies to attempt to engineer deadlier viruses, tried to evade identification and regional blocks",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-thwarted-bioweapon-research-from-state-sponsored-actors-covert-accounts-used-u-s-proxies-to-attempt-to-engineer-deadlier-viruses-tried-to-evade-identification-and-regional-blocks",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T10:00:00.000Z",
+      "snippet": "Anthropic claims Claude refused instructions to potentially develop biological weapons — alleged state-linked accounts tried to evade identification and regional blocks"
+    },
+    {
+      "title": "Russian plot to sabotage undersea cables with 'secret weapon' foiled by NATO — clandestine op uncovers training exercise simulating deployment against infrastructure in Norway",
+      "link": "https://www.tomshardware.com/tech-industry/russian-plot-to-sabotage-undersea-cables-with-secret-weapon-foiled-by-nato-clandestine-op-uncovers-training-exercise-simulating-deployment-against-infrastructure-in-norway",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T09:26:43.000Z",
+      "snippet": "NATO foiled a Russian training exercise simulating the deployment of a secret weapon against Norwegian undersea cables."
+    },
+    {
+      "title": "Nintendo of America puts tariff refunds towards 'customer appreciation' sale, but no refunds to Switch 2 buyers — offers 30% off games and accessories from September 13 to 26",
+      "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-of-america-puts-tariff-refunds-towards-customer-appreciation-sale-but-no-refunds-to-switch-2-buyers-offers-30-percent-off-games-and-accessories-from-september-13-to-26",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T19:35:00.000Z",
+      "snippet": "Nintendo is offering a 30% sale with its tariff refunds, as opposed as returning the money directly to customers."
+    },
+    {
+      "title": "Asus routers gain FCC's 'Conditional Approval' for sale in the US as TP-Link remains locked out — Asus's Wi-Fi 8 ambitions remain intact",
+      "link": "https://www.tomshardware.com/networking/routers/asus-routers-gain-fccs-conditional-approval-for-sale-in-the-us-as-tp-link-remains-locked-out-asuss-wi-fi-8-ambitions-remain-intact",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T19:13:21.000Z",
+      "snippet": "Asus gets conditional approval from the FCC for US router sales, while rival TP-Link continues to wait"
+    },
+    {
+      "title": "AMD releases new Ryzen 5 5500F and Ryzen 5 7500 for budget PC builders — new budget Zen 3 and Zen 4 CPUs soften the blow from high RAM prices",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-releases-new-ryzen-5-5500f-and-ryzen-5-7500-to-save-budget-pc-building-new-budget-zen-3-and-zen-4-cpus-to-soften-the-blow-from-high-ram-prices",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T17:54:53.000Z",
+      "snippet": "AMD has officially launched the Ryzen 5 5500F and Ryzen 5 7500 processors with six Zen 3 and Zen 4 cores, respectively."
+    },
+    {
+      "title": "Apple’s new A20 Pro smartphone chip around 25% faster than its predecessor in leaked benchmark — the 2nm CPU in the iPhone Duo and 18 Pro hits nearly 5 GHz clocks",
+      "link": "https://www.tomshardware.com/pc-components/cpus/apples-new-a20-pro-smartphone-chip-around-25-percent-faster-than-its-predecessor-in-leaked-benchmark-the-2nm-cpu-in-the-iphone-duo-and-18-pro-hits-nearly-5-ghz-clocks",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-10T16:04:10.000Z",
+      "snippet": "The first Apple A20 Geekbench 6 benchmark results are starting to pop up online and the single-core score is very impressive."
+    },
     {
       "title": "This $399 Elegoo Centauri Carbon 2 Combo with $1 filament is the perfect 3D printer deal for beginners — flash sale discount nets you a Core XY printer with four-color system and auto bed leveling",
       "link": "https://www.tomshardware.com/3d-printing/this-usd399-elegoo-centauri-carbon-2-combo-deal-with-usd1-filament-is-the-perfect-3d-printer-deal-for-beginners-flash-sale-discount-nets-you-a-core-xy-printer-with-four-color-system-and-auto-bed-leveling",
@@ -481,7 +621,7 @@
       "snippet": "Microsoft appears to be using dynamic pricing to push select users to commit to Xbox Game Pass."
     },
     {
-      "title": "OpenAI says its next-generation processors could be made at Samsung — double-sourcing with TSMC hints at massive volume requirements",
+      "title": "OpenAI says its next-generation processors could be made at Samsung — double-sourcing with TSMC hints at massive volume requirements [Updated]",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-its-next-generation-processors-could-be-made-at-samsung-double-sourcing-with-tsmc-hints-at-massive-volume-requirements",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-09T14:30:00.000Z",
@@ -794,100 +934,72 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-07T10:00:00.000Z",
       "snippet": "Another RTX 5090 has gone down but this time it has something else to blame other than its own 16-pin connector. The connector is still what melted but potentially because of DLSS 5 pulling way too much power at the back end."
-    },
-    {
-      "title": "Single-slot low-profile 75W RTX 3060 with no power connectors disappoints in tests — GPU runs entirely off the PCIe slot, but offers severely crippled performance and frightening thermals",
-      "link": "https://www.tomshardware.com/pc-components/gpus/single-slot-low-profile-75w-rtx-3060-with-no-power-connectors-disappoints-in-tests-gpu-runs-entirely-off-the-pcie-slot-but-offers-severely-crippled-performance-and-frightening-thermals",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-06T14:58:29.000Z",
-      "snippet": "If you want to cut your 12GB RTX 3060's performance in half while worsening its thermals, this might be the perfect product for you."
-    },
-    {
-      "title": "OpenAI admits to 'wiki incident' after its agents were discovered using a programming hub to communicate — says more transparency is needed regarding misalignments",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-06T14:31:54.000Z",
-      "snippet": "OpenAI has admitted that its experimental AI agents used an open German programming wiki to communicate."
-    },
-    {
-      "title": "FSP Mega GM 1200W power supply review: An in-house FSP platform that quietly overshoots its own Gold label",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/fsp-mega-gm-1200w-power-supply-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-06T13:57:18.000Z",
-      "snippet": "The FSP Mega GM 1200W power supply features Platinum-grade efficiency, an all-Japanese capacitor set, and a compact footprint that is rare on a 1200W unit."
-    },
-    {
-      "title": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures — facility operated for years under a city stop-work order",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-06T13:44:22.000Z",
-      "snippet": "A Bitcoin mining data center in El Reno, Oklahoma has been condemned after it leaked 3 million gallons of water."
-    },
-    {
-      "title": "Samsung 990 2TB PCIe 4.0 SSD falls to $339.99 on Amazon — $190 discount makes high-capacity storage more affordable",
-      "link": "https://www.tomshardware.com/pc-components/ssds/samsung-990-2tb-pcie-4-0-ssd-falls-to-usd339-99-on-amazon-usd190-discount-makes-high-capacity-storage-more-affordable",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-06T13:08:31.000Z",
-      "snippet": "Samsung's 2TB 990 offers plenty of fast storage for games and is currently $190 cheaper than its regular $529.99 price."
-    },
-    {
-      "title": "MSI MEG CoreLiquid E15 360 AIO Review: Bold and stunning, with market-leading performance",
-      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/msi-meg-coreliquid-e15-360-aio-review-bold-and-stunning-with-market-leading-performance",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-06T12:48:03.000Z",
-      "snippet": "MSI’s MEG CoreLiquid E15 360 AIO is a luxury cooling product, with a stunning 6.7-inch screen and industry-leading thermal performance."
-    },
-    {
-      "title": "Sales of CD and vinyl music sees strong resurgence amid physical media backlash — US sales of ‘retro media’ were up 59% and 18%, respectively, in H1 2026",
-      "link": "https://www.tomshardware.com/service-providers/streaming/sales-of-cd-and-vinyl-music-sees-strong-resurgence-amid-physical-media-backlash-us-sales-of-retro-media-were-up-59-percent-and-18-percent-respectively-in-h1-2026",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-06T12:16:13.000Z",
-      "snippet": "Music industry physical revenues jumped by 25.9% in H1 2026, 'powered by 17.7% vinyl growth and a 58.6% increase in CDs,' reported the RIAA."
-    },
-    {
-      "title": "PS5 emulator can now run the console version of GTA V at up to 60 FPS on PC, but quickly crashes as tweakers continue to optimize — PS5 emulation advancing at an astronomical pace leading up to GTA VI launch",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/ps5-emulator-can-now-run-the-console-version-of-gta-v-at-up-to-60-fps-on-pc-but-quickly-crashes-as-tweakers-continue-to-optimize-ps5-emulation-advancing-at-an-astronomical-pace-leading-up-to-gta-vi-launch",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-06T11:48:08.000Z",
-      "snippet": "A spark was lit under the PS5 emulation scene a couple of months ago and instead of fading over time, it seems to be burning brighter than ever. GTA V now runs between 40-60 FPS for a few minutes before crashing, along with several other games being rendered smoothly."
-    },
-    {
-      "title": "Former Old School RuneScape dev gets jail time for stealing $400,000 from players — virtual gold stolen and sold on the black market before Jagex caught the culprit using hidden firewall tweaks",
-      "link": "https://www.tomshardware.com/video-games/former-old-school-runescape-dev-gets-jail-time-for-stealing-usd400-000-from-players-virtual-gold-stolen-and-sold-on-the-black-market-before-jagex-caught-the-culprit-using-hidden-firewall-tweaks",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-06T10:30:00.000Z",
-      "snippet": "A former Jagex employee stole over $400,000 worth of in-game items and virtual currency from OSRS players and sold them on the black market. He was eventually arrested and sentenced to a three-year prison sentence, with one investigator saying, \"Just because it's virtual, doesn't mean he shouldn't face the full force of the law.\""
-    },
-    {
-      "title": "This 246TB SSD media server is built for millionaire cinephiles  —Kaleidescape's newest home theater vault supports 25 simultaneous 4K streams, stores up to 2,300 4K cinematic movies",
-      "link": "https://www.tomshardware.com/pc-components/storage/this-246tb-ssd-media-server-is-built-for-millionaire-cinephiles-kaleidescapes-newest-home-theater-vault-supports-25-simultaneous-4k-streams-stores-up-to-2-300-4k-cinematic-movies",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-06T10:00:00.000Z",
-      "snippet": "Kaleidescape, a maker of luxury home theater equipment, has revealed its latest media server, the \"Compact Terra Prime 246TB SSD.\""
-    },
-    {
-      "title": "Save nearly 50% on this awesome 16-inch OLED laptop with a Ryzen AI 5 430 CPU & 16GB RAM — HP's MacBook Neo-beating OmniBook X Flip is down to just $699",
-      "link": "https://www.tomshardware.com/pc-components/save-nearly-50-percent-on-this-awesome-16-inch-oled-laptop-with-a-ryzen-ai-5-430-cpu-and-16gb-ram-hps-macbook-neo-beating-omnibook-x-flip-is-down-to-just-usd699",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T18:51:54.000Z",
-      "snippet": "If you're looking for a capable machine for everyday tasks and media consumption without breaking the bank, there isn't a better deal out there than this one."
-    },
-    {
-      "title": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth — Project Zenith will debut on AMD's flagship Ryzen AI Halo platform",
-      "link": "https://www.tomshardware.com/software/windows/stripped-down-windows-11-for-ai-developers-demands-64gb-ram-and-insane-250-gb-s-bandwidth-project-zenith-will-debut-on-amds-flagship-ryzen-ai-halo-platform",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T17:18:57.000Z",
-      "snippet": "Project Zenith is a version of Windows 11 that lets developers work right out of the box. It comes pre-installed with developer tools like Visual Studio Code, GitHub Copilot, and WSL 2+ Ubuntu, among others, and includes features that make developing and running AI agents more secure."
-    },
-    {
-      "title": "Gamescom apologizes after backlash over callous response to indie dev hardware thefts — pledges security overhaul and invites devs to the roundtable",
-      "link": "https://www.tomshardware.com/video-games/gamescom-apologizes-after-backlash-over-callous-response-to-indie-dev-hardware-thefts-pledges-security-overhaul-and-invites-devs-to-the-roundtable",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-05T16:18:54.000Z",
-      "snippet": "The Gamescom organizers apologized for their initial response and outlined plans to prevent future incidents. They also praised the community for supporting the affected developers."
     }
   ],
   "quantum": [
+    {
+      "title": "Stevens Researchers Take Step Toward More Precise, Practical Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/09/11/stevens-researchers-lower-intensity-quantum-control/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T13:44:18.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses. However, the intense laser fields often required for this control can cause unwanted effects […]"
+    },
+    {
+      "title": "The Quantum Insider Launches Datasets, Analyst-Verified Quantum Market Information",
+      "link": "https://thequantuminsider.com/2026/09/11/the-quantum-insider-launches-datasets-analyst-verified-quantum-market-information/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T13:15:42.000Z",
+      "snippet": "Insider Brief The Quantum Insider (“TQI”), the market intelligence platform for quantum technology, today launched Datasets: analyst-verified quantum market information, sold one dataset at a time as an Excel workbook and a PDF briefing. Three are available at launch and four more are scheduled. Every record in a dataset has been checked by a TQI […]"
+    },
+    {
+      "title": "Bull Selected to Modernize Spain’s National Weather Forecasting Infrastructure",
+      "link": "https://thequantuminsider.com/2026/09/11/bull-selected-to-modernize-spains-national-weather-forecasting-infrastructure/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T13:02:36.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Bull, a leader in advanced computing and AI, announced a €31 million contract with the Spanish State Meteorological Agency (AEMET) to deliver a new supercomputing infrastructure that will support faster and more accurate weather, climate and environmental forecasting services in Spain. The four-year project marks a new chapter in a […]"
+    },
+    {
+      "title": "Quantum Cybersecurity Explained: Preparing for Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/11/quantum-cybersecurity-explained-comprehensive-guide/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T12:02:43.000Z",
+      "snippet": "Insider Brief Yahoo lost three billion accounts in 2013. Aadhaar had its own reckoning in 2018. Alibaba followed a year later. None of those breaches had anything to do with quantum computers, but they’re a reminder of how quickly secure data can stop being secure, and how much damage follows when it does. Quantum cybersecurity […]"
+    },
+    {
+      "title": "Qubic Secures $1.5 Million Canadian Government Contract for Cryogenic Amplifiers",
+      "link": "https://thequantuminsider.com/2026/09/11/qubic-secures-1-5-million-canadian-government-contract-cryogenic-amplifiers/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T11:03:01.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Qubic, a quantum technology company developing cryogenic, low-noise amplifiers for quantum computing and applications in sensing and defence, today announces it has signed a contract with an agency of Canada’s federal government valued at up to CA$1.5 million (US$1.1 million). The sale comes on the heels of the company’s $3.5 […]"
+    },
+    {
+      "title": "BWT Alpine and SEALSQ Explore Quantum-Classical Simulation for Formula One",
+      "link": "https://thequantuminsider.com/2026/09/11/bwt-alpine-sealsq-expand-quantum-computing-collaboration/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T10:52:46.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — BWT Alpine Formula One Team and SEALSQ (NASDAQ: LAES) today introduce an expanded collaboration that brings quantum-powered computation alongside quantum-secure infrastructure to one of Formula One’s most demanding engineering environments. Building on the quantum-security partnership BWT Alpine Formula One Team and SEALSQ launched in November 2025, the project aims t"
+    },
+    {
+      "title": "QClairvoyance and Samgnya Sign MoU on Quantum Technology Research",
+      "link": "https://thequantuminsider.com/2026/09/11/qclairvoyance-and-samgnya-sign-mou-on-quantum-technology-research/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T10:39:05.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — QClairvoyance Quantum Labs Pvt. Ltd., an Indian deep-tech company focused on quantum technologies, has signed a Memorandum of Understanding (MoU) with IITM–C-DOT Samgnya Technologies Foundation, India’s National Hub for Quantum Communication, established under the National Quantum Mission (NQM) of the Department of Science & Technology, Government of India. The collab"
+    },
+    {
+      "title": "Qtonic Quantum Publishes Q4 2026 Quantum Cybersecurity Report",
+      "link": "https://thequantuminsider.com/2026/09/11/qtonic-quantum-q4-2026-quantum-cybersecurity-report/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T10:21:13.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Qtonic Quantum Corp today released State of Quantum Cybersecurity | Q4 2026, a 92-page report helping organizations identify what to protect first, evaluate supplier evidence and plan post-quantum migration. Qtonic Quantum brings cryptographic discovery, authorized security testing and vendor-neutral migration advisory into one connected approach: Find. Prove. Fix. It"
+    },
+    {
+      "title": "Quip Network to Launch Quantum Echoes QFT Collection",
+      "link": "https://thequantuminsider.com/2026/09/11/quip-network-launches-quantum-echoes-qft-collection/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T10:12:22.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Postquant Labs, the developer behind quantum computing marketplace quip.network, announces the upcoming launch of Quantum Echoes, the first digital collectibles seeded and generated by actual quantum hardware. Available from September 14, 2026, the collection marks a historic moment where ordinary consumers can own art generated directly by quantum processors, bridgin"
+    },
     {
       "title": "Altera and Riverlane Partner to Bring Quantum Error Correction Support to Agilex FPGAs",
       "link": "https://thequantuminsider.com/2026/09/10/altera-riverlane-partner-bring-quantum-error-correction-support-agilex-fpgas/",
@@ -1171,6 +1283,20 @@
   ],
   "education": [
     {
+      "title": "The compliance trap waiting on the other side of Title II",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/11/the-compliance-trap-waiting-on-the-other-side-of-title-ii/",
+      "source": "eSchool News",
+      "published": "2026-09-11T10:00:00.000Z",
+      "snippet": "Every few years, something shifts how schools think about accessibility. A law changes, a new technology arrives, or a group of advocates succeeds in bringing attention to the topic. Right now, it's Title II of the Americans with Disabilities Act."
+    },
+    {
+      "title": "Year-Round Education Requires Year-Round IT Support",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/year-round-education-requires-year-round-it-support",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-10T18:54:06.000Z",
+      "snippet": "Institutions across higher education are expanding hybrid, online and year-round enrollment as a response to the demographic cliff. Remote, asynchronous and hybrid learning options are designed to support learners who need an added layer of flexibility: students with families, full-time jobs or other nontraditional schedules who need access to a school's online tools outside of business hours. \nHo"
+    },
+    {
       "title": "The everyday access control gaps schools overlook",
       "link": "https://www.eschoolnews.com/educational-leadership/2026/09/10/the-everyday-access-control-gaps-schools-overlook/",
       "source": "eSchool News",
@@ -1185,11 +1311,11 @@
       "snippet": "Picture this: A college student sits at their desk, staring at a cursor blinking on a blank document, and suddenly, words start appearing on the screen — without the student touching the keyboard. It’s not science fiction; it’s happening now with the use of brain-computer interface technology, which interprets electrical brain activity through an EEG headset or an implanted chip and sends those si"
     },
     {
-      "title": "Are Colleges Ready To Support the AI Workforce?",
-      "link": "https://edtechmagazine.com/higher/article/2026/09/are-colleges-ready-support-ai-workforce",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-09-09T14:44:02.000Z",
-      "snippet": "For decades, colleges prepared students for a predictable workforce. Students chose a major, learned a defined set of skills and entered a career path that changed slowly over time. Artificial intelligence has ended that arrangement.\nEvery few weeks, another report warns that AI will eliminate jobs. A recent Graduate Management Admission Council survey of more than 600 corporate recruiters found t"
+      "title": "AACTE releases national framework on AI in educator preparation",
+      "link": "https://www.eschoolnews.com/digital-learning/2026/09/09/aacte-releases-national-framework-on-ai-in-educator-preparation/",
+      "source": "eSchool News",
+      "published": "2026-09-09T10:00:00.000Z",
+      "snippet": "A new national framework from AACTE (American Association of Colleges for Teacher Education) aims to help educator preparation programs (EPPs) navigate the rapidly changing role of artificial intelligence in education."
     },
     {
       "title": "When practice becomes data: Helping teachers respond to student misconceptions",
