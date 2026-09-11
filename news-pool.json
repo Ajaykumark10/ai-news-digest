@@ -1,6 +1,55 @@
 {
   "ai": [
     {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-11T20:33:18.000Z",
+      "snippet": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
+    },
+    {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-11T20:30:17.000Z",
+      "snippet": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
+    },
+    {
+      "title": "Roundtables: Will AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-11T20:05:06.000Z",
+      "snippet": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…"
+    },
+    {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-11T19:35:54.000Z",
+      "snippet": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
+    },
+    {
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-11T18:41:49.000Z",
+      "snippet": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, make"
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-11T16:46:25.000Z",
+      "snippet": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-10T21:51:59.000Z",
+      "snippet": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular."
+    },
+    {
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -272,22 +321,36 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-06T20:47:37.000Z",
       "snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
-    },
-    {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-06T16:45:00.000Z",
-      "snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
     }
   ],
   "cloud": [
+    {
+      "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
+      "source": "Cloud Blog",
+      "published": "2026-09-11T09:00:00.000Z",
+      "snippet": "On Tuesday, September 8, Thomas Kurian participated in the Goldman Sachs Tech Conference, providing an update on Google Cloud’s business and strategy. Here are the highlights:\n\nFull Stack Approach: Google Cloud is the only provider to offer solutions across the entire AI stack, which expands our total addressable market, differentiates our products from the point of view of performance, cost and q"
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-09-10T21:00:00.000Z",
+      "snippet": "Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps help organizations run AI and hybrid workloads at scale.\nThe post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management appeared first on Microsoft Azure Blog."
+    },
     {
       "title": "Introducing the Google Cloud Developer Plugin for AI Coding Agents",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
       "source": "Cloud Blog",
       "published": "2026-09-10T19:53:00.000Z",
       "snippet": "Agent skills fit well alongside documentation and remote MCP servers as ways of enabling the success of your AI workflows. They reduce context window usage for certain use cases, and they're straightforward to install. However, you might have noticed that managing individual skills can be unwieldy, or that some skills are most useful when they act alongside other skills or MCP servers toward the s"
+    },
+    {
+      "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-09-10T17:00:00.000Z",
+      "snippet": "This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof points that can help you optimize agent costs and run AI as a managed investment system on Microsoft Foundry.\nThe post The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI appeared first on Microsoft Azure Blog."
     },
     {
       "title": "What’s new with Google Cloud",
@@ -304,11 +367,25 @@
       "snippet": "September 7 - September 10\nPub/Sub SMTs can now AI Inference your Gemini Enterprise Agent Platform models!\nPub/Sub AI Inference SMTs allow you to apply inference on an incoming stream of events using models hosted in Gemini Enterprise Agent Platform. The model’s prediction is appended to your event, making it available for downstream processing in your data warehouse (like BigQuery) or operational"
     },
     {
+      "title": "The future of infrastructure resiliency starts with modernization",
+      "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-09-10T16:00:00.000Z",
+      "snippet": "Modernization only succeeds when organizations have confidence that their infrastructure can withstand disruption and continue supporting critical operations.\nThe post The future of infrastructure resiliency starts with modernization appeared first on Microsoft Azure Blog."
+    },
+    {
       "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
       "source": "AWS News Blog",
       "published": "2026-09-09T22:01:47.000Z",
       "snippet": "AWS introduces Amazon EBS Volume Clones with cross-account copy, so you can create copies of your EBS volumes into other AWS accounts and optionally re-encrypt them with an AWS Key Management Service (AWS KMS) key in the target account."
+    },
+    {
+      "title": "Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
+      "source": "Cloud Blog",
+      "published": "2026-09-09T19:00:00.000Z",
+      "snippet": "We are thrilled to announce the general availability of the AlloyDB Omni Red Hat RPM orchestrator, that brings production-ready security, resiliency, and low-downtime operations to PostgreSQL workloads in your enterprise environments. This GA milestone builds on the foundation laid during our preview release and launches alongside AlloyDB Omni version 18.3.0 to bring cloud-like database automation"
     },
     {
       "title": "Two zones or three? A design framework for zone-resilient Azure workloads",
@@ -390,6 +467,20 @@
   ],
   "hardware": [
     {
+      "title": "China-modified Nvidia RTX 5090 with massive 96GB of memory appears on Alibaba for less than $4,000 — 3x more VRAM at 65% the cost of the original",
+      "link": "https://www.tomshardware.com/pc-components/gpus/china-modified-nvidia-rtx-5090-with-massive-96gb-of-memory-appears-on-alibaba-for-less-than-usd4-000-3x-more-vram-at-65-percent-the-cost-of-the-original",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T16:32:36.000Z",
+      "snippet": "An alleged Nvidia GeForce RTX 5090 96GB with 96GB of modded VRAM surfaces on Alibaba for $3888."
+    },
+    {
+      "title": "Sanctioned Chinese supercomputer maker stripped of IO500 benchmark crown, Intel-powered Aurora retakes the lead — record-breaking ParaStor F9000 storage system doesn't meet reproducibility requirements",
+      "link": "https://www.tomshardware.com/tech-industry/supercomputers/sanctioned-chinese-supercomputer-maker-stripped-of-io500-benchmark-crown-intel-powered-aurora-retakes-the-lead-record-breaking-parastor-f9000-storage-system-doesnt-meet-reproducibility-requirements",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T16:26:12.000Z",
+      "snippet": "Sugon's record-breaking ParaStor F9000 storage systems have lost their IO500 Production crowns and have been moved to the Research list after failing to meet the benchmark's highest reproducibility requirements, which include widely available architecture details and general availability of hardware itself."
+    },
+    {
       "title": "Save 20% on this 144-in-1 screwdriver set, perfect for hobbyists and PC builders under $40 — epic starter toolkit ships with electric and precision drivers, along with 120 magnetic bits and 22 maintenance tools",
       "link": "https://www.tomshardware.com/desktops/pc-building/save-20-percent-on-this-144-in-1-screwdriver-set-perfect-for-hobbyists-and-pc-builders-under-usd40-epic-starter-toolkit-ships-with-electric-and-precision-drivers-along-with-120-magnetic-bits-and-22-maintenance-tools",
       "source": " Latest from Tom's Hardware ",
@@ -402,6 +493,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-11T12:50:35.000Z",
       "snippet": "After shutting down hundreds of locations and dramatically shrinking its physical retail footprint, GameStop is bringing select stores back as its business continues to evolve beyond physical games."
+    },
+    {
+      "title": "At IFA 2026, computing chased the high and low ends — AI and budget-focused machines left little for the rest of us",
+      "link": "https://www.tomshardware.com/laptops/at-ifa-2026-computing-chased-the-high-and-low-ends-ai-and-budget-focused-machines-left-little-for-the-rest-of-us",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T12:44:08.000Z",
+      "snippet": "At IFA 2026, a bifurcated computing landscape widened as more companies chased Apple's MacBook Neo while also keeping one foot firmly planted in the AI space."
     },
     {
       "title": "Hardware-accurate NeoGeo AES+ delayed to late 2027 due to memory shortage — decision driven by surging demand and AI-driven RAM crunch",
@@ -938,6 +1036,13 @@
   ],
   "quantum": [
     {
+      "title": "SEALSQ Reports 131% Revenue Growth in H1 2026",
+      "link": "https://thequantuminsider.com/2026/09/11/sealsq-h1-2026-results-fy2026-guidance/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T14:20:31.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or the “Company”), a company focused on developing and commercializing post-quantum semiconductor, PKI and trusted provisioning solutions, today announced its financial and operational results for the six-month period ended June 30, 2026. H1 2026 Financial Highlights Revenue Growth and Business Drivers H1 2026 revenue growth […]"
+    },
+    {
       "title": "Stevens Researchers Take Step Toward More Precise, Practical Quantum Technologies",
       "link": "https://thequantuminsider.com/2026/09/11/stevens-researchers-lower-intensity-quantum-control/",
       "source": "The Quantum Insider",
@@ -1283,6 +1388,13 @@
   ],
   "education": [
     {
+      "title": "Microsoft Report Highlights Trends in Higher Education AI Adoption",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/microsoft-report-highlights-trends-higher-education-ai-adoption",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-11T16:25:21.000Z",
+      "snippet": "Artificial Intelligence use in higher education continues to be hotly debated, but there’s no doubt it’s widely used: About 9 in 10 students, educators and education leaders say they’ve already used AI for school. That comes from Microsoft’s third annual AI in Education Special Report, which examines how K–12 districts and higher education institutions are adopting and using AI.\nThe report consoli"
+    },
+    {
       "title": "The compliance trap waiting on the other side of Title II",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/11/the-compliance-trap-waiting-on-the-other-side-of-title-ii/",
       "source": "eSchool News",
@@ -1309,6 +1421,13 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-09-09T17:43:24.000Z",
       "snippet": "Picture this: A college student sits at their desk, staring at a cursor blinking on a blank document, and suddenly, words start appearing on the screen — without the student touching the keyboard. It’s not science fiction; it’s happening now with the use of brain-computer interface technology, which interprets electrical brain activity through an EEG headset or an implanted chip and sends those si"
+    },
+    {
+      "title": "Are Colleges Ready To Support the AI Workforce?",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/are-colleges-ready-support-ai-workforce",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-09T14:44:02.000Z",
+      "snippet": "For decades, colleges prepared students for a predictable workforce. Students chose a major, learned a defined set of skills and entered a career path that changed slowly over time. Artificial intelligence has ended that arrangement.\nEvery few weeks, another report warns that AI will eliminate jobs. A recent Graduate Management Admission Council survey of more than 600 corporate recruiters found t"
     },
     {
       "title": "AACTE releases national framework on AI in educator preparation",
