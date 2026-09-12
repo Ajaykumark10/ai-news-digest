@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-11T22:58:17.000Z",
+      "snippet": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-11T20:59:47.000Z",
+      "snippet": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
+    },
+    {
       "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -15,7 +29,7 @@
       "snippet": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
     },
     {
-      "title": "Roundtables: Will AI really kill us all?",
+      "title": "Roundtables: AI’s apocalypse crisis",
       "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-09-11T20:05:06.000Z",
@@ -314,23 +328,9 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-07T19:24:00.000Z",
       "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-06T20:47:37.000Z",
-      "snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
     }
   ],
   "cloud": [
-    {
-      "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
-      "source": "Cloud Blog",
-      "published": "2026-09-11T09:00:00.000Z",
-      "snippet": "On Tuesday, September 8, Thomas Kurian participated in the Goldman Sachs Tech Conference, providing an update on Google Cloud’s business and strategy. Here are the highlights:\n\nFull Stack Approach: Google Cloud is the only provider to offer solutions across the entire AI stack, which expands our total addressable market, differentiates our products from the point of view of performance, cost and q"
-    },
     {
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
@@ -467,11 +467,11 @@
   ],
   "hardware": [
     {
-      "title": "China-modified Nvidia RTX 5090 with massive 96GB of memory appears on Alibaba for less than $4,000 — 3x more VRAM at 65% the cost of the original",
-      "link": "https://www.tomshardware.com/pc-components/gpus/china-modified-nvidia-rtx-5090-with-massive-96gb-of-memory-appears-on-alibaba-for-less-than-usd4-000-3x-more-vram-at-65-percent-the-cost-of-the-original",
+      "title": "Engineer turns simulated fly brain into a crypto day trader, posts downloadable sim to GitHub — 166,700 virtual neurons read candlestick charts for dopamine hits",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/engineer-turns-simulated-fly-brain-into-a-crypto-day-trader-posts-downloadable-sim-to-github-166-700-virtual-neurons-read-candlestick-charts-for-dopamine-hits",
       "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-11T16:32:36.000Z",
-      "snippet": "An alleged Nvidia GeForce RTX 5090 96GB with 96GB of modded VRAM surfaces on Alibaba for $3888."
+      "published": "2026-09-12T10:00:00.000Z",
+      "snippet": "Coinbase engineer turns a fly brain into a crypto day trader — Stonkfly has 116,700 simulated neurons and hasn't lost its money yet"
     },
     {
       "title": "Sanctioned Chinese supercomputer maker stripped of IO500 benchmark crown, Intel-powered Aurora retakes the lead — record-breaking ParaStor F9000 storage system doesn't meet reproducibility requirements",
@@ -1025,29 +1025,22 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-07T10:27:52.000Z",
       "snippet": "Get an RTX 5080 gaming PC with a 9800X3D CPU for less than $3,000."
-    },
-    {
-      "title": "Enthusiast says DLSS 5 pushed RTX 5090 past 600W and melted the 16-pin connector — Nvidia's neural rendering tech adds up to 50% more power draw in testing",
-      "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-says-dlss-5-pushed-rtx-5090-past-600w-and-melted-the-16-pin-connector-nvidias-neural-rendering-tech-adds-up-to-50-percent-more-power-draw-in-testing",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T10:00:00.000Z",
-      "snippet": "Another RTX 5090 has gone down but this time it has something else to blame other than its own 16-pin connector. The connector is still what melted but potentially because of DLSS 5 pulling way too much power at the back end."
     }
   ],
   "quantum": [
+    {
+      "title": "Klea Dhmitri (Hamamatsu): Photonics as the hidden backbone of quantum hardware scaling",
+      "link": "https://thequantuminsider.com/2026/09/12/klea-dhmitri-hamamatsu-photonics-as-the-hidden-backbone-of-quantum-hardware-scaling/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-12T07:00:00.000Z",
+      "snippet": "Klea Dhmitri of Hamamatsu joins Yuval to discuss the company’s role as a photonic component provider for trapped-ion and neutral-atom quantum computers. She explains key technologies such as photomultiplier tubes (PMTs), SPADs, and quantitative CMOS cameras, and how scaling to larger qubit arrays changes requirements for speed, resolution, and integration. Klea also shares how customer […]"
+    },
     {
       "title": "SEALSQ Reports 131% Revenue Growth in H1 2026",
       "link": "https://thequantuminsider.com/2026/09/11/sealsq-h1-2026-results-fy2026-guidance/",
       "source": "The Quantum Insider",
       "published": "2026-09-11T14:20:31.000Z",
       "snippet": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or the “Company”), a company focused on developing and commercializing post-quantum semiconductor, PKI and trusted provisioning solutions, today announced its financial and operational results for the six-month period ended June 30, 2026. H1 2026 Financial Highlights Revenue Growth and Business Drivers H1 2026 revenue growth […]"
-    },
-    {
-      "title": "Stevens Researchers Take Step Toward More Precise, Practical Quantum Technologies",
-      "link": "https://thequantuminsider.com/2026/09/11/stevens-researchers-lower-intensity-quantum-control/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-11T13:44:18.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses. However, the intense laser fields often required for this control can cause unwanted effects […]"
     },
     {
       "title": "The Quantum Insider Launches Datasets, Analyst-Verified Quantum Market Information",
@@ -1377,23 +1370,9 @@
       "source": "The Quantum Insider",
       "published": "2026-09-07T10:27:46.000Z",
       "snippet": "Guest Post by Somtochukwu Igwegbe, African Quantum Consortium Correspondent, Research & Development, Quantum Africa. Quantum computing hardware is being built almost entirely outside Africa, in laboratories across North America, Europe, and Asia. That fact has shaped how the continent is usually written into the story: as a market to eventually reach, not a place doing […]"
-    },
-    {
-      "title": "Sparrow Quantum Sets Record With 500 Million Usable Photons Per Second",
-      "link": "https://thequantuminsider.com/2026/09/07/sparrow-quantum-sets-record-with-500-million-usable-photons-per-second/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-07T07:21:59.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Quantum computers are being built in several ways: superconducting circuits, trapped ions, neutral atoms, semiconductor spins and photonics. Photonic quantum systems have one fundamental advantage: their information carriers can travel through optical fibre, making the same technology relevant to both quantum processors and quantum networks. What photonic quantum syst"
     }
   ],
   "education": [
-    {
-      "title": "Microsoft Report Highlights Trends in Higher Education AI Adoption",
-      "link": "https://edtechmagazine.com/higher/article/2026/09/microsoft-report-highlights-trends-higher-education-ai-adoption",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-09-11T16:25:21.000Z",
-      "snippet": "Artificial Intelligence use in higher education continues to be hotly debated, but there’s no doubt it’s widely used: About 9 in 10 students, educators and education leaders say they’ve already used AI for school. That comes from Microsoft’s third annual AI in Education Special Report, which examines how K–12 districts and higher education institutions are adopting and using AI.\nThe report consoli"
-    },
     {
       "title": "The compliance trap waiting on the other side of Title II",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/11/the-compliance-trap-waiting-on-the-other-side-of-title-ii/",
@@ -1442,13 +1421,6 @@
       "source": "eSchool News",
       "published": "2026-09-08T10:00:00.000Z",
       "snippet": "A student can complete 20 questions and still leave a teacher with very little useful information. A score may show that something went wrong, but it does not always show which learning objective needs attention, whether the problem is a misunderstanding or a careless error, or what the student should practice next."
-    },
-    {
-      "title": "Why reading interventions plateau—and why New York’s new dyslexia center won’t change that",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/07/why-reading-interventions-plateau-and-why-new-yorks-new-dyslexia-center-wont-change-that/",
-      "source": "eSchool News",
-      "published": "2026-09-07T10:00:00.000Z",
-      "snippet": "I’ve sat across from more than one district administrator staring at a dashboard full of reading intervention minutes and a flat progress line. The pattern is familiar: a student gets pulled for extra decoding practice, scores move for six or eight weeks, and then they stall — not because the student stopped trying, and not because the intervention stopped running."
     }
   ]
 }
