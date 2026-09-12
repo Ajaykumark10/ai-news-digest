@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-12T20:19:16.000Z",
+      "snippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-12T19:34:44.000Z",
+      "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+    },
+    {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -13,6 +27,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-11T20:59:47.000Z",
       "snippet": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-11T20:57:36.000Z",
+      "snippet": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
     },
     {
       "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
@@ -29,7 +50,7 @@
       "snippet": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
     },
     {
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-09-11T20:05:06.000Z",
@@ -321,16 +342,16 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-09-08T10:34:00.000Z",
       "snippet": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture. But what it lacks in decor,…"
-    },
-    {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-07T19:24:00.000Z",
-      "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
     }
   ],
   "cloud": [
+    {
+      "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
+      "source": "Cloud Blog",
+      "published": "2026-09-11T09:00:00.000Z",
+      "snippet": "On Tuesday, September 8, Thomas Kurian participated in the Goldman Sachs Tech Conference, providing an update on Google Cloud’s business and strategy. Here are the highlights:\n\nFull Stack Approach: Google Cloud is the only provider to offer solutions across the entire AI stack, which expands our total addressable market, differentiates our products from the point of view of performance, cost and q"
+    },
     {
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
@@ -456,22 +477,92 @@
       "source": "Cloud Blog",
       "published": "2026-09-08T14:00:00.000Z",
       "snippet": "Executive Summary \nSince the release of our May 2026 report detailing adversarial misuse of artificial intelligence (AI), Google Threat Intelligence Group (GTIG) has observed forward leaning adversaries transition from basic prompting to agentic AI workflows and AI-enabled automation. In these operations, human-in-the-loop latency is dramatically reduced, compressing the traditional window for def"
-    },
-    {
-      "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
-      "source": "AWS News Blog",
-      "published": "2026-09-07T14:24:08.000Z",
-      "snippet": "Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable 5.1 is built for long-running, high-stakes work that runs for hours and spans many applications. It can own more of a software project on its […]"
     }
   ],
   "hardware": [
+    {
+      "title": "Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles — Houthi rebels also used the bot to code ballistic missile guidance systems",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-and-houthi-rebels-used-anthropics-claude-ai-to-target-us-warships-and-build-hypersonic-missiles-houthi-rebels-also-used-the-bot-to-code-ballistic-missile-guidance-systems",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-12T15:03:10.000Z",
+      "snippet": "'Great Satan's' AI comes in handy."
+    },
+    {
+      "title": "US Customs supervisor busted for stealing Core i7 CPUs, RAM, and hard drives from Homeland Security PCs, damage estimated at $105,800 — stolen tech swapped with inferior hardware and cashed out on Newegg",
+      "link": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-12T14:09:29.000Z",
+      "snippet": "U.S. Customs and Border Protection supervisor switched hardware from Department of Homeland Security computers with slower components and traded in stolen hardware to Newegg's Trade-In program for store credit."
+    },
+    {
+      "title": "We tested unofficial DLSS Multi Frame Generation support on RTX 40-series GPUs — new mod brings RTX 50-series exclusive feature to older cards, and it really works",
+      "link": "https://www.tomshardware.com/pc-components/gpus/we-tested-dlss-multi-frame-generation-on-rtx-40-series-gpus-new-mod-brings-rtx-50-series-exclusive-feature-to-older-cards-and-it-really-works",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-12T14:08:19.000Z",
+      "snippet": "We tested DLSS Multi Frame Generation on RTX 40-series GPUs."
+    },
+    {
+      "title": "IKEA releases new Skyrim mod that adds gloriously mundane Kallax shelving unit as your newest companion — free collab provides a drab flatpack answer to your loot woes",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/ikea-releases-new-skyrim-mod-that-adds-gloriously-mundane-kallax-shelving-unit-as-your-newest-companion-free-collab-provides-a-drab-flatpack-answer-to-your-loot-woes",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-12T13:31:55.000Z",
+      "snippet": "IKEA has announced the Kallax Storageborn companion creation for players of The Elder Scrolls V: Skyrim Special Edition on PC or Xbox."
+    },
+    {
+      "title": "This week on Tom's Hardware Premium: September 12, 2026 — Benchmarking Qwen 3.8, the splintered compute economy and AI breakthroughs",
+      "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-september-12-2026-benchmarking-qwen-3-8-the-splintered-compute-economy-and-ai-breakthroughs",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-12T12:00:00.000Z",
+      "snippet": "This week on Tom's Hardware Premium, we benchmarked Qwen 3.8 on a slew of different hardware, ruminated on the state of modern computing after returning from IFA 2026, and broke down everything"
+    },
+    {
+      "title": "Iran could potentially reverse-engineer captured US underwater drone — several Iranian embassies mock US over capture, Navy claims lost Anduril vehicle was defective and unclassified",
+      "link": "https://www.tomshardware.com/tech-industry/drones/iran-could-potentially-reverse-engineer-captured-u-s-underwater-drone-several-iranian-embassies-mock-us-over-capture-as-u-s-military-downplays-the-situation",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-12T11:30:00.000Z",
+      "snippet": "Iran may reverse-engineer a captured U.S. Navy Anduril Dive-LD underwater drone, as Tehran mocks the loss and Washington downplays its military value."
+    },
+    {
+      "title": "Kioxia Exceria Pro G2 2TB SSD Review — Speed built to last",
+      "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-exceria-pro-g2-2tb-ssd-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-12T11:05:00.000Z",
+      "snippet": "Kioxia’s Exceria Pro G2 pairs the SM2508 and BiCS8 TLC flash for fast, efficient PCIe 5.0 storage. It’s not the quickest PCIe 5.0 SSD, but it is a reliable Black SN8100 alternative."
+    },
+    {
+      "title": "Lucky PC scavenger discovers 12 RTX 3070 GPUs from the crypto mining era — cards survived years of basement storage with only minor signs of wear",
+      "link": "https://www.tomshardware.com/pc-components/gpus/lucky-pc-scavenger-discovers-12-rtx-3070-gpus-from-the-crypto-mining-era-cards-survived-years-of-basement-storage-with-only-minor-signs-of-wear",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-12T11:00:00.000Z",
+      "snippet": "What looked like a couple of forgotten mining rigs turned out to be a surprisingly valuable haul, with 12 RTX 3070 graphics cards potentially still ready for gaming duty."
+    },
+    {
+      "title": "Apple's A20 Pro shatters Geekbench 7 single-core record — 2nm chip beats desktop Intel Core i9 and AMD Ryzen 9 by up to 32%",
+      "link": "https://www.tomshardware.com/pc-components/cpus/apples-a20-pro-shatters-geekbench-7-single-core-record-2nm-chip-beats-desktop-intel-core-i9-and-amd-ryzen-9-by-up-to-32-percent",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-12T10:48:32.000Z",
+      "snippet": "Apple's A20 Pro smartphone SoC outperforms all smartphone processors by a wide margin and manages to leave behind latest laptop processors."
+    },
+    {
+      "title": "Wiki documents at least 44 instances in which Sony says you own your games as digital games ownership lawsuit progresses — project is direct assault on Sony's claim in recent ownership lawsuit",
+      "link": "https://www.tomshardware.com/video-games/playstation/consumer-rights-wiki-documents-at-least-44-instances-in-which-sony-says-you-own-your-games-project-is-direct-assault-on-sonys-claim-in-recent-ownership-lawsuit",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-12T10:30:00.000Z",
+      "snippet": "The detailed sourcing directly attacks Sony's legal claim that a reasonable person wouldn't expect to own their digital purchases on the PlayStation Store."
+    },
     {
       "title": "Engineer turns simulated fly brain into a crypto day trader, posts downloadable sim to GitHub — 166,700 virtual neurons read candlestick charts for dopamine hits",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/engineer-turns-simulated-fly-brain-into-a-crypto-day-trader-posts-downloadable-sim-to-github-166-700-virtual-neurons-read-candlestick-charts-for-dopamine-hits",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-12T10:00:00.000Z",
       "snippet": "Coinbase engineer turns a fly brain into a crypto day trader — Stonkfly has 116,700 simulated neurons and hasn't lost its money yet"
+    },
+    {
+      "title": "China-modified Nvidia RTX 5090 with massive 96GB of memory appears on Alibaba for less than $4,000 — 3x more VRAM at 65% the cost of the original",
+      "link": "https://www.tomshardware.com/pc-components/gpus/china-modified-nvidia-rtx-5090-with-massive-96gb-of-memory-appears-on-alibaba-for-less-than-usd4-000-3x-more-vram-at-65-percent-the-cost-of-the-original",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-11T16:32:36.000Z",
+      "snippet": "An alleged Nvidia GeForce RTX 5090 96GB with 96GB of modded VRAM surfaces on Alibaba for $3888."
     },
     {
       "title": "Sanctioned Chinese supercomputer maker stripped of IO500 benchmark crown, Intel-powered Aurora retakes the lead — record-breaking ParaStor F9000 storage system doesn't meet reproducibility requirements",
@@ -941,90 +1032,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-08T02:00:00.000Z",
       "snippet": "Arm’s new Neoverse CSS N4 platform can pack up to 128 cores per die and 256 MB of L3 cache, representing a large increase in support over the previous Neoverse CSS N2 platform."
-    },
-    {
-      "title": "Save up to 38% on a new gaming PC before the Labor Day sales end and beat the price rises — lock down last-minute savings on new pre-built rigs from Best Buy, Newegg, and Walmart",
-      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-38-percent-on-a-new-gaming-pc-before-the-labor-day-sales-end-and-beat-the-price-rises-lock-down-last-minute-savings-on-new-pre-built-rigs-from-best-buy-newegg-and-walmart",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T16:00:16.000Z",
-      "snippet": "Labor Day is nearly over, but there's still an opportunity to save hundreds on a new gaming PC before the prices rise again."
-    },
-    {
-      "title": "xTool reveals its next generation of lasers — modular X1 supports CO2, Diode, UV, Fiber, and MOPA lasers",
-      "link": "https://www.tomshardware.com/maker-stem/xtool-reveals-its-next-generation-of-lasers-modular-x1-supports-co2-diode-uv-fiber-and-mopa-lasers",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T14:05:05.000Z",
-      "snippet": "The X1 will combine gantry and galvo technology in one machine."
-    },
-    {
-      "title": "OpenAI’s GPT-6 Astra model autonomously completes Portal in 24 hours — feat cost just $571 in tokens",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-6-astra-model-autonomously-completes-portal-in-24-hours-feat-cost-just-usd571-in-tokens",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T13:25:56.000Z",
-      "snippet": "An AI enthusiast has conducted an experiment where OpenAI's new GPT-6 Astra played through the entirety of Valve's Portal 3D puzzler game on its own."
-    },
-    {
-      "title": "Astonishing mod runs DLSS 5 on a second GPU to boost neural-rendered FPS up to 127% — game renders on one card, neural post-processing runs on the other, much like dedicated PhysX GPUs",
-      "link": "https://www.tomshardware.com/pc-components/gpus/astonishing-mod-runs-nvidia-dlss-5-on-a-second-gpu-using-a-reshade-add-on-to-reduce-performance-impact-boosts-neural-rendered-fps-up-to-127-percent-game-renders-on-one-card-neural-post-processing-runs-on-the-other-much-like-dedicated-physx-gpus",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T12:33:56.000Z",
-      "snippet": "A modder has created a ReShade add-on that runs Nvidia's DLSS 5 Neural Rendering on a second GPU, rendering the game on the first GPU to share the performance load."
-    },
-    {
-      "title": "Montech Century II Gold 850W power supply review: Excellent budget-friendly Gold-tier ATX 3.1 unit with Cybenetics Platinum efficiency",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/montech-century-ii-gold-850w-atx-3-1-power-supply-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T12:05:00.000Z",
-      "snippet": "At $90, the Montech Century II Gold 850W ATX 3.1 is a low-cost Gold-tier ATX 3.1 unit with a native 12V-2x6 connector, Cybenetics Platinum efficiency at both 115V and 230V input, and a matte silver chassis."
-    },
-    {
-      "title": "GTA Vice City and GTA III return to web browsers after a DMCA takedown — Open-source reverse engineering brings the classics to the web with over 100 FPS performance",
-      "link": "https://www.tomshardware.com/video-games/gta-vice-city-and-gta-iii-return-to-web-browsers-after-a-dmca-takedown-open-source-reverse-engineering-brings-the-classics-to-the-web-with-over-100-fps-performance",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T11:30:00.000Z",
-      "snippet": "You can play GTA: Vice City and GTA III in your browser right now across pretty much any modern device. The projects are compiled from source codes of the original games and are available on either DOS Zone, where you're required to upload or torrent a few assets, or Quenq."
-    },
-    {
-      "title": "Anycubic Photon P1 MAX review: bigger, better, and tech-packed",
-      "link": "https://www.tomshardware.com/3d-printing/anycubic-photon-p1-max-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T11:05:00.000Z",
-      "snippet": "Anycubic’s Photon P1 MAX is the latest large resin printer, with new tech alongside its little brother, the P1. It sports a heated vat, Wave Release Technology, and a large, locking build plate and vat."
-    },
-    {
-      "title": "This 10-inch 4:3 television hides your retro consoles in a secret rear compartment — Unico's Traveller ULW10 trades composite video for RGB SCART and HDMI",
-      "link": "https://www.tomshardware.com/video-games/retro-gaming/this-10-inch-4-3-television-hides-your-retro-consoles-in-a-secret-rear-compartment-unicos-traveller-ulw10-trades-composite-video-for-rgb-scart-and-hdmi",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T11:00:00.000Z",
-      "snippet": "The ULW10 Traveller offers retro gamers a compact alternative to modern widescreen TVs, complete with a 4:3 display and CRT-style visuals"
-    },
-    {
-      "title": "Start your 3D printing journey for just $169 with these Elegoo printers before Labor Day ends — lock in up to 35% off the easy-to-use Neptune 3 Pro or go large with the Neptune 4 Plus for massive model printing",
-      "link": "https://www.tomshardware.com/3d-printing/start-your-3d-printing-journey-for-just-usd169-with-these-elegoo-printers-before-labor-day-ends-lock-in-up-to-35-percent-off-the-easy-to-use-neptune-3-pro-or-go-large-with-the-neptune-4-plus-for-massive-model-printing",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T10:50:54.000Z",
-      "snippet": "Grab a huge discount on two of Elegoo's most popular 3D printers right now, with a price drop of up to 35%. Both the Elegoo Neptune 3 Pro and Neptune 4 Plus offer features that both beginners and enthusiasts will love."
-    },
-    {
-      "title": "RPCS3 emulator can now run PS3 games on PC directly from a disc drive in landmark development — unlocks 20 years of physical titles on Windows, Linux, and macOS",
-      "link": "https://www.tomshardware.com/video-games/playstation/rpcs3-emulator-can-now-run-games-on-pc-directly-from-a-disc-drive-in-landmark-development-unlocks-20-years-of-physical-ps3-games-on-windows-linux-and-macos",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T10:47:25.000Z",
-      "snippet": "The developers of the Sony PlayStation 3 emulator RPCS3 have told their social media followers that it is now possible to play games straight from discs."
-    },
-    {
-      "title": "Flea market shopper uncovers $1,500 worth of Samsung SSDs inside a $30 expansion card — Three 2TB 980 Pro drives were hidden beneath an Asus Hyper M.2 heatsink",
-      "link": "https://www.tomshardware.com/pc-components/ssds/flea-market-shopper-uncovers-usd1-500-worth-of-samsung-ssds-inside-a-usd30-expansion-card-three-2tb-980-pro-drives-were-hidden-beneath-an-asus-hyper-m-2-heatsink",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T10:30:00.000Z",
-      "snippet": "An extremely fortunate bargain hunter in Kuwait found three Samsung 980 Pro 2TB SSDs slotted inside a $30 PCIe expansion card. Each of those drives is worth between $400 and $500, so it's clear to say the thrifter struck gold during an AI rush."
-    },
-    {
-      "title": "This price-hike-busting RTX 5080 gaming PC is cheaper than it was in April — save $500 on a 9800X3D beast with 32GB of DDR5, 2TB SSD",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-price-hike-busting-rtx-5080-gaming-pc-is-cheaper-than-it-was-in-april-save-usd500-on-a-9800x3d-beast-with-32gb-of-ddr5-2tb-ssd",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-07T10:27:52.000Z",
-      "snippet": "Get an RTX 5080 gaming PC with a 9800X3D CPU for less than $3,000."
     }
   ],
   "quantum": [
@@ -1041,6 +1048,13 @@
       "source": "The Quantum Insider",
       "published": "2026-09-11T14:20:31.000Z",
       "snippet": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or the “Company”), a company focused on developing and commercializing post-quantum semiconductor, PKI and trusted provisioning solutions, today announced its financial and operational results for the six-month period ended June 30, 2026. H1 2026 Financial Highlights Revenue Growth and Business Drivers H1 2026 revenue growth […]"
+    },
+    {
+      "title": "Stevens Researchers Take Step Toward More Precise, Practical Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/09/11/stevens-researchers-lower-intensity-quantum-control/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T13:44:18.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses. However, the intense laser fields often required for this control can cause unwanted effects […]"
     },
     {
       "title": "The Quantum Insider Launches Datasets, Analyst-Verified Quantum Market Information",
@@ -1356,23 +1370,16 @@
       "source": "The Quantum Insider",
       "published": "2026-09-08T12:45:17.000Z",
       "snippet": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today published the first complete, end-to-end fault-tolerant resource estimate for running Shor’s algorithm. The historic paper by IonQ’s research team uses the recently published Walking Cat architecture to demonstrate how a specific application can be optimized for a trapped-ion quantum"
-    },
-    {
-      "title": "India’s Global Fintech Fest 2026 to Highlight Quantum Technology, AI and Tokenization",
-      "link": "https://thequantuminsider.com/2026/09/07/global-fintech-fest-2026-quantum-technology-ai-mumbai/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-07T16:53:19.000Z",
-      "snippet": "Insider Brief Prime Minister Narendra Modi is set to open the seventh Global Fintech Fest (GFF) in Mumbai on Tuesday, kicking off a four-day programme running September 8 through 11 that brings together regulators, financial institutions, technology firms, investors, and academics, the Free Press Journal reported. The event, which has run annually since 2020, carries […]"
-    },
-    {
-      "title": "Guest Post: QML4Africa Highlights Growth of Africa’s Quantum Research Community",
-      "link": "https://thequantuminsider.com/2026/09/07/qml4africa-quantum-researchers-lagos/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-07T10:27:46.000Z",
-      "snippet": "Guest Post by Somtochukwu Igwegbe, African Quantum Consortium Correspondent, Research & Development, Quantum Africa. Quantum computing hardware is being built almost entirely outside Africa, in laboratories across North America, Europe, and Asia. That fact has shaped how the continent is usually written into the story: as a market to eventually reach, not a place doing […]"
     }
   ],
   "education": [
+    {
+      "title": "Microsoft Report Highlights Trends in Higher Education AI Adoption",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/microsoft-report-highlights-trends-higher-education-ai-adoption",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-11T16:25:21.000Z",
+      "snippet": "Artificial Intelligence use in higher education continues to be hotly debated, but there’s no doubt it’s widely used: About 9 in 10 students, educators and education leaders say they’ve already used AI for school. That comes from Microsoft’s third annual AI in Education Special Report, which examines how K–12 districts and higher education institutions are adopting and using AI.\nThe report consoli"
+    },
     {
       "title": "The compliance trap waiting on the other side of Title II",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/11/the-compliance-trap-waiting-on-the-other-side-of-title-ii/",
