@@ -22,13 +22,6 @@
       "snippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
     },
     {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-12T19:34:44.000Z",
-      "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
-    },
-    {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -286,13 +279,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-09T12:30:00.000Z",
       "snippet": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space."
-    },
-    {
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-09T12:05:34.000Z",
-      "snippet": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model."
     }
   ],
   "cloud": [
@@ -396,6 +382,62 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Proven 8-pin PCIe plugs aren't immune to melting — Thermal Grizzly WireView adapter burns out on Radeon RX 7900 XTX",
+      "link": "https://www.tomshardware.com/pc-components/gpus/proven-8-pin-pcie-plugs-arent-immune-to-melting-thermal-grizzly-wireview-adapter-burns-out-on-radeon-rx-7900-xtx",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-14T11:30:00.000Z",
+      "snippet": "Three 8-pin connectors on a Thermal Grizzly WireView reportedly suffered burning and melting while connected to a Radeon RX 7900 XTX, with the company now investigating what caused the failure."
+    },
+    {
+      "title": "Meta Quest user vibe-codes 3D object throwing to 3D printer — ‘I've never felt more like Tony Stark’ says the software engineer",
+      "link": "https://www.tomshardware.com/3d-printing/meta-quest-user-vibe-codes-3d-object-throwing-to-3d-printer-ive-never-felt-more-like-tony-stark-says-the-software-engineer",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-14T11:17:30.000Z",
+      "snippet": "A software engineer has shown off a futuristic Meta Quest plus 3D printer workflow where models are 'thrown' to the output device."
+    },
+    {
+      "title": "Save $1,289 when you build an extreme PC with these top-tier components — combo deal features AMD's Ryzen 9 9950X3D2 processor along with an 8TB 9100 Pro SSD, MSI X870E motherboard, and 32GB of DDR5-6000 memory",
+      "link": "https://www.tomshardware.com/pc-components/save-usd1-289-when-you-build-an-extreme-pc-with-these-top-tier-components-combo-deal-features-amds-ryzen-9-9950x3d2-processor-along-with-an-8tb-9100-pro-ssd-msi-x870e-motherboard-and-32gb-of-ddr5-6000-memory",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-14T11:10:03.000Z",
+      "snippet": "Save $1,289 on Newegg's epic component bundle, which features AMD's top processor, a massive 8TB Samsung 9100 Pro SSD, and 32GB of DDR5 memory"
+    },
+    {
+      "title": "Asus ROG Swift PG27UCWM gaming monitor review: Speed and pixel density in a premium package",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg27ucwm-27-inch-4k-oled-gaming-monitor-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-14T11:05:00.000Z",
+      "snippet": "Asus’ latest ROG Swift display is the PG27UCWM, a 27-inch 4K OLED panel with Tandem RGB Stripe technology, advanced cooling, 240 Hz, 480 Hz in FHD resolution, Adaptive-Sync, HDR400, HDR10, Dolby Vision and wide gamut color."
+    },
+    {
+      "title": "Russian freelancers use Claude to program autonomous combat drone swarm — AI-enabled target selection and detonation without a human in the loop",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/russian-freelancers-use-claude-to-program-autonomous-combat-drone-swarm-ai-enabled-target-selection-and-detonation-without-a-human-in-the-loop",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-14T11:00:00.000Z",
+      "snippet": "Russia turned Claude into a tool for weapons development, espionage, and propaganda, Anthropic's new threat report claims."
+    },
+    {
+      "title": "Maryland data center developers offer residents biggest-ever US community benefits package as big tech seeks to quell fears — $110 million deal includes $30 million elementary school, water reclamation system, and more",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/maryland-data-center-developers-offer-residents-biggest-ever-us-community-benefits-package-as-big-tech-seeks-to-quell-fears-usd110-million-deal-includes-usd30-million-elementary-school-water-reclamation-system-and-more",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-14T10:32:00.000Z",
+      "snippet": "A new report claims AI data center builders are getting more savvy about offering communities tangible benefits to get their projects approved."
+    },
+    {
+      "title": "Modders halve FSR 4 render times on AMD’s PS5-derived BC-250 mining APU — portable FidelityFX DLL cuts 1440p upscaling time from 11.51 ms to 5.92 ms",
+      "link": "https://www.tomshardware.com/pc-components/modders-halve-fsr-4-render-times-on-amds-ps5-derived-bc-250-mining-apu-portable-fidelityfx-dll-cuts-1440p-upscaling-time-from-11-51-ms-to-5-92-ms",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-14T10:30:00.000Z",
+      "snippet": "Modders have nearly halved FSR 4 processing time on AMD’s PS5-derived BC-250, using a portable FidelityFX DLL that cuts 1440p upscaling cost to 5.92 ms."
+    },
+    {
+      "title": "Dumpster diver builds home lab Proxmox server from weekly landfill runs for SSDs, HDDs, GPUs, and even RAM — weekly e-waste raids net multi-drive Proxmox server and Asus ROG laptop",
+      "link": "https://www.tomshardware.com/desktops/pc-building/dumpster-diver-builds-home-lab-proxmox-server-from-weekly-landfill-runs-for-ssds-hdds-gpus-and-even-ram-weekly-e-waste-raids-net-multi-drive-proxmox-server-and-asus-rog-laptop",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-14T10:00:00.000Z",
+      "snippet": "A tech enthusiast says that they managed to put together a home lab-worthy Proxmox server using PC parts scavenged from the nearby county landfill."
+    },
     {
       "title": "AMD’s best gaming CPU drops below launch price and includes free 240mm AIO cooler and Onimusha: Way of the Sword — grab the Ryzen 7 9850X3D for $484",
       "link": "https://www.tomshardware.com/pc-components/cpus/amds-best-gaming-cpu-drops-below-launch-price-and-includes-free-240mm-aio-cooler-and-onimusha-way-of-the-sword-grab-the-ryzen-7-9850x3d-for-usd484",
@@ -850,72 +892,23 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-09T12:30:00.000Z",
       "snippet": "OpenAI announced that a team using one of its internal frontier models has solved the Navier-Stokes problem. However, the announcement has been mired in controversy."
-    },
-    {
-      "title": "LG strongly denies TV spying claims, says tracking and snooping concerns 'not true' — online investigation claims 216,000,000 TVs spy and record audio",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-09T11:50:18.000Z",
-      "snippet": "LG has strongly denied recent security and privacy concerns raised regarding its smart TVs."
-    },
-    {
-      "title": "Nintendo unveils The Legend of Zelda 40th Anniversary Switch 2 for $520 — First-ever special-edition Switch 2 drops October 19, alongside $100 Pro Controller, pre-orders live",
-      "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-unveils-the-legend-of-zelda-40th-anniversary-switch-2-for-usd520-first-ever-special-edition-switch-2-drops-october-19-alongside-usd100-pro-controller-pre-orders-live",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-09T11:40:00.000Z",
-      "snippet": "Nintendo is releasing its first-ever limited-edition Switch 2 to commemorate Zelda's 40th anniversary and it will cost $520. It does not come with Ocarina of Time, but you can purchase a similarly-themed Pro Controller for $100."
-    },
-    {
-      "title": "OpenAI claims GPT-6 Astra is an ethereal 'Alien Mind' with AGI-like qualities — company warns of alignment challenges as new frontier leader emerges",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-claims-gpt-6-astra-is-an-ethereal-alien-mind-with-agi-like-qualities-company-warns-of-alignment-challenges-as-new-frontier-leader-emerges",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-09T11:20:00.000Z",
-      "snippet": "OpenAI has made bold claims with its new GPT-6 Astra AI model, and it's certainly capable, but benchmarks suggest it has many of the usual weaknesses alongside the strengths, while cost and accessibility are still the biggest factors in widespread usage."
-    },
-    {
-      "title": "This $502 4TB Crucial T705 is the cheapest Gen 5 SSD you can buy right now for just 12.5 cents per GB — ultra-fast storage upgrade with unreal 14,500 MB/s speeds is $181 less than a month ago, hitting its lowest price since February",
-      "link": "https://www.tomshardware.com/pc-components/ssds/this-usd502-4tb-crucial-t705-is-the-cheapest-gen-5-ssd-you-can-buy-right-now-for-just-12-5-cents-per-gb-ultra-fast-storage-upgrade-with-unreal-14-500-mb-s-speeds-is-usd181-less-than-a-month-ago-hitting-its-lowest-price-since-february",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-09T11:05:46.000Z",
-      "snippet": "Save 10% on this 4TB Crucial T705 SSD, the cheapest Gen 5 4TB SSD on the market by some distance at the moment, now just $502.51."
-    },
-    {
-      "title": "Phanteks AMP GH 750W power supply review: Great buy at sub-$90 street pricing, but comes with a 450W cap on its 12V-2x6 connector",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/phanteks-amp-gh-750w-power-supply-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-09T11:05:00.000Z",
-      "snippet": "Phanteks' mainstream ATX 3.1 line, with Japanese capacitors, an 8-year warranty, and street pricing under $90, but with a 450W cap on its 12V-2x6 connector."
-    },
-    {
-      "title": "Nvidia's unreleased RTX 3070 Ti 16GB comes to life thanks to a modder's crazy GDDR6 swap — Frankenstein card combines RTX 3070 PCB and new VRAM with RTX 3070 Ti GPU",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-unreleased-rtx-3070-ti-16gb-comes-to-life-thanks-to-a-modders-crazy-gddr6-swap-frankenstein-card-combines-rtx-3070-pcb-and-new-vram-with-rtx-3070-ti-gpu",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-09T11:00:00.000Z",
-      "snippet": "A modder has recreated the never-released RTX 3070 Ti with 16GB of VRAM using GDDR6 chips instead of the GDDR6X the retail 3070 Ti actually shipped with."
-    },
-    {
-      "title": "Researcher reverse-engineers infamous Stuxnet malware source code, publishes it on Github for all — attack targeted Iranian nuclear facilities and was the first software of its type to cause physical damage",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/researcher-reconstructs-infamous-stuxnet-malware-source-code-attack-targeted-iranian-nuclear-facilities-and-was-the-first-software-of-its-type-to-cause-physical-damage",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-09T10:30:00.000Z",
-      "snippet": "An anonymous security researcher has reconstructed the source code of the infamous Stuxnet worm, which was built to subtly interfere with Iranian uranium enrichment during the Bush and Obama administrations."
-    },
-    {
-      "title": "Big Tech eyes glacier-strewn Patagonia for building mega AI data centers — region offers 17,300 glaciers, coldness, and cheap energy, but fiber lines are scarce",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/glacier-strewn-patagonia-pitches-for-mega-data-center-business-coldness-and-energy-resources-a-plus-but-poor-connectivity-issues-need-to-be-resolved",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-09T10:00:00.000Z",
-      "snippet": "Patagonia, a region of Argentina with 17,300 glaciers has the potential to turn into a data center hotspot."
-    },
-    {
-      "title": "More than 10% chance AI 'could kill all humans' in the next 10 years, Anthropic safety researcher says — departing employee says AI companies are 'gambling with our lives'",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-10-percent-chance-ai-could-kill-all-humans-in-the-next-10-years-anthropic-safety-researcher-says-departing-employee-says-ai-companies-are-gambling-with-our-lives",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-09T09:26:28.000Z",
-      "snippet": "Anthropic AI safety researcher has warned there's a more than 10% chance AI could kill all humans."
     }
   ],
   "quantum": [
+    {
+      "title": "New Quantum Materials Could Dramatically Boost the Search for Dark Matter",
+      "link": "https://thequantuminsider.com/2026/09/14/new-quantum-materials-could-dramatically-boost-the-search-for-dark-matter/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-14T09:04:00.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — For decades, physicists have searched for dark matter, the invisible substance thought to make up roughly 85% of all matter in the universe. Although its gravitational influence shapes galaxies and the large-scale structure of the cosmos, dark matter has never been directly detected. Now, an international team has identified a […]"
+    },
+    {
+      "title": "Fortaegis Raises $50 Million to Commercialize Chip-Based Security Technology",
+      "link": "https://thequantuminsider.com/2026/09/14/fortaegis-raises-50-million-to-commercialize-chip-based-security-technology/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-14T07:33:26.000Z",
+      "snippet": "Insider Brief Dutch startup Fortaegis has raised $50 million to move its chip-based security technology into commercial production, targeting networks that connect AI systems, defense equipment, satellites and autonomous machines. The oversubscribed Series A was led by Singapore-based Serendipity Capital, according to the company. Other participants included TEL Venture Capital, the corporate vent"
+    },
     {
       "title": "Klea Dhmitri (Hamamatsu): Photonics as the hidden backbone of quantum hardware scaling",
       "link": "https://thequantuminsider.com/2026/09/12/klea-dhmitri-hamamatsu-photonics-as-the-hidden-backbone-of-quantum-hardware-scaling/",
@@ -1146,41 +1139,6 @@
       "source": "The Quantum Insider",
       "published": "2026-09-09T12:27:53.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Quobly and Absolut System today announce the signing of an Industrial  Partnership Declaration to support the development and scaling of Quobly’s spin-qubit quantum  computers.  The signing comes as the two companies reach a first major milestone in the QCube® 100-Class 3 program,  a high-cooling-power cryogenic platform developed by Absolut System […]"
-    },
-    {
-      "title": "Universal Quantum Opens R&D Competency Centre  Outside Europe in Singapore",
-      "link": "https://thequantuminsider.com/2026/09/09/universal-quantum-opens-first-rd-centre-outside-europe-singapore/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-09T12:11:25.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Universal Quantum, the pioneering UK company building large-scale quantum computing systems for real-world use, today announced a major expansion of its presence in Singapore. The move builds on Universal Quantum’s close partnership with Singapore’s National Quantum Office (NQO), the body responsible for implementing the nation’s quantum strategy. The collaboration is"
-    },
-    {
-      "title": "Cleveland Clinic, RIKEN and IBM Team Advance to Finals for 2026 ACM Gordon Bell Prize",
-      "link": "https://thequantuminsider.com/2026/09/09/cleveland-clinic-riken-and-ibm-team-advance-to-finals-for-2026-acm-gordon-bell-prize/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-09T08:30:20.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — A multidisciplinary team from Cleveland Clinic, RIKEN and IBM (NYSE: IBM) has been named as a finalist for the 2026 Association for Computing Machinery (ACM) Gordon Bell Prize for simulating the largest biologically meaningful molecules ever modeled with quantum computers, reaching a scale of 12,635 atoms. To achieve these results, the team united […]"
-    },
-    {
-      "title": "OpenAI Says AI Agents May Make Great Quantum Lab Assistants",
-      "link": "https://thequantuminsider.com/2026/09/09/openai-says-ai-agents-may-make-great-quantum-lab-assistants/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-09T08:20:24.000Z",
-      "snippet": "Insider Brief Artificial intelligence agents can independently run many routine quantum-computing experiments, potentially reducing days of hands-on laboratory work while leaving scientists responsible for difficult measurements and unexpected results, according to an OpenAI blog post. In the post, the company described an experiment in which Beatriz Yankelevich, a graduate student in the Massachu"
-    },
-    {
-      "title": "QNu Labs Raises ₹200 Crore ($21 Million USD) Led by National Quantum Mission And Speciale Invest",
-      "link": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%e2%82%b9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-09T07:34:02.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — QNu Labs, a leading deep-tech cybersecurity company building quantum-safe solutions, has raised ₹200 crore (about $21 million USD) in Series A1 round led by the National Quantum Mission and Speciale Invest with participation from Sony Innovation Fund, Gaja Capital and Artha Ventures, among other investors. The round takes QNu Labs’ […]"
-    },
-    {
-      "title": "Fujitsu And Yaqumo Begin Testing on Neutral-Atom Quantum Computer Hardware",
-      "link": "https://thequantuminsider.com/2026/09/09/fujitsu-and-yaqumo-begin-testing-on-neutral-atom-quantum-computer-hardware/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-09T07:15:23.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Fujitsu Limited (Fujitsu) and Yaqumo Inc. (Yaqumo) today announced that they have begun verifying quantum computing architectures and basic software on actual neutral-atom quantum computers (1) to accelerate the practical use of quantum computers. Fujitsu will combine its “STAR architecture (2),” a quantum computing architecture developed primarily for superconducting"
     }
   ],
   "education": [
@@ -1225,13 +1183,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-09-09T14:44:02.000Z",
       "snippet": "For decades, colleges prepared students for a predictable workforce. Students chose a major, learned a defined set of skills and entered a career path that changed slowly over time. Artificial intelligence has ended that arrangement.\nEvery few weeks, another report warns that AI will eliminate jobs. A recent Graduate Management Admission Council survey of more than 600 corporate recruiters found t"
-    },
-    {
-      "title": "AACTE releases national framework on AI in educator preparation",
-      "link": "https://www.eschoolnews.com/digital-learning/2026/09/09/aacte-releases-national-framework-on-ai-in-educator-preparation/",
-      "source": "eSchool News",
-      "published": "2026-09-09T10:00:00.000Z",
-      "snippet": "A new national framework from AACTE (American Association of Colleges for Teacher Education) aims to help educator preparation programs (EPPs) navigate the rapidly changing role of artificial intelligence in education."
     }
   ]
 }
