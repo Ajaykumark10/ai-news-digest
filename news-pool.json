@@ -22,6 +22,13 @@
       "snippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
     },
     {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-12T19:34:44.000Z",
+      "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+    },
+    {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -286,30 +293,16 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-09T12:05:34.000Z",
       "snippet": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model."
-    },
-    {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-09-09T03:10:08.000Z",
-      "snippet": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…"
-    },
-    {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-08T21:10:27.000Z",
-      "snippet": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-08T21:04:06.000Z",
-      "snippet": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
     }
   ],
   "cloud": [
+    {
+      "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
+      "source": "Cloud Blog",
+      "published": "2026-09-11T09:00:00.000Z",
+      "snippet": "On Tuesday, September 8, Thomas Kurian participated in the Goldman Sachs Tech Conference, providing an update on Google Cloud’s business and strategy. Here are the highlights:\n\nFull Stack Approach: Google Cloud is the only provider to offer solutions across the entire AI stack, which expands our total addressable market, differentiates our products from the point of view of performance, cost and q"
+    },
     {
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
@@ -409,6 +402,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-13T14:28:06.000Z",
       "snippet": "The Ryzen 7 9850X3D may only be a modest step up from the 9800X3D, but it still leads our gaming benchmarks and now comes with a couple of useful extras at a lower-than-launch price."
+    },
+    {
+      "title": "Bernie Sanders proposes 20 year prison sentence for AI devs who plow ahead with Artificial Superintelligence plans — penalty on par with illegally developing rogue nuclear weapons",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-13T14:10:00.000Z",
+      "snippet": "Senators Bernie Sanders and Greg Cezar have announced their Ban Artificial Superintelligence Act which threatens 20-year prison sentences for rule breakers."
     },
     {
       "title": "Dell Pro 5 Webcam 2K Review: So you can look good in office",
@@ -931,6 +931,13 @@
       "snippet": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or the “Company”), a company focused on developing and commercializing post-quantum semiconductor, PKI and trusted provisioning solutions, today announced its financial and operational results for the six-month period ended June 30, 2026. H1 2026 Financial Highlights Revenue Growth and Business Drivers H1 2026 revenue growth […]"
     },
     {
+      "title": "Stevens Researchers Take Step Toward More Precise, Practical Quantum Technologies",
+      "link": "https://thequantuminsider.com/2026/09/11/stevens-researchers-lower-intensity-quantum-control/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-11T13:44:18.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses. However, the intense laser fields often required for this control can cause unwanted effects […]"
+    },
+    {
       "title": "The Quantum Insider Launches Datasets, Analyst-Verified Quantum Market Information",
       "link": "https://thequantuminsider.com/2026/09/11/the-quantum-insider-launches-datasets-analyst-verified-quantum-market-information/",
       "source": "The Quantum Insider",
@@ -1177,6 +1184,13 @@
     }
   ],
   "education": [
+    {
+      "title": "Microsoft Report Highlights Trends in Higher Education AI Adoption",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/microsoft-report-highlights-trends-higher-education-ai-adoption",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-11T16:25:21.000Z",
+      "snippet": "Artificial Intelligence use in higher education continues to be hotly debated, but there’s no doubt it’s widely used: About 9 in 10 students, educators and education leaders say they’ve already used AI for school. That comes from Microsoft’s third annual AI in Education Special Report, which examines how K–12 districts and higher education institutions are adopting and using AI.\nThe report consoli"
+    },
     {
       "title": "The compliance trap waiting on the other side of Title II",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/11/the-compliance-trap-waiting-on-the-other-side-of-title-ii/",
