@@ -1,6 +1,34 @@
 {
   "ai": [
     {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T03:30:00.000Z",
+      "snippet": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200."
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T00:58:49.000Z",
+      "snippet": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
+    },
+    {
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-16T23:43:09.000Z",
+      "snippet": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-16T21:07:24.000Z",
+      "snippet": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
+    },
+    {
       "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
       "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -13,6 +41,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-16T18:25:25.000Z",
       "snippet": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-16T17:00:00.000Z",
+      "snippet": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language."
     },
     {
       "title": "Anthropic merges Claude chat and Cowork in one interface",
@@ -307,16 +342,16 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-12T19:34:44.000Z",
       "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-11T22:58:17.000Z",
-      "snippet": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
     }
   ],
   "cloud": [
+    {
+      "title": "AWS reimagines the getting started experience",
+      "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/",
+      "source": "AWS News Blog",
+      "published": "2026-09-16T17:50:14.000Z",
+      "snippet": "AWS has reimagined the getting started experience with smart and sensible defaults to help developers get started fast so that they can focus on building. New customers can sign up and get started right away with $100 in Free Tier credits, managed project environments, and simplified team and resource permissions. If their workload evolves, customers can activate advanced features to access the fu"
+    },
     {
       "title": "For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
@@ -339,7 +374,7 @@
       "snippet": "As enterprise organizations scale mission-critical applications, storage I/O and memory access can become severe operational bottlenecks. Whether its Oracle databases, in-memory databases like SAP HANA, or high-throughput SQL Server clusters, EHR systems, and real-time big data analytics, memory-bound databases often force enterprises to over-provision compute cores (vCPUs) to get the RAM capacity"
     },
     {
-      "title": "How Orange uses agents to make FinOps everyone's responsibility",
+      "title": "How Orange built FinOps accountability, and why agents are next",
       "link": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
       "source": "Cloud Blog",
       "published": "2026-09-16T16:00:00.000Z",
@@ -437,6 +472,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-16T14:07:31.000Z",
       "snippet": "After five years, Samsung's 512GB DDR5 memory modules get their first direct rival from Micron, which also promises to offer speed bins up to 9200 MT/s. But their prices could be way too high even for hyperscalers."
+    },
+    {
+      "title": "AI-induced memory shortage is changing how devices are built, Fairphone says memory now 60% of materials cost — smaller laptop and phone makers are redesigning products and have to test for fake chips",
+      "link": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-16T12:15:42.000Z",
+      "snippet": "For smaller device manufacturers, rising memory prices are only part of the problem as limited availability forces companies to rethink everything from motherboard designs to procurement strategies."
     },
     {
       "title": "Chinese state media counters Anthropic's call to put brakes on AI development — paper says move is ‘a response to Chinese competition’",
@@ -924,6 +966,13 @@
       "snippet": "How two research teams and a London based quantum hardware company are betting nanoscale gold can crack the stability-scalability problem that has stalled every other qubit platform. Insider Brief Quantum computing’s race for a stable, scalable qubit has never lacked contenders. Trapped ions, superconducting circuits, photonic systems, neutral atoms, silicon spin — each modality stakes […]"
     },
     {
+      "title": "IonQ and ORNL Demonstrate Generative AI for Quantum Optimization",
+      "link": "https://thequantuminsider.com/2026/09/16/ionq-ornl-nvidia-tennessee-ai-quantum-optimization-tradeoff/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-16T17:07:40.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today detailed joint research with Oak Ridge National Laboratory (ORNL), NVIDIA, and the University of Tennessee, Knoxville (UT) showing that a trained generative model can write quantum optimization circuits directly, eliminating the trial-and-error parameter-tuning loop that has made the"
+    },
+    {
       "title": "Quobly Demonstrates Key Quantum Operations on 300 mm Silicon Chip",
       "link": "https://thequantuminsider.com/2026/09/16/quobly-key-quantum-operations-industrial-silicon-chip/",
       "source": "The Quantum Insider",
@@ -1135,6 +1184,13 @@
     }
   ],
   "education": [
+    {
+      "title": "How University IT Leaders Can Budget for Volatile AI Pricing Models",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/how-university-it-leaders-can-budget-volatile-ai-pricing-models",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-16T19:46:28.000Z",
+      "snippet": "For many higher ed institutions, budgeting for artificial intelligence lately can look a lot like dropping quarters into a magic Zoltar fortune teller machine: You put your tokens in to get an answer, but you have no idea what it’s going to truly cost you until the bill comes. The allure of AI is real, but many are signing up without reading the fine print on consumption pricing. \n“We’re being ask"
+    },
     {
       "title": "Quit saying “I’m not a math person”",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/16/quit-saying-im-not-a-math-person/",
