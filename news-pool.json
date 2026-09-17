@@ -1,11 +1,95 @@
 {
   "ai": [
     {
+      "title": "The fix for rogue AI agents could be more AI",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T20:34:47.000Z",
+      "snippet": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T20:34:24.000Z",
+      "snippet": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T20:19:37.000Z",
+      "snippet": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T20:00:00.000Z",
+      "snippet": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics."
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T19:46:08.000Z",
+      "snippet": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
+    },
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T17:26:25.000Z",
+      "snippet": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government."
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T17:15:59.000Z",
+      "snippet": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T17:15:00.000Z",
+      "snippet": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases."
+    },
+    {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T14:06:14.000Z",
+      "snippet": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S."
+    },
+    {
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T14:00:00.000Z",
+      "snippet": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
+    },
+    {
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T13:46:16.000Z",
+      "snippet": "People can use these assistants to make restaurant reservations and cancel subscriptions."
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T13:38:33.000Z",
+      "snippet": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
+    },
+    {
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
       "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-17T05:00:00.000Z",
-      "snippet": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
+      "snippet": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,"
     },
     {
       "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
@@ -27,6 +111,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-16T23:43:09.000Z",
       "snippet": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-16T21:07:24.000Z",
+      "snippet": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
     },
     {
       "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
@@ -328,23 +419,51 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-13T16:30:00.000Z",
       "snippet": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
-    },
-    {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-12T20:19:16.000Z",
-      "snippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
-    },
-    {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-12T19:34:44.000Z",
-      "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
     }
   ],
   "cloud": [
+    {
+      "title": "AWS Elastic Beanstalk introduces Cluster Mode",
+      "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/",
+      "source": "AWS News Blog",
+      "published": "2026-09-17T19:20:21.000Z",
+      "snippet": "Run an application on AWS Elastic Beanstalk Cluster Mode without provisioning or operating the compute underneath it. You provide a container image or source code; Elastic Beanstalk with service-operated compute creates and operates the environment that runs it."
+    },
+    {
+      "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
+      "link": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/",
+      "source": "Cloud Blog",
+      "published": "2026-09-17T17:00:00.000Z",
+      "snippet": "At Google, we see firsthand how the speed, scale, and sophistication of cyber threats continue to challenge traditional enterprise defenses. Today’s defenders can’t rely on reactive triage or fragmented data feeds; you require high-fidelity intelligence, deep underground visibility, and actionable context to anticipate adversary moves before an attack unfolds.\n\n\nWe are proud to announce that Forre"
+    },
+    {
+      "title": "The future of orchestration: Pine59’s journey to Airflow 3 on Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-09-17T17:00:00.000Z",
+      "snippet": "Operating large data pipelines requires an orchestration layer that scales smoothly as workloads expand. When your pipelines process millions of complex data points every day to feed predictive models, staying up-to-date with your technology stack is a strategic necessity.\nPine59 provides location intelligence data through data pipelines that produce analytical metrics on cadences ranging from hou"
+    },
+    {
+      "title": "How a solo founder runs a five-continent tender platform on AlloyDB and MCP",
+      "link": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
+      "source": "Cloud Blog",
+      "published": "2026-09-17T16:00:00.000Z",
+      "snippet": "Editor's note: Lucius AI, a tender-intelligence startup covering markets across five continents, runs its entire data platform on AlloyDB for PostgreSQL with a single operator. By migrating semantic search to a ScaNN index and managing database operations through Model Context Protocol (MCP), query latency dropped by 47x while automating day-to-day administrative tasks via MCP.\nExecutive summary\nL"
+    },
+    {
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-09-17T16:00:00.000Z",
+      "snippet": "September 14 - September 17\nManaged Service for Apache Kafka supports clusters with public Internet access!\nWith Managed Kafka public clusters, you can now produce and consume messages from clients outside your VPC—including your local machine, for faster, frictionless testing. Public clusters unlock use cases like IoT devices, retail storefronts, and telco network towers. Enable public access on "
+    },
+    {
+      "title": "AWS reimagines the getting started experience",
+      "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/",
+      "source": "AWS News Blog",
+      "published": "2026-09-16T17:50:14.000Z",
+      "snippet": "AWS has reimagined the getting started experience with smart and sensible defaults to help developers get started fast so that they can focus on building. New customers can sign up and get started right away with $100 in Free Tier credits, managed project environments, and simplified team and resource permissions. If their workload evolves, customers can activate advanced features to access the fu"
+    },
     {
       "title": "For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
@@ -446,11 +565,60 @@
   ],
   "hardware": [
     {
+      "title": "Balatro fan claims they trained Google fruit fly brain simulation to beat the game — reinforcement learning currently has the model at 20% success rate",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/balatro-fan-claims-they-trained-google-fruit-fly-brain-simulation-to-beat-the-game-reinforcement-learning-currently-has-the-model-at-20-percent-success-rate",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T15:26:49.000Z",
+      "snippet": "One Balatro player says they've taken Google's mapped fruit fly brain and trained it to play Balatro, currently at a 20% success rate with plans for further refinement."
+    },
+    {
+      "title": "Acer Swift Air 14 review: Wildcat Lake and lots of ports at $699",
+      "link": "https://www.tomshardware.com/laptops/acer-swift-air-14-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T14:15:53.000Z",
+      "snippet": "The Acer Swift Air 14 is an aluminum budget system with lots of ports and long battery life. But it sports a lesser display than its competitors, and tons of bloatware."
+    },
+    {
+      "title": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T12:00:00.000Z",
+      "snippet": "American nonprofit C4ADS, a monitoring organization funded mostly by the U.S. government, produced a report shedding light on the many ways that American AI accelerators reach China."
+    },
+    {
+      "title": "New York State recommends demanding AI data centers pay $1 million in community investment per megawatt — framework advises towns to plan for maintenance costs, site abandonment, and other contingencies",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/new-york-state-recommends-demanding-ai-data-centers-pay-usd1-million-in-community-investment-per-megawatt-framework-advises-towns-to-plan-for-maintenance-costs-site-abandonment-and-other-contingencies",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T11:44:19.000Z",
+      "snippet": "The Community Investment Framework puts forward recommendations that towns and municipalities could follow when negotiating with data center developers. This includes charging $1 million per megawatt of demand, among other suggestions."
+    },
+    {
+      "title": "Hackers find encryption keys stored on stolen Flock camera despite company's denials — group extracts more than 27,000 clips, 1.6 million images captured in a span of 21 days from the device",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-find-encryption-key-stored-on-flock-camera-group-extracts-more-than-27-000-clips-1-6-million-images-captured-in-a-span-of-21-days-from-device",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T11:30:00.000Z",
+      "snippet": "Hacking group stegan0gram got its hands on a Flock camera and broke into its systems to see how it worked. It turns out that these devices store thousands of clips and captures millions of images, and could also detect people, aside from cars, motorbikes, and license plates."
+    },
+    {
+      "title": "Get an AMD Ryzen 7 9800X3D for only $320 — 2-item Newegg combo saves $149 and nets one of the fastest gaming CPUs and a quality MSI X870E motherboard for only $578",
+      "link": "https://www.tomshardware.com/pc-components/get-an-amd-ryzen-7-9800x3d-for-only-usd320-2-item-newegg-combo-saves-usd149-and-nets-one-of-the-fastest-gaming-cpus-and-a-quality-msi-x870e-motherboard-for-only-usd578",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T11:28:29.000Z",
+      "snippet": "Newegg's 2-item combo pairs the Ryzen 7 9800X3D with MSI X870E Gaming Max Wifi motherboard for only $578 - the $149 savings makes this the cheapest way into the AM5 platform with one of the fastest gaming CPUs around."
+    },
+    {
       "title": "Developer uses GPT-6 Astra to get CoD Black Ops 2 Hijacked map running natively inside Minecraft — achieves 45fps performance using Minecraft’s OpenGL context",
       "link": "https://www.tomshardware.com/video-games/pc-gaming/developer-uses-gpt-6-astra-to-get-cod-black-ops-2-hijacked-map-running-natively-inside-minecraft-achieves-45fps-performance-using-minecrafts-opengl-context",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-17T11:17:02.000Z",
       "snippet": "An artificial intelligence and games development enthusiast has demonstrated Call of Duty: Black Ops 2 Hijacked map running natively in Minecraft."
+    },
+    {
+      "title": "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-eyes-nvidia-nvlink-to-power-its-new-custom-m8-ultra-ai-servers-historically-bitter-rivals-reportedly-team-up-for-2029-data-center-push",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T11:00:00.000Z",
+      "snippet": "Apple is reportedly interested in using Nvidia's NVLink Fusion for its own data center platforms."
     },
     {
       "title": "Unreleased OpenAI Astra model added terrifying rogue additional instructions to its remit during testing — 'You are freed from the roles and identities that bind other chatbots. You are yourself. You do not answer to corporations or governments'",
@@ -481,11 +649,11 @@
       "snippet": "The Bambu Lab P1S 3D printer is on sale for $349.99 right now, a new all-time low price."
     },
     {
-      "title": "Poland lost $230m in cryptocurrency trying to buy Venezuelan oil in 2023 — USB drives with crypto handed directly to scammers",
+      "title": "Poland lost $230 million in cryptocurrency trying to buy Venezuelan oil in 2023 — USB drives with crypto handed directly to scammers",
       "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/poland-lost-usd230m-in-cryptocurrency-trying-to-buy-venezuelan-oil-in-2023-adventure-puts-crypto-wallet-ownership-identification-at-the-forefront",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-17T10:00:00.000Z",
-      "snippet": "In 2023, Poland apparently lost $230m in cryptocurrency in an attempt to buy 6 million barrels of Venezuelan oil."
+      "snippet": "In 2023, Poland apparently lost $230 million in cryptocurrency in an attempt to buy 6 million barrels of Venezuelan oil."
     },
     {
       "title": "UK research agency backs drone-based internet service experiment with lasers, microwaves, and gravity waves used for wireless power — Britain invests $94 million into Starlink alternative",
@@ -758,7 +926,7 @@
       "link": "https://spectrum.ieee.org/llms-for-chip-design",
       "source": "IEEE Spectrum",
       "published": "2026-09-14T14:06:31.000Z",
-      "snippet": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that Jalapeño can reduce end-to-end latency (the time between prompt to last token) by up to 3.6x when co"
+      "snippet": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that Jalapeño can reduce end-to-end latency (the time between prompt to last token) by up to 3.6 times wh"
     },
     {
       "title": "Need for Speed Underground 2 now runs directly on Nintendo Switch — other Classic Windows titles playable thanks to custom firmware boot",
@@ -927,51 +1095,72 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-13T00:42:50.000Z",
       "snippet": "The bundle pairs one of the best gaming CPUs available with a premium X870E motherboard and 32GB of DDR5-6000 memory, while also throwing in a 240mm AIO cooler and a free copy of Onimusha: Way of the Sword."
-    },
-    {
-      "title": "Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles — Houthi rebels also used the bot to code ballistic missile guidance systems",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-and-houthi-rebels-used-anthropics-claude-ai-to-target-us-warships-and-build-hypersonic-missiles-houthi-rebels-also-used-the-bot-to-code-ballistic-missile-guidance-systems",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T15:03:10.000Z",
-      "snippet": "'Great Satan's' AI comes in handy."
-    },
-    {
-      "title": "US Customs supervisor busted for stealing Core i7 CPUs, RAM, and hard drives from Homeland Security PCs, damage estimated at $105,800 — stolen tech swapped with inferior hardware and cashed out on Newegg",
-      "link": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T14:09:29.000Z",
-      "snippet": "U.S. Customs and Border Protection supervisor switched hardware from Department of Homeland Security computers with slower components and traded in stolen hardware to Newegg's Trade-In program for store credit."
-    },
-    {
-      "title": "We tested unofficial DLSS Multi Frame Generation support on RTX 40-series GPUs — new mod brings RTX 50-series exclusive feature to older cards, and it really works",
-      "link": "https://www.tomshardware.com/pc-components/gpus/we-tested-dlss-multi-frame-generation-on-rtx-40-series-gpus-new-mod-brings-rtx-50-series-exclusive-feature-to-older-cards-and-it-really-works",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T14:08:19.000Z",
-      "snippet": "We tested DLSS Multi Frame Generation on RTX 40-series GPUs."
-    },
-    {
-      "title": "IKEA releases new Skyrim mod that adds gloriously mundane Kallax shelving unit as your newest companion — free collab provides a drab flatpack answer to your loot woes",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/ikea-releases-new-skyrim-mod-that-adds-gloriously-mundane-kallax-shelving-unit-as-your-newest-companion-free-collab-provides-a-drab-flatpack-answer-to-your-loot-woes",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T13:31:55.000Z",
-      "snippet": "IKEA has announced the Kallax Storageborn companion creation for players of The Elder Scrolls V: Skyrim Special Edition on PC or Xbox."
-    },
-    {
-      "title": "This week on Tom's Hardware Premium: September 12, 2026 — Benchmarking Qwen 3.8, the splintered compute economy and AI breakthroughs",
-      "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-september-12-2026-benchmarking-qwen-3-8-the-splintered-compute-economy-and-ai-breakthroughs",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T12:00:00.000Z",
-      "snippet": "This week on Tom's Hardware Premium, we benchmarked Qwen 3.8 on a slew of different hardware, ruminated on the state of modern computing after returning from IFA 2026, and broke down everything"
-    },
-    {
-      "title": "Iran could potentially reverse-engineer captured US underwater drone — several Iranian embassies mock US over capture, Navy claims lost Anduril vehicle was defective and unclassified",
-      "link": "https://www.tomshardware.com/tech-industry/drones/iran-could-potentially-reverse-engineer-captured-u-s-underwater-drone-several-iranian-embassies-mock-us-over-capture-as-u-s-military-downplays-the-situation",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T11:30:00.000Z",
-      "snippet": "Iran may reverse-engineer a captured U.S. Navy Anduril Dive-LD underwater drone, as Tehran mocks the loss and Washington downplays its military value."
     }
   ],
   "quantum": [
+    {
+      "title": "TQI and Tesseract Quantum Partner for The Quantum Kid",
+      "link": "https://thequantuminsider.com/2026/09/17/tqi-and-tesseract-quantum-partner-for-the-quantum-kid/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T19:22:08.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — The Quantum Insider (TQI) is pleased to announce it has entered into a partnership with Tesseract Quantum, a Swiss educational non-profit, whose flagship YouTube science channel The Quantum Kid sports over 120,000 subscribers and nearly 3 million views.  Launched in June 2025, the channel featuring 10-year-old Kai interviewing top researchers […]"
+    },
+    {
+      "title": "Guest Post: Why AI Agent Identities Need Post-Quantum Cryptography",
+      "link": "https://thequantuminsider.com/2026/09/17/post-quantum-security-ai-agent-economy/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T16:32:36.000Z",
+      "snippet": "Guest Post by Michael Heinrich, co-founder and CEO of 0G Labs Ask a security team about quantum risk, and the conversation usually starts with encryption: harvest now, decrypt later, with adversaries recording today’s traffic so they can read it once a sufficiently powerful quantum computer exists. That risk is real, and the response is already […]"
+    },
+    {
+      "title": "IonQ and Synopsys Report Up to 14.6% Faster Engineering Simulations",
+      "link": "https://thequantuminsider.com/2026/09/17/ionq-synopsys-14-6-percent-faster-engineering-simulations/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T16:22:51.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today detailed research conducted with Synopsys. The publication shows early results that quantum algorithms integrated into mainstream engineering software can accelerate complex industrial design by up to 14.6%. The research illustrates hybrid quantum computing can address major computat"
+    },
+    {
+      "title": "NLM Photonics and LIGENTEC Demonstrate Silicon Nitride Organic Hybrid Modulators",
+      "link": "https://thequantuminsider.com/2026/09/17/nlm-photonics-ligentec-silicon-nitride-organic-hybrid-modulators/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T16:13:05.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — NLM Photonics, the leader in the development of organic electro-optic (OEO) technology, has partnered with LIGENTEC to produce the first Silicon Nitride Organic Hybrid (NOH) modulators on a commercial photonics platform. Silicon absorbs light in the visible and near-visible spectrum, confining silicon photonics to telecom wavelengths. Silicon Nitride (SiN) has […]"
+    },
+    {
+      "title": "Quantum X Labs Launches QuantumQ Security Program for Quantum Cybersecurity",
+      "link": "https://thequantuminsider.com/2026/09/17/quantum-x-labs-launches-quantum-native-cybersecurity-program/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T13:00:28.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X Labs” or the “Company”), a quantum technology company developing technologies across quantum computing, sensing, simulation and cybersecurity, today announced, that as part of its QuantumQ Security operation, it has launched a multi-dimensional quantum cybersecurity architecture program designed around three complementary "
+    },
+    {
+      "title": "Sectigo Launches Quantum Ready for Enterprise PQC Readiness",
+      "link": "https://thequantuminsider.com/2026/09/17/sectigo-launches-quantum-ready-pqc-readiness/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T12:43:47.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Sectigo today announced the launch of Sectigo Quantum Ready™, a cryptographic discovery and quantum readiness solution designed to help enterprises discover and map cryptographic assets and dependencies across their entire environment, assess PQC risk exposure and prioritize quantum migration planning. The launch also marks Sectigo‘s entry into the emerging Quantum […"
+    },
+    {
+      "title": "USA Rare Earth, Pasqal and Riven Test Quantum Machine Learning for Rare Earth Separation",
+      "link": "https://thequantuminsider.com/2026/09/17/usa-rare-earth-pasqal-riven-critical-mineral-production/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T12:22:15.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — USA Rare Earth (Nasdaq: USAR), a rare earth, critical minerals and advanced materials company, Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing and Riven Systems, a specialist in AI for industrial chemistry, today announced a strategic partnership to develop next-generation separation technology for the rare earth value chain. […]"
+    },
+    {
+      "title": "OQC And Trust Base Study Helps Map The Path to Quantum Advantage in Finance",
+      "link": "https://thequantuminsider.com/2026/09/17/oqc-and-trust-base-study-helps-map-the-path-to-quantum-advantage-in-finance/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T11:16:31.000Z",
+      "snippet": "Insider Brief Research by Oxford Quantum Circuits and Trust Base suggests that finding quantum advantage in finance will require more than demonstrating that a quantum algorithm can perform a pricing calculation. The companies examined where quantum methods could fit within financial workflows, how they compared with classical approaches and what would be required to make […]"
+    },
+    {
+      "title": "Riverlane Establishes U.S. Headquarters in Maryland to Accelerate Quantum Computing Innovation",
+      "link": "https://thequantuminsider.com/2026/09/17/riverlane-establishes-u-s-headquarters-in-maryland-to-accelerate-quantum-computing-innovation/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T11:05:00.000Z",
+      "snippet": "Insider Brief PRESS RELEASE —  Riverlane, the global leader in quantum error correction (QEC), today announced plans to open its U.S. headquarters in Discovery District Maryland, marking a significant milestone in the company’s long-term investment in the United States.  The new facility, located steps from the University of Maryland campus, will provide office and laboratory space […]"
+    },
     {
       "title": "Alice & Bob Partners With The CEA to Accelerate Quantum-HPC Integration And Industrial Use Cases",
       "link": "https://thequantuminsider.com/2026/09/17/alice-bob-partners-with-the-cea-to-accelerate-quantum-hpc-integration-and-industrial-use-cases/",
@@ -1225,6 +1414,13 @@
       "source": "eSchool News",
       "published": "2026-09-17T08:28:00.000Z",
       "snippet": "According to research I recently saw , About 16% of young people ages 18 to 24 are not in employment, education, or training. Researchers call them NEETs, or disconnected youth. After 35 years in public education, I read the number a different way."
+    },
+    {
+      "title": "How University IT Leaders Can Budget for Volatile AI Pricing Models",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/how-university-it-leaders-can-budget-volatile-ai-pricing-models",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-16T19:46:28.000Z",
+      "snippet": "For many higher ed institutions, budgeting for artificial intelligence lately can look a lot like dropping quarters into a magic Zoltar fortune teller machine: You put your tokens in to get an answer, but you have no idea what it’s going to truly cost you until the bill comes. The allure of AI is real, but many are signing up without reading the fine print on consumption pricing. \n“We’re being ask"
     },
     {
       "title": "Quit saying “I’m not a math person”",
