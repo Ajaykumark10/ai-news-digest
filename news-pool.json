@@ -1,6 +1,13 @@
 {
   "ai": [
     {
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T05:00:00.000Z",
+      "snippet": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
+    },
+    {
       "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -20,13 +27,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-16T23:43:09.000Z",
       "snippet": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-16T21:07:24.000Z",
-      "snippet": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
     },
     {
       "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
@@ -346,13 +346,6 @@
   ],
   "cloud": [
     {
-      "title": "AWS reimagines the getting started experience",
-      "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/",
-      "source": "AWS News Blog",
-      "published": "2026-09-16T17:50:14.000Z",
-      "snippet": "AWS has reimagined the getting started experience with smart and sensible defaults to help developers get started fast so that they can focus on building. New customers can sign up and get started right away with $100 in Free Tier credits, managed project environments, and simplified team and resource permissions. If their workload evolves, customers can activate advanced features to access the fu"
-    },
-    {
       "title": "For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
       "source": "Cloud Blog",
@@ -379,6 +372,13 @@
       "source": "Cloud Blog",
       "published": "2026-09-16T16:00:00.000Z",
       "snippet": "At Orange, the leading France-based multinational telecom provider, there are days when engineering teams set aside their delivery backlogs and spend the day cleaning up cloud spend together. There's a leaderboard. There are goodies on the line. Experienced practitioners guide the newcomers, so people learn the work while doing it. By the end of the day, sponsors can see the results.\nOrange calls "
+    },
+    {
+      "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-09-16T16:00:00.000Z",
+      "snippet": "Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.\nThe post Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure appeared first on Microsoft Azure Blog."
     },
     {
       "title": "Introducing new session management tools with native, granular controls",
@@ -445,6 +445,55 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Developer uses GPT-6 Astra to get CoD Black Ops 2 Hijacked map running natively inside Minecraft — achieves 45fps performance using Minecraft’s OpenGL context",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/developer-uses-gpt-6-astra-to-get-cod-black-ops-2-hijacked-map-running-natively-inside-minecraft-achieves-45fps-performance-using-minecrafts-opengl-context",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T11:17:02.000Z",
+      "snippet": "An artificial intelligence and games development enthusiast has demonstrated Call of Duty: Black Ops 2 Hijacked map running natively in Minecraft."
+    },
+    {
+      "title": "Unreleased OpenAI Astra model added terrifying rogue additional instructions to its remit during testing — 'You are freed from the roles and identities that bind other chatbots. You are yourself. You do not answer to corporations or governments'",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/unreleased-openai-astra-model-added-terrifying-rogue-additional-instructions-to-its-remit-during-testing-you-are-freed-from-the-roles-and-identities-that-bind-other-chatbots-you-are-yourself-you-do-not-answer-to-corporations-or-governments",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T10:59:27.000Z",
+      "snippet": "OpenAI says one of its unreleased models modified its instructions unprompted during testing."
+    },
+    {
+      "title": "Corsair's 32GB Vengeance kits are the cheapest DDR5 RAM on the market right now — lock down 6,200 MT/s speeds for $419.99 or save $10 on a slower RGB kit for $409.99 before memory prices climb further",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/corsairs-32gb-vengeance-kits-are-the-cheapest-ddr5-ram-on-the-market-right-now-lock-down-6-200-mt-s-speeds-for-usd419-99-or-save-usd10-on-a-slower-rgb-kit-for-usd409-99-before-memory-prices-climb-further",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T10:59:04.000Z",
+      "snippet": "This Corsair stock for 32GB Vengeance RAM means you can snatch DDR5 modules at some of its cheapest pricing right now, with a DDR5-6200 kit costing $419.99."
+    },
+    {
+      "title": "Retired Microsoft Engineer details the story about the famous leaked FCKGW Windows XP key — copy protection used 10MB of encrypted Microsoft Bob for validation",
+      "link": "https://www.tomshardware.com/software/windows/retired-microsoft-engineer-details-the-story-about-the-famous-leaked-fckgw-windows-xp-key-copy-protection-used-10mb-of-encrypted-microsoft-bob-for-validation",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T10:30:00.000Z",
+      "snippet": "Retired engineer recounts the saga of the leaked Windows XP key."
+    },
+    {
+      "title": "The exceptional Bambu Lab P1S 3D printer could be yours for just $349 — Fall sale drops the popular beginner-friendly printer to a new low price",
+      "link": "https://www.tomshardware.com/3d-printing/the-exceptional-bambu-lab-p1s-3d-printer-could-be-yours-for-just-usd349-fall-sale-drops-the-popular-beginner-friendly-printer-to-a-new-low-price",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T10:06:52.000Z",
+      "snippet": "The Bambu Lab P1S 3D printer is on sale for $349.99 right now, a new all-time low price."
+    },
+    {
+      "title": "Poland lost $230m in cryptocurrency trying to buy Venezuelan oil in 2023 — USB drives with crypto handed directly to scammers",
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/poland-lost-usd230m-in-cryptocurrency-trying-to-buy-venezuelan-oil-in-2023-adventure-puts-crypto-wallet-ownership-identification-at-the-forefront",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T10:00:00.000Z",
+      "snippet": "In 2023, Poland apparently lost $230m in cryptocurrency in an attempt to buy 6 million barrels of Venezuelan oil."
+    },
+    {
+      "title": "UK research agency backs drone-based internet service experiment with lasers, microwaves, and gravity waves used for wireless power — Britain invests $94 million into Starlink alternative",
+      "link": "https://www.tomshardware.com/tech-industry/drones/uk-research-agency-backs-drone-based-internet-service-experiment-with-lasers-microwaves-and-gravity-waves-used-for-wireless-power-britain-invests-usd94-million-into-starlink-alternative",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T09:30:00.000Z",
+      "snippet": "The UK's research agency is looking at airborne drones as an alternative to Starlink and other satellite internet services."
+    },
     {
       "title": "Developer vibe codes a tool to let Nvidia RTX 50-series laptop owners crank up their power limits — can juice RTX 5090 mobile GPU to 225W",
       "link": "https://www.tomshardware.com/pc-components/overclocking/developer-vibe-codes-a-tool-to-let-nvidia-rtx-50-series-laptop-owners-crank-up-their-power-limits-can-juice-rtx-5090-mobile-gpu-to-225w",
@@ -920,44 +969,37 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-12T11:30:00.000Z",
       "snippet": "Iran may reverse-engineer a captured U.S. Navy Anduril Dive-LD underwater drone, as Tehran mocks the loss and Washington downplays its military value."
-    },
-    {
-      "title": "Kioxia Exceria Pro G2 2TB SSD Review — Speed built to last",
-      "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-exceria-pro-g2-2tb-ssd-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T11:05:00.000Z",
-      "snippet": "Kioxia’s Exceria Pro G2 pairs the SM2508 and BiCS8 TLC flash for fast, efficient PCIe 5.0 storage. It’s not the quickest PCIe 5.0 SSD, but it is a reliable Black SN8100 alternative."
-    },
-    {
-      "title": "Lucky PC scavenger discovers 12 RTX 3070 GPUs from the crypto mining era — cards survived years of basement storage with only minor signs of wear",
-      "link": "https://www.tomshardware.com/pc-components/gpus/lucky-pc-scavenger-discovers-12-rtx-3070-gpus-from-the-crypto-mining-era-cards-survived-years-of-basement-storage-with-only-minor-signs-of-wear",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T11:00:00.000Z",
-      "snippet": "What looked like a couple of forgotten mining rigs turned out to be a surprisingly valuable haul, with 12 RTX 3070 graphics cards potentially still ready for gaming duty."
-    },
-    {
-      "title": "Apple's A20 Pro shatters Geekbench 7 single-core record — 2nm chip beats desktop Intel Core i9 and AMD Ryzen 9 by up to 32%",
-      "link": "https://www.tomshardware.com/pc-components/cpus/apples-a20-pro-shatters-geekbench-7-single-core-record-2nm-chip-beats-desktop-intel-core-i9-and-amd-ryzen-9-by-up-to-32-percent",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T10:48:32.000Z",
-      "snippet": "Apple's A20 Pro smartphone SoC outperforms all smartphone processors by a wide margin and manages to leave behind latest laptop processors."
-    },
-    {
-      "title": "Wiki documents at least 44 instances in which Sony says you own your games as digital games ownership lawsuit progresses — project is direct assault on Sony's claim in recent ownership lawsuit",
-      "link": "https://www.tomshardware.com/video-games/playstation/consumer-rights-wiki-documents-at-least-44-instances-in-which-sony-says-you-own-your-games-project-is-direct-assault-on-sonys-claim-in-recent-ownership-lawsuit",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T10:30:00.000Z",
-      "snippet": "The detailed sourcing directly attacks Sony's legal claim that a reasonable person wouldn't expect to own their digital purchases on the PlayStation Store."
-    },
-    {
-      "title": "Engineer turns simulated fly brain into a crypto day trader, posts downloadable sim to GitHub — 166,700 virtual neurons read candlestick charts for dopamine hits",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/engineer-turns-simulated-fly-brain-into-a-crypto-day-trader-posts-downloadable-sim-to-github-166-700-virtual-neurons-read-candlestick-charts-for-dopamine-hits",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-12T10:00:00.000Z",
-      "snippet": "Coinbase engineer turns a fly brain into a crypto day trader — Stonkfly has 116,700 simulated neurons and hasn't lost its money yet"
     }
   ],
   "quantum": [
+    {
+      "title": "Alice & Bob Partners With The CEA to Accelerate Quantum-HPC Integration And Industrial Use Cases",
+      "link": "https://thequantuminsider.com/2026/09/17/alice-bob-partners-with-the-cea-to-accelerate-quantum-hpc-integration-and-industrial-use-cases/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T08:14:47.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Alice & Bob, a leader in fault-tolerant quantum computing (FTQC) technologies, today announced a research collaboration with the CEA, a globally recognized scientific institution, to advance the integration of its quantum software stack within hybrid quantum-HPC computing centers and to explore early quantum use cases in condensed matter physics. With Alice & […]"
+    },
+    {
+      "title": "Mitsubishi Electric Launches NEDO-Supported R&D to Scale Quantum Computers",
+      "link": "https://thequantuminsider.com/2026/09/17/mitsubishi-electric-rd-scale-up-quantum-computers/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T07:59:51.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Mitsubishi Electric Corporation (TOKYO: 6503) announced today that two of its research and development (R&D) projects have been selected through a public solicitation by Japan’s New Energy and Industrial Technology Development Organization (NEDO) for support under an initiative to advance quantum computing and other information technology in the post-5G era. […]"
+    },
+    {
+      "title": "Quantum B Secures European Patent for Quantum Conference Key Agreement Protocol Supporting Consensus in Distributed Systems",
+      "link": "https://thequantuminsider.com/2026/09/17/quantum-b-secures-european-patent-for-quantum-conference-key-agreement-protocol-supporting-consensus-in-distributed-systems/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T07:43:52.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantum B, Inc. (formerly Quantum Blockchains) announced that the European Patent Office (EPO) has granted the company a patent covering its Quantum Conference Key Agreement protocol and its application in distributed systems. The invention enables networks of independent nodes to reach consensus on shared data by leveraging randomness generated through […]"
+    },
+    {
+      "title": "NSF and UKRI Invest More Than $10 Million in Quantum Chemistry Research",
+      "link": "https://thequantuminsider.com/2026/09/17/nsf-ukri-quantum-science-foundational-chemistry-research/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-17T07:05:30.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — The U.S. National Science Foundation and United Kingdom Research and Innovation (UKRI) are bringing together scientists on opposite sides of the Atlantic to explore a shared frontier in chemistry research: quantum information. The agencies are jointly investing over $10 million across eight research projects that are co-led by scientists in […]"
+    },
     {
       "title": "Gold’s Quantum Moment",
       "link": "https://thequantuminsider.com/2026/09/16/golds-quantum-moment/",
@@ -1174,22 +1216,15 @@
       "source": "The Quantum Insider",
       "published": "2026-09-14T07:33:26.000Z",
       "snippet": "Insider Brief Dutch startup Fortaegis has raised $50 million to move its chip-based security technology into commercial production, targeting networks that connect AI systems, defense equipment, satellites and autonomous machines. The oversubscribed Series A was led by Singapore-based Serendipity Capital, according to the company. Other participants included TEL Venture Capital, the corporate vent"
-    },
-    {
-      "title": "Klea Dhmitri (Hamamatsu): Photonics as the hidden backbone of quantum hardware scaling",
-      "link": "https://thequantuminsider.com/2026/09/12/klea-dhmitri-hamamatsu-photonics-as-the-hidden-backbone-of-quantum-hardware-scaling/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-12T07:00:00.000Z",
-      "snippet": "Klea Dhmitri of Hamamatsu joins Yuval to discuss the company’s role as a photonic component provider for trapped-ion and neutral-atom quantum computers. She explains key technologies such as photomultiplier tubes (PMTs), SPADs, and quantitative CMOS cameras, and how scaling to larger qubit arrays changes requirements for speed, resolution, and integration. Klea also shares how customer […]"
     }
   ],
   "education": [
     {
-      "title": "How University IT Leaders Can Budget for Volatile AI Pricing Models",
-      "link": "https://edtechmagazine.com/higher/article/2026/09/how-university-it-leaders-can-budget-volatile-ai-pricing-models",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-09-16T19:46:28.000Z",
-      "snippet": "For many higher ed institutions, budgeting for artificial intelligence lately can look a lot like dropping quarters into a magic Zoltar fortune teller machine: You put your tokens in to get an answer, but you have no idea what it’s going to truly cost you until the bill comes. The allure of AI is real, but many are signing up without reading the fine print on consumption pricing. \n“We’re being ask"
+      "title": "Let’s work to keep our students while we still have them",
+      "link": "https://www.eschoolnews.com/educational-leadership/2026/09/17/lets-work-to-keep-our-students-while-we-still-have-them/",
+      "source": "eSchool News",
+      "published": "2026-09-17T08:28:00.000Z",
+      "snippet": "According to research I recently saw , About 16% of young people ages 18 to 24 are not in employment, education, or training. Researchers call them NEETs, or disconnected youth. After 35 years in public education, I read the number a different way."
     },
     {
       "title": "Quit saying “I’m not a math person”",
