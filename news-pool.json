@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T23:21:17.000Z",
+      "snippet": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\""
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T22:34:09.000Z",
+      "snippet": "If AI lab PrismML isn't on your radar yet, it should be."
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T22:14:59.000Z",
+      "snippet": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
+    },
+    {
       "title": "The fix for rogue AI agents could be more AI",
       "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -423,11 +444,11 @@
   ],
   "cloud": [
     {
-      "title": "AWS Elastic Beanstalk introduces Cluster Mode",
-      "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/",
+      "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
+      "link": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
       "source": "AWS News Blog",
-      "published": "2026-09-17T19:20:21.000Z",
-      "snippet": "Run an application on AWS Elastic Beanstalk Cluster Mode without provisioning or operating the compute underneath it. You provide a container image or source code; Elastic Beanstalk with service-operated compute creates and operates the environment that runs it."
+      "published": "2026-09-17T21:11:48.000Z",
+      "snippet": "AWS introduces new low-cost burstable Amazon EC2 T8i instances powered by custom sixth generation Intel Xeon Scalable Processors (Granite Rapids), available only on AWS. T8i instances are among the lowest-cost EC2 instances and deliver up to 30% better price performance over previous generation T3 instances."
     },
     {
       "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
@@ -577,13 +598,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-17T14:15:53.000Z",
       "snippet": "The Acer Swift Air 14 is an aluminum budget system with lots of ports and long battery life. But it sports a lesser display than its competitors, and tons of bloatware."
-    },
-    {
-      "title": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-17T12:00:00.000Z",
-      "snippet": "American nonprofit C4ADS, a monitoring organization funded mostly by the U.S. government, produced a report shedding light on the many ways that American AI accelerators reach China."
     },
     {
       "title": "New York State recommends demanding AI data centers pay $1 million in community investment per megawatt — framework advises towns to plan for maintenance costs, site abandonment, and other contingencies",
@@ -1088,13 +1102,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-13T10:00:00.000Z",
       "snippet": "Syitren RM1 transparent wall-mounted CD player harkens back to a more civilized era with visible disc and mechanisms."
-    },
-    {
-      "title": "Build a high-end AMD gaming PC for less — Ryzen 7 9800X3D bundle includes an X870E motherboard, 32GB DDR5, AIO cooler and a game for $1,109.99",
-      "link": "https://www.tomshardware.com/pc-components/build-a-high-end-amd-gaming-pc-for-less-ryzen-7-9800x3d-bundle-includes-an-x870e-motherboard-32gb-ddr5-aio-cooler-and-a-game-for-usd1-109-99",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T00:42:50.000Z",
-      "snippet": "The bundle pairs one of the best gaming CPUs available with a premium X870E motherboard and 32GB of DDR5-6000 memory, while also throwing in a 240mm AIO cooler and a free copy of Onimusha: Way of the Sword."
     }
   ],
   "quantum": [
@@ -1111,13 +1118,6 @@
       "source": "The Quantum Insider",
       "published": "2026-09-17T16:32:36.000Z",
       "snippet": "Guest Post by Michael Heinrich, co-founder and CEO of 0G Labs Ask a security team about quantum risk, and the conversation usually starts with encryption: harvest now, decrypt later, with adversaries recording today’s traffic so they can read it once a sufficiently powerful quantum computer exists. That risk is real, and the response is already […]"
-    },
-    {
-      "title": "IonQ and Synopsys Report Up to 14.6% Faster Engineering Simulations",
-      "link": "https://thequantuminsider.com/2026/09/17/ionq-synopsys-14-6-percent-faster-engineering-simulations/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-17T16:22:51.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today detailed research conducted with Synopsys. The publication shows early results that quantum algorithms integrated into mainstream engineering software can accelerate complex industrial design by up to 14.6%. The research illustrates hybrid quantum computing can address major computat"
     },
     {
       "title": "NLM Photonics and LIGENTEC Demonstrate Silicon Nitride Organic Hybrid Modulators",
@@ -1414,13 +1414,6 @@
       "source": "eSchool News",
       "published": "2026-09-17T08:28:00.000Z",
       "snippet": "According to research I recently saw , About 16% of young people ages 18 to 24 are not in employment, education, or training. Researchers call them NEETs, or disconnected youth. After 35 years in public education, I read the number a different way."
-    },
-    {
-      "title": "How University IT Leaders Can Budget for Volatile AI Pricing Models",
-      "link": "https://edtechmagazine.com/higher/article/2026/09/how-university-it-leaders-can-budget-volatile-ai-pricing-models",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-09-16T19:46:28.000Z",
-      "snippet": "For many higher ed institutions, budgeting for artificial intelligence lately can look a lot like dropping quarters into a magic Zoltar fortune teller machine: You put your tokens in to get an answer, but you have no idea what it’s going to truly cost you until the bill comes. The allure of AI is real, but many are signing up without reading the fine print on consumption pricing. \n“We’re being ask"
     },
     {
       "title": "Quit saying “I’m not a math person”",
