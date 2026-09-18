@@ -1,6 +1,48 @@
 {
   "ai": [
     {
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T15:30:00.000Z",
+      "snippet": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026."
+    },
+    {
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T15:22:48.000Z",
+      "snippet": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf."
+    },
+    {
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T15:00:00.000Z",
+      "snippet": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT."
+    },
+    {
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T14:00:00.000Z",
+      "snippet": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
+    },
+    {
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-18T11:29:22.000Z",
+      "snippet": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…"
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-17T23:25:52.000Z",
+      "snippet": "The round values the data center giant at $30.9 billion."
+    },
+    {
       "title": "Google DeepMind launches institute to widen the AGI debate",
       "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -444,11 +486,53 @@
   ],
   "cloud": [
     {
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-09-18T16:00:00.000Z",
+      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nSept 14 - "
+    },
+    {
+      "title": "Reimagining service delivery in the agentic era with Google Public Sector",
+      "link": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
+      "source": "Cloud Blog",
+      "published": "2026-09-18T16:00:00.000Z",
+      "snippet": "State and local governments are driven by a shared mission to provide responsive, equitable, and accessible services. However, achieving this goal is often hindered by legacy technical debt, disconnected data, and heavy administrative burdens that slow down mission delivery.\nThis systemic fragmentation creates costly operational bottlenecks across the public sector, including:\n\nLegacy data silos: "
+    },
+    {
+      "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
+      "source": "Cloud Blog",
+      "published": "2026-09-18T16:00:00.000Z",
+      "snippet": "This week we kicked off the DevFest season in North America at Google Hudson Square in New York City with 80 engineers packed into the room. Typical technical workshops hand you a finished repo, tell you to blindly paste blocks of code into your terminal, and hope nothing crashes. You walk away with green checkmarks, but your brain stays on autopilot.\nWe've introduced a completely different experi"
+    },
+    {
+      "title": "How to upskill enterprise AI builders by using daily micro habits",
+      "link": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
+      "source": "Cloud Blog",
+      "published": "2026-09-18T16:00:00.000Z",
+      "snippet": "As enterprises invest in generative AI, tech leaders keep seeing the same pattern: Developers test AI tools for a week, hit setup problems, and then drift back to the backlog. Nothing ships.\nThe real gap is enablement. In this landmark Harvard Business Review article, Josh Bersin and Marc Zao-Sanders noted that knowledge workers carve out just five minutes a day for formal learning. Most enterpris"
+    },
+    {
+      "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
+      "link": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
+      "source": "Cloud Blog",
+      "published": "2026-09-18T16:00:00.000Z",
+      "snippet": "Today, we are excited to announce enhancements to the borderless Lakehouse, our answer to how data engineers, data scientists, and increasingly, AI agents, can query governed data directly where it lives.\nTo reason accurately and automate complex enterprise workflows, agents and data consumers of all types need fast, unified access to an organization's complete data estate, joining customer record"
+    },
+    {
       "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
       "link": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
       "source": "AWS News Blog",
       "published": "2026-09-17T21:11:48.000Z",
       "snippet": "AWS introduces new low-cost burstable Amazon EC2 T8i instances powered by custom sixth generation Intel Xeon Scalable Processors (Granite Rapids), available only on AWS. T8i instances are among the lowest-cost EC2 instances and deliver up to 30% better price performance over previous generation T3 instances."
+    },
+    {
+      "title": "AWS Elastic Beanstalk introduces Cluster Mode",
+      "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/",
+      "source": "AWS News Blog",
+      "published": "2026-09-17T19:20:21.000Z",
+      "snippet": "Run an application on AWS Elastic Beanstalk Cluster Mode without provisioning or operating the compute underneath it. You provide a container image or source code; Elastic Beanstalk with service-operated compute creates and operates the environment that runs it."
     },
     {
       "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
@@ -586,6 +670,118 @@
   ],
   "hardware": [
     {
+      "title": "Save up to 40% on Elegoo 3D printers during its September sale, from just $159 — Elegoo Day deals mean you can save on a new FDM or resin printer, with big bulk discounts on consumables",
+      "link": "https://www.tomshardware.com/3d-printing/save-up-to-40-percent-on-elegoo-3d-printers-during-its-september-sale-from-just-usd159-elegoo-day-deals-mean-you-can-save-on-a-new-fdm-or-resin-printer-with-big-bulk-discounts-on-consumables",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T15:45:00.000Z",
+      "snippet": "Get yourself a new 3D printer this September from Elegoo during its Elegoo Day sales, with up to 40% off right now."
+    },
+    {
+      "title": "China's premier memory maker CXMT eyes producing flash for SSDs, report claims — 3D NAND research and development line rumored for its second manufacturing facility near Beijing",
+      "link": "https://www.tomshardware.com/pc-components/ssds/chinas-premiere-memory-maker-cxmt-eyes-producing-flash-for-ssds-report-claims-3d-nand-research-and-development-line-rumored-for-its-second-manufacturing-facility-near-beijing",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T15:34:02.000Z",
+      "snippet": "China's DRAM champion CXMT is reportedly planning to enter 3D NAND production as it plots 3D NAND research programs and pilot line at its future fab near Beijing."
+    },
+    {
+      "title": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics",
+      "link": "https://www.tomshardware.com/pc-components/dram/nor-flash-and-slc-nand-production-are-under-threat-as-capacity-gets-routed-to-more-profitable-products-severe-undersupply-threatens-everyday-electronics",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T14:38:22.000Z",
+      "snippet": "NOR Flash and SLC NAND are the latest products to be impacted by the ongoing AI buildout, with capacities tightening and production being routed to more lucrative chips."
+    },
+    {
+      "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T13:45:00.000Z",
+      "snippet": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools."
+    },
+    {
+      "title": "AI developer vibe codes DLSS 5 onto Intel CPU's integrated graphics — Intel Arc 140T runs neural rendering in 360p at 10 frames per second",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-vibe-codes-dlss-5-onto-intel-arc-140t-integrated-graphics-run-neural-rendering-in-360p-at-10-frames-per-second",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T13:15:00.000Z",
+      "snippet": "Using AI tools, a new developer has managed to get DLSS 5 neural rendering running on Intel Lunar Lake's integrated Arc graphics, albeit with abysmal performance."
+    },
+    {
+      "title": "Control Resonant PC performance tested: 28 GPUs take us back to the Oldest House and a warped Manhattan cityscape",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/control-resonant-pc-performance-tested-28-gpus-take-us-back-to-the-oldest-house-and-a-warped-manhattan-cityscape",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T13:01:36.000Z",
+      "snippet": "Control Resonant's warped Manhattan cityscape pushes graphics cards to the max thanks to path-traced lighting effects and full support for Nvidia's DLSS 4.5 technologies. We put it to the test to see how it performs on 28 graphics cards from Nvidia, AMD, and Intel."
+    },
+    {
+      "title": "Prusa CORE One L+ review: More precise",
+      "link": "https://www.tomshardware.com/3d-printing/prusa-core-one-l-plus-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T13:00:00.000Z",
+      "snippet": "Prusa Research makes its large CORE One a tiny bit better in a very important way."
+    },
+    {
+      "title": "Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T12:49:14.000Z",
+      "snippet": "The NYT filed a legal brief revealing potentially damaging statements from Microsoft and OpenAI regarding the copyright infringement case it brought against the two companies. The publication is now seeking a summary judgment from the court, almost three years since it started the case."
+    },
+    {
+      "title": "US frontier AI companies warn authorities over sophisticated distillation attacks — China warns of 'countermeasures' if America tries to constrain domestic AI models",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-frontier-ai-companies-warn-authorities-over-sophisticated-distillation-attacks-china-warns-of-countermeasures-if-america-tries-to-constrain-domestic-ai-models",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T12:20:00.000Z",
+      "snippet": "U.S. AI companies and the government are increasingly concerned about the effectiveness of international competition using distillation attacks to glean valuable data from frontier models to train cheaper, faster alternatives overseas."
+    },
+    {
+      "title": "Modder gets Nvidia's DLSS 5 working in a web browser using WebGPU — 147MB browser port runs on non-Nvidia GPUs and macOS but takes two seconds per render",
+      "link": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-in-a-web-browser-using-webgpu-147mb-browser-port-runs-on-non-nvidia-gpus-and-macos-but-takes-two-seconds-per-render",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T12:00:00.000Z",
+      "snippet": "A developer's live WebGPU demo runs Nvidia's DLSS 5 neural rendering in a web browser, but also apparently runs on macOS."
+    },
+    {
+      "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking — despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T11:30:00.000Z",
+      "snippet": "As many semiconductor fabs and facilities go online in the 2030s and beyond, a global consulting firm said that these sites will need thousands of engineers and technicians that the U.S. will be hard-pressed to fill."
+    },
+    {
+      "title": "ASML snubs Elon Musk-backed particle accelerator chipmaking tech — firm doubles down on 1,000W laser-produced plasma systems for chipmaking tools",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-snubs-elon-musk-backed-particle-accelerator-chipmaking-tech-firm-doubles-down-on-1-000w-laser-produced-plasma-systems-for-chipmaking-tools",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T11:00:00.000Z",
+      "snippet": "With progress that ASML makes with its LPP EUV light sources for its scanners, the company is barely interesting in adopting particle accelerator-based FEL sources."
+    },
+    {
+      "title": "Save $300 on this 4K gaming PC with a 9800X3D and RTX 5070 Ti, now $2,599 — powerhouse ABS Stratos II rig ships with 32GB DDR5 and a 2TB SSD",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-4k-gaming-pc-with-a-9800x3d-and-rtx-5070-ti-now-usd2-599-powerhouse-abs-stratos-ii-rig-ships-with-32gb-ddr5-and-a-2tb-ssd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T10:56:24.000Z",
+      "snippet": "A 4K-capable gaming machine from ABS, featuring the powerful RTX 5070 Ti, AMD Ryzen 7 9800X3D, 32GB DDR5, and a 2TB SSD, all for $2,599.99."
+    },
+    {
+      "title": "Huawei details AI accelerator roadmap, pulls in next-generation Ascend NPUs by several quarters — FP4 performance of the Ascend 960PR doubles expectations",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-details-ai-accelerator-roadmap-pulls-in-next-generation-ascend-npus-by-quarters-fp4-performance-of-the-ascend-960pr-doubles-expectations",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T10:30:00.000Z",
+      "snippet": "Huawei's mimics Nvidia's approach to AI factories, unveils details about next-generation Ascend NPUs, Kunpeng CPUs, scale-up and scale-out connectivity solutions."
+    },
+    {
+      "title": "Hacker turns 25 cents into 46 billion fake Bitcoins to steal $770,000 — Symbiosis  DeFi exchange bit by lack of basic bounds checking in smart contract",
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/hacker-turns-25-cents-into-46-billion-fake-bitcoins-to-steal-usd770-000-symbiosis-defi-exchange-bit-by-lack-of-basic-bounds-checking-in-smart-contract",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T10:30:00.000Z",
+      "snippet": "Symbiosis DeFi network gets hacked for at least $770,000 worth of Bitcoin — DeFi exchange bit by lack of basic bounds checking in smart contract"
+    },
+    {
+      "title": "Man arrested for selling $50 3D-printed machine gun conversion kits to undercover cops — ‘Glock switches’ turn pistols into fully-automatic weapons",
+      "link": "https://www.tomshardware.com/3d-printing/florida-man-arrested-for-selling-usd50-3d-printed-machine-gun-conversion-kits-to-undercover-cops-glock-switches-turn-pistols-into-fully-automatic-weapons",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T10:00:00.000Z",
+      "snippet": "Emani Rey Justavino of Jacksonville, Florida, was arrested for selling more than 50 'Glock switch' converters that gives the pistols fully automatic capabilities. The suspect claims that he 3D-printed the entire batch overnight and offered them all at a discount to an undercover ATF agent."
+    },
+    {
       "title": "Balatro fan claims they trained Google fruit fly brain simulation to beat the game — reinforcement learning currently has the model at 20% success rate",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/balatro-fan-claims-they-trained-google-fruit-fly-brain-simulation-to-beat-the-game-reinforcement-learning-currently-has-the-model-at-20-percent-success-rate",
       "source": " Latest from Tom's Hardware ",
@@ -598,6 +794,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-17T14:15:53.000Z",
       "snippet": "The Acer Swift Air 14 is an aluminum budget system with lots of ports and long battery life. But it sports a lesser display than its competitors, and tons of bloatware."
+    },
+    {
+      "title": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-17T12:00:00.000Z",
+      "snippet": "American nonprofit C4ADS, a monitoring organization funded mostly by the U.S. government, produced a report shedding light on the many ways that American AI accelerators reach China."
     },
     {
       "title": "New York State recommends demanding AI data centers pay $1 million in community investment per megawatt — framework advises towns to plan for maintenance costs, site abandonment, and other contingencies",
@@ -1011,100 +1214,72 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-14T10:00:00.000Z",
       "snippet": "A tech enthusiast says that they managed to put together a home lab-worthy Proxmox server using PC parts scavenged from the nearby county landfill."
-    },
-    {
-      "title": "AMD’s best gaming CPU drops below launch price and includes free 240mm AIO cooler and Onimusha: Way of the Sword — grab the Ryzen 7 9850X3D for $484",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amds-best-gaming-cpu-drops-below-launch-price-and-includes-free-240mm-aio-cooler-and-onimusha-way-of-the-sword-grab-the-ryzen-7-9850x3d-for-usd484",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T14:28:06.000Z",
-      "snippet": "The Ryzen 7 9850X3D may only be a modest step up from the 9800X3D, but it still leads our gaming benchmarks and now comes with a couple of useful extras at a lower-than-launch price."
-    },
-    {
-      "title": "Bernie Sanders proposes 20 year prison sentence for AI devs who plow ahead with Artificial Superintelligence plans — penalty on par with illegally developing rogue nuclear weapons",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T14:10:00.000Z",
-      "snippet": "Senators Bernie Sanders and Greg Cezar have announced their Ban Artificial Superintelligence Act which threatens 20-year prison sentences for rule breakers."
-    },
-    {
-      "title": "Dell Pro 5 Webcam 2K Review: So you can look good in office",
-      "link": "https://www.tomshardware.com/peripherals/webcams/dell-pro-5-webcam-2k-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T14:00:00.000Z",
-      "snippet": "The Dell Pro 5 webcam is an office-oriented 2K webcam with a physical privacy shutter, a built-in mic, and Windows Hello compatibility."
-    },
-    {
-      "title": "Anthropic CEO warns of AI-driven botnet 'swarm' taking over the entire internet — 'In 6–12 months such a swarm could be capable of taking over the entire internet with a persistent botnet'",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T13:36:35.000Z",
-      "snippet": "As an Ex-Anthropic warns AI will get self-sufficient and kill our posterity."
-    },
-    {
-      "title": "AZZA PSAZ-750G ATX 3.1 power supply review: An adequate budget 750W unit",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/azza-psaz-750g-atx-3-1-power-supply-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T13:30:00.000Z",
-      "snippet": "The AZZA PSAZ-750G ATX 3.1 is a non-modular 750W built by Helly, wearing an 80 PLUS Gold badge it has never earned, sold at a price that almost makes the argument for it."
-    },
-    {
-      "title": "Intel revives One Mono font after brief retirement during open-source purge — typeface built to fight coder eyestrain gets reprieve",
-      "link": "https://www.tomshardware.com/tech-industry/intel-revives-one-mono-font-after-brief-retirement-typeface-built-to-fight-coder-eyestrain-gets-reprieve-from-open-source-purge",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T13:00:00.000Z",
-      "snippet": "Intel’s decision to archive its developer-focused One Mono font lasted only two days, with the company now restoring the open-source project despite its relatively limited development activity."
-    },
-    {
-      "title": "Thrustmaster Airbus Add-On Grip with AVA Joystick Base Review: A First-Class Flight Experience",
-      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/thrustmaster-airbus-add-on-grip-with-ava-joystick-base-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T13:00:00.000Z",
-      "snippet": "The Thrustmaster Airbus Add-On Grip with the AVA Joystick Base is a 1:1 replica of an Airbus sidestick, featuring extensive customization and Hall-effect sensors across all axes."
-    },
-    {
-      "title": "Chinese military researchers and tech giants caught using Claude — US frontier model coded 16 air-defense suppression tools targeting Taiwan, drafted anti-torpedo specs, and fed 151 million training queries to Alibaba",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-military-researchers-and-tech-giants-caught-using-claude-us-frontier-model-coded-16-air-defense-suppression-tools-targeting-taiwan-drafted-anti-torpedo-specs-and-fed-151-million-training-queries-to-alibaba",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T12:00:00.000Z",
-      "snippet": "Anthropic accuses China-linked actors of using its Claude models of weapon development, intelligence activities, distilling AI models."
-    },
-    {
-      "title": "Mexican cartel's crypto farm seized in mountain raid — 300 GPUs, satellite links, and industrial transformers tapped hydroelectric power",
-      "link": "https://www.tomshardware.com/tech-industry/cryptomining/mexican-cartel-crypto-farm-seized-in-mountain-raid-300-gpus-satellite-links-and-industrial-transformers-tapped-hydroelectric-power",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T11:30:00.000Z",
-      "snippet": "There is increasing evidence that Mexican drug cartels are diversifying into cryptocurrency mining and are using crypto platforms to launder their ill-gotten gains."
-    },
-    {
-      "title": "Waymo robotaxi calls cops on riders handling loaded AR-style ghost gun — Waymo alerted San Francisco police, then juvenile riders were stopped and arrested",
-      "link": "https://www.tomshardware.com/tech-industry/drones/waymo-robotaxi-calls-cops-on-riders-handling-loaded-ar-style-ghost-gun-waymo-alerted-san-francisco-police-then-juvenile-riders-were-stopped-and-arrested",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T11:16:11.000Z",
-      "snippet": "Following a tip-off from robotaxi firm Waymo, San Francisco police conducted a 'high-risk vehicle stop' and arrested two juveniles for illegal possession of a firearm."
-    },
-    {
-      "title": "Playable Tomb Raider runs on a humble 1-watt chip — $25 board with dual-core 400 MHz ESP32-P4 MCU scales OpenLara up to 1,024 x 600 playable pixels",
-      "link": "https://www.tomshardware.com/software/programming/playable-tomb-raider-runs-on-a-humble-1-watt-chip-usd25-board-with-dual-core-400-mhz-esp32-p4-mcu-scales-openlara-up-to-1-024-x-600-playable-pixels",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T11:00:00.000Z",
-      "snippet": "A retro video gaming devotee has showcased Lara Croft adventuring in and among ancient tombs on a humble ESP32-P4 microcontroller."
-    },
-    {
-      "title": "Ukraine triumphs in 'first-ever' drone-vs-drone boat battle — video shows Russian MBeK destroyed by Sargan 3000's 12.7mm automatic turret",
-      "link": "https://www.tomshardware.com/tech-industry/drones/ukraines-sargan-3000-triumphs-in-first-ever-drone-vs-drone-boat-battle-video-shows-russian-mbek-destroyed-by-its-foes-12-7mm-automatic-turret",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T10:30:00.000Z",
-      "snippet": "Ukraine’s Navy has claimed that it has won 'the first-ever battle of unmanned naval boats.'"
-    },
-    {
-      "title": "Transparent wall-mounted CD player raises over $540,000 on Kickstarter — $109 Syitren RM1's visible disc and mechanisms channel 90s B&O nostalgia with Bluetooth and battery power",
-      "link": "https://www.tomshardware.com/speakers/syitren-rm1-transparent-wall-mounted-cd-player-harkens-back-to-a-more-civilized-era-visible-disc-and-mechanisms-make-for-a-tangible-listening-experience",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-13T10:00:00.000Z",
-      "snippet": "Syitren RM1 transparent wall-mounted CD player harkens back to a more civilized era with visible disc and mechanisms."
     }
   ],
   "quantum": [
+    {
+      "title": "This Roblox Game’s Levels Are Generated by a Real Quantum Computer",
+      "link": "https://thequantuminsider.com/2026/09/18/this-roblox-games-levels-are-generated-by-a-real-quantum-computer/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T14:57:55.000Z",
+      "snippet": "Insider Brief Video games and quantum computing don’t usually share a sentence, let alone a screen. But in the latest episode of The Quantum Kid, 10-year-old Kai discovered a game where quantum computer game levels aren’t just a concept — they’re real, generated live by actual quantum hardware. The result surprised even him. The episode […]"
+    },
+    {
+      "title": "Global Quantum + AI Challenge Advances After Phase 1 Draws More Than 1,000 Entrants From Around The World",
+      "link": "https://thequantuminsider.com/2026/09/18/global-quantum-ai-challenge-advances-after-phase-1-draws-more-than-1000-entrants-from-around-the-world/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T14:35:33.000Z",
+      "snippet": "Insider Brief The Global Quantum + AI Challenge is moving into its second phase after attracting more than 1,000 entrants from around the world to address practical problems submitted by five major enterprises. Following the close of Phase 1 submissions on Sept. 15, the challenge jury and enterprise partners will review proposals and select finalists […]"
+    },
+    {
+      "title": "Guest Post — The Quantum Inflection Point: Charting a Science-First Roadmap for the Nation",
+      "link": "https://thequantuminsider.com/2026/09/18/guest-post-the-quantum-inflection-point-charting-a-science-first-roadmap-for-the-nation/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T13:29:27.000Z",
+      "snippet": "By Dr. Darío Gil, the Under Secretary for Science at the U.S. Department of Energy. His office is the nation’s largest federal sponsor of basic research in the physical sciences, supporting all 17 National Laboratories of the United States, and responsible for programs including advanced computing, fusion, nuclear and high energy particle physics, basic energy […]"
+    },
+    {
+      "title": "Quantum Simulation Explained: Applications, Methods and Challenges",
+      "link": "https://thequantuminsider.com/2026/09/18/what-is-quantum-simulation-how-does-it-work/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T13:00:59.000Z",
+      "snippet": "Insider Brief A molecule with fifty interacting particles needs more numbers to describe its full quantum state than a classical supercomputer can store. That’s the wall classical chemistry keeps hitting, and it’s why physicist Richard Feynman proposed the idea that if you want to simulate a quantum system accurately, build a computer that runs on […]"
+    },
+    {
+      "title": "MIT’s Robotic Optics Lab Could Speed Testing for Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/09/18/mits-robotic-optics-lab-could-speed-testing-for-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T08:16:48.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Every new generation of phone display, television screen, and solar panel is a result of precision optics experiments, which use lasers and other light sources to measure the optical properties of candidate materials. These experiments can take months to run, requiring scientists to meticulously angle and adjust delicate light sources, […]"
+    },
+    {
+      "title": "Researchers Observe First Real-Time Quantum Jump in Sound",
+      "link": "https://thequantuminsider.com/2026/09/18/researchers-observe-first-real-time-quantum-jump-in-sound/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T08:07:01.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — A Stanford team has documented the first direct observation of quantum jumps of sound in a mechanical resonator, completing an arc of scientific exploration that started over a hundred years ago. Quantum jumps—sudden transitions from one energy state to another—have been theorized since the early 1900s. Scientists first demonstrated these […]"
+    },
+    {
+      "title": "ICTK and Jiran Security Partner on Post-Quantum Cryptography Migration",
+      "link": "https://thequantuminsider.com/2026/09/18/ictk-jiran-security-post-quantum-cryptography-migration/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T08:02:40.000Z",
+      "snippet": "Insider Brief South Korean quantum security company ICTK (KOSDAQ: 456010) has signed a memorandum of understanding (MoU) with information security firm Jiran Security to jointly work on post-quantum cryptography migration and cryptographic asset discovery, Business Korea reported. Jiran Security offers email, document, and mobile security solutions along with malware threat response, and counts mo"
+    },
+    {
+      "title": "DOE Launches $215 Million Quantum Genesis Q Competition",
+      "link": "https://thequantuminsider.com/2026/09/18/doe-215-million-quantum-genesis-q-competition/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T07:51:42.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — The U.S. Department of Energy (DOE) today announced the Quantum Genesis Q Competition, an initiative with up to $215 million in planned funding to demonstrate the world’s first fault-tolerant scientifically relevant quantum computers (SRQCs). Applicants are invited to submit proposals to deploy quantum computers with at least 100 logical qubits […]"
+    },
+    {
+      "title": "Montana State Offers Free Quantum Science Curriculum for Middle Schools",
+      "link": "https://thequantuminsider.com/2026/09/18/montana-state-free-quantum-education-program/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T07:31:16.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Montana middle school educators are invited to apply for QuantumClub, an education and outreach project developed by Montana State University’s QCORE and the Science Math Resource Center in partnership with the National Girls Collaborative Project. Through QuantumClub, educators from five Montana organizations will receive free virtual training on an engaging […]"
+    },
     {
       "title": "TQI and Tesseract Quantum Partner for The Quantum Kid",
       "link": "https://thequantuminsider.com/2026/09/17/tqi-and-tesseract-quantum-partner-for-the-quantum-kid/",
@@ -1408,6 +1583,13 @@
     }
   ],
   "education": [
+    {
+      "title": "The oral exam is back, and AI may be the reason",
+      "link": "https://www.eschoolnews.com/digital-learning/2026/09/18/the-oral-exam-is-back-and-ai-may-be-the-reason/",
+      "source": "eSchool News",
+      "published": "2026-09-18T10:00:00.000Z",
+      "snippet": "In 2023, Catherine Hartmann, a professor at the University of Wyoming, gave students in a history of meditation course a deeply personal assignment: try a contemplative practice and write a reflective analysis on the experience."
+    },
     {
       "title": "Let’s work to keep our students while we still have them",
       "link": "https://www.eschoolnews.com/educational-leadership/2026/09/17/lets-work-to-keep-our-students-while-we-still-have-them/",
