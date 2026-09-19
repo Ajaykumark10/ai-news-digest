@@ -1,6 +1,97 @@
 {
   "ai": [
     {
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-19T01:00:00.000Z",
+      "snippet": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators."
+    },
+    {
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-19T00:12:07.000Z",
+      "snippet": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
+    },
+    {
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T23:25:01.000Z",
+      "snippet": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T23:13:31.000Z",
+      "snippet": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
+    },
+    {
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T23:12:32.000Z",
+      "snippet": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
+    },
+    {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T21:44:33.000Z",
+      "snippet": "Accenture is about to take on its most high-risk consulting engagement ever."
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T20:18:14.000Z",
+      "snippet": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+    },
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T18:49:30.000Z",
+      "snippet": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
+    },
+    {
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T17:59:53.000Z",
+      "snippet": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
+    },
+    {
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T17:33:50.000Z",
+      "snippet": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
+    },
+    {
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T17:09:56.000Z",
+      "snippet": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang.  Watch"
+    },
+    {
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T17:06:32.000Z",
+      "snippet": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang.  On […"
+    },
+    {
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T16:35:49.000Z",
+      "snippet": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation."
+    },
+    {
       "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -20,6 +111,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-18T15:00:00.000Z",
       "snippet": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT."
+    },
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-18T14:00:14.000Z",
+      "snippet": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
     },
     {
       "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
@@ -468,23 +566,16 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-14T13:55:00.000Z",
       "snippet": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making."
-    },
-    {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-13T19:40:15.000Z",
-      "snippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
-    },
-    {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-13T16:30:00.000Z",
-      "snippet": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
     }
   ],
   "cloud": [
+    {
+      "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
+      "link": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
+      "source": "Cloud Blog",
+      "published": "2026-09-18T16:30:00.000Z",
+      "snippet": "Vector search is a critical component of generative AI, retrieval-augmented generation (RAG), and data agent architectures, but sometimes vector search alone isn't enough. While vector embeddings are incredible at understanding conceptual meaning, they stumble on specific alphanumeric IDs and exact product SKU numbers. To build truly robust search and AI applications, you may need the combination "
+    },
     {
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -519,6 +610,13 @@
       "source": "Cloud Blog",
       "published": "2026-09-18T16:00:00.000Z",
       "snippet": "Today, we are excited to announce enhancements to the borderless Lakehouse, our answer to how data engineers, data scientists, and increasingly, AI agents, can query governed data directly where it lives.\nTo reason accurately and automate complex enterprise workflows, agents and data consumers of all types need fast, unified access to an organization's complete data estate, joining customer record"
+    },
+    {
+      "title": "Changing the game: Using agentic AI to secure infrastructure code",
+      "link": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
+      "source": "Cloud Blog",
+      "published": "2026-09-18T16:00:00.000Z",
+      "snippet": "AI is accelerating software development at an unprecedented pace. But as code generation scales, so do the challenges of securing the code, especially emerging AI-based vulnerability exploitations. To meet these challenges, the Google AI and Infrastructure team is transforming how we approach security. In this article, we discuss new AI-native agentic methods that we’ve developed that systematical"
     },
     {
       "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
@@ -670,6 +768,20 @@
   ],
   "hardware": [
     {
+      "title": "AMD shares first official benchmarks for EPYC 'Venice' CPUs, targets Nvidia — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T21:51:29.000Z",
+      "snippet": "AMD has released several benchmarks for its EPYC 'Venice' CPUs in a clear shot at Nvidia."
+    },
+    {
+      "title": "Details about Intel's next-gen Nova Lake CPUs keep leaking — an attempt to establish a timeline based on what we know so far",
+      "link": "https://www.tomshardware.com/pc-components/cpus/details-about-intels-next-gen-nova-lake-cpus-keep-leaking-an-attempt-to-establish-a-timeline-based-on-what-we-know-so-far",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T19:45:41.000Z",
+      "snippet": "Over the past two weeks, we've seen an uptick in leaks and rumors about Intel's upcoming Nova Lake CPUs. Here, we piece together what we've heard to try and establish a plausible release timeline."
+    },
+    {
       "title": "Save up to 40% on Elegoo 3D printers during its September sale, from just $159 — Elegoo Day deals mean you can save on a new FDM or resin printer, with big bulk discounts on consumables",
       "link": "https://www.tomshardware.com/3d-printing/save-up-to-40-percent-on-elegoo-3d-printers-during-its-september-sale-from-just-usd159-elegoo-day-deals-mean-you-can-save-on-a-new-fdm-or-resin-printer-with-big-bulk-discounts-on-consumables",
       "source": " Latest from Tom's Hardware ",
@@ -682,6 +794,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-18T15:34:02.000Z",
       "snippet": "China's DRAM champion CXMT is reportedly planning to enter 3D NAND production as it plots 3D NAND research programs and pilot line at its future fab near Beijing."
+    },
+    {
+      "title": "House passes act to make AI data centers pay for grid upgrades to minimize impact on residents — measure directs states to consider adoption of federal standard within two years of passing",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/house-passes-act-to-make-ai-data-centers-pay-for-grid-upgrades-to-minimize-impact-on-residents-measure-directs-states-to-consider-adoption-of-federal-standard-within-two-years-of-passing",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-18T15:20:43.000Z",
+      "snippet": "This Ratepayer Protection Act will make data centers pay for grid upgrades made in their name. However, it still has to go through the senate and the White House, before being considered by individual state regulators for adoption."
     },
     {
       "title": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics",
@@ -1218,6 +1337,13 @@
   ],
   "quantum": [
     {
+      "title": "EPB Launches IonQ Forte Enterprise Quantum Computer in Chattanooga",
+      "link": "https://thequantuminsider.com/2026/09/18/epb-launches-ionq-forte-enterprise-quantum-computer-chattanooga/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T17:53:02.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — EPB today launched the IonQ Forte Enterprise quantum computer at EPB Quantum CenterSM, bringing commercial quantum computing and networking together in one facility for the first time. The milestone further positions Chattanooga as the most comprehensive resource in the U.S. for commercializing real-world quantum solutions. Companies can develop, test and […]"
+    },
+    {
       "title": "This Roblox Game’s Levels Are Generated by a Real Quantum Computer",
       "link": "https://thequantuminsider.com/2026/09/18/this-roblox-games-levels-are-generated-by-a-real-quantum-computer/",
       "source": "The Quantum Insider",
@@ -1244,6 +1370,13 @@
       "source": "The Quantum Insider",
       "published": "2026-09-18T13:00:59.000Z",
       "snippet": "Insider Brief A molecule with fifty interacting particles needs more numbers to describe its full quantum state than a classical supercomputer can store. That’s the wall classical chemistry keeps hitting, and it’s why physicist Richard Feynman proposed the idea that if you want to simulate a quantum system accurately, build a computer that runs on […]"
+    },
+    {
+      "title": "EigenQ Secures $45 Million Financing Ahead of Planned Nasdaq Listing",
+      "link": "https://thequantuminsider.com/2026/09/18/eigenq-secures-45-million-financing-ahead-of-planned-nasdaq-listing/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T11:50:51.000Z",
+      "snippet": "Insider Brief PRESS RELEASE —  EigenQ, Inc. (“EigenQ”), an applied quantum technology company building the trusted infrastructure for the Quantum Era, and Silicon Valley Acquisition Corp. (“SVAQ”) (Nasdaq: SVAQ), a publicly traded special purpose acquisition company, today announced that EigenQ has entered into a securities purchase agreement (the “Purchase Agreement”) with an institutional invest"
     },
     {
       "title": "MIT’s Robotic Optics Lab Could Speed Testing for Quantum Technology",
@@ -1584,6 +1717,20 @@
   ],
   "education": [
     {
+      "title": "From Human Speed to Machine Speed: How Higher Ed Security Is Using AI to Fight Agentic Attacks",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/human-speed-machine-speed-how-higher-ed-security-using-ai-fight-agentic-attacks",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-18T20:13:44.000Z",
+      "snippet": "As someone who spends his days talking with higher ed CIOs, CISOs and security teams, I’m watching their world shift from human speed to machine speed almost overnight.\nThere’s an asymmetrical gap that I’m seeing. Many security teams at these universities are still manually focused. They’re overmatched by anything automated and artificial intelligence–driven, especially agentic attacks. A two- to "
+    },
+    {
+      "title": "Why AI-Driven Modern Classrooms Require a Major Security Conversation",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/why-ai-driven-modern-classrooms-require-major-security-conversation",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-18T18:00:46.000Z",
+      "snippet": "When I walk into a modern classroom now, I don’t just see audiovisual gear. I see endpoints.\nThe pan-tilt-zoom camera at the back of the room isn’t only for lecture capture now; it’s a sensor on the network. The speakers in the ceiling aren’t just to enhance video clips. On many campuses, they’re tied into an audio notification system that can push out warnings, lockdown messages or weather alerts"
+    },
+    {
       "title": "The oral exam is back, and AI may be the reason",
       "link": "https://www.eschoolnews.com/digital-learning/2026/09/18/the-oral-exam-is-back-and-ai-may-be-the-reason/",
       "source": "eSchool News",
@@ -1596,6 +1743,13 @@
       "source": "eSchool News",
       "published": "2026-09-17T08:28:00.000Z",
       "snippet": "According to research I recently saw , About 16% of young people ages 18 to 24 are not in employment, education, or training. Researchers call them NEETs, or disconnected youth. After 35 years in public education, I read the number a different way."
+    },
+    {
+      "title": "How University IT Leaders Can Budget for Volatile AI Pricing Models",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/how-university-it-leaders-can-budget-volatile-ai-pricing-models",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-16T19:46:28.000Z",
+      "snippet": "For many higher ed institutions, budgeting for artificial intelligence lately can look a lot like dropping quarters into a magic Zoltar fortune teller machine: You put your tokens in to get an answer, but you have no idea what it’s going to truly cost you until the bill comes. The allure of AI is real, but many are signing up without reading the fine print on consumption pricing. \n“We’re being ask"
     },
     {
       "title": "Quit saying “I’m not a math person”",
