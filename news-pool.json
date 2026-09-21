@@ -1,6 +1,20 @@
 {
   "ai": [
     {
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-20T21:41:08.000Z",
+      "snippet": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-20T20:29:07.000Z",
+      "snippet": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+    },
+    {
       "title": "Is the AI industry really ready to slow down?",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -20,13 +34,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-20T18:00:00.000Z",
       "snippet": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt."
-    },
-    {
-      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-20T14:00:00.000Z",
-      "snippet": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
     },
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
@@ -440,23 +447,16 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-16T10:34:47.000Z",
       "snippet": "Amazon is letting all customers use Alexa+ assistant in early access period."
-    },
-    {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-16T00:20:39.000Z",
-      "snippet": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
-    },
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-15T21:47:38.000Z",
-      "snippet": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
     }
   ],
   "cloud": [
+    {
+      "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
+      "link": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
+      "source": "Cloud Blog",
+      "published": "2026-09-18T16:30:00.000Z",
+      "snippet": "Vector search is a critical component of generative AI, retrieval-augmented generation (RAG), and data agent architectures, but sometimes vector search alone isn't enough. While vector embeddings are incredible at understanding conceptual meaning, they stumble on specific alphanumeric IDs and exact product SKU numbers. To build truly robust search and AI applications, you may need the combination "
+    },
     {
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -586,7 +586,7 @@
   ],
   "hardware": [
     {
-      "title": "Give your PC the deep clean It deserves — the Wolfbox MF60 Air Duster with up to 110,000 RPM drops to $33.99",
+      "title": "Give your PC the deep clean it deserves — the Wolfbox MF60 Air Duster with up to 110,000 RPM drops to $33.99",
       "link": "https://www.tomshardware.com/pc-components/give-your-pc-the-deep-clean-it-deserves-the-wolfbox-mf60-air-duster-with-up-to-110-000-rpm-drops-to-usd33-99",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-20T20:30:42.000Z",
@@ -598,6 +598,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-20T15:11:14.000Z",
       "snippet": "The Dell Pro 7 is a 4K / 60 fps webcam with surprisingly high-quality built-in mics, a built-in physical privacy shutter, and Windows Hello compatibility."
+    },
+    {
+      "title": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-20T14:48:57.000Z",
+      "snippet": "A proposed class action lawsuit has been lodged against the four big AI tech companies after they agreed to slow AI development for safety reasons. The lead counsel on the lawsuit says that 'AI will quickly spin out of control and could kill us all if we allow AI safety and protocol ... to be controlled by private self-serving agreements between the world's most powerful 'for profit' technology co"
     },
     {
       "title": "The PC gaming ray tracing obsession began with the first RTX 20 graphics cards released on this day in 2018 — the GeForce RTX 2080 and 2080 Ti led the charge, but games were thin on the ground",
@@ -1134,6 +1141,13 @@
       "snippet": "Yuval Boger interviews Tom Darras, CEO and co-founder of Welinq. They discuss how quantum networking uses shared entanglement to interconnect quantum processors, enabling modular scale-out clusters and quantum-safe connectivity between data centers. Tom explains the technical building blocks—qubit-photon interfaces, optical networks, entangled photon sources, and especially quantum memories—as wel"
     },
     {
+      "title": "EPB Launches IonQ Forte Enterprise Quantum Computer in Chattanooga",
+      "link": "https://thequantuminsider.com/2026/09/18/epb-launches-ionq-forte-enterprise-quantum-computer-chattanooga/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-18T17:53:02.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — EPB today launched the IonQ Forte Enterprise quantum computer at EPB Quantum CenterSM, bringing commercial quantum computing and networking together in one facility for the first time. The milestone further positions Chattanooga as the most comprehensive resource in the U.S. for commercializing real-world quantum solutions. Companies can develop, test and […]"
+    },
+    {
       "title": "This Roblox Game’s Levels Are Generated by a Real Quantum Computer",
       "link": "https://thequantuminsider.com/2026/09/18/this-roblox-games-levels-are-generated-by-a-real-quantum-computer/",
       "source": "The Quantum Insider",
@@ -1372,6 +1386,13 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-09-18T18:00:46.000Z",
       "snippet": "When I walk into a modern classroom now, I don’t just see audiovisual gear. I see endpoints.\nThe pan-tilt-zoom camera at the back of the room isn’t only for lecture capture now; it’s a sensor on the network. The speakers in the ceiling aren’t just to enhance video clips. On many campuses, they’re tied into an audio notification system that can push out warnings, lockdown messages or weather alerts"
+    },
+    {
+      "title": "The oral exam is back, and AI may be the reason",
+      "link": "https://www.eschoolnews.com/digital-learning/2026/09/18/the-oral-exam-is-back-and-ai-may-be-the-reason/",
+      "source": "eSchool News",
+      "published": "2026-09-18T10:00:00.000Z",
+      "snippet": "In 2023, Catherine Hartmann, a professor at the University of Wyoming, gave students in a history of meditation course a deeply personal assignment: try a contemplative practice and write a reflective analysis on the experience."
     },
     {
       "title": "Let’s work to keep our students while we still have them",
