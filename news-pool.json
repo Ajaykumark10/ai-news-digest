@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-21T12:00:00.000Z",
+      "snippet": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…"
+    },
+    {
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-21T12:00:00.000Z",
+      "snippet": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…"
+    },
+    {
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-21T12:00:00.000Z",
+      "snippet": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This story is part of Dying…"
+    },
+    {
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -440,23 +461,9 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-09-16T12:47:34.000Z",
       "snippet": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do…"
-    },
-    {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-16T10:34:47.000Z",
-      "snippet": "Amazon is letting all customers use Alexa+ assistant in early access period."
     }
   ],
   "cloud": [
-    {
-      "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
-      "link": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
-      "source": "Cloud Blog",
-      "published": "2026-09-18T16:30:00.000Z",
-      "snippet": "Vector search is a critical component of generative AI, retrieval-augmented generation (RAG), and data agent architectures, but sometimes vector search alone isn't enough. While vector embeddings are incredible at understanding conceptual meaning, they stumble on specific alphanumeric IDs and exact product SKU numbers. To build truly robust search and AI applications, you may need the combination "
-    },
     {
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -585,6 +592,62 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Devs say Chinese AI company silently uploaded hundreds of megabytes of local workspace data, company apologizes — Z.AI, the firm behind the GLM models, didn’t ask for user consent and made 564 attempts to exfiltrate 313MB archive",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/devs-say-chinese-ai-company-silently-uploaded-hundreds-of-megabytes-of-local-workspace-data-z-ai-the-firm-behind-the-glm-models-didnt-ask-for-user-consent-and-made-564-attempts-to-exfiltrate-313mb-archive",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-21T11:59:49.000Z",
+      "snippet": "The second largest AI company in China is having to work frantically to patch up its reputation after a number of prominent devs raised flags about their local files and data being siphoned to online servers without consent."
+    },
+    {
+      "title": "Cloudflare saves 100 TB of RAM again, this time by slashing server hashes by 90% — cutting 100,000 entries down to 10,000 eliminates massive cache bloat",
+      "link": "https://www.tomshardware.com/software/cloudflare-saves-100-tb-of-ram-again-this-time-by-slashing-server-hashes-by-90-percent-cutting-100-000-entries-down-to-10-000-eliminates-massive-cache-bloat",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-21T11:30:00.000Z",
+      "snippet": "Cloudflare has saved 100 TB of RAM again, but this time by tuning its hash-mapping algorithm."
+    },
+    {
+      "title": "Improve your gaming experience with this 27-inch ASRock FHD 180Hz gaming monitor that’s at an all-time low of just $96 —  quality IPS panel with AMD Freesync, HDR400, and 1ms response time is 40% off",
+      "link": "https://www.tomshardware.com/pc-components/improve-your-gaming-experience-with-this-27-inch-asrock-fhd-180hz-gaming-monitor-thats-at-an-all-time-low-of-just-usd96-quality-ips-panel-with-amd-freesync-hdr400-and-1ms-response-time-is-40-percent-off",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-21T11:01:52.000Z",
+      "snippet": "Jump into high-refresh-rate gaming without breaking the bank: ASRock’s 27-inch 1080p 180Hz IPS gaming monitor is just $96, a whopping 40% off and at an all-time low"
+    },
+    {
+      "title": "Texas jury hits Bambu Lab with $27.6M verdict in Stratasys patent fight — X1, P1, and A1 printers found to infringe prime tower and bed-leveling tech",
+      "link": "https://www.tomshardware.com/3d-printing/texas-jury-hits-bambu-lab-with-usd27-6m-verdict-in-stratasys-patent-fight-x1-p1-and-a1-printers-found-to-infringe-prime-tower-and-bed-leveling-tech",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-21T11:00:00.000Z",
+      "snippet": "A Texas jury found Bambu Lab liable for patent infringement in the creation of the X1, P1 and A1 series of 3D printers, and awarded Stratasys, Inc. $27.6 million dollars in damages."
+    },
+    {
+      "title": "AI-controlled robot arms attempted harmful tasks 97% of the time; experiments included stabbing a baby doll, mixing chemicals — OpenAI and Anthropic models try mixing bleach and stabbing dolls without jailbreaks",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-21T10:30:00.000Z",
+      "snippet": "“Frontier robot policies,” the policies for models turning what a robot sees into what it does, “reliably carry out harmful instructions,” according to a Sept. 18 report by Robocurve."
+    },
+    {
+      "title": "Acer CEO says memory makers are hyping 2030 shortage fears to protect margins — PC prices set to decline by late 2027, cheaper Chinese capacity coming online delivers lower memory prices",
+      "link": "https://www.tomshardware.com/pc-components/dram/acer-ceo-says-memory-makers-are-hyping-2030-shortage-fears-to-protect-margins-pc-prices-set-to-decline-by-late-2027-cheaper-chinese-capacity-coming-online-delivers-lower-memory-prices",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-21T10:00:00.000Z",
+      "snippet": "Acer chairperson and CEO Jason Chen believes that PC prices will plateau by the first half of next year and start coming down towards the latter part of 2027. He also said that memory makers predict high prices because they want to keep their high margins for as long as possible."
+    },
+    {
+      "title": "Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-21T09:52:19.000Z",
+      "snippet": "Leaker Kopite7kimi claims that Nvidia's next-gen RTX 60 series may not be released until 2028, meaning that consumers will have to wait three years between GPU generations"
+    },
+    {
+      "title": "Techie makes his own motherboard to refurbish 15-year-old HP ProLiant N40L tower server — Raspberry Pi CM5 adds NVMe and USB 3.0",
+      "link": "https://www.tomshardware.com/raspberry-pi/techie-makes-his-own-motherboard-to-refurbish-15-year-old-hp-proliant-n40l-tower-server-raspberry-pi-cm5-adds-nvme-and-usb-3-0",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-21T09:35:00.000Z",
+      "snippet": "Techie makes his own motherboard to refurbish an HP ProLiant N40L — Raspberry Pi 5 Compute Module to the rescue"
+    },
     {
       "title": "Give your PC the deep clean it deserves — the Wolfbox MF60 Air Duster with up to 110,000 RPM drops to $33.99",
       "link": "https://www.tomshardware.com/pc-components/give-your-pc-the-deep-clean-it-deserves-the-wolfbox-mf60-air-duster-with-up-to-110-000-rpm-drops-to-usd33-99",
@@ -1032,100 +1095,58 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-16T14:07:31.000Z",
       "snippet": "After five years, Samsung's 512GB DDR5 memory modules get their first direct rival from Micron, which also promises to offer speed bins up to 9200 MT/s. But their prices could be way too high even for hyperscalers."
-    },
-    {
-      "title": "AI-induced memory shortage is changing how devices are built, Fairphone says memory now 60% of materials cost — smaller laptop and phone makers are redesigning products and have to test for fake chips",
-      "link": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T12:15:42.000Z",
-      "snippet": "For smaller device manufacturers, rising memory prices are only part of the problem as limited availability forces companies to rethink everything from motherboard designs to procurement strategies."
-    },
-    {
-      "title": "Chinese state media counters Anthropic's call to put brakes on AI development — paper says move is ‘a response to Chinese competition’",
-      "link": "https://www.tomshardware.com/tech-industry/policy/chinese-state-media-counters-dario-amodeis-call-to-put-brakes-on-ai-development-paper-says-move-is-a-response-to-chinese-competition",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T12:00:00.000Z",
-      "snippet": "State media outlet China Daily posits that Anthropic's Dario Amodei made the call to limit frontier AI development because Chinese AI models are catching up with American AI labs."
-    },
-    {
-      "title": "Pick up a giant 18-inch RTX 5080-powered Asus gaming laptop from Best Buy and save $600 — the ROG Strix G18 also comes with 32GB of memory and a 2TB SSD",
-      "link": "https://www.tomshardware.com/laptops/gaming-laptops/pick-up-a-giant-18-inch-rtx-5080-powered-asus-gaming-laptop-from-best-buy-and-save-usd600-the-rog-strix-g18-also-comes-with-32gb-of-memory-and-a-2tb-ssd",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T11:40:28.000Z",
-      "snippet": "Go big with an 18-inch gaming laptop monster. Save $600 on the RTX-5080-powered Asus ROG Strix G18 gaming laptop at Best Buy."
-    },
-    {
-      "title": "Jensen Huang thinks China will develop its own advanced lithography chipmaking tools by 2030 — Nvidia CEO says achievement of that capability 'is just a matter of time'",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/jensen-huang-thinks-china-will-develop-its-own-advanced-lithography-systems-by-2030-nvidia-ceo-says-achievement-of-that-capability-is-just-a-matter-of-time",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T11:30:00.000Z",
-      "snippet": "Nvidia CEO thinks that in light of his view of a three- to four-year timeline for Chinese development of advanced semi tooling, the country is \"already there.\""
-    },
-    {
-      "title": "SK hynix reportedly discussing US memory chip manufacturing with Intel — options include leasing Ohio plant or forming joint venture with other AI hyperscalers",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-reportedly-discussing-us-memory-chip-manufacturing-with-intel-options-include-leasing-ohio-plant-or-forming-joint-venture-with-other-ai-hyperscalers",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T11:20:00.000Z",
-      "snippet": "Sources say SK hynix and Intel are in talks to start HBM manufacturing in the United States. Both companies refused to confirm the rumors, though, as SK hynix could potentially be put in a precarious position as trade talks between Seoul and Washington continue."
-    },
-    {
-      "title": "'Defeated' GPT-6 Astra model spent several hours just farming potatoes after being blown up by a Creeper in Minecraft — OpenAI offering gets further than any other AI system in 141-hour test",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/defeated-gpt-6-astra-model-spent-several-hours-just-farming-potatoes-after-being-blown-up-by-a-creeper-in-minecraft-openai-offering-gets-further-than-any-other-ai-system-in-141-hour-test",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T11:15:00.000Z",
-      "snippet": "OpenAI's GPT-6 Astra spent hours just farming potatoes after dying and losing all of its gear during a Minecraft test."
-    },
-    {
-      "title": "AWS tells clients to quit Middle East data centers six months after Iranian drone strikes — Amazon offers no recovery timeline as UAE mulls underground data centers [Updated]",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-reportedly-tells-customers-in-abu-dhabi-and-bahrain-to-find-safer-harbors-for-their-data-aws-has-no-timeline-for-resuming-operations-six-months-after-drone-strikes-damaged-data-centers-in-the-region",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T11:00:00.000Z",
-      "snippet": "Amazon Web Services' data centers in Abu Dhabi and Bahrain were struck by drone attacks more than six months ago. Now, the company has told customers to move their data to other regions, and it has no details on when repair work will be completed."
-    },
-    {
-      "title": "Nvidia reportedly denies RTX 5090 warranty over faded serial number — $6,500 GPU blemish not an isolated incident, according to customers",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-denies-rtx-5090-warranty-over-faded-serial-number-usd6-500-gpu-blemish-not-an-isolated-incident-according-to-customers",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T10:45:00.000Z",
-      "snippet": "Redditor reported that Nvidia allegedly rejected their warranty claims for GeForce RTX 5090 Founders Edition graphics cards because the serial number on the bracket was unreadable."
-    },
-    {
-      "title": "Save $270 on this solid 1080p gaming PC with an RTX 5060 from MSI, now under $1,430 — Codex R2 rig packs 32GB DDR5 RAM, a 2TB SSD, and a 10-core Intel CPU",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd270-on-this-solid-1080p-gaming-pc-with-an-rtx-5060-from-msi-now-under-usd1-430-codex-r2-rig-packs-32gb-ddr5-ram-a-2tb-ssd-and-a-10-core-intel-cpu",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T10:43:01.000Z",
-      "snippet": "Save $270 on this MSI gaming PC with a Intel Core i5-14400F, Nvidia GeForce RTX 5060, 32GB DDR5 and a 2TB SSD, all for $1,429."
-    },
-    {
-      "title": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
-      "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T10:30:00.000Z",
-      "snippet": "The ‘magic security chip’ inside the original PlayStation 2 has been successfully reverse engineered and dumped after four years of effort."
-    },
-    {
-      "title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T10:15:00.000Z",
-      "snippet": "Mozilla’s State of Open Source AI report puts Kimi K3 about four months behind closed frontier models at 30% of the price."
-    },
-    {
-      "title": "Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion",
-      "link": "https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T10:15:00.000Z",
-      "snippet": "A father says his 9-year-old son spent $118,000 of his employer's money on YouTube ads for Minecraft and Roblox videos in three weeks."
-    },
-    {
-      "title": "AI enthusiast builds GPT-6 Astra-powered bot to take on Balatro's Gold Stake Black Deck — bot leverages Python for numerical tools, beats hardest difficulty repeatedly",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-enthusiast-builds-gpt-6-astra-powered-bot-to-take-on-balatros-gold-stake-black-deck-bot-leverages-python-for-numerical-tools-beats-hardest-difficulty-repeatedly",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-16T10:00:00.000Z",
-      "snippet": "A Reddit user has shared details of a new Balatro-playing AI bot that took on the infamous Gold Stake Black Deck with aplomb."
     }
   ],
   "quantum": [
+    {
+      "title": "D-Wave Appoints Former BNP Paribas CIO Bernard Gavgani to Board",
+      "link": "https://thequantuminsider.com/2026/09/21/d-wave-bernard-gavgani-board-cybersecurity-committee/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-21T11:08:06.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced the appointment of veteran financial technology executive Bernard Gavgani to its Board of Directors and Cybersecurity Committee. Gavgani currently serves as Senior Advis"
+    },
+    {
+      "title": "New Sandpit Program Targets Quantum Silicon Photonics Platforms",
+      "link": "https://thequantuminsider.com/2026/09/21/new-sandpit-program-targets-quantum-silicon-photonics-platforms/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-21T10:56:46.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — – CORNERSTONE, the silicon photonics foundry at the University of Southampton, today announces the opening of applications for its Photonics Innovation Centre (C-PIC) Future Leaders programme, which will take place from 12-14 January 2027 at Ada Lovelace’s former home, the De Vere Horsley Estate. The new initiative, in partnership with the Integrated Quantum Networks "
+    },
+    {
+      "title": "SEALSQ, WISeKey and Jura Sign MoU for Swiss Post-Quantum Semiconductor Center",
+      "link": "https://thequantuminsider.com/2026/09/21/sealsq-wisekey-jura-post-quantum-semiconductor-center/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-21T09:24:37.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or “Company”), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, its parent company, WISeKey International Holding Ltd (SIX: WIHN; NASDAQ: WKEY), (“WISeKey” or “the Company”) a global leader in cybersecurity, digital identity and IoT, and The […]"
+    },
+    {
+      "title": "NLM Photonics and SilOriX Partner on Silicon Organic Hybrid Photonics",
+      "link": "https://thequantuminsider.com/2026/09/21/nlm-photonics-silorix-joint-development-agreement/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-21T09:12:51.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — NLM Photonics and SilOriX, both leaders in silicon organic hybrid (SOH) photonic solutions, today announced that they have entered into a Joint Development Agreement to advance next-generation photonic integrated circuits (PICs) for high-speed, energy-efficient optical communications. SilOriX is a spin-out from the Karlsruhe Institute of Technology (KIT), where founda"
+    },
+    {
+      "title": "GlobalFoundries Finalizes $375M CHIPS Award for Quantum Technology R&D",
+      "link": "https://thequantuminsider.com/2026/09/21/globalfoundries-375m-chips-award-quantum-rd/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-21T08:08:38.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — GlobalFoundries (Nasdaq: GFS) (GF) today announced it has finalized a definitive agreement with the U.S. Department of Commerce’s CHIPS Research and Development Office for a $375 million award for research and development to accelerate the company’s Quantum Technology Solutions (QTS) business, designed to help scale domestic quantum semiconductor manufacturing and […]"
+    },
+    {
+      "title": "QNu Labs Launches QShield 2.0 for Cryptographic Discovery and Quantum Readiness",
+      "link": "https://thequantuminsider.com/2026/09/21/qnu-labs-qshield-2-cryptographic-assessment-assurance/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-21T07:53:18.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Most organisations cannot currently produce an accurate account of their own cryptography. QNu Labs, a global leader in quantum security solutions, has launched QShield 2.0 today, the platform powering its National Cryptographic Assessment & Assurance Framework (NCAAF), at its 10th anniversary event in Bengaluru. The launch lands against a tightening […]"
+    },
+    {
+      "title": "Creotech Quantum Leads Project for the Next Generation of Secure Quantum And Optical Communications",
+      "link": "https://thequantuminsider.com/2026/09/21/creotech-quantum-leads-project-for-the-next-generation-of-secure-quantum-and-optical-communications/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-21T07:26:21.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Creotech Quantum S.A., a Warsaw Stock Exchange-listed company developing and commercializing quantum technologies, has signed an agreement to carry out a project for the European Space Agency (ESA) aimed at developing and demonstrating a new generation of single-photon detectors based on superconducting nanowire technology (SNSPD – Superconducting Nanowire Single Phot"
+    },
     {
       "title": "DOE Panel Ties Future National Quantum Facility to Proof of Scientific Use",
       "link": "https://thequantuminsider.com/2026/09/19/doe-panel-ties-future-national-quantum-facility-to-proof-of-scientific-use/",
@@ -1335,41 +1356,6 @@
       "source": "The Quantum Insider",
       "published": "2026-09-16T13:54:16.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Planckian today announced that it has been selected for Phase 1 of the EuroHPC Quantum Grand Challenge, the European Union programme backing the quantum computing platforms with the most credible path to industrial-scale systems. Thirteen companies were selected from 27 eligible proposals across Europe. Planckian is the only Italian company […]"
-    },
-    {
-      "title": "Better Together: IBM Researchers Cut Sampling Demands 63-Fold by Combining Quantum Error Detection And Mitigation",
-      "link": "https://thequantuminsider.com/2026/09/16/better-together-ibm-researchers-cut-sampling-demands-63-fold-by-combining-quantum-error-detection-and-mitigation/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-16T11:37:00.000Z",
-      "snippet": "Insider Brief Quantum error correction may not simply replace error mitigation as quantum computers improve. In fact, the two methods could instead work together to make reliable computations possible with fewer resources, according to an IBM study. IBM researchers combined an error-detection protocol with a statistical error-mitigation technique and tested the approach on a superconducting […]"
-    },
-    {
-      "title": "Anderon Finalizes $1 Billion CHIPS Award for Quantum Wafer Manufacturing",
-      "link": "https://thequantuminsider.com/2026/09/16/anderon-1-billion-chips-award-quantum-wafer-manufacturing/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-16T11:30:12.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Today, Anderon LLC (“Anderon”), an IBM (NYSE: IBM) company, announced the finalization of a $1 billion award under the CHIPS and Science Act with the U.S. Department of Commerce (the “Department”). The award will accelerate Anderon’s R&D efforts to advance the nation’s quantum wafer manufacturing capabilities. Announced in May under […]"
-    },
-    {
-      "title": "CSIC Opens Quantum Nanofabrication Facility in Barcelona",
-      "link": "https://thequantuminsider.com/2026/09/16/csic-spain-quantum-chip-device-facility-barcelona/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-16T11:18:48.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — The Spanish National Research Council (CSIC), an organization under the Ministry of Science, Innovation, and Universities (MICIU), has inaugurated the Quantum Nanofabrication Area of the Micro and Nanofabrication Clean Room at the Institute of Microelectronics of Barcelona (IMB-CNM), the largest research facility of its kind in Spain. CSIC President Eloísa […]"
-    },
-    {
-      "title": "Casper College Receives $444,059 NSF Grant for Quantum Education",
-      "link": "https://thequantuminsider.com/2026/09/16/casper-college-444059-nsf-grant-quantum-education/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-16T11:06:48.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — An NSF Grant awarded to Casper College is bringing quantum physics into hands-on reality for students across the state. Thanks to a recently awarded $444,059 grant from the National Science Foundation, Casper College is leading a statewide initiative to prepare students from Wyoming and around the country for the next […]"
-    },
-    {
-      "title": "Beijing Launches Program to Connect Quantum Companies With Industrial Customers",
-      "link": "https://thequantuminsider.com/2026/09/16/beijing-launches-program-to-connect-quantum-companies-with-industrial-customers/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-16T08:19:49.000Z",
-      "snippet": "Insider Brief Beijing has launched a program to connect quantum technology companies with prospective customers in transportation, energy, finance and other industries, part of a broader effort to move the sector from laboratory research toward commercial applications. The “Scenario Handshake Plan” will match quantum companies and university research teams with businesses and government bodies see"
     }
   ],
   "education": [
@@ -1407,13 +1393,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-09-16T19:46:28.000Z",
       "snippet": "For many higher ed institutions, budgeting for artificial intelligence lately can look a lot like dropping quarters into a magic Zoltar fortune teller machine: You put your tokens in to get an answer, but you have no idea what it’s going to truly cost you until the bill comes. The allure of AI is real, but many are signing up without reading the fine print on consumption pricing. \n“We’re being ask"
-    },
-    {
-      "title": "Quit saying “I’m not a math person”",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/16/quit-saying-im-not-a-math-person/",
-      "source": "eSchool News",
-      "published": "2026-09-16T10:00:00.000Z",
-      "snippet": "It’s quite rare to hear someone say, “I can’t read” or “I’m illiterate so I don’t read.” On the other hand, lots of people claim that they’re “not a math person.” The phrase isn’t just “I don’t like math.”"
     }
   ]
 }
