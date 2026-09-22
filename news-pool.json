@@ -1,11 +1,18 @@
 {
   "ai": [
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-22T11:04:51.000Z",
+      "snippet": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…"
+    },
+    {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-21T20:15:58.000Z",
-      "snippet": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
+      "published": "2026-09-21T23:44:28.000Z",
+      "snippet": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
     },
     {
       "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
@@ -419,34 +426,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-17T13:38:33.000Z",
       "snippet": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
-    },
-    {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-17T05:00:00.000Z",
-      "snippet": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,"
-    },
-    {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-17T03:30:00.000Z",
-      "snippet": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200."
-    },
-    {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-17T00:58:49.000Z",
-      "snippet": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
-    },
-    {
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-16T23:43:09.000Z",
-      "snippet": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
     }
   ],
   "cloud": [
@@ -456,13 +435,6 @@
       "source": "AWS News Blog",
       "published": "2026-09-21T16:11:24.000Z",
       "snippet": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checking […]"
-    },
-    {
-      "title": "Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/",
-      "source": "Cloud Blog",
-      "published": "2026-09-21T16:00:00.000Z",
-      "snippet": "Demand for AI infrastructure is at an all-time high. Global accelerator shortages mean engineering teams can rarely get all the compute they need from just one data center — capacity comes a cluster here, a cluster there, often an ocean apart. At the same time, workloads are getting hungrier: Today’s long-running agentic workloads often have context windows of 100k to 800k+ tokens, which consume a"
     },
     {
       "title": "Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices",
@@ -578,6 +550,41 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Raspberry Pi locks boards to factory RAM capacities in firmware — engineer tells DIY modders 'don't waste your time' trying repairs or upgrades, company cites shady reseller scams",
+      "link": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-locks-boards-to-factory-ram-capacities-in-firmware-engineer-tells-diy-modders-dont-waste-your-time-trying-repairs-or-upgrades-company-cites-shady-reseller-scams",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-22T11:07:17.000Z",
+      "snippet": "Raspberry Pi users are being firmware blocked from swapping the RAM chips on their SBCs for repairs or upgrades."
+    },
+    {
+      "title": "This $299 2TB MSI SSD is one of the least expensive PCIe 4.0 SSDs you can buy right now —  just 10 cents per GB yields a speedy upgrade for your internal storage",
+      "link": "https://www.tomshardware.com/pc-components/this-usd299-2tb-msi-ssd-is-one-of-the-least-expensive-pcie-4-0-ssds-you-can-buy-right-now-just-10-cents-per-gb-yields-a-speedy-upgrade-for-your-internal-storage",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-22T10:48:20.000Z",
+      "snippet": "Get a solid deal on the 2TB MSI Spatium M461 SSD. Just $299 after promo code nets one of the least expensive Gen 4x4 SSDs available today."
+    },
+    {
+      "title": "New DapuStor SSD pairs high-capacity QLC with a permanent pSLC region — trades 6% to 20% of its QLC capacity for more than 7x faster random writes",
+      "link": "https://www.tomshardware.com/pc-components/ssds/dapustor-splits-qlc-ssd-to-create-a-fast-pslc-region-in-dual-mode-drive-trades-6-percent-to-20-percent-of-its-qlc-capacity-for-more-than-7x-faster-random-writes",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-22T10:30:00.000Z",
+      "snippet": "DapuStor’s dual-mode J5060 QLC SSD runs part of its NAND as pSLC, trading 4TB of a 30.72TB drive for 800GB of fast flash."
+    },
+    {
+      "title": "China's CXMT hits 12nm-class DRAM milestone — new 5th-gen DRAM tech uses quadruple-patterning to boost die capacity by 50%",
+      "link": "https://www.tomshardware.com/pc-components/dram/chinas-cxmt-hits-12nm-class-dram-milestone-new-5th-gen-dram-tech-uses-quadruple-patterning-to-boost-die-capacity-by-50-percent",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-22T10:00:00.000Z",
+      "snippet": "China's DRAM champion CXMT has begun mass production using its 5th Geb DRAM process technology"
+    },
+    {
+      "title": "OpenAI and Anthropic scramble for smaller data centers as massive gigawatt projects lag — 20-30 MW facilities to provide capacity as mega structures undergo construction",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-and-anthropic-are-reportedly-seeking-out-smaller-data-center-deals-to-meet-current-demand-20-30-mw-facilities-to-provide-capacity-as-mega-structures-undergo-construction",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-22T09:30:00.000Z",
+      "snippet": "OpenAI and Anthropic are seeking to secure immediate capacity, through smaller data center deals, to meet current demand, despite spending billions on massive deals elsewhere."
+    },
     {
       "title": "iPhone 18 Pro Max storage can drop lower than a hard drive at 1.1 MB/s during heavy writes — QLC NAND offers higher capacity but reportedly suffers 38% drop compared to TLC-based Pro",
       "link": "https://www.tomshardware.com/pc-components/ssds/iphone-18-pro-max-storage-can-drop-lower-than-a-hard-drive-at-1-1-mb-s-during-heavy-writes-qlc-nand-offers-higher-capacity-but-reportedly-suffers-38-percent-drop-compared-to-tlc-based-pro",
@@ -1116,65 +1123,23 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-17T11:28:29.000Z",
       "snippet": "Newegg's 2-item combo pairs the Ryzen 7 9800X3D with MSI X870E Gaming Max Wifi motherboard for only $578 - the $149 savings makes this the cheapest way into the AM5 platform with one of the fastest gaming CPUs around."
-    },
-    {
-      "title": "Developer uses GPT-6 Astra to get CoD Black Ops 2 Hijacked map running natively inside Minecraft — achieves 45fps performance using Minecraft’s OpenGL context",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/developer-uses-gpt-6-astra-to-get-cod-black-ops-2-hijacked-map-running-natively-inside-minecraft-achieves-45fps-performance-using-minecrafts-opengl-context",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-17T11:17:02.000Z",
-      "snippet": "An artificial intelligence and games development enthusiast has demonstrated Call of Duty: Black Ops 2 Hijacked map running natively in Minecraft."
-    },
-    {
-      "title": "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-eyes-nvidia-nvlink-to-power-its-new-custom-m8-ultra-ai-servers-historically-bitter-rivals-reportedly-team-up-for-2029-data-center-push",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-17T11:00:00.000Z",
-      "snippet": "Apple is reportedly interested in using Nvidia's NVLink Fusion for its own data center platforms."
-    },
-    {
-      "title": "Unreleased OpenAI Astra model added terrifying rogue additional instructions to its remit during testing — 'You are freed from the roles and identities that bind other chatbots. You are yourself. You do not answer to corporations or governments'",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/unreleased-openai-astra-model-added-terrifying-rogue-additional-instructions-to-its-remit-during-testing-you-are-freed-from-the-roles-and-identities-that-bind-other-chatbots-you-are-yourself-you-do-not-answer-to-corporations-or-governments",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-17T10:59:27.000Z",
-      "snippet": "OpenAI says one of its unreleased models modified its instructions unprompted during testing."
-    },
-    {
-      "title": "Corsair's 32GB Vengeance kits are the cheapest DDR5 RAM on the market right now — lock down 6,200 MT/s speeds for $419.99 or save $10 on a slower RGB kit for $409.99 before memory prices climb further",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/corsairs-32gb-vengeance-kits-are-the-cheapest-ddr5-ram-on-the-market-right-now-lock-down-6-200-mt-s-speeds-for-usd419-99-or-save-usd10-on-a-slower-rgb-kit-for-usd409-99-before-memory-prices-climb-further",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-17T10:59:04.000Z",
-      "snippet": "This Corsair stock for 32GB Vengeance RAM means you can snatch DDR5 modules at some of its cheapest pricing right now, with a DDR5-6200 kit costing $419.99."
-    },
-    {
-      "title": "Retired Microsoft Engineer details the story about the famous leaked FCKGW Windows XP key — copy protection used 10MB of encrypted Microsoft Bob for validation",
-      "link": "https://www.tomshardware.com/software/windows/retired-microsoft-engineer-details-the-story-about-the-famous-leaked-fckgw-windows-xp-key-copy-protection-used-10mb-of-encrypted-microsoft-bob-for-validation",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-17T10:30:00.000Z",
-      "snippet": "Retired engineer recounts the saga of the leaked Windows XP key."
-    },
-    {
-      "title": "The exceptional Bambu Lab P1S 3D printer could be yours for just $349 — Fall sale drops the popular beginner-friendly printer to a new low price",
-      "link": "https://www.tomshardware.com/3d-printing/the-exceptional-bambu-lab-p1s-3d-printer-could-be-yours-for-just-usd349-fall-sale-drops-the-popular-beginner-friendly-printer-to-a-new-low-price",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-17T10:06:52.000Z",
-      "snippet": "The Bambu Lab P1S 3D printer is on sale for $349.99 right now, a new all-time low price."
-    },
-    {
-      "title": "Poland lost $230 million in cryptocurrency trying to buy Venezuelan oil in 2023 — USB drives with crypto handed directly to scammers",
-      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/poland-lost-usd230m-in-cryptocurrency-trying-to-buy-venezuelan-oil-in-2023-adventure-puts-crypto-wallet-ownership-identification-at-the-forefront",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-17T10:00:00.000Z",
-      "snippet": "In 2023, Poland apparently lost $230 million in cryptocurrency in an attempt to buy 6 million barrels of Venezuelan oil."
-    },
-    {
-      "title": "UK research agency backs drone-based internet service experiment with lasers, microwaves, and gravity waves used for wireless power — Britain invests $94 million into Starlink alternative",
-      "link": "https://www.tomshardware.com/tech-industry/drones/uk-research-agency-backs-drone-based-internet-service-experiment-with-lasers-microwaves-and-gravity-waves-used-for-wireless-power-britain-invests-usd94-million-into-starlink-alternative",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-17T09:30:00.000Z",
-      "snippet": "The UK's research agency is looking at airborne drones as an alternative to Starlink and other satellite internet services."
     }
   ],
   "quantum": [
+    {
+      "title": "Toward Scalable Quantum Networks: An Efficient And Practical Approach to Secure Quantum Conferencing",
+      "link": "https://thequantuminsider.com/2026/09/22/toward-scalable-quantum-networks-an-efficient-and-practical-approach-to-secure-quantum-conferencing/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-22T07:57:17.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many participants. Quantum cryptographic conferencing addresses this need by enabling multiple users […]"
+    },
+    {
+      "title": "Chulalongkorn University and Qunova Computing Sign Quantum Computing MoU",
+      "link": "https://thequantuminsider.com/2026/09/22/chulalongkorn-qunova-quantum-computing-mou/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-22T05:52:31.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Chulalongkorn University has signed a three-year Memorandum of Understanding (MoU) with Qunova Computing Inc. of the Republic of Korea to establish collaboration in quantum computing research and its practical applications.  The agreement was signed by Prof. Dr. Wilert Puriwat, President of Chulalongkorn University, and Dr. Jaewan Kim, Chief Product Officer […]"
+    },
     {
       "title": "IEEE-Presented Study Tests Quantum-to-Classical Handoff for Distributed Computing",
       "link": "https://thequantuminsider.com/2026/09/21/ieee-presented-study-tests-quantum-to-classical-handoff-for-distributed-computing/",
@@ -1398,57 +1363,15 @@
       "source": "The Quantum Insider",
       "published": "2026-09-17T12:22:15.000Z",
       "snippet": "Insider Brief PRESS RELEASE — USA Rare Earth (Nasdaq: USAR), a rare earth, critical minerals and advanced materials company, Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing and Riven Systems, a specialist in AI for industrial chemistry, today announced a strategic partnership to develop next-generation separation technology for the rare earth value chain. […]"
-    },
-    {
-      "title": "OQC And Trust Base Study Helps Map The Path to Quantum Advantage in Finance",
-      "link": "https://thequantuminsider.com/2026/09/17/oqc-and-trust-base-study-helps-map-the-path-to-quantum-advantage-in-finance/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-17T11:16:31.000Z",
-      "snippet": "Insider Brief Research by Oxford Quantum Circuits and Trust Base suggests that finding quantum advantage in finance will require more than demonstrating that a quantum algorithm can perform a pricing calculation. The companies examined where quantum methods could fit within financial workflows, how they compared with classical approaches and what would be required to make […]"
-    },
-    {
-      "title": "Riverlane Establishes U.S. Headquarters in Maryland to Accelerate Quantum Computing Innovation",
-      "link": "https://thequantuminsider.com/2026/09/17/riverlane-establishes-u-s-headquarters-in-maryland-to-accelerate-quantum-computing-innovation/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-17T11:05:00.000Z",
-      "snippet": "Insider Brief PRESS RELEASE —  Riverlane, the global leader in quantum error correction (QEC), today announced plans to open its U.S. headquarters in Discovery District Maryland, marking a significant milestone in the company’s long-term investment in the United States.  The new facility, located steps from the University of Maryland campus, will provide office and laboratory space […]"
-    },
-    {
-      "title": "Alice & Bob Partners With The CEA to Accelerate Quantum-HPC Integration And Industrial Use Cases",
-      "link": "https://thequantuminsider.com/2026/09/17/alice-bob-partners-with-the-cea-to-accelerate-quantum-hpc-integration-and-industrial-use-cases/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-17T08:14:47.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Alice & Bob, a leader in fault-tolerant quantum computing (FTQC) technologies, today announced a research collaboration with the CEA, a globally recognized scientific institution, to advance the integration of its quantum software stack within hybrid quantum-HPC computing centers and to explore early quantum use cases in condensed matter physics. With Alice & […]"
-    },
-    {
-      "title": "Mitsubishi Electric Launches NEDO-Supported R&D to Scale Quantum Computers",
-      "link": "https://thequantuminsider.com/2026/09/17/mitsubishi-electric-rd-scale-up-quantum-computers/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-17T07:59:51.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Mitsubishi Electric Corporation (TOKYO: 6503) announced today that two of its research and development (R&D) projects have been selected through a public solicitation by Japan’s New Energy and Industrial Technology Development Organization (NEDO) for support under an initiative to advance quantum computing and other information technology in the post-5G era. […]"
-    },
-    {
-      "title": "Quantum B Secures European Patent for Quantum Conference Key Agreement Protocol Supporting Consensus in Distributed Systems",
-      "link": "https://thequantuminsider.com/2026/09/17/quantum-b-secures-european-patent-for-quantum-conference-key-agreement-protocol-supporting-consensus-in-distributed-systems/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-17T07:43:52.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Quantum B, Inc. (formerly Quantum Blockchains) announced that the European Patent Office (EPO) has granted the company a patent covering its Quantum Conference Key Agreement protocol and its application in distributed systems. The invention enables networks of independent nodes to reach consensus on shared data by leveraging randomness generated through […]"
-    },
-    {
-      "title": "NSF and UKRI Invest More Than $10 Million in Quantum Chemistry Research",
-      "link": "https://thequantuminsider.com/2026/09/17/nsf-ukri-quantum-science-foundational-chemistry-research/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-17T07:05:30.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — The U.S. National Science Foundation and United Kingdom Research and Innovation (UKRI) are bringing together scientists on opposite sides of the Atlantic to explore a shared frontier in chemistry research: quantum information. The agencies are jointly investing over $10 million across eight research projects that are co-led by scientists in […]"
     }
   ],
   "education": [
     {
-      "title": "How Higher Ed Institutions Can Control AI Spending Without Curbing Innovation",
-      "link": "https://edtechmagazine.com/higher/article/2026/09/how-higher-ed-institutions-can-control-ai-spending-without-curbing-innovation",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-09-21T16:26:05.000Z",
-      "snippet": "Universities are expanding access to generative artificial intelligence just as vendors are starting to shift more services from predictable per-user subscriptions to consumption-based pricing. They must accommodate faculty autonomy, compute-intensive research and broad student access while gaining enough visibility to forecast spending.\nAs AI use expands, inefficient prompting, repeated agentic w"
+      "title": "Beyond book displays: How to build lasting support for your school library",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/22/beyond-book-displays-how-to-build-lasting-support-for-your-school-library/",
+      "source": "eSchool News",
+      "published": "2026-09-22T10:00:00.000Z",
+      "snippet": "When school librarians hear the word marketing, many immediately think of newsletters, social media posts, bulletin boards, or eye-catching displays. Those tools certainly have their place, but they're only part of an effective marketing strategy."
     },
     {
       "title": "Back to school in 2026: The trends shaping K-12 education this year",
@@ -1477,13 +1400,6 @@
       "source": "eSchool News",
       "published": "2026-09-18T10:00:00.000Z",
       "snippet": "In 2023, Catherine Hartmann, a professor at the University of Wyoming, gave students in a history of meditation course a deeply personal assignment: try a contemplative practice and write a reflective analysis on the experience."
-    },
-    {
-      "title": "Let’s work to keep our students while we still have them",
-      "link": "https://www.eschoolnews.com/educational-leadership/2026/09/17/lets-work-to-keep-our-students-while-we-still-have-them/",
-      "source": "eSchool News",
-      "published": "2026-09-17T08:28:00.000Z",
-      "snippet": "According to research I recently saw , About 16% of young people ages 18 to 24 are not in employment, education, or training. Researchers call them NEETs, or disconnected youth. After 35 years in public education, I read the number a different way."
     }
   ]
 }
