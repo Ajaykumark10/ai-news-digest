@@ -1,13 +1,6 @@
 {
   "ai": [
     {
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-24T01:13:32.000Z",
-      "snippet": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses."
-    },
-    {
       "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
       "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -416,13 +409,6 @@
       "snippet": "For years, the workday looked remarkably consistent. Employees logged into devices, opened browsers and toggled across a dozen disconnected applications. Users acted as the bridge between apps, copying from one tab and pasting into another. Now, agentic workflows that are faster and allow employees to be even more productive are on the rise. Employees take the lead in defining outcomes of workflow"
     },
     {
-      "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
-      "source": "AWS News Blog",
-      "published": "2026-09-22T22:23:14.000Z",
-      "snippet": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience, with auto-discovered topology, natural language queries, and AI-guided investigation powered by AWS DevOps Agent."
-    },
-    {
       "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
       "source": "AWS News Blog",
@@ -480,6 +466,34 @@
     }
   ],
   "hardware": [
+    {
+      "title": "China’s ultimate gaming GPU hits a performance wall",
+      "link": "https://www.tomshardware.com/pc-components/gpus/chinas-ultimate-gaming-gpu-hits-a-performance-wall-lx-7g100-barely-crawls-past-amds-nine-year-old-rx-580",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-24T11:00:00.000Z",
+      "snippet": "The latest review of the Lisuan Tech LX 7G100 shows performance comparable to AMD's Radeon RX 580 but trails the GeForce RTX 2060."
+    },
+    {
+      "title": "Save big on this vivid 27-inch OLED monitor with fast 240Hz refresh rate",
+      "link": "https://www.tomshardware.com/pc-components/save-a-solid-usd150-on-this-vivid-27-inch-msi-oled-monitor-with-fast-240hz-refresh-rate-now-usd359-this-mag-qd-oled-model-is-close-to-its-lowest-price-ever-on-newegg",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-24T10:20:00.000Z",
+      "snippet": "Get this MSI 27-inch 4K QD-OLED monitor for just $359. Enjoy vibrant colors, true blacks, a 240Hz refresh rate, and ultra-fast response time —perfect for gaming and productivity, and one of the best deals around for the specs"
+    },
+    {
+      "title": "Samsung's disastrous firmware update bricks refrigerators ahead of South Korean holiday",
+      "link": "https://www.tomshardware.com/service-providers/samsungs-disastrous-firmware-update-breaks-refrigerators-ahead-of-south-korean-holiday-customers-complain-of-non-functioning-units-food-spoilage-ahead-of-three-day-celebration",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-24T10:00:00.000Z",
+      "snippet": "A broken Samsung update left many refrigerators stuck and non-functional. The incident, which happened right before a major holiday, has many users complaining of spoiled food and a ruined holiday."
+    },
+    {
+      "title": "CyberPowerPC lands rare RTX 50-series Founders Edition cards in discounted Walmart rigs",
+      "link": "https://www.tomshardware.com/pc-components/gpus/cyberpowerpc-lands-rare-rtx-50-series-founders-edition-cards-in-discounted-walmart-rigs-complete-rtx-5090-pc-costs-usd2-400-less-than-a-standalone-gpu",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-24T09:30:00.000Z",
+      "snippet": "CyberPowerPC is offering five different pre-built gaming PCs with either an RTX 5070, 5080, or 5090 Founders Edition GPUs paired with either an Intel or AMD X3D CPU. They also come with 32GB of DDR5 RAM and 1TB of NVMe SSD, all for reasonable prices."
+    },
     {
       "title": "Microsoft brings Snapdragon X2 Plus to 13-inch Surface Laptop, 12-inch Surface Pro",
       "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
@@ -1018,30 +1032,16 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-19T11:30:00.000Z",
       "snippet": "If Edison and Stephenson had teamed up to build a gaming PC, it might have looked like this custom copper and wood all-AMD design."
-    },
-    {
-      "title": "Elon Musk's Terafab hits a roadblock before making a single chip, receives cease-and-desist order — firm files trademark lawsuit, has sold Tera-Fab-branded lithography tools for over a decade",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-hits-a-roadblock-before-making-a-single-chip-receives-cease-and-desist-order-firm-files-trademark-lawsuit-has-sold-tera-fab-branded-lithography-tools-for-over-a-decade",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-19T11:00:00.000Z",
-      "snippet": "Elon Musk's Terafab semiconductor project has run into an unexpected trademark dispute with Tera-print, a small U.S. company that has used the Tera-Fab name for its tabletop lithography equipment for about a decade."
-    },
-    {
-      "title": "Intel suspends bug bounty program that paid up to $100,000 per flaw — new Intigriti disclosure program offers no rewards",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/intel-suspends-bug-bounty-program-that-paid-up-to-usd100-000-per-flaw-new-intigriti-disclosure-program-offers-no-rewards",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-19T10:30:00.000Z",
-      "snippet": "Intel’s bug bounty program on Intigriti now shows as suspended, and a new Intel disclosure program there pays no bounties."
-    },
-    {
-      "title": "Enthusiast digs into CPU substrate for surgery to replace ripped-off data pin — resurrected chip boots and hits 33% overclock",
-      "link": "https://www.tomshardware.com/pc-components/cpus/enthusiast-digs-into-cpu-substrate-to-replace-ripped-off-data-pin-resurrected-chip-boots-and-hits-33-percent-overclock",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-19T10:00:00.000Z",
-      "snippet": "An Intel Celeron 1200 (Tualatin) was revived from the dead after a ripped-off pin was successfully replaced."
     }
   ],
   "quantum": [
+    {
+      "title": "Chattanooga Schools Begin K–12 Quantum Technology Curriculum",
+      "link": "https://thequantuminsider.com/2026/09/24/chattanooga-schools-begin-k-12-quantum-technology-curriculum/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-24T07:14:11.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — As EPB launches its quantum computer, the TN QuantumWorks K–12 quantum technology and career awareness curriculum is now being implemented in Hamilton County classrooms. Announced earlier this year, the curriculum includes programs for four age groups: grades K–2, grades 3–5, middle school, and high school. TN QuantumWorks is designed to […]"
+    },
     {
       "title": "CGI And D-Wave Quantum Partner to Advance Enterprise Quantum Adoption",
       "link": "https://thequantuminsider.com/2026/09/23/d-wave-quantum-partner-to-advance-enterprise-quantum-adoption/",
@@ -1237,16 +1237,16 @@
       "source": "The Quantum Insider",
       "published": "2026-09-19T13:12:16.000Z",
       "snippet": "Insider Brief For a committee advising the U.S. government on fault-tolerant quantum computing, the message appears to be money talks, but qubits still have to walk. A proposed national quantum computing user facility would depend on quantum systems first demonstrating validated scientific value, technical maturity and demand from researchers, according to a Department of Energy […]"
-    },
-    {
-      "title": "Tom Darras (Welinq): Scaling quantum computers by networking shared entanglement",
-      "link": "https://thequantuminsider.com/2026/09/19/tom-darras-welinq-scaling-quantum-computers-by-networking-shared-entanglement/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-19T07:00:00.000Z",
-      "snippet": "Yuval Boger interviews Tom Darras, CEO and co-founder of Welinq. They discuss how quantum networking uses shared entanglement to interconnect quantum processors, enabling modular scale-out clusters and quantum-safe connectivity between data centers. Tom explains the technical building blocks—qubit-photon interfaces, optical networks, entangled photon sources, and especially quantum memories—as wel"
     }
   ],
   "education": [
+    {
+      "title": "An early childhood classroom: Supporting emotional well-being amid everyday challenges",
+      "link": "https://www.eschoolnews.com/sel/2026/09/24/an-early-childhood-classroom-supporting-emotional-well-being-amid-everyday-challenges/",
+      "source": "eSchool News",
+      "published": "2026-09-24T10:42:00.000Z",
+      "snippet": "Early childhood classrooms are seeing a clear shift. Young children are starting school feeling increasingly worried and overwhelmed compared to years past."
+    },
     {
       "title": "Abre Launches “Vera,” Analytics Agent Built to Retire Static K-12 Dashboards",
       "link": "https://www.eschoolnews.com/newsline/2026/09/23/abre-launches-vera-analytics-agent-built-to-retire-static-k-12-dashboards/",
@@ -1260,13 +1260,6 @@
       "source": "eSchool News",
       "published": "2026-09-23T10:00:00.000Z",
       "snippet": "In my eight years as a high school CTE, Engineering and Architecture Pathway instructor, I have witnessed students and their families struggle to navigate their career trajectory. Every year, I hear three scenarios: “I think I know what I want to do,” “My parents want me to be a…,” and “I have no idea what I want to do.”"
-    },
-    {
-      "title": "Why the Right Infrastructure for Higher Ed AI Workloads Might Be Hybrid",
-      "link": "https://edtechmagazine.com/higher/article/2026/09/why-right-infrastructure-higher-ed-ai-workloads-might-be-hybrid",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-09-22T17:43:40.000Z",
-      "snippet": "As higher education institutions become more experienced with using artificial intelligence in their workflows, they are looking to optimize operations with the technology infrastructure that best meets their needs. For a growing number of colleges and universities, this means running AI workloads in hybrid environments.\nIn fact, IDC predicts that by 2028, 75% of enterprise AI workloads will be de"
     },
     {
       "title": "Beyond book displays: How to build lasting support for your school library",
