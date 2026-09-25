@@ -1,6 +1,55 @@
 {
   "ai": [
     {
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T16:16:52.000Z",
+      "snippet": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond."
+    },
+    {
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T15:48:14.000Z",
+      "snippet": "The latest unauthorized agent swarms were discovered by researchers."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T15:00:00.000Z",
+      "snippet": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends."
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T14:15:00.000Z",
+      "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
+    },
+    {
+      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+      "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T14:00:00.000Z",
+      "snippet": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle."
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-25T09:16:25.000Z",
+      "snippet": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…"
+    },
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T05:00:00.000Z",
+      "snippet": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+    },
+    {
       "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
       "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -13,6 +62,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-24T19:00:42.000Z",
       "snippet": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+    },
+    {
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-24T18:11:44.000Z",
+      "snippet": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
     },
     {
       "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
@@ -437,6 +493,27 @@
   ],
   "cloud": [
     {
+      "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
+      "source": "Cloud Blog",
+      "published": "2026-09-25T16:00:00.000Z",
+      "snippet": "Reinforcement learning (RL) has been a keystone of modern LLM post-training, but it demands large training clusters and access to model internals that external customers can't have with proprietary models like Gemini. So here at Google Cloud, we packaged it into a managed RL fine-tuning service (RLFT service) — you bring prompts and a reward function; we handle the infrastructure and the proprieta"
+    },
+    {
+      "title": "Storage Intelligence advisor: Know what changed in your storage estate and act on it",
+      "link": "https://cloud.google.com/blog/products/storage-data-transfer/storage-intelligence-advisor-and-batch-operations-updates/",
+      "source": "Cloud Blog",
+      "published": "2026-09-25T16:00:00.000Z",
+      "snippet": "The volume of data being generated today brings both opportunity and massive operational complexity. Most teams that operate at scale don't discover issues until they appear on an invoice — and by the time an unusual access pattern shows up as a line item, it has often been running for weeks. Understanding what happened means exporting inventory, joining it against access logs, and hoping someone "
+    },
+    {
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "source": "Cloud Blog",
+      "published": "2026-09-25T16:00:00.000Z",
+      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nSept 21 - "
+    },
+    {
       "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/",
       "source": "Cloud Blog",
@@ -458,11 +535,25 @@
       "snippet": "We’re excited and proud to share that Gartner has recognized Google as a Leader for the fourth year in a row in the 2026 Gartner® Magic Quadrant™ for Container Management, based on its Completeness of Vision and Ability to Execute. Google was positioned highest in Ability to Execute of all vendors evaluated and we believe this validates the success of our mission to deliver a container platform th"
     },
     {
+      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
+      "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
+      "source": "Microsoft Azure Blog",
+      "published": "2026-09-24T18:00:00.000Z",
+      "snippet": "The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.\nThe post Ship agents faster with expanded model choice, voice agents, and continuous optimization appeared first on Microsoft Azure Blog."
+    },
+    {
       "title": "Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise",
       "link": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
       "source": "Cloud Blog",
       "published": "2026-09-24T16:00:00.000Z",
       "snippet": "Scribd, Inc. is home to one of the world's largest collections of human-created content. \nScribd’s  products leverage one of the world's largest collections of human-created content and intelligent tools to help people move from information access to real understanding and application.\nThis past year, Scribd used Gemini's native PDF understanding and Gemini Enterprise batch prediction to run trust"
+    },
+    {
+      "title": "Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
+      "source": "Cloud Blog",
+      "published": "2026-09-24T16:00:00.000Z",
+      "snippet": "Enterprises are increasingly standardizing on Google Kubernetes Engine (GKE) to run their most critical and AI-driven workloads. From Cloud Storage FUSE for high-throughput data access to custom compute classes (CCC) and advanced GPU slicing, GKE provides the scale and efficiency required for modern applications.\nHowever, migrating complex Kubernetes environments from AWS EKS to GKE has traditiona"
     },
     {
       "title": "Power your agents: Gemini 3.8 Live with Live Avatar is now generally available",
@@ -620,6 +711,111 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub",
+      "link": "https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T15:00:22.000Z",
+      "snippet": "Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level."
+    },
+    {
+      "title": "Meta Muse runs agents on AMD EPYC Turin hosts with two cores and 8GB of memory",
+      "link": "https://www.tomshardware.com/pc-components/cpus/meta-muse-runs-agents-on-amd-epyc-turin-hosts-with-two-cores-and-8gb-of-memory-ai-agent-can-pass-terminal-commands-to-ubuntu-host-system",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T14:56:36.000Z",
+      "snippet": "Meta's new Muse AI agent is powered by AMD EPYC Turin hosts, with each user getting a private sandbox with two vCPUs and 8GB of memory."
+    },
+    {
+      "title": "Noctua explores 2,000W micro-channel air cooling",
+      "link": "https://www.tomshardware.com/pc-components/air-cooling/noctua-explores-2-000w-micro-channel-air-cooling-partners-with-forced-physics-to-develop-vacuum-pump-level-airflow-for-desktop-pcs",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T14:42:58.000Z",
+      "snippet": "Noctua and Forced Physics are exploring whether densely packed micro-channels can provide extreme cooling performance without the noise associated with high-pressure airflow"
+    },
+    {
+      "title": "Save $250 on this award-winning Elegoo resin 3D printer with an integrated heater and 16K resolution",
+      "link": "https://www.tomshardware.com/3d-printing/save-usd250-on-this-award-winning-elegoo-resin-3d-printer-with-an-integrated-heater-and-16k-resolution-39-percent-discount-on-the-saturn-4-ultra-16k-gets-you-a-hugely-accurate-printer-with-fast-speeds-and-a-tilt-release-vat",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T13:33:16.000Z",
+      "snippet": "This Elegoo Saturn 4 Ultra, one of the best resin 3D printers you can buy, is on sale for $359 right now, saving you 40% on its usual price."
+    },
+    {
+      "title": "Gamemax RGB PRO 750G power supply review: Efficient, but pricey for an average unit with pretty lights",
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/gamemax-rgb-pro-750g-power-supply-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T13:00:00.000Z",
+      "snippet": "Gamemax charges $105 for an average power supply with RGB lighting. The Sohoo platform underneath measures well enough, but the fan, the capacitors, and the warranty all sit below what the price should buy."
+    },
+    {
+      "title": "DDR5 laptop memory prices surge 6X in 12 months",
+      "link": "https://www.tomshardware.com/laptops/laptop-maker-says-ddr5-so-dimms-are-6x-pricier-than-last-year-schenker-says-other-component-costs-are-rising-too-announces-price-hikes",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T13:00:00.000Z",
+      "snippet": "XMG noted that SO-DIMM prices have jumped 6x, with other components like PCBs, CPUs, and GPUs also facing increasing costs. This has forced the niche laptop manufacturer to bump their SRPs between $113 and $342."
+    },
+    {
+      "title": "Nintendo wins $4.5 million lawsuit against Switch pirate by default",
+      "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-wins-usd4-5-million-lawsuit-against-switch-pirate-by-default-defendant-allegedly-moderated-r-switchpirates-and-sold-pirated-switch-games",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T12:26:21.000Z",
+      "snippet": "A Washington court granted Nintendo of America a $4.5 million default judgment after the defendant failed to appear in court and respond to the allegations. The company claimed that it sent a cease-and-desist letter and the respondent even answered via email saying they will comply and cooperate, but they have since cut-off communications."
+    },
+    {
+      "title": "Microsoft revamps Copilot with new tools, support for frontier models",
+      "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-revamps-copilot-with-new-tools-support-for-frontier-models-available-now-through-frontier-program",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T12:00:00.000Z",
+      "snippet": "Microsoft is revamping Copilot into a singular AI workspace, mixing your projects and agents together. It will also be able to support third-party frontier models."
+    },
+    {
+      "title": "Intel expects 14A to be 'within 5%' the performance of TSMC's A14",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-expects-14a-to-be-within-5-percent-the-performance-of-tsmcs-a14-conservative-forecast-clashes-with-18as-frequency-lead-and-promised-20-percent-gains",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T12:00:00.000Z",
+      "snippet": "Intel's Naga Chandrasekaran now claims that Intel 14A node will deliver performance 'within 5%' of TSMC's A14 technology, a claim that requires a closer examination."
+    },
+    {
+      "title": "Asus confirms eShop data breach exposed customer order records and contact details",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/asus-online-store-hit-by-data-breach-customer-contact-details-and-order-information-revealed",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T11:30:00.000Z",
+      "snippet": "Asus eShop hit by data breach — customer contact details and order information revealed"
+    },
+    {
+      "title": "New Jersey hits Microsoft-linked AI data center with record fine for 62 unpermitted power generators, issues 45-day shutdown deadline",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/new-jersey-fines-data-center-for-using-unpermitted-power-generators-microsoft-linked-site-also-in-trouble-with-community-for-noise-pollution-other-issues",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T11:00:00.000Z",
+      "snippet": "The DataOne data center is facing a record fine of $1.07 million for operating portable turbine generators without permission. Residents say that the penalty is a drop in the bucket for these big tech companies."
+    },
+    {
+      "title": "Grab this 4K-ready RTX 5070 Ti gaming PC from HP for under $1,900 right now",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-this-4k-ready-rtx-5070-ti-gaming-pc-from-hp-for-under-usd1-900-right-now-powerful-omen-35l-machine-is-a-serious-bargain-with-a-20-core-intel-cpu-32gb-ddr5-ram-and-a-1tb-ssd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T10:51:36.000Z",
+      "snippet": "This epic HP Omen 45L gaming rig is one of the cheapest RTX 5070 Ti PC you can buy right now, fitted with a Intel Core i7-14700F, 32GB of DDR RAM, and a 1TB SSD for just $1,899.99."
+    },
+    {
+      "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T10:30:00.000Z",
+      "snippet": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W."
+    },
+    {
+      "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T10:00:00.000Z",
+      "snippet": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it."
+    },
+    {
+      "title": "OpenAI agent got into Australia's Medicare stats portal with 84-day notification delay",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/australian-pm-says-openai-took-84-days-to-email-agency-after-agent-hacked-its-national-health-care-portal-incident-is-believed-to-be-the-first-known-case-of-ai-breaching-a-government-site",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-24T20:34:31.000Z",
+      "snippet": "Australia says an OpenAI agent got past blocks on a Medicare statistics portal in June. OpenAI's notification arrived in September."
+    },
     {
       "title": "Sony patent could turn PlayStation controllers into tap-to-pay credit card terminals",
       "link": "https://www.tomshardware.com/video-games/console-gaming/sony-patent-could-turn-playstation-controllers-into-tap-to-pay-credit-card-terminals-nfc-and-bluetooth-also-support-phones-and-gift-cards-for-instant-purchases",
@@ -1123,121 +1319,72 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-20T20:30:42.000Z",
       "snippet": "The Wolfbox MF60 packs dual 2,500mAh batteries, three fan speeds, USB Type-C charging, and multiple nozzles into a compact wireless air duster designed for cleaning PCs, laptops, keyboards, and more."
-    },
-    {
-      "title": "Dell Pro 7 Webcam 4K Review: Sounds surprisingly great",
-      "link": "https://www.tomshardware.com/peripherals/webcams/dell-pro-7-webcam-4k-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T15:11:14.000Z",
-      "snippet": "The Dell Pro 7 is a 4K / 60 fps webcam with surprisingly high-quality built-in mics, a built-in physical privacy shutter, and Windows Hello compatibility."
-    },
-    {
-      "title": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T14:48:57.000Z",
-      "snippet": "A proposed class action lawsuit has been lodged against the four big AI tech companies after they agreed to slow AI development for safety reasons. The lead counsel on the lawsuit says that 'AI will quickly spin out of control and could kill us all if we allow AI safety and protocol ... to be controlled by private self-serving agreements between the world's most powerful 'for profit' technology co"
-    },
-    {
-      "title": "The PC gaming ray tracing obsession began with the first RTX 20 graphics cards released on this day in 2018 — the GeForce RTX 2080 and 2080 Ti led the charge, but games were thin on the ground",
-      "link": "https://www.tomshardware.com/pc-components/gpus/the-pc-gaming-ray-tracing-obsession-began-with-the-first-rtx-20-graphics-cards-released-on-this-day-in-2018-the-geforce-rtx-2080-and-2080-ti-led-the-charge-but-games-were-thin-on-the-ground",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T14:05:31.000Z",
-      "snippet": "Nvidia’s Turing GPU became available to enthusiasts for the first time on this day eight years ago."
-    },
-    {
-      "title": "Researchers build a drone that navigates with physical whiskers to operate in dark, dusty or smoky places where cameras or GPS can fail — sub-100 gram drones run 34KB software to enable sub-millimeter precision",
-      "link": "https://www.tomshardware.com/tech-industry/drones/researchers-build-a-drone-that-navigates-with-physical-whiskers-to-operate-in-dark-dusty-or-smoky-places-where-cameras-or-gps-can-fail-sub-100-gram-drones-run-34kb-software-to-enable-sub-millimeter-precision",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T13:48:11.000Z",
-      "snippet": "Whiskers attached to three pressure sensors at their base could help drones find their way around their environment purely through touch. This lightweight system emulates the vibrissae found on mice and other small mammals that help them navigate in the dark."
-    },
-    {
-      "title": "Final Fantasy VII Revelation might use upwards of 200 GB and requires an additional download — latest entry in the series of remakes may set a new record for the size of a base install",
-      "link": "https://www.tomshardware.com/video-games/final-fantasy-vii-revelation-might-use-upwards-of-200-gb-and-requires-an-additional-download-latest-entry-in-the-series-of-remakes-may-set-a-new-record-for-the-size-of-a-base-install",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T13:30:00.000Z",
-      "snippet": "Final Fantasy VII Revelation might use upwards of 200 GB and requires an additional download — latest entry in the series of remakes may set a new record for the size of a base install"
-    },
-    {
-      "title": "Microsoft patents system to freeze games and inject ads during downtimes — watching commercials earns ad-free playtime credits",
-      "link": "https://www.tomshardware.com/video-games/microsoft-patents-system-to-freeze-games-and-inject-ads-during-downtimes-watching-commercials-earns-ad-free-playtime-credits",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T13:00:00.000Z",
-      "snippet": "This patent uses the game engine and machine learning to determine the best time to serve an ad."
-    },
-    {
-      "title": "Prusa CORE One+ INDX review: Time for a 'Tool' change",
-      "link": "https://www.tomshardware.com/3d-printing/prusa-core-one-plus-indx-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T13:00:00.000Z",
-      "snippet": "Prusa Research reenters the toolchanger category with a little help from Bondtech."
-    },
-    {
-      "title": "Massive 192GB GTA leak reveals early GTA VI map and canceled DLCs — files show liquid nitrogen death for Trevor and scrapped Liberty City expansion",
-      "link": "https://www.tomshardware.com/video-games/massive-192gb-gta-leak-reveals-early-gta-vi-map-and-canceled-dlcs-files-show-liquid-nitrogen-death-for-trevor-and-scrapped-liberty-city-expansion",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T12:35:00.000Z",
-      "snippet": "The massive leak revealed early efforts in the development of GTA VI, as well as unreleased side missions, alternate endings, and even planned DLCs that never came to fruition."
-    },
-    {
-      "title": "Noctua fans prevent the CAIM1 ‘Anti-AI’ 4K camera from throttling — unusual camera’s processor gets toasty as it records while performing cryptographic calculations",
-      "link": "https://www.tomshardware.com/pc-components/air-cooling/noctua-fans-prevent-the-caim1-anti-ai-4k-camera-from-throttling-unusual-cameras-processor-gets-toasty-as-it-records-while-performing-cryptographic-calculations",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T12:20:57.000Z",
-      "snippet": "A premium PC DIY fan brand has announced that one of its prized spinners is being used in an 'Anti-AI' 4K camera to prevent throttling."
-    },
-    {
-      "title": "North Korea used job interviews to deploy malware on 30,000 devices during coding tests — WaterPlum group loots $10.7 million in crypto and plants persistent RATs",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/north-korea-used-job-interviews-to-deploy-malware-on-30-000-devices-during-coding-tests-waterplum-group-loots-usd10-7-million-in-crypto-and-plants-persistent-rats",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T12:10:00.000Z",
-      "snippet": "Multiple government agencies across the world released a warning that North Korean hackers are posting fake jobs to install malware on unsuspecting applicants' computers. They then steal credentials and cryptocurrency from their victims, with over $10 million reported stolen."
-    },
-    {
-      "title": "Kash Patel says that AI use at the FBI has 'increased by 605%' since he became director — claims that every major tech player is 'embedded' in the agency",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/kash-patel-says-that-ai-use-at-the-fbi-has-increased-by-605-percent-since-he-became-director-claims-that-every-major-tech-player-is-embedded-in-the-agency",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T11:45:00.000Z",
-      "snippet": "FBI Director Kash Patel stated in an interview that he's responsible for a \"605% increase\" in the bureau's usage of AI. The problem is that it's hard to pin down what the figure refers to."
-    },
-    {
-      "title": "Autonomous NATO strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms",
-      "link": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T11:20:00.000Z",
-      "snippet": "Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo."
-    },
-    {
-      "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T10:55:00.000Z",
-      "snippet": "Chief executive of Nvidia claims that fears that AI will destroy humanity in the coming years are unsubstantiated as safety mechanisms can preserve that."
-    },
-    {
-      "title": "Putin casts online vote using unlicensed Windows on an American Dell PC — 'Activate Windows' watermark visible in official Kremlin clip, uses foreign Dell PC despite Russian tech mandate",
-      "link": "https://www.tomshardware.com/software/windows/putin-casts-online-vote-using-unlicensed-windows-on-an-american-dell-pc-activate-windows-watermark-visible-in-official-kremlin-clip-uses-foreign-dell-pc-despite-russian-tech-mandate",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T10:30:00.000Z",
-      "snippet": "An official Russian media clip shows Putin voting on a Dell PC with an unlicensed copy of Windows."
-    },
-    {
-      "title": "Collapse of mainstream optical drive supply kills high-end CD players — PS Audio and Naim halt production as component costs double",
-      "link": "https://www.tomshardware.com/peripherals/audiophiles-in-trouble-as-manufacturers-cease-optical-drive-production-hi-fi-cd-players-require-extensive-rework-to-use-components-from-other-companies",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T10:05:00.000Z",
-      "snippet": "PS Audio and Naim had to cease production of two Hi-Fi models as manufacturers quit making optical drives, even as CD and vinyl have hit record sales in recent months."
-    },
-    {
-      "title": "Google's simulated fruit fly brain 'mines Bitcoin' in web browser proof of concept — FutureBit says real organic neuron miner could have '10x the efficiency of the best silicon 3nm ASICs'",
-      "link": "https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T09:40:00.000Z",
-      "snippet": "A project claimed to represent 'the first organic neuron Bitcoin miner based on the fly brain' has gone live."
     }
   ],
   "quantum": [
+    {
+      "title": "Guest Post: Quantum Investment May Start With Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/09/25/quantum-investment-post-quantum-security/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T12:24:49.000Z",
+      "snippet": "Guest Post By Courtney Olujobi, Principal at Moon Pursuit Capital. From an investment perspective, one of the first significant markets created by quantum computing may have very little to do with buying access to quantum computers themselves. It may come from the amount of capital businesses will need to spend protecting the financial systems, digital […]"
+    },
+    {
+      "title": "DRDO Partners With Zero mK India on 20 mK Quantum Refrigerator",
+      "link": "https://thequantuminsider.com/2026/09/25/drdo-zero-mk-india-20-mk-dilution-refrigerator/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T12:13:55.000Z",
+      "snippet": "Insider Brief India’s Defence Research and Development Organisation (DRDO) has entered its first high-value deep-tech project agreement under the Technology Development Fund scheme, partnering with start-up Zero mK India Private Limited to build an indigenous 20 mK dilution refrigerator for quantum applications, India Blooms reported. The agreement was signed in New Delhi by the Director […]"
+    },
+    {
+      "title": "China’s Qingxing Raises Nearly 100 Million Yuan to Develop Quantum-Inspired AI",
+      "link": "https://thequantuminsider.com/2026/09/25/chinas-qingxing-raises-nearly-100-million-yuan-to-develop-quantum-inspired-ai/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T12:06:19.000Z",
+      "snippet": "Insider Brief Qingxing Heterogeneous Computing completed a Series A+ funding round, bringing its total raised across two rounds in three months to nearly 100 million yuan (about $14.9 million) to develop quantum-inspired AI. Its RiverONE model runs on conventional GPUs and reportedly achieved at least 95% of a larger comparison model’s performance on a specialized […]"
+    },
+    {
+      "title": "CGI Federal, DLA and UT Knoxville Study Quantum Computing for Logistics",
+      "link": "https://thequantuminsider.com/2026/09/25/dla-ut-knoxville-applied-research-agreement/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T11:54:54.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — CGI Federal Inc. (CGI Federal), a leading provider of technology and professional services for the U.S. government, today announced that it has entered into an agreement with the U.S. Defense Logistics Agency (DLA) and the University of Tennessee, Knoxville (UT) to conduct applied research and development to examine how agentic artificial intelligence […]"
+    },
+    {
+      "title": "Chinese Scientists Say Compact Quantum Magnetometer Tracks Hidden Targets in Field Tests",
+      "link": "https://thequantuminsider.com/2026/09/25/chinese-scientists-say-compact-quantum-magnetometer-tracks-hidden-targets-in-field-tests/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T11:32:11.000Z",
+      "snippet": "Insider Brief Chinese researchers developed a compact quantum magnetometer that detected underground train activity, located a buried magnet and monitored a geomagnetic storm in field tests. The instrument uses a small sensing probe — about the the size of two dice placed side by side — and automatically restores measurements within a second after strong […]"
+    },
+    {
+      "title": "Mphasis and Copa Airlines Host Quantum Computing Challenge for Airline Optimization",
+      "link": "https://thequantuminsider.com/2026/09/25/mphasis-copa-airlines-quantum-computing-challenge/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T09:54:38.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Mphasis, (BSE: 526299; NSE: MPHASIS), a global AI-led, platform-driven technology solutions provider, in partnership with Copa Airlines, recently hosted a Quantum Computing Challenge, an international innovation contest. The challenge brought together teams from various Indian Institutes of Technology (IITs) in India and the University of Calgary and the University of"
+    },
+    {
+      "title": "DigiCert Launches Quantum Central for Post-Quantum Cryptography Readiness",
+      "link": "https://thequantuminsider.com/2026/09/25/digicert-quantum-central-pqc-plans-action/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T08:35:42.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — DigiCert, a global leader in intelligent trust, today announced the general availability of DigiCert Quantum Central, part of the DigiCert ONE platform, that helps organizations manage and demonstrate progress toward post-quantum cryptography (PQC) readiness. First introduced in preview in July, Quantum Central offers expanded capabilities that help organizations move"
+    },
+    {
+      "title": "Evaluating Quantum Generative Models on Real Satellite Radar",
+      "link": "https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T07:56:35.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — IonQ researchers applied a quantum generative machine learning model to help detect changes in highly complex satellite image data. The results, detailed in a recently published paper, reveal that using quantum-based analysis shows promise for detecting and predicting changes in images where data is too sparse for classical methods to be […]"
+    },
+    {
+      "title": "UTM Becomes Base For Malaysia’s First Quantum Computing Hardware Company",
+      "link": "https://thequantuminsider.com/2026/09/25/utm-becomes-base-for-malaysias-first-quantum-computing-hardware-company/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T07:19:04.000Z",
+      "snippet": "Insider Brief PRESS RELEASE —  Universiti Teknologi Malaysia (UTM) is strengthening its role in Malaysia’s emerging quantum technology ecosystem as AQSolotl Pte. Ltd., a Singapore-based quantum technology company, establishes its research, development and commercialisation (R&D&C) operations at UTM Technovation Park in Johor Bahru. The development makes AQSolotl the first quantum computing hardwar"
+    },
     {
       "title": "Mesa Quantum Raises $11.8 Million to Scale Quantum Timing Systems",
       "link": "https://thequantuminsider.com/2026/09/24/mesa-quantum-raises-11-8-million-quantum-sensing/",
@@ -1526,6 +1673,13 @@
       "source": "eSchool News",
       "published": "2026-09-23T10:00:00.000Z",
       "snippet": "In my eight years as a high school CTE, Engineering and Architecture Pathway instructor, I have witnessed students and their families struggle to navigate their career trajectory. Every year, I hear three scenarios: “I think I know what I want to do,” “My parents want me to be a…,” and “I have no idea what I want to do.”"
+    },
+    {
+      "title": "Why the Right Infrastructure for Higher Ed AI Workloads Might Be Hybrid",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/why-right-infrastructure-higher-ed-ai-workloads-might-be-hybrid",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-22T17:43:40.000Z",
+      "snippet": "As higher education institutions become more experienced with using artificial intelligence in their workflows, they are looking to optimize operations with the technology infrastructure that best meets their needs. For a growing number of colleges and universities, this means running AI workloads in hybrid environments.\nIn fact, IDC predicts that by 2028, 75% of enterprise AI workloads will be de"
     },
     {
       "title": "Beyond book displays: How to build lasting support for your school library",
