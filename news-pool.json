@@ -1,11 +1,88 @@
 {
   "ai": [
     {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-26T01:08:57.000Z",
+      "snippet": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
+    },
+    {
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T23:11:10.000Z",
+      "snippet": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
+    },
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T22:20:47.000Z",
+      "snippet": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+    },
+    {
+      "title": "Meta opens early access program for new Muse features",
+      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T20:34:53.000Z",
+      "snippet": "Anyone interested in joining has to ask Muse to put them on the list."
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T19:13:38.000Z",
+      "snippet": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T18:48:33.000Z",
+      "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T18:33:59.000Z",
+      "snippet": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout."
+    },
+    {
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T18:22:47.000Z",
+      "snippet": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s ear"
+    },
+    {
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T17:29:46.000Z",
+      "snippet": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
+    },
+    {
+      "title": "Astra and Opus just passed Turing’s other test",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T17:24:36.000Z",
+      "snippet": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
+    },
+    {
       "title": "Meta is putting its muscle behind Muse as the AI app takes off",
       "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-25T16:16:52.000Z",
-      "snippet": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond."
+      "snippet": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
+    },
+    {
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T16:00:00.000Z",
+      "snippet": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s ear"
     },
     {
       "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
@@ -15,11 +92,18 @@
       "snippet": "The latest unauthorized agent swarms were discovered by researchers."
     },
     {
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-25T15:40:03.000Z",
+      "snippet": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
+    },
+    {
       "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
       "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-25T15:00:00.000Z",
-      "snippet": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends."
+      "snippet": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends."
     },
     {
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
@@ -454,41 +538,6 @@
       "source": "Artificial intelligence – MIT Technology Review",
       "published": "2026-09-21T12:00:00.000Z",
       "snippet": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…"
-    },
-    {
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-20T21:41:08.000Z",
-      "snippet": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket."
-    },
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-20T20:29:07.000Z",
-      "snippet": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
-    },
-    {
-      "title": "Is the AI industry really ready to slow down?",
-      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-20T18:56:04.000Z",
-      "snippet": "On Equity, we debated whether AI executives are serious about wanting to slow down."
-    },
-    {
-      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-20T18:32:52.000Z",
-      "snippet": "Vocci's lightweight ring costs $249, and might pose some privacy questions."
-    },
-    {
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-20T18:00:00.000Z",
-      "snippet": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt."
     }
   ],
   "cloud": [
@@ -512,6 +561,20 @@
       "source": "Cloud Blog",
       "published": "2026-09-25T16:00:00.000Z",
       "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nSept 21 - "
+    },
+    {
+      "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
+      "link": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
+      "source": "Cloud Blog",
+      "published": "2026-09-25T16:00:00.000Z",
+      "snippet": "At Google Cloud, we are committed to delivering the best managed experience backed by open source software. Today, we’re announcing the general availability of Memorystore for Valkey 9.1, which achieves up to 3x queries per second (QPS) at microsecond latency compared to Memorystore for Redis Cluster.\nOur support for Valkey dates back to 2024, when Redis Inc. shifted its licensing away from the pe"
+    },
+    {
+      "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/",
+      "source": "Cloud Blog",
+      "published": "2026-09-25T14:00:00.000Z",
+      "snippet": "Introduction \nAs an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit, Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE-2026-35273 by UNC6240 (ShinyHunters), along with expanded global targeting across multiple sectors. In June, the threat actor exploited this vulnerability as a zero-day predomina"
     },
     {
       "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
@@ -711,6 +774,13 @@
     }
   ],
   "hardware": [
+    {
+      "title": "Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-25T15:40:00.000Z",
+      "snippet": "Elon Musk says that the Colossus 2 will receive 220,000 GB300 GPUs by next week, with another two tranches of the same amount expected to arrive later this year. This will put the site at over a million AI GPUs, finally hitting the goal the billionaire set two years ago."
+    },
     {
       "title": "Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub",
       "link": "https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029",
@@ -1312,16 +1382,23 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-21T09:35:00.000Z",
       "snippet": "Techie makes his own motherboard to refurbish an HP ProLiant N40L — Raspberry Pi 5 Compute Module to the rescue"
-    },
-    {
-      "title": "Give your PC the deep clean it deserves — the Wolfbox MF60 Air Duster with up to 110,000 RPM drops to $33.99",
-      "link": "https://www.tomshardware.com/pc-components/give-your-pc-the-deep-clean-it-deserves-the-wolfbox-mf60-air-duster-with-up-to-110-000-rpm-drops-to-usd33-99",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-20T20:30:42.000Z",
-      "snippet": "The Wolfbox MF60 packs dual 2,500mAh batteries, three fan speeds, USB Type-C charging, and multiple nozzles into a compact wireless air duster designed for cleaning PCs, laptops, keyboards, and more."
     }
   ],
   "quantum": [
+    {
+      "title": "Fairfax County Schools Plans Quantum Computer Program at High School",
+      "link": "https://thequantuminsider.com/2026/09/25/fairfax-county-schools-quantum-computer-high-school/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T17:04:22.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Fairfax County Public Schools (FCPS) is making history through a groundbreaking partnership with Connected DMV and the Fairfax County Economic Development Authority (FCEDA) that will bring an operational quantum computer directly to students at Skyview High School, creating a first-of-its-kind opportunity for K-12 public education. This partnership creates a unique […"
+    },
+    {
+      "title": "Creotech Quantum Prepares QKD System for Commercialization",
+      "link": "https://thequantuminsider.com/2026/09/25/creotech-quantum-qkd-system-commercialization/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-25T13:14:34.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Creotech Quantum S.A., a Warsaw Stock Exchange-listed company developing and commercializing quantum technologies, announced that the European Commission has approved the results of the eCAUSIS project – “European, Certifiable, Affordable, User-oriented, Secure, Integrationable, Scalable quantum key distribution solutions”. The project was positively assessed both in "
+    },
     {
       "title": "Guest Post: Quantum Investment May Start With Post-Quantum Security",
       "link": "https://thequantuminsider.com/2026/09/25/quantum-investment-post-quantum-security/",
@@ -1653,6 +1730,13 @@
     }
   ],
   "education": [
+    {
+      "title": "Teachers weigh the realities of classroom technology in new national survey",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/25/teachers-weigh-the-realities-of-classroom-technology-in-new-national-survey/",
+      "source": "eSchool News",
+      "published": "2026-09-25T13:00:00.000Z",
+      "snippet": "While classroom technology is nearly universal, educators are navigating a growing disconnect between how digital tools are mandated and how they actually function, according to Teaching for Tomorrow: Screen Wise, a new report from the Walton Family Foundation and Gallup, in partnership with the Joan Ganz Cooney Center."
+    },
     {
       "title": "An early childhood classroom: Supporting emotional well-being amid everyday challenges",
       "link": "https://www.eschoolnews.com/sel/2026/09/24/an-early-childhood-classroom-supporting-emotional-well-being-amid-everyday-challenges/",
