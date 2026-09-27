@@ -1,6 +1,27 @@
 {
   "ai": [
     {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-27T20:34:28.000Z",
+      "snippet": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-27T19:57:30.000Z",
+      "snippet": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-27T16:30:00.000Z",
+      "snippet": "\"AI is the devil and I its maker.\""
+    },
+    {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
@@ -20,6 +41,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-26T14:00:00.000Z",
       "snippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+    },
+    {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-26T01:08:57.000Z",
+      "snippet": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
     },
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
@@ -377,83 +405,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-22T21:56:43.000Z",
       "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
-    },
-    {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T20:00:00.000Z",
-      "snippet": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
-    },
-    {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T19:09:11.000Z",
-      "snippet": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T18:00:00.000Z",
-      "snippet": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
-    },
-    {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T16:30:07.000Z",
-      "snippet": "Anthropic called it \"the strongest-performing model we've tested to date.\""
-    },
-    {
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T15:00:00.000Z",
-      "snippet": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T15:00:00.000Z",
-      "snippet": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T14:30:00.000Z",
-      "snippet": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off."
-    },
-    {
-      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T14:15:00.000Z",
-      "snippet": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15."
-    },
-    {
-      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T14:00:00.000Z",
-      "snippet": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today."
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-09-22T13:42:05.000Z",
-      "snippet": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…"
-    },
-    {
-      "title": "Everyone can find a reason to dislike data center construction",
-      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T13:00:00.000Z",
-      "snippet": "Inside two years of fraught AI data center debates in Pennsylvania."
     }
   ],
   "cloud": [
@@ -484,6 +435,13 @@
       "source": "Cloud Blog",
       "published": "2026-09-25T16:00:00.000Z",
       "snippet": "At Google Cloud, we are committed to delivering the best managed experience backed by open source software. Today, we’re announcing the general availability of Memorystore for Valkey 9.1, which achieves up to 3x queries per second (QPS) at microsecond latency compared to Memorystore for Redis Cluster.\nOur support for Valkey dates back to 2024, when Redis Inc. shifted its licensing away from the pe"
+    },
+    {
+      "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/",
+      "source": "Cloud Blog",
+      "published": "2026-09-25T14:00:00.000Z",
+      "snippet": "Introduction \nAs an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit, Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE-2026-35273 by UNC6240 (ShinyHunters), along with expanded global targeting across multiple sectors. In June, the threat actor exploited this vulnerability as a zero-day predomina"
     },
     {
       "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
@@ -631,29 +589,71 @@
       "source": "AWS News Blog",
       "published": "2026-09-22T22:21:13.000Z",
       "snippet": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, and experiment with AI agents across any framework—directly from your IDE or a standalone web experience—using open standards and built-in evaluators for quality, correctness, and coherence."
-    },
-    {
-      "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-09-22T18:30:00.000Z",
-      "snippet": "Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks.\nThe post GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry appeared first on Microsoft Azure Blog."
-    },
-    {
-      "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051",
-      "source": "Microsoft Azure Blog",
-      "published": "2026-09-22T17:00:25.000Z",
-      "snippet": "AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex issue, synthesizing hundreds of pages of information, or working through a multi-step business process.\nThe post Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work appeared first on Microsoft Azure Blog."
     }
   ],
   "hardware": [
     {
-      "title": "Developer says Jev decision model beat Pokémon Red in under a week",
+      "title": "Grab this 14-inch compact gaming laptop powerhouse for $1000 off",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-27T15:21:30.000Z",
+      "snippet": "The gaming laptop pairs Intel’s Core Ultra 9 285H with Nvidia’s RTX 5070 Laptop GPU and a 3K 120Hz OLED display, giving buyers a powerful compact machine at a reduced price."
+    },
+    {
+      "title": "Custom 24-carat gold mini PC costs around $1.7 million, weighs nearly 29 pounds for up to 50% faster heat transfer",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/custom-24-carat-gold-mini-pc-costs-around-usd1-7-million-weighs-nearly-29-pounds-for-up-to-50-percent-faster-heat-transfer-copper-would-have-been-far-cheaper-and-offers-even-better-thermal-conductivity",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-27T14:40:00.000Z",
+      "snippet": "A chrysophile has ordered a special edition mini PC with a pure 24-carat gold passive chassis which will cost around $1.7 million."
+    },
+    {
+      "title": "Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead",
+      "link": "https://www.tomshardware.com/pc-components/gpus/thieves-steal-nvidia-labeled-trailers-expecting-massive-ai-gpu-payday-but-score-40-000-pounds-of-sand-instead-crooks-duped-by-20-tons-of-ballast-sand",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-27T14:14:40.000Z",
+      "snippet": "The two PlusAI trailers with Nvidia-partner markings were apparently left outside the startup's warehouse, making it a juicy target for criminals looking to make easy money on AI GPUs. However, they were deliberately left outside as the trailers only contained sand for simulating real-world truck loads."
+    },
+    {
+      "title": "Gigabyte 1000GM PG5 1000W power supply review: Impressive Platinum-level efficiency with T-Guard thermal protection",
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/gigabyte-1000gm-pg5-1000w-power-supply-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-27T13:00:00.000Z",
+      "snippet": "Gigabyte's new Gaming series flagship, the Gigabyte 1000GM PG5 1000W, pairs an HEC-built platform with all-Japanese capacitors, Platinum-level efficiency, and T-Guard thermal protection for the 12V-2x6 connector."
+    },
+    {
+      "title": "PS5 emulator successfully runs six titles at a playable 60 FPS",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-27T12:40:00.000Z",
+      "snippet": "SharpEmu’s latest release can run six tested PS5 games at 60 FPS, with 12 of 55 titles now reaching gameplay state, as developers improve shader translation and Vulkan support."
+    },
+    {
+      "title": "Linux enthusiasts see 10-second kernel compilation times on the horizon",
+      "link": "https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-27T12:20:00.000Z",
+      "snippet": "It won’t be long until Linux enthusiasts will be able to complete a clean kernel build in under 10 seconds thanks to advances in PC hardware and the AI-assisted optimization of compilers."
+    },
+    {
+      "title": "Flock seeks to have security researchers' map of Flock cameras taken down",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/flock-seeks-to-have-security-researchers-map-of-flock-cameras-taken-down-unauthenticated-flaw-exposed-335-701-camera-locations-nationwide",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-27T12:00:00.000Z",
+      "snippet": "A vulnerability on the Flock website allowed a security researcher to access its third-party provider to download the locations and descriptions of over 300,000 Flock cameras. He also pointed out how the Flock system could be used to track personnel heading to and from sensitive sites like the Pentagon and the CIA Headquarters."
+    },
+    {
+      "title": "Developer says AI decision model Jev beat Pokémon Red in under a week",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-27T11:30:00.000Z",
       "snippet": "TypeSafe AI's Jev beat Pokémon Red in under a week, eventually reaching the Hall of Fame."
+    },
+    {
+      "title": "U.S. and UK navies successfully launch 3,700-pound submarine-sinking torpedo from robotic drone submarine in historic first",
+      "link": "https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-27T10:30:00.000Z",
+      "snippet": "The U.S. Navy and Royal Navy have successfully launched a 3,700-pound Mk 48 heavyweight torpedo from Britain’s uncrewed XV Excalibur submarine, marking the first time the weapon has been fired from an autonomous underwater vehicle"
     },
     {
       "title": "Counterfeit vinyl record maker sentenced to three years in the slammer after making $3.5 million",
@@ -1088,55 +1088,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-23T10:00:00.000Z",
       "snippet": "Airbus engineers have employed Valve's Steam Deck handheld as a fancy remote control for the firm's new ExoMars"
-    },
-    {
-      "title": "Beat the Switch 2 storage crisis with this $99 512GB microSD Express card",
-      "link": "https://www.tomshardware.com/pc-components/microsd-cards/beat-the-switch-2-storage-crisis-with-this-usd99-512gb-microsd-express-card-amazon-deal-slashes-33-percent-off-high-performance-samsung-p9",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-22T18:18:55.000Z",
-      "snippet": "Amazon has slashed 33% off the price of the Samsung P9 microSD Express card for the Nintendo Switch 2, bringing it down to $99.99."
-    },
-    {
-      "title": "Durabook Z14I-DX3 rugged mobile workstation folds three screens into a 9.8 kg chassis",
-      "link": "https://www.tomshardware.com/laptops/durabook-z14i-dx3-rugged-mobile-workstation-folds-three-screens-into-a-9-8-kg-chassis-luggable-targets-military-emergency-services-and-field-professionals",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-22T16:33:41.000Z",
-      "snippet": "Built for military, emergency services and industrial applications, the Z14I-DX3 packs three sunlight-readable 14-inch touchscreens and up to RTX 5000 Ada graphics into one exceptionally rugged mobile workstation."
-    },
-    {
-      "title": "Get this spiffy, stealthy MSI Gaming Trio RTX 5090 for just $4,299",
-      "link": "https://www.tomshardware.com/pc-components/gpus/get-this-spiffy-stealthy-msi-rtx-5090-for-just-usd4-299-geforce-week-at-walmart-serves-up-a-rare-deal-on-nvidias-fastest-gaming-gpu",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-22T15:00:52.000Z",
-      "snippet": "Walmart has MSI's GeForce RTX 5090 Gaming Trio for just $4299 as part of its GeForce Week event, a rare deal on the most powerful graphics card around as the AI boom drives prices ever higher."
-    },
-    {
-      "title": "Bambu Lab R1 Review: This one stands alone",
-      "link": "https://www.tomshardware.com/maker-stem/bambu-lab-r1-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-22T14:00:00.000Z",
-      "snippet": "Bambu Lab leverages its mastery of motion systems and UI to create a nearly perfect stand-alone laser."
-    },
-    {
-      "title": "Glorious GMMK Eternal Review: Fits anywhere, sounds great",
-      "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/glorious-gmmk-eternal-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-22T13:00:00.000Z",
-      "snippet": "Glorious' new GMMK Eternal is a compact 96-percent wired keyboard with hot-swappable mechanical switches and three layers of sound-dampening in the case."
-    },
-    {
-      "title": "‘We’ll be the first to mine Bitcoin in space’ says Nvidia-backed startup",
-      "link": "https://www.tomshardware.com/tech-industry/cryptomining/well-be-the-first-to-mine-bitcoin-in-space-says-nvidia-backed-startup-starcloud-will-fire-up-its-asics-after-its-second-spacecraft-reaches-orbit-later-this-year",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-22T12:59:50.000Z",
-      "snippet": "An Nvidia-backed startup plans to establish a Bitcoin mining operation in space before the year is out."
-    },
-    {
-      "title": "US and China propose hotline to de-escalate AI threats ahead of Washington summit",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-22T12:13:41.000Z",
-      "snippet": "The U.S. and China have proposed implementing AI red lines that will not be crossed, as well as a hotline between the two countries to provide rapid communication and opportunities for joint responses to rogue AI actions."
     }
   ],
   "quantum": [
@@ -1146,6 +1097,13 @@
       "source": "The Quantum Insider",
       "published": "2026-09-26T19:00:00.000Z",
       "snippet": "Yuval Boger interviews Sebastian Hassinger, host of The New Quantum Era podcast, and author of a new book by the same name. Sebastian and I have many things in common beyond our jobs in quantum. We are both podcasters, neither of us has a PhD, and we are both authors of new books – Sebastian’s […]"
+    },
+    {
+      "title": "MANA Reveals Atomic-Scale Rails for Guiding Superconducting Vortices",
+      "link": "https://thequantuminsider.com/2026/09/26/mana-reveals-atomic-scale-rails-for-guiding-superconducting-vortices/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-26T13:46:41.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Researchers at the Research Center for Materials Nanoarchitectonics (MANA), one of the centers under the National Institute for Materials Science (NIMS), Japan, discovered that atomic-scale steps can guide superconducting vortices in an ultrathin superconductor. Vortices moved more than 1,000 times more easily along the steps than across them, and this […]"
     },
     {
       "title": "Fairfax County Schools Plans Quantum Computer Program at High School",
@@ -1388,6 +1346,13 @@
   ],
   "education": [
     {
+      "title": "Teachers weigh the realities of classroom technology in new national survey",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/25/teachers-weigh-the-realities-of-classroom-technology-in-new-national-survey/",
+      "source": "eSchool News",
+      "published": "2026-09-25T13:00:00.000Z",
+      "snippet": "While classroom technology is nearly universal, educators are navigating a growing disconnect between how digital tools are mandated and how they actually function, according to Teaching for Tomorrow: Screen Wise, a new report from the Walton Family Foundation and Gallup, in partnership with the Joan Ganz Cooney Center."
+    },
+    {
       "title": "An early childhood classroom: Supporting emotional well-being amid everyday challenges",
       "link": "https://www.eschoolnews.com/sel/2026/09/24/an-early-childhood-classroom-supporting-emotional-well-being-amid-everyday-challenges/",
       "source": "eSchool News",
@@ -1407,13 +1372,6 @@
       "source": "eSchool News",
       "published": "2026-09-23T10:00:00.000Z",
       "snippet": "In my eight years as a high school CTE, Engineering and Architecture Pathway instructor, I have witnessed students and their families struggle to navigate their career trajectory. Every year, I hear three scenarios: “I think I know what I want to do,” “My parents want me to be a…,” and “I have no idea what I want to do.”"
-    },
-    {
-      "title": "Why the Right Infrastructure for Higher Ed AI Workloads Might Be Hybrid",
-      "link": "https://edtechmagazine.com/higher/article/2026/09/why-right-infrastructure-higher-ed-ai-workloads-might-be-hybrid",
-      "source": "EdTech Higher Magazine",
-      "published": "2026-09-22T17:43:40.000Z",
-      "snippet": "As higher education institutions become more experienced with using artificial intelligence in their workflows, they are looking to optimize operations with the technology infrastructure that best meets their needs. For a growing number of colleges and universities, this means running AI workloads in hybrid environments.\nIn fact, IDC predicts that by 2028, 75% of enterprise AI workloads will be de"
     }
   ]
 }
