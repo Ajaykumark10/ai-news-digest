@@ -363,48 +363,6 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-23T14:00:00.000Z",
       "snippet": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today."
-    },
-    {
-      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-23T13:00:00.000Z",
-      "snippet": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations."
-    },
-    {
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-23T12:00:00.000Z",
-      "snippet": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
-    },
-    {
-      "title": "The AI Hype Index: AI loves cheating",
-      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-09-23T09:00:00.000Z",
-      "snippet": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…"
-    },
-    {
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-23T04:59:08.000Z",
-      "snippet": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
-    },
-    {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T23:21:49.000Z",
-      "snippet": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
-    },
-    {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-22T21:56:43.000Z",
-      "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
     }
   ],
   "cloud": [
@@ -435,13 +393,6 @@
       "source": "Cloud Blog",
       "published": "2026-09-25T16:00:00.000Z",
       "snippet": "At Google Cloud, we are committed to delivering the best managed experience backed by open source software. Today, we’re announcing the general availability of Memorystore for Valkey 9.1, which achieves up to 3x queries per second (QPS) at microsecond latency compared to Memorystore for Redis Cluster.\nOur support for Valkey dates back to 2024, when Redis Inc. shifted its licensing away from the pe"
-    },
-    {
-      "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/",
-      "source": "Cloud Blog",
-      "published": "2026-09-25T14:00:00.000Z",
-      "snippet": "Introduction \nAs an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit, Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE-2026-35273 by UNC6240 (ShinyHunters), along with expanded global targeting across multiple sectors. In June, the threat actor exploited this vulnerability as a zero-day predomina"
     },
     {
       "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
@@ -568,30 +519,86 @@
       "source": "Microsoft Azure Blog",
       "published": "2026-09-23T15:00:00.000Z",
       "snippet": "The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.\nThe post Designing agent-first platforms: What changes when agents do the work appeared first on Microsoft Azure Blog."
-    },
-    {
-      "title": "Secure, intelligent experiences across every endpoint",
-      "link": "https://cloud.google.com/blog/products/chrome-enterprise/secure-intelligent-experiences-across-every-endpoint/",
-      "source": "Cloud Blog",
-      "published": "2026-09-23T11:00:00.000Z",
-      "snippet": "For years, the workday looked remarkably consistent. Employees logged into devices, opened browsers and toggled across a dozen disconnected applications. Users acted as the bridge between apps, copying from one tab and pasting into another. Now, agentic workflows that are faster and allow employees to be even more productive are on the rise. Employees take the lead in defining outcomes of workflow"
-    },
-    {
-      "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
-      "source": "AWS News Blog",
-      "published": "2026-09-22T22:23:14.000Z",
-      "snippet": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience, with auto-discovered topology, natural language queries, and AI-guided investigation powered by AWS DevOps Agent."
-    },
-    {
-      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
-      "source": "AWS News Blog",
-      "published": "2026-09-22T22:21:13.000Z",
-      "snippet": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, and experiment with AI agents across any framework—directly from your IDE or a standalone web experience—using open standards and built-in evaluators for quality, correctness, and coherence."
     }
   ],
   "hardware": [
+    {
+      "title": "ASRock X870E Challenger Wifi Motherboard Review: A value X870E board packed with features",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/asrock-x870e-challenger-wifi-motherboard-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T13:20:00.000Z",
+      "snippet": "ASRock’s X870E Challenger Wifi packs a flagship audio codec, robust VRMs, USB4, 5 GbE, and Wi-Fi 7 into an affordable, all-white ATX board. It’s one of the best-equipped AMD options under $230."
+    },
+    {
+      "title": "UK government tells staff to stop thanking AI chatbots",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-government-tells-staff-to-stop-thanking-ai-chatbots-draft-guidance-pushes-lightweight-models-and-shorter-prompts-to-cut-environmental-impact",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T13:00:00.000Z",
+      "snippet": "A draft UK government list of AI best practices has reminded people they don't need to thank their chatbot for its work in an attempt to use it more efficiently."
+    },
+    {
+      "title": "Demon's Souls reaches 40-50 FPS on private PS5 emulator with accurate graphics",
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/demons-souls-reaches-40-50-fps-on-private-ps5-emulator-with-accurate-graphics-kytyps5-surges-from-unplayable-1-2-fps-in-just-three-weeks-new-milestone-comes-only-three-weeks-after-the-game-barely-booted",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T12:30:00.000Z",
+      "snippet": "Private KyTyPS5 fork shows Demon's Souls running at 40-50 FPS with accurate graphics — new milestone only three weeks after the game barely booted"
+    },
+    {
+      "title": "Walmart price drop slashes $461 off Gigabyte's RTX 5080-powered gaming laptop with 32GB of memory",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-price-drop-slashes-usd461-off-gigabytes-rtx-5080-powered-gaming-laptop-with-32gb-of-memory-gaming-a16-pro-is-at-a-new-all-time-low-of-usd1-799",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T12:15:00.000Z",
+      "snippet": "Grab an RTX 5080-powered Gigabyte Gaming A16 Pro gaming laptop for just $1,799 at Walmart"
+    },
+    {
+      "title": "North Korea named as primary suspect in $387 million Bitget crypto hack",
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/north-korea-named-as-primary-suspect-in-usd387-million-bitget-crypto-hack-investigators-identify-ip-addresses-tied-to-vpn-infrastructure-previously-used-by-north-korean-hacker-groups-thieves-swapped-stablecoins-for-eth-in-minutes-to-dodge-freezes",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T12:00:00.000Z",
+      "snippet": "Bitget says $387.5 million hack may be linked to North Korean state-backed actors, citing suspicious IP addresses tied to VPN infrastructure previously used by North Korean hacker groups."
+    },
+    {
+      "title": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/data-center-developer-offers-usd10-000-checks-to-4-500-households-if-the-1-300-acre-facility-is-approved-locals-push-back-over-noise-and-bribe-concerns",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T11:40:00.000Z",
+      "snippet": "Data center developer proposes paying checks of $10,000 per household to sway public sentiment."
+    },
+    {
+      "title": "Denuvo cracking group DenuvOwO reportedly disbands",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-cracking-group-denuvowo-reportedly-disbands-lawsuit-from-irdeto-has-a-chilling-effect-but-cracking-continues-as-piracy-hub-purges-links",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T11:30:00.000Z",
+      "snippet": "Denuvo hypervisor-bypassing group DenuvOwO reportedly disbands — lawsuit from Irdeto has a chilling effect, but cracking continues"
+    },
+    {
+      "title": "Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T11:00:00.000Z",
+      "snippet": "Teenager cracks open Microsoft database with 17 trillion total rows and 25,000 user accounts — lack of JWT token validation yields a fruitful trove"
+    },
+    {
+      "title": "G.Skill wins PC enthusiast as 'customer for life' by simply honoring its warranty replacement policy",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/g-skill-wins-pc-enthusiast-as-customer-for-life-by-simply-honoring-its-warranty-replacement-policy-enthusiast-gets-new-module-for-kit-that-cost-usd150-but-now-sells-for-usd1-200",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T10:30:00.000Z",
+      "snippet": "A PC RAM maker has honored its guarantee promises despite the memory kit in question’s price rising eightfold since it was bought. That's today's AI-pocalypse news."
+    },
+    {
+      "title": "Proposed Pennsylvania law targets publishers that kill digital games",
+      "link": "https://www.tomshardware.com/video-games/proposed-pennsylvania-law-targets-publishers-that-kill-digital-games-publishers-must-provide-offline-mode-an-independent-server-patch-or-a-25-percent-minimum-refund",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T10:00:00.000Z",
+      "snippet": "The Protect Our Games Act would ensure that even if video game manufacturers take a title offline, those who've previously bought it would not lose access. While it still does not give gamers ownership of the titles they buy, it would at least let them continue playing them even if the developer goes bust."
+    },
+    {
+      "title": "Save $300 on this 1440p-ready gaming PC with an RTX 5060 Ti 16GB, now $1,399.99",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-ready-gaming-pc-with-an-rtx-5060-ti-16gb-now-usd1-399-99-newegg-deal-on-abs-cyclone-aqua-rig-nets-you-a-20-core-intel-cpu-along-with-16gb-of-ddr5-and-a-1tb-ssd",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-28T09:15:46.000Z",
+      "snippet": "This ABS Cyclone Aqua gaming PC, featuring an RTX 5060 Ti 16GB, Intel Core i7-14700F, 16GB DDR5, and a 1TB SSD has a $300 discount, now $1,399.99."
+    },
     {
       "title": "Grab this 14-inch compact gaming laptop powerhouse for $1000 off",
       "link": "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy",
@@ -1011,86 +1018,44 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-23T15:34:36.000Z",
       "snippet": "Alibaba Group's AI division has released Qwen 2.1 Image, an ultra-lightweight image generation model with just 7B parameters, able to run on local hardware like the RTX 3090."
-    },
-    {
-      "title": "$14,000 gaming PC features 70 handcrafted titanium cherry blossoms which unfurl as temperatures rise",
-      "link": "https://www.tomshardware.com/pc-components/case-mods/usd14-000-gaming-pc-features-70-handcrafted-titanium-cherry-blossoms-which-unfurl-as-temperatures-rise-zotac-designed-rtx-5080-system-features-impressive-sculpture-and-an-eye-watering-price-tag-to-match",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-23T13:14:43.000Z",
-      "snippet": "The Aftershock PC Cherry Bloom includes 70 hand-crafted cherry blossoms made of titanium alloy that open and close with the heat generated by the PC."
-    },
-    {
-      "title": "EU Tech Push Boosts Ultrafast Laser Startups",
-      "link": "https://spectrum.ieee.org/ultrafast-lasers-europe",
-      "source": "IEEE Spectrum",
-      "published": "2026-09-23T13:00:04.000Z",
-      "snippet": "Several startups see a big opportunity to build the next generation of ultrafast lasers, a crucial component in high-end chip manufacturing, in Europe. In June 2026, the European Commission proposed legislation and strategies to reinforce Europe’s competitiveness and independence in the semiconductor and AI ecosystems. Now, one startup is breaking ground on a factory in Lithuania in October.\n“Sove"
-    },
-    {
-      "title": "Sony INZONE M10S II 27-inch 540 Hz QHD OLED gaming monitor review: A major player in a crowded field",
-      "link": "https://www.tomshardware.com/monitors/gaming-monitors/sony-inzone-m10s-ii-27-inch-540-hz-qhd-oled-gaming-monitor-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-23T13:00:00.000Z",
-      "snippet": "Sony brings saturated color and speedy gameplay to the OLED genre with its INZONE M10S II 27-inch QHD monitor. It boasts a 540 Hz refresh rate, 720 Hz at HD resolution, Adaptive-Sync, HDR, and wide-gamut color."
-    },
-    {
-      "title": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-23T12:00:43.000Z",
-      "snippet": "UK-based Nscale signed a deal with Spring (SG) Pte Ltd, which is a subsidiary of Chinese tech giant ByteDance. The company did not make any direct mention of the TikTok parent in its filings for a U.S. IPO, while a supporting document only labeled Spring as a significant customer."
-    },
-    {
-      "title": "Alibaba unveils Zhenwu V900 AI accelerator, claims it's 'the most powerful AI chip in China'",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-unveils-zhenwu-v900-ai-accelerator-claims-its-the-most-powerful-ai-chip-in-china-accelerator-supports-500-000-chip-supercluster-with-a-10t-parameter-qwen-model-on-the-roadmap",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-23T12:00:00.000Z",
-      "snippet": "Alibaba’s T-Head Zhenwu V900 claims three times the M890’s performance with 216GB of memory as Alibaba targets 10T-parameter Qwen"
-    },
-    {
-      "title": "Upgrade your gaming experience with this 27-inch Acer 1440p 270Hz panel that’s an incredible 45% off",
-      "link": "https://www.tomshardware.com/pc-components/upgrade-your-gaming-experience-with-this-27-inch-acer-1440p-270hz-panel-thats-an-incredible-45-percent-off-just-usd179-buys-an-awesome-ips-monitor-with-amd-freesync-premium-and-1ms-response-time",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-23T11:45:00.000Z",
-      "snippet": "Jump into high-refresh-rate 1440p gaming without breaking the bank: Acer's 27-inch 1440p 270Hz IPS gaming monitor is just $179, a whopping 45% off"
-    },
-    {
-      "title": "AMD begins to add GDDR7 support to its Linux GPU drivers",
-      "link": "https://www.tomshardware.com/pc-components/gpus/amd-begins-to-add-gddr7-support-to-its-linux-gpu-drivers-changes-could-herald-use-of-advanced-memory-standard-with-next-gen-radeon-gpus",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-23T11:30:00.000Z",
-      "snippet": "Recent changes to AMD's Linux drivers to enable GDDR7 memory and other graphics IP blocks could indicate that that enablement work on its RDNA 5 GPUs is under way."
-    },
-    {
-      "title": "Meta's new transoceanic undersea cable boasts a whopping petabit of bandwidth",
-      "link": "https://www.tomshardware.com/networking/metas-new-transoceanic-undersea-cable-boasts-a-whopping-petabit-of-bandwidth-petal-link-between-us-and-france-will-be-twice-as-fast-as-the-last",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-23T11:00:00.000Z",
-      "snippet": "Meta has announced Petal, a new subsea cable that will carry a petabit of raw bandwidth across the 4,300 miles between the USA and France."
-    },
-    {
-      "title": "This 32GB Corsair Vengeance DDR5-6000 memory is the cheapest kit available",
-      "link": "https://www.tomshardware.com/pc-components/this-32gb-corsair-vengeance-ddr5-6000-memory-is-the-cheapest-kit-available-discount-plus-usd40-promo-code-offers-the-least-expensive-ddr5-6000-kit-available-today",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-23T10:45:00.000Z",
-      "snippet": "Get a great deal on 32GB Corsair Vengeance DDR5-6000 RAM. Just $439 after promo code SSF73844 yields one of the lowest priced 32GB kits available today"
-    },
-    {
-      "title": "China launches 'Supercomputing-1' AI satellite as orbital data centers gather momentum",
-      "link": "https://www.tomshardware.com/tech-industry/space/china-puts-ai-compute-into-orbit-with-supercomputing-1-satellite-onboard-processing-aims-to-cut-earth-observation-data-processing-from-hours-to-minutes",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-23T10:30:00.000Z",
-      "snippet": "But it's a far cry from an orbital data center."
-    },
-    {
-      "title": "Airbus turned the Steam Deck into a controller for a prototype Mars rover",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/airbus-turned-the-steam-deck-into-a-controller-for-a-prototype-mars-rover-valve-handheld-pc-gives-engineers-command-of-the-exomars-platform-during-testing",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-23T10:00:00.000Z",
-      "snippet": "Airbus engineers have employed Valve's Steam Deck handheld as a fancy remote control for the firm's new ExoMars"
     }
   ],
   "quantum": [
+    {
+      "title": "UCL and Siloton Adapt Quantum-Enabled Eye Imaging for Children",
+      "link": "https://thequantuminsider.com/2026/09/28/ucl-siloton-quantum-eye-imaging-children/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-28T12:27:50.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Researchers at the University College London (UCL) Great Ormond Street Institute of Child Health are teaming up with Bristol-based start-up Siloton on a project that could help prevent sight loss in children by adapting a groundbreaking new eye imaging technology. With funding from the National Institute for Health and Care […]"
+    },
+    {
+      "title": "Quandela Seeks South Korean Partners for Photonic Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/28/quandela-south-korea-photonic-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-28T11:16:47.000Z",
+      "snippet": "Insider Brief French photonic quantum computing company Quandela intends to spend the next two years lining up strategic partners in South Korea, with joint work expected to cover quantum chip manufacturing, system integration, demonstration, and real-world operation, Seoul Economic Daily reported. CEO Niccolo Somaschi presented the company’s Korea strategy and a medium- to long-term roadmap […]"
+    },
+    {
+      "title": "Researchers Identify Limits on Quantum Battery Energy And Power Stability",
+      "link": "https://thequantuminsider.com/2026/09/28/researchers-identify-limits-on-quantum-battery-energy-and-power-stability/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-28T11:00:55.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — New research identifies fundamental limits on the reliability of quantum batteries and shows how charging strategies can balance high power with stable energy and power delivery. The findings represent an important step toward the future development of practical and useful quantum energy-storage devices. Quantum uncertainty sets a fundamental trade-off in […]"
+    },
+    {
+      "title": "Quantum Cyber’s Strategic Focus Includes Quantum Navigation",
+      "link": "https://thequantuminsider.com/2026/09/28/quantum-cybers-strategic-focus-includes-quantum-navigation/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-28T07:54:55.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantum Cyber N.V. (Nasdaq: QUCY) (“Quantum Cyber” or the “Company”), a Nasdaq-listed autonomous defense technology company assembling an AI-powered System-of-Systems platform for drone warfare, counter-UAS, and border security applications, today announced a sharpened strategic focus, reframing the Company’s thesis for the era of GPS-deficient, autonomous warfare, an"
+    },
+    {
+      "title": "Cosmic Lockdown: How The Environment Can Isolate Quantum Fields",
+      "link": "https://thequantuminsider.com/2026/09/28/cosmic-lockdown-how-the-environment-can-isolate-quantum-fields/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-28T07:27:07.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — The vacuum is not always so empty. “When we talk about a vacuum in cosmology, we do not mean completely devoid of energy,” explains David Wands, Professor at the Institute of Cosmology & Gravitation at the University of Portsmouth. “A vacuum is rather a state in which a field sits […]"
+    },
     {
       "title": "Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now",
       "link": "https://thequantuminsider.com/2026/09/26/sebastian-hassinger-the-new-quantum-era-why-neutral-atoms-lead-the-qubit-race-for-now/",
@@ -1279,72 +1244,16 @@
       "source": "The Quantum Insider",
       "published": "2026-09-23T13:29:23.000Z",
       "snippet": "Insider Brief PRESS RELEASE — QUDORA will lead a seven-member consortium of research institutions and industry partners in a bid to build one of Europe’s most advanced quantum computers. The project, named NFQC-1k, is being selected under the Quantum Computing Competition of Germany’s Federal Ministry of Research, Technology and Space (BMFTR), with a total volume […]"
-    },
-    {
-      "title": "Global Study Finds Quantum Industry Dependent on Cross-Border Supply Chains",
-      "link": "https://thequantuminsider.com/2026/09/23/global-study-finds-quantum-industry-dependent-on-cross-border-supply-chains/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T13:17:15.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — A new international survey of the quantum industry finds that the supply chains supporting quantum technologies are deeply global, with companies of every size relying on suppliers and customers across national borders. The survey included responses from 160 companies headquartered in 15 countries that reported suppliers in 36 countries, customers […]"
-    },
-    {
-      "title": "Q.ANT Launches Open-Source SDK for Photonic Computing",
-      "link": "https://thequantuminsider.com/2026/09/23/q-ant-open-source-sdk-photonic-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T13:09:44.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Q.ANT, the pioneer in commercial photonic computing, today debuted its open-source software development kit for photonic computing, making the programming tools for a photonic processor publicly available for the first time. Programmers now have everything they need to develop applications for Q.ANT‘s Native Processing Units (NPUs), enabling them to compute […]"
-    },
-    {
-      "title": "Photonic Inc. and Microsoft Collaborate on Quantum Resource Estimation",
-      "link": "https://thequantuminsider.com/2026/09/23/photonic-microsoft-quantum-resource-estimation/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T12:58:02.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Photonic Inc. and Microsoft are collaborating on quantum resource estimation for distributed, large-scale quantum computing systems and advanced error-correction approaches. The companies are exploring how architecture, quantum networking requirements and error-correction methods affect physical qubit counts, runtime and system overhead. Photonic plans to work with Mi"
-    },
-    {
-      "title": "CGI and D-Wave Partner on Enterprise Quantum Computing",
-      "link": "https://thequantuminsider.com/2026/09/23/cgi-d-wave-enterprise-quantum-computing/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T12:35:44.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — CGI (NYSE: GIB) (TSX: GIB.A), one of the largest independent IT and business consulting services firms in the world, today announced a strategic partnership with D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services. The partnership focuses on […]"
-    },
-    {
-      "title": "Classiq, INGL and IonQ Test Quantum Optimization for Natural Gas Networks",
-      "link": "https://thequantuminsider.com/2026/09/23/classiq-ingl-ionq-quantum-optimization-natural-gas-networks/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T12:27:44.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Classiq and Israel Natural Gas Lines Ltd. (INGL) announced results from research applying quantum optimization to natural gas transmission planning, including execution of a reduced version of the problem on the IonQ Forte-1 quantum computer. The collaboration focused on a familiar challenge for pipeline operators: moving gas from suppliers to […]"
-    },
-    {
-      "title": "Azulene Labs Secures $3.4 Million Pre-Seed Round For Drug And Materials Simulation",
-      "link": "https://thequantuminsider.com/2026/09/23/azulene-labs-secures-3-4-million-pre-seed-round-for-drug-and-materials-simulation/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T12:06:00.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Azulene Labs, a startup creating the future of drug and materials development, has raised a $3.4 million pre-seed round. The round was led by Ground State Ventures, with participation from existing Azulene investor Entrada Ventures and angels. While mechanical and civil engineers design new products with high-precision software, chemistry has […]"
-    },
-    {
-      "title": "IonQ Bringing QPU to The NVIDIA Accelerated Quantum Research Center",
-      "link": "https://thequantuminsider.com/2026/09/23/ionq-bringing-qpu-to-the-nvidia-accelerated-quantum-research-center/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T12:01:50.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Today, IonQ (NYSE: IONQ) announced that it will be the first on-premise quantum computing deployment at the NVIDIA Accelerated Quantum Research Center (NVAQC). The NVAQC is designed to address the fundamental challenges of scaling quantum processors into a new class of accelerated quantum supercomputers. Connecting IonQ’s full-stack quantum systems directly […]"
-    },
-    {
-      "title": "Cisco and KETS Integrate Quantum Key Distribution With Cisco IOS XR Routers",
-      "link": "https://thequantuminsider.com/2026/09/23/cisco-kets-integrate-qkd-ios-xr-routers/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T09:41:21.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Cisco and KETS Quantum Security today announced a major milestone in secure communications by successfully integrating KETS’ chip-based Quantum Key Distribution (QKD) technology with Cisco’s IOS XR-based routing infrastructure. This partnership marks a significant step toward scalable, quantum-secure networking for enterprise and critical infrastructure environments. "
-    },
-    {
-      "title": "Yenepoya University and Edutecnicia Partner on Quantum AI Research",
-      "link": "https://thequantuminsider.com/2026/09/23/yenepoya-university-edutecnicia-quantum-ai-research/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T09:14:57.000Z",
-      "snippet": "Insider Brief Yenepoya (Deemed to be University) has entered a memorandum of understanding (MoU) with Edutecnicia Pvt Ltd, working through its AI research initiative REYRA AI, to build collaborative research, training, and innovation programs around quantum computing, quantum artificial intelligence, and quantum-inspired AI, Daijiworld reported. The agreement was signed by Dr. Aswini Dutt R, regis"
     }
   ],
   "education": [
+    {
+      "title": "What E-Rate makes possible: Four lessons from our district",
+      "link": "https://www.eschoolnews.com/it-leadership/2026/09/28/what-e-rate-makes-possible-four-lessons-from-lenoir-city-schools/",
+      "source": "eSchool News",
+      "published": "2026-09-28T10:00:00.000Z",
+      "snippet": "For nearly three decades, E-Rate has helped school districts build and sustain the network infrastructure that supports teaching, learning, safety, and the many systems educators rely on every day."
+    },
     {
       "title": "Teachers weigh the realities of classroom technology in new national survey",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/25/teachers-weigh-the-realities-of-classroom-technology-in-new-national-survey/",
@@ -1365,13 +1274,6 @@
       "source": "eSchool News",
       "published": "2026-09-23T16:04:55.000Z",
       "snippet": "Integrated directly into Abre’s Data Intelligence Platform, Vera delivers real-time, role-aware answers to plain-language questions without compromising student privacy or ... Read more"
-    },
-    {
-      "title": "Inspiring curiosity for career exploration and mentoring for pathway success",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/23/inspiring-curiosity-for-career-exploration-and-mentoring-for-pathway-success/",
-      "source": "eSchool News",
-      "published": "2026-09-23T10:00:00.000Z",
-      "snippet": "In my eight years as a high school CTE, Engineering and Architecture Pathway instructor, I have witnessed students and their families struggle to navigate their career trajectory. Every year, I hear three scenarios: “I think I know what I want to do,” “My parents want me to be a…,” and “I have no idea what I want to do.”"
     }
   ]
 }
