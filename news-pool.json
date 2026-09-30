@@ -1,11 +1,95 @@
 {
   "ai": [
     {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T21:07:40.000Z",
+      "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T19:00:57.000Z",
+      "snippet": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T18:23:57.000Z",
+      "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T17:45:00.000Z",
+      "snippet": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T17:24:45.000Z",
+      "snippet": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T16:24:23.000Z",
+      "snippet": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T16:00:24.000Z",
+      "snippet": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+    },
+    {
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T16:00:00.000Z",
+      "snippet": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+    },
+    {
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T15:56:28.000Z",
+      "snippet": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for."
+    },
+    {
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T14:30:00.000Z",
+      "snippet": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits."
+    },
+    {
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T14:27:11.000Z",
+      "snippet": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight."
+    },
+    {
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-30T14:15:00.000Z",
+      "snippet": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders."
+    },
+    {
       "title": "Airbnb adds AI search, more social features",
       "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-30T12:00:00.000Z",
-      "snippet": "Airbnb is also launching new services such as meal delivery and laundry in select locations"
+      "snippet": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
     },
     {
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
@@ -27,6 +111,13 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-29T22:20:59.000Z",
       "snippet": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-29T20:15:47.000Z",
+      "snippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
     },
     {
       "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
@@ -251,107 +342,72 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-25T22:20:47.000Z",
       "snippet": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
-    },
-    {
-      "title": "Meta opens early access program for new Muse features",
-      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T20:34:53.000Z",
-      "snippet": "Anyone interested in joining has to ask Muse to put them on the list."
-    },
-    {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T19:13:38.000Z",
-      "snippet": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T18:48:33.000Z",
-      "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
-    },
-    {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T18:33:59.000Z",
-      "snippet": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout."
-    },
-    {
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T18:22:47.000Z",
-      "snippet": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s ear"
-    },
-    {
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T17:29:46.000Z",
-      "snippet": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
-    },
-    {
-      "title": "Astra and Opus just passed Turing’s other test",
-      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T17:24:36.000Z",
-      "snippet": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T16:16:52.000Z",
-      "snippet": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
-    },
-    {
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T16:00:00.000Z",
-      "snippet": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s ear"
-    },
-    {
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T15:48:14.000Z",
-      "snippet": "The latest unauthorized agent swarms were discovered by researchers."
-    },
-    {
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T15:40:03.000Z",
-      "snippet": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T15:00:00.000Z",
-      "snippet": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends."
-    },
-    {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T14:15:00.000Z",
-      "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
-    },
-    {
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-      "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T14:00:00.000Z",
-      "snippet": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle."
     }
   ],
   "cloud": [
+    {
+      "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
+      "source": "AWS News Blog",
+      "published": "2026-09-30T20:03:34.000Z",
+      "snippet": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before similarity search so scoped queries return more relevant results. Ideal for RAG, agentic apps, and document search."
+    },
+    {
+      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
+      "source": "AWS News Blog",
+      "published": "2026-09-30T17:22:31.000Z",
+      "snippet": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations"
+    },
+    {
+      "title": "Celebrating Our Newest AWS Heroes – September 2026",
+      "link": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
+      "source": "AWS News Blog",
+      "published": "2026-09-30T17:04:05.000Z",
+      "snippet": "Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities. These individuals make a real difference in helping developers and organizations succeed with AWS. This month, we welcome […]"
+    },
+    {
+      "title": "What’s new in AI infrastructure and orchestration in September",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "source": "Cloud Blog",
+      "published": "2026-09-30T16:00:00.000Z",
+      "snippet": "We hereby declare September to be scalability month! As the world prepares for a surge of agentic fleets, we are shoring up our AI infrastructure and orchestration offerings to gracefully — and quickly — respond to that demand, all while maintaining workload isolation and security, and keeping costs in check. Read on to learn how these enhancements manifest across Google Cloud’s compute, network, "
+    },
+    {
+      "title": "Cloud CISO Perspectives: How cybersecurity startups can win CISOs",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/",
+      "source": "Cloud Blog",
+      "published": "2026-09-30T16:00:00.000Z",
+      "snippet": "Welcome to the second Cloud CISO Perspectives for September 2026. Today, Alicja Cade and Nick Godfrey, senior directors, Office of the CISO, share their guidance for cybersecurity startups on how to win over the CISOs who will become crucial business partners and customers.\nAs with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog. If you’re reading t"
+    },
+    {
+      "title": "Empower your agents with the Google Cloud CLI remote MCP server",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
+      "source": "Cloud Blog",
+      "published": "2026-09-30T16:00:00.000Z",
+      "snippet": "Today, we’re expanding our ecosystem of managed remote MCP servers by introducing the Google Cloud CLI remote MCP server in preview.\nPowered by the popular gcloud and bq (BigQuery) command-line tools, this new server gives AI agents immediate, broad access to command-line operations for managing Google Cloud infrastructure and working with advanced BigQuery workflows securely and seamlessly. \nWhy "
+    },
+    {
+      "title": "Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere",
+      "link": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
+      "source": "Cloud Blog",
+      "published": "2026-09-30T16:00:00.000Z",
+      "snippet": "Spanner Omni, the deploy-anywhere version of Spanner, is now generally available, ready to power your most demanding production workloads in your on-premises data center or on other clouds. \nWith Spanner, Google pioneered the distributed SQL market over a decade ago, combining the horizontal scalability of NoSQL with the ACID compliance and strong consistency of a traditional relational database. "
+    },
+    {
+      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+      "source": "Cloud Blog",
+      "published": "2026-09-30T14:00:00.000Z",
+      "snippet": "Written by: Robin Grunewald, Supriya Mazumdar, Kelli Vanderlee\nIntroduction\nGoogle Threat Intelligence Group (GTIG) examines vulnerability disclosure and exploitation statistics to evaluate the impact of artificial intelligence (AI) on the vulnerability threat landscape. We found that AI is measurably changing not just the pace of vulnerability discovery and exploitation, but also the types and ty"
+    },
+    {
+      "title": "Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
+      "source": "Cloud Blog",
+      "published": "2026-09-30T13:00:00.000Z",
+      "snippet": "Today, Google Cloud Data Agent Kit is generally available. Data Agent Kit is a free set of Model Context Protocol (MCP) tools and agent skills that lets the coding agent you already use work directly with your Google Cloud data products, whether you're using Antigravity, Claude Code, Codex, or other popular tools.\nWith GA, we are adding support for BigQuery Graph, Bigtable, and Managed Service for"
+    },
     {
       "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
@@ -381,6 +437,13 @@
       "snippet": "Over the last three decades in cybersecurity, I’ve witnessed major paradigm shifts — yet none match the velocity and complexity of today’s landscape. Attackers are now using AI to move at machine speed: accelerating intrusions, exploiting zero-day vulnerabilities, and rendering legacy defenses obsolete.\nReactive, manual security reviews can no longer keep pace with sophisticated and increasingly a"
     },
     {
+      "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
+      "source": "Cloud Blog",
+      "published": "2026-09-29T14:00:00.000Z",
+      "snippet": "Introduction\nIn late September 2026, Mandiant Consulting and Google Threat Intelligence Group (GTIG) identified active, in-the-wild exploitation of a zero-day vulnerability (CVE-2026-88772) affecting Citrix NetScaler ADC and NetScaler Gateway appliances. We have observed evidence that organizations in North America and Europe in the government, financial services, technology, education, and legal "
+    },
+    {
       "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
       "source": "AWS News Blog",
@@ -407,44 +470,121 @@
       "source": "Cloud Blog",
       "published": "2026-09-28T07:00:00.000Z",
       "snippet": "Today, we’re excited to announce the general availability of our next-generation Storage-optimized Z4D machine series in Google Compute Engine with both Virtual Machine (VM) and bare-metal instances. \nWe built Z4D for IO-intensive and business-critical workloads that require large local storage capacity and high storage performance, including SQL, NoSQL, KVrocks and vector databases, data analytic"
-    },
-    {
-      "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
-      "source": "Cloud Blog",
-      "published": "2026-09-25T16:00:00.000Z",
-      "snippet": "Reinforcement learning (RL) has been a keystone of modern LLM post-training, but it demands large training clusters and access to model internals that external customers can't have with proprietary models like Gemini. So here at Google Cloud, we packaged it into a managed RL fine-tuning service (RLFT service) — you bring prompts and a reward function; we handle the infrastructure and the proprieta"
-    },
-    {
-      "title": "Storage Intelligence advisor: Know what changed in your storage estate and act on it",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/storage-intelligence-advisor-and-batch-operations-updates/",
-      "source": "Cloud Blog",
-      "published": "2026-09-25T16:00:00.000Z",
-      "snippet": "The volume of data being generated today brings both opportunity and massive operational complexity. Most teams that operate at scale don't discover issues until they appear on an invoice — and by the time an unusual access pattern shows up as a line item, it has often been running for weeks. Understanding what happened means exporting inventory, joining it against access logs, and hoping someone "
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "source": "Cloud Blog",
-      "published": "2026-09-25T16:00:00.000Z",
-      "snippet": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. \n\nTip: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources.\n\n\n\n    aside_block\n    <ListValue: []>\n\nSept 21 - "
-    },
-    {
-      "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
-      "link": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
-      "source": "Cloud Blog",
-      "published": "2026-09-25T16:00:00.000Z",
-      "snippet": "At Google Cloud, we are committed to delivering the best managed experience backed by open source software. Today, we’re announcing the general availability of Memorystore for Valkey 9.1, which achieves up to 3x queries per second (QPS) at microsecond latency compared to Memorystore for Redis Cluster.\nOur support for Valkey dates back to 2024, when Redis Inc. shifted its licensing away from the pe"
-    },
-    {
-      "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/",
-      "source": "Cloud Blog",
-      "published": "2026-09-25T14:00:00.000Z",
-      "snippet": "Introduction \nAs an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit, Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE-2026-35273 by UNC6240 (ShinyHunters), along with expanded global targeting across multiple sectors. In June, the threat actor exploited this vulnerability as a zero-day predomina"
     }
   ],
   "hardware": [
+    {
+      "title": "Geekbench 7 results suggest OpenAI's dots run on nine-core AMD EPYC VMs",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/geekbench-7-results-suggest-openais-dots-agent-runs-on-nine-core-amd-epyc-vms-with-nearly-10gb-of-memory-newest-runs-score-about-six-times-meta-muse-in-multi-core",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T18:00:39.000Z",
+      "snippet": "Post-launch Geekbench 7 runs show Debian Linux instead of the leak's Ubuntu."
+    },
+    {
+      "title": "Top AI tech executives promise to ‘self-police’ AI development",
+      "link": "https://www.tomshardware.com/tech-industry/policy/top-ai-tech-executives-promise-to-self-police-ai-development-nvidia-anthropic-openai-and-more-pledge-ai-labs-will-take-steps-to-build-a-positive-future",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T17:27:37.000Z",
+      "snippet": "The heads of the biggest AI labs — Google, Anthropic, Meta, OpenAI, SpaceXAI, and Nvidia — went to Washington and signed the 'Joint Commitment on Frontier Responsibilities,' promising to develop their own models safely. Trump says that it's the best way to move forward with AI as it balances progress with safety."
+    },
+    {
+      "title": "Marvel's Wolverine reaches gameplay with KytyPS5 emulator",
+      "link": "https://www.tomshardware.com/video-games/playstation/marvels-wolverine-reaches-gameplay-with-kytyps5-emulator-ps5-exclusive-joins-ghost-of-yotei-in-reaching-gameplay-performance-still-in-single-digits",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T17:00:00.000Z",
+      "snippet": "An experimental PS5 emulator has been shown running the brand-new Marvel's Wolverine game on a PC, with gameplay working for the first time."
+    },
+    {
+      "title": "Xbox Disc to Digital feature rolls out to all Xbox players to enable playing disc-free, but selling your media revokes access",
+      "link": "https://www.tomshardware.com/video-games/xbox/xbox-disc-to-digital-feature-rolls-out-to-all-xbox-players-to-enable-playing-disc-free-but-selling-your-media-revokes-access-hybrid-physical-media-plan-lands-as-sony-phases-out-discs-by-2028",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T16:40:00.000Z",
+      "snippet": "Xbox gamers can now get a digital license tied to their physical game discs associated with their Xbox profile for select titles, allowing them to play the game without needing to insert it into the console."
+    },
+    {
+      "title": "New PS5 Relapse jailbreak enables homebrew and Switch emulation but is hamstrung by rapidly-changing firmware revisions",
+      "link": "https://www.tomshardware.com/video-games/playstation/new-ps5-relapse-jailbreak-enables-homebrew-and-switch-emulation-but-is-hamstrung-by-rapidly-changing-firmware-revisions-jailbreak-unlocks-firmware-13-60-but-newer-games-already-demand-firmware-14-00",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T16:20:00.000Z",
+      "snippet": "A new jailbreak supports firmware 7.00 through 13.60, including on the PS5 Pro. But some game updates may already require a newer firmware, breaking the jailbreak."
+    },
+    {
+      "title": "AI Chip Design Week",
+      "link": "https://www.tomshardware.com/tag/ai-chip-design-week",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T16:02:34.000Z",
+      "snippet": "AI Chip Design Week"
+    },
+    {
+      "title": "TP-Link opens global preorders for its first Wi-Fi 8 router, but ban keeps it out of US market",
+      "link": "https://www.tomshardware.com/networking/routers/tp-link-opens-global-preorders-for-its-first-wi-fi-8-router-but-ban-keeps-it-out-of-us-market-us-left-off-launch-list-as-fcc-freeze-refuses-to-thaw",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T15:43:47.000Z",
+      "snippet": "TP-Link's first Wi-Fi 8 product, the Archer 8 Ultra, is off limits in the U.S."
+    },
+    {
+      "title": "Save 60% on your first month of Meshy 7 AI — streamline your 3D printing workflow for less",
+      "link": "https://www.tomshardware.com/3d-printing/save-60-percent-on-your-first-month-of-meshy-7-ai-streamline-your-3d-printing-workflow-for-less",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T15:00:00.000Z",
+      "snippet": "Use the exclusive TOMESHY60 discount code to slash 60% off your first month of Meshy 7."
+    },
+    {
+      "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T14:40:00.000Z",
+      "snippet": "Anthropic has released a frontier red teaming report, claiming that Zhipu AI's GLM-5.3 has weak safeguarding, and can easily be used to generate harmful content."
+    },
+    {
+      "title": "Meta's Muse AI agent accused of ignoring user permissions and accessing forbidden personal user data",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/metas-muse-ai-agent-accused-of-accessing-sensitive-user-data-on-iphone-and-mac-without-permission-agent-shocks-reporter-by-referring-to-confidential-messages-it-wasnt-granted-access-to",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T14:00:00.000Z",
+      "snippet": "Meta's Muse AI agent has been accused of ignoring user permissions and accessing forbidden personal user data on an iPhone and Mac, including iMessages."
+    },
+    {
+      "title": "iBuyPower Slate Gaming Desktop review: Strong gaming value and extras",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/ibuypower-slate-gaming-desktop-review",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T13:50:00.000Z",
+      "snippet": "The iBuyPower Slate pairs a Ryzen 7 7700X3D and RTX 5070 in a stylish RGB-equipped chassis, delivering strong gaming performance and surprising extras, though productivity performance trails some similarly priced rivals."
+    },
+    {
+      "title": "Grab this 10-port gigabit PoE+ switch with up to 60W of power for under $38, a new record low",
+      "link": "https://www.tomshardware.com/networking/network-switches/grab-this-10-port-gigabit-poe-switch-with-up-to-60w-of-power-for-under-usd38-a-new-record-low-ugreen-switch-upgrades-your-home-network-with-eight-power-delivery-ports-for-cameras-and-wi-fi-extenders",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T13:40:00.000Z",
+      "snippet": "This Ugreen 10-port unmanaged Ethernet switch has hit record-low pricing of $37.79, unlocking eight PoE+ ports for up to 60W of power delivery for cameras and WiFi extenders, along with two extra ports for Gigabit uplink to your existing network."
+    },
+    {
+      "title": "Florida attorney general asks judge to bar OpenAI from developing new AI models without third-party approval",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/florida-attorney-general-asks-judge-to-bar-openai-from-developing-new-ai-models-without-third-party-approval-openai-says-it-already-paused-training-its-most-capable-models-last-week",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T13:20:00.000Z",
+      "snippet": "Florida asked a court to bar OpenAI from developing new AI models without third-party approval and to keep minors off ChatGPT."
+    },
+    {
+      "title": "Trump tells federal agencies to use the term 'Super Intelligence ' instead of artificial intelligence",
+      "link": "https://www.tomshardware.com/tech-industry/policy/trump-tells-federal-agencies-to-use-the-term-super-intelligence-instead-of-artificial-intelligence-president-insists-that-ai-is-only-suffering-from-a-branding-problem",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T12:51:29.000Z",
+      "snippet": "President Donald Trump issued an executive order directing all federal agencies to stop using the term 'artificial intelligence' and instead call it 'Super Intelligence.' The president said that the new term will solve AI's branding issue and that it 'more appropriately captures the promise, potential, and rapidly advancing capabilities of these technologies.'"
+    },
+    {
+      "title": "The price of AI is crashing faster than the rate of Moore's Law, report suggests",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-price-of-ai-is-crashing-faster-than-the-rate-of-moores-law-report-suggests-intelligence-costs-are-in-freefall-outpacing-comparative-technologies-like-compute-dna-sequencing-and-lithium-batteries",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T12:40:00.000Z",
+      "snippet": "The price of AI \"intelligence,\" has fallen dramatically in recent years, faster than any other transformational technology in history according to some estimates. This raises serious questions about the need to retain access to frontier capabilities, when they show up elsewhere so swiftly."
+    },
+    {
+      "title": "The state of agentic AI in chip design tools in 2026",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T12:20:00.000Z",
+      "snippet": "Cadence, Synopsys, and Siemens all offer agentic AI for chip design, largely built on Nvidia's stack, with varying claims of autonomy."
+    },
     {
       "title": "The Ethernet spec was first drafted on this day in 1980",
       "link": "https://www.tomshardware.com/networking/the-ethernet-spec-was-first-drafted-on-this-day-in-1980-dec-intel-and-xerox-defined-the-standard-several-years-before-the-internet-existed",
@@ -465,6 +605,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-30T11:00:00.000Z",
       "snippet": "NuvaCore says it is developing its new WarpCore CPU IP without first choosing the ISA it will implement. This unusual development strategy is meant to offer the company maximum technology and business flexibility."
+    },
+    {
+      "title": "‘This is how AI should be used’ — OpenAI head of hardware breaks down the AI-assisted design of its Jalapeño ASIC",
+      "link": "https://www.tomshardware.com/tech-industry/asics/this-is-how-ai-should-be-used-openai-head-of-hardware-breaks-down-the-ai-assisted-design-of-its-jalapeno-asic",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T10:59:59.000Z",
+      "snippet": "OpenAI says AI-assisted Jalapeño chip design \"established a new baseline\" for the industry, and there is already a lot of interest from others to learn how the company pulled it off."
     },
     {
       "title": "Pick up a new 34-inch gaming monitor from Acer for just $189 — save 24% on this curved ultrawide with a QHD resolution",
@@ -948,65 +1095,23 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-26T10:00:00.000Z",
       "snippet": "A German Army Enigma transmission from 85 years ago, known as the MVUEH message, has been cracked by GTP-Astra in just two days."
-    },
-    {
-      "title": "Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T15:40:00.000Z",
-      "snippet": "Elon Musk says that the Colossus 2 will receive 220,000 GB300 GPUs by next week, with another two tranches of the same amount expected to arrive later this year. This will put the site at over a million AI GPUs, finally hitting the goal the billionaire set two years ago."
-    },
-    {
-      "title": "Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub",
-      "link": "https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T15:00:22.000Z",
-      "snippet": "Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level."
-    },
-    {
-      "title": "Meta Muse runs agents on AMD EPYC Turin hosts with two cores and 8GB of memory",
-      "link": "https://www.tomshardware.com/pc-components/cpus/meta-muse-runs-agents-on-amd-epyc-turin-hosts-with-two-cores-and-8gb-of-memory-ai-agent-can-pass-terminal-commands-to-ubuntu-host-system",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T14:56:36.000Z",
-      "snippet": "Meta's new Muse AI agent is powered by AMD EPYC Turin hosts, with each user getting a private sandbox with two vCPUs and 8GB of memory."
-    },
-    {
-      "title": "Noctua explores 2,000W micro-channel air cooling",
-      "link": "https://www.tomshardware.com/pc-components/air-cooling/noctua-explores-2-000w-micro-channel-air-cooling-partners-with-forced-physics-to-develop-vacuum-pump-level-airflow-for-desktop-pcs",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T14:42:58.000Z",
-      "snippet": "Noctua and Forced Physics are exploring whether densely packed micro-channels can provide extreme cooling performance without the noise associated with high-pressure airflow"
-    },
-    {
-      "title": "Save $250 on this award-winning Elegoo resin 3D printer with an integrated heater and 16K resolution",
-      "link": "https://www.tomshardware.com/3d-printing/save-usd250-on-this-award-winning-elegoo-resin-3d-printer-with-an-integrated-heater-and-16k-resolution-39-percent-discount-on-the-saturn-4-ultra-16k-gets-you-a-hugely-accurate-printer-with-fast-speeds-and-a-tilt-release-vat",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T13:33:16.000Z",
-      "snippet": "This Elegoo Saturn 4 Ultra, one of the best resin 3D printers you can buy, is on sale for $359 right now, saving you 40% on its usual price."
-    },
-    {
-      "title": "Gamemax RGB PRO 750G power supply review: Efficient, but pricey for an average unit with pretty lights",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/gamemax-rgb-pro-750g-power-supply-review",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T13:00:00.000Z",
-      "snippet": "Gamemax charges $105 for an average power supply with RGB lighting. The Sohoo platform underneath measures well enough, but the fan, the capacitors, and the warranty all sit below what the price should buy."
-    },
-    {
-      "title": "DDR5 laptop memory prices surge 6X in 12 months",
-      "link": "https://www.tomshardware.com/laptops/laptop-maker-says-ddr5-so-dimms-are-6x-pricier-than-last-year-schenker-says-other-component-costs-are-rising-too-announces-price-hikes",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T13:00:00.000Z",
-      "snippet": "XMG noted that SO-DIMM prices have jumped 6x, with other components like PCBs, CPUs, and GPUs also facing increasing costs. This has forced the niche laptop manufacturer to bump their SRPs between $113 and $342."
-    },
-    {
-      "title": "Nintendo wins $4.5 million lawsuit against Switch pirate by default",
-      "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-wins-usd4-5-million-lawsuit-against-switch-pirate-by-default-defendant-allegedly-moderated-r-switchpirates-and-sold-pirated-switch-games",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T12:26:21.000Z",
-      "snippet": "A Washington court granted Nintendo of America a $4.5 million default judgment after the defendant failed to appear in court and respond to the allegations. The company claimed that it sent a cease-and-desist letter and the respondent even answered via email saying they will comply and cooperate, but they have since cut-off communications."
     }
   ],
   "quantum": [
+    {
+      "title": "Charles Black Leads C2QA Research on Scalable Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/09/30/charles-black-c2qa-scalable-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-30T13:30:11.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — When Charles (Chuck) Black was a doctoral student at Harvard University, he, like many other physicists, used superconducting materials as vehicles for exploring fundamental physics questions. The materials — which can conduct electricity without losing energy when cooled to very cold temperatures — had niche technology applications at the time. […]"
+    },
+    {
+      "title": "New Report Positions Florida as an Emerging Leader in Defense-Led Quantum Technology",
+      "link": "https://thequantuminsider.com/2026/09/30/new-report-positions-florida-as-an-emerging-leader-in-defense-led-quantum-technology/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-30T13:02:43.000Z",
+      "snippet": "Insider Brief WEST PALM BEACH, Fla. — 30th September, 2026 — The Quantum Insider today announced the release of Florida Quantum Ecosystem: A Strategic Assessment of Florida’s Quantum Technology Position and Opportunities, a comprehensive study of the state’s quantum assets, competitive position and path to leadership. The report was prepared by The Quantum Insider in […]"
+    },
     {
       "title": "Classiq Introduces Fault Tolerance Engine for Quantum Applications",
       "link": "https://thequantuminsider.com/2026/09/30/classiq-fault-tolerance-engine-quantum-applications-hardware/",
@@ -1027,6 +1132,13 @@
       "source": "The Quantum Insider",
       "published": "2026-09-30T11:02:17.000Z",
       "snippet": "Insider Brief QuantLase Research and Development Center says it has tested an experimental light-based computing platform on seven financial market datasets, examining whether optical dynamics can process complex information that changes over time. The experiments evaluated how its Photonic Intelligence Processing Unit, or PIPU, followed observed data and generated predictions beyond the supplied "
+    },
+    {
+      "title": "NATO Sets Quantum Roadmap For Military Trials And Secure Communications",
+      "link": "https://thequantuminsider.com/2026/09/30/nato-sets-quantum-roadmap-for-military-trials-and-secure-communications/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-30T08:57:05.000Z",
+      "snippet": "Insider Brief NATO has set deadlines for testing quantum technologies in military operations and strengthening its defenses against quantum threats, turning its research ambitions into a schedule of trials, assessments and security projects. The alliance’s new Quantum Technology Roadmap calls for sea trials of quantum sensors in 2026 and 2027, an initial report on military […]"
     },
     {
       "title": "New Quantum Algorithm Targets Bottleneck in Fluid-Flow Modeling",
@@ -1160,30 +1272,16 @@
       "source": "The Quantum Insider",
       "published": "2026-09-26T13:46:41.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Researchers at the Research Center for Materials Nanoarchitectonics (MANA), one of the centers under the National Institute for Materials Science (NIMS), Japan, discovered that atomic-scale steps can guide superconducting vortices in an ultrathin superconductor. Vortices moved more than 1,000 times more easily along the steps than across them, and this […]"
-    },
-    {
-      "title": "Fairfax County Schools Plans Quantum Computer Program at High School",
-      "link": "https://thequantuminsider.com/2026/09/25/fairfax-county-schools-quantum-computer-high-school/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T17:04:22.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Fairfax County Public Schools (FCPS) is making history through a groundbreaking partnership with Connected DMV and the Fairfax County Economic Development Authority (FCEDA) that will bring an operational quantum computer directly to students at Skyview High School, creating a first-of-its-kind opportunity for K-12 public education. This partnership creates a unique […"
-    },
-    {
-      "title": "Creotech Quantum Prepares QKD System for Commercialization",
-      "link": "https://thequantuminsider.com/2026/09/25/creotech-quantum-qkd-system-commercialization/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T13:14:34.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Creotech Quantum S.A., a Warsaw Stock Exchange-listed company developing and commercializing quantum technologies, announced that the European Commission has approved the results of the eCAUSIS project – “European, Certifiable, Affordable, User-oriented, Secure, Integrationable, Scalable quantum key distribution solutions”. The project was positively assessed both in "
-    },
-    {
-      "title": "Guest Post: Quantum Investment May Start With Post-Quantum Security",
-      "link": "https://thequantuminsider.com/2026/09/25/quantum-investment-post-quantum-security/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T12:24:49.000Z",
-      "snippet": "Guest Post By Courtney Olujobi, Principal at Moon Pursuit Capital. From an investment perspective, one of the first significant markets created by quantum computing may have very little to do with buying access to quantum computers themselves. It may come from the amount of capital businesses will need to spend protecting the financial systems, digital […]"
     }
   ],
   "education": [
+    {
+      "title": "Finding the Right Disaster Recovery Strategy for Higher Ed",
+      "link": "https://edtechmagazine.com/higher/article/2026/09/finding-right-disaster-recovery-strategy-higher-ed",
+      "source": "EdTech Higher Magazine",
+      "published": "2026-09-30T16:44:46.000Z",
+      "snippet": "As higher education institutions prepare for unexpected events, from cyberattacks to unplanned downtime, disaster recovery is becoming a critical part of their survival. Having reliable, immutable backups is no longer just a matter of IT hygiene, it’s table stakes for operational continuity.\nThough colleges and universities understand the importance of a strong disaster recovery strategy, they’re "
+    },
     {
       "title": "Parents worry about ed tech. Most still see a place for it, polls suggest.",
       "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/30/parents-worry-about-ed-tech-most-still-see-a-place-for-it-polls-suggest/",
@@ -1206,6 +1304,13 @@
       "snippet": "Quantifying cyber risk in terms of financial exposure helps higher education IT teams justify their spending and make the case that security is an enterprise-critical endeavor. This approach pushes districts to audit existing security tools, prioritize threats based on potential financial impact and measure success in dollar-based risk exposure rather than technical metrics.\nHere’s how a quantifie"
     },
     {
+      "title": "5 strategies to boost U.S. K-12 math achievement",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/29/5-strategies-to-boost-u-s-k-12-math-achievement/",
+      "source": "eSchool News",
+      "published": "2026-09-29T10:00:00.000Z",
+      "snippet": "A new report from the Center for American Progress details the underlying causes behind this decline and highlights promising  solutions to improve math outcomes and outlines five specific policy-based strategies to boost math achievement nationwide."
+    },
+    {
       "title": "5 Questions To Ask To Manage Cloud Spending in Higher Ed",
       "link": "https://edtechmagazine.com/higher/article/2026/09/5-questions-ask-manage-cloud-spending-higher-ed",
       "source": "EdTech Higher Magazine",
@@ -1218,13 +1323,6 @@
       "source": "eSchool News",
       "published": "2026-09-28T10:00:00.000Z",
       "snippet": "For nearly three decades, E-Rate has helped school districts build and sustain the network infrastructure that supports teaching, learning, safety, and the many systems educators rely on every day."
-    },
-    {
-      "title": "Teachers weigh the realities of classroom technology in new national survey",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/25/teachers-weigh-the-realities-of-classroom-technology-in-new-national-survey/",
-      "source": "eSchool News",
-      "published": "2026-09-25T13:00:00.000Z",
-      "snippet": "While classroom technology is nearly universal, educators are navigating a growing disconnect between how digital tools are mandated and how they actually function, according to Teaching for Tomorrow: Screen Wise, a new report from the Walton Family Foundation and Gallup, in partnership with the Joan Ganz Cooney Center."
     }
   ]
 }
