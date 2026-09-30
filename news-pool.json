@@ -1,11 +1,39 @@
 {
   "ai": [
     {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "title": "Airbnb adds AI search, more social features",
+      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-29T20:15:47.000Z",
-      "snippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
+      "published": "2026-09-30T12:00:00.000Z",
+      "snippet": "Airbnb is also launching new services such as meal delivery and laundry in select locations"
+    },
+    {
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-30T10:40:30.000Z",
+      "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…"
+    },
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-29T23:30:55.000Z",
+      "snippet": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
+    },
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-29T22:20:59.000Z",
+      "snippet": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+    },
+    {
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-29T19:52:37.000Z",
+      "snippet": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
     },
     {
       "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
@@ -26,7 +54,7 @@
       "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-29T17:20:00.000Z",
-      "snippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+      "snippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks."
     },
     {
       "title": "OpenAI launches Dots, its bubbly agentic avatar",
@@ -36,32 +64,32 @@
       "snippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
     },
     {
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
       "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-29T17:15:00.000Z",
-      "snippet": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+      "snippet": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
     },
     {
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
       "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-29T17:15:00.000Z",
-      "snippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows."
+      "snippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows."
     },
     {
       "title": "OpenAI gives Codex reusable cloud environments that work across devices",
       "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-29T17:15:00.000Z",
-      "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes."
+      "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes."
     },
     {
       "title": "Can a chatbot fix the government maze? The White House is about to find out",
       "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-29T16:55:56.000Z",
-      "snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues."
+      "snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues."
     },
     {
       "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
@@ -321,23 +349,16 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-25T14:00:00.000Z",
       "snippet": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle."
-    },
-    {
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-09-25T09:16:25.000Z",
-      "snippet": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…"
-    },
-    {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T05:00:00.000Z",
-      "snippet": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
     }
   ],
   "cloud": [
+    {
+      "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
+      "source": "Cloud Blog",
+      "published": "2026-09-29T17:00:00.000Z",
+      "snippet": "When scaling up agentic reinforcement learning (RL) and evaluation across massive parallel rollouts, frontier AI labs inevitably hit a bottleneck: Expensive GPU clusters sit idle, waiting minutes for CPU sandbox cold-starts, plus thousands of multi-gigabyte SWE-bench-style image pulls and scheduling backlogs. It’s a sandbox infrastructure problem that silently slows down your research and burns yo"
+    },
     {
       "title": "Graph Workflows in ADK: Everything You Need to Know",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
@@ -358,13 +379,6 @@
       "source": "Cloud Blog",
       "published": "2026-09-29T14:00:00.000Z",
       "snippet": "Over the last three decades in cybersecurity, I’ve witnessed major paradigm shifts — yet none match the velocity and complexity of today’s landscape. Attackers are now using AI to move at machine speed: accelerating intrusions, exploiting zero-day vulnerabilities, and rendering legacy defenses obsolete.\nReactive, manual security reviews can no longer keep pace with sophisticated and increasingly a"
-    },
-    {
-      "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
-      "source": "Cloud Blog",
-      "published": "2026-09-29T05:00:00.000Z",
-      "snippet": "Introduction\nIn late September 2026, Mandiant Consulting and Google Threat Intelligence Group (GTIG) identified active, in-the-wild exploitation of a zero-day vulnerability (CVE-2026-88772) affecting Citrix NetScaler ADC and NetScaler Gateway appliances. We have observed evidence that organizations in North America and Europe in the government, financial services, education, legal and professional"
     },
     {
       "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
@@ -428,16 +442,58 @@
       "source": "Cloud Blog",
       "published": "2026-09-25T14:00:00.000Z",
       "snippet": "Introduction \nAs an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit, Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE-2026-35273 by UNC6240 (ShinyHunters), along with expanded global targeting across multiple sectors. In June, the threat actor exploited this vulnerability as a zero-day predomina"
-    },
-    {
-      "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/",
-      "source": "Cloud Blog",
-      "published": "2026-09-24T23:00:00.000Z",
-      "snippet": "In this episode of The Agent Factory, we explore the reality of building with autonomous agents alongside Ryan Lopopolo, a software engineer at Google Cloud and the person who coined the term agent harness. From throwing out manual code editors to treating team collaboration like leveling up RPG stats, Ryan breaks down how grounding models in rich context and shifting interventions left unlocks hi"
     }
   ],
   "hardware": [
+    {
+      "title": "The Ethernet spec was first drafted on this day in 1980",
+      "link": "https://www.tomshardware.com/networking/the-ethernet-spec-was-first-drafted-on-this-day-in-1980-dec-intel-and-xerox-defined-the-standard-several-years-before-the-internet-existed",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T12:00:00.000Z",
+      "snippet": "On this day in 1980, version 1.0 of the Ethernet specification was published by Digital Equipment Corporation (DEC), Intel, and Xerox."
+    },
+    {
+      "title": "Developer trains a small AI on a single RTX 3080 Ti gaming GPU to 'play' Pokémon Red",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-trains-a-small-ai-on-a-single-rtx-3080-ti-gaming-gpu-to-play-pokemon-red-model-discovered-what-each-button-does-by-predicting-what-happens-next",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T11:30:00.000Z",
+      "snippet": "A developer trained a JEPA world model, based on LeWorldModel research co-authored by Yann LeCun, on an RTX 3080 Ti to play Pokémon Red."
+    },
+    {
+      "title": "Nuvacore reveals unconventional Core First CPU IP design strategy",
+      "link": "https://www.tomshardware.com/pc-components/cpus/nuvacore-reveals-unconventional-core-first-cpu-ip-design-strategy-chip-startup-led-by-apple-and-nuvia-legends-plans-to-delay-isa-selection-for-as-long-as-possible",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T11:00:00.000Z",
+      "snippet": "NuvaCore says it is developing its new WarpCore CPU IP without first choosing the ISA it will implement. This unusual development strategy is meant to offer the company maximum technology and business flexibility."
+    },
+    {
+      "title": "Pick up a new 34-inch gaming monitor from Acer for just $189 — save 24% on this curved ultrawide with a QHD resolution",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/pick-up-a-new-34-inch-gaming-monitor-from-acer-for-just-usd189-save-24-percent-on-this-curved-ultrawide-with-a-qhd-resolution",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T10:59:04.000Z",
+      "snippet": "Just $189 for a 34-inch curved ultrawide gaming monitor with a QHD resolution and 1500R curve."
+    },
+    {
+      "title": "Pentagon gets pwned as breach exposes sensitive data on nearly three million military and civilian personnel",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/pentagon-gets-pwned-as-breach-exposes-sensitive-data-on-nearly-three-million-military-and-civilian-personnel-stolen-info-includes-social-security-numbers-and-job-related-records",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T10:30:00.000Z",
+      "snippet": "Hackers have breached the U.S. Department of Defense's information systems. The Pentagon says that it has already secured the source of the leak, but the records of millions of DoD personnel are now in the wild."
+    },
+    {
+      "title": "Former EVGA employee recounts company’s degrading relationship with Nvidia before 2022 blow-up",
+      "link": "https://www.tomshardware.com/pc-components/gpus/former-evga-employee-recounts-companys-degrading-relationship-with-nvidia-before-2022-blow-up-founders-editions-pricing-mandates-and-forward-looking-tech-all-led-to-friction",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T10:00:00.000Z",
+      "snippet": "In a personal blog, former EVGA product manager Brendon Ray Hedrick shared how the first Nvidia Founders Edition GPUs alarmed the company and how pricing pressure and risky forward-looking tech ultimately led to the end of the two companies' storied partnership."
+    },
+    {
+      "title": "AMD acquires AI legend Fei-Fei Li's World Labs for $8.2 billion",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-acquires-ai-legend-fei-fei-lis-world-labs-for-usd8-2-billion-imagenet-pioneer-will-become-amd-chief-scientist-as-the-chipmaker-brings-her-lab-in-house",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-30T09:30:00.000Z",
+      "snippet": "AMD has agreed agreed to buy generative AI world model developer World Labs for $8.2 billion in stock. Legendary CEO and co-founder Fei-Fei Li will join the company as an executive vice president and chief scientist."
+    },
     {
       "title": "Zotac denies warranty support to RTX 3060 owner in India after just one year despite offering three years of coverage",
       "link": "https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date",
@@ -458,6 +514,13 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-29T14:10:00.000Z",
       "snippet": "A new report says blockchain dead-drop attacks have risen 440%, with state-linked and criminal groups using transactions, smart contracts, and even phantom wallets to hide malware payloads and C2 infrastructure on public blockchains."
+    },
+    {
+      "title": "Anthropic lists ‘existential risks to humanity’ as one of its risk factors in IPO prospectus",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut",
+      "source": " Latest from Tom's Hardware ",
+      "published": "2026-09-29T13:30:00.000Z",
+      "snippet": "Anthropic serves a dire warning in its IPO prospectus, saying how a rogue model could lead to the end of humanity and, consequentially, its business. Nevertheless, investors are still hoping for a $2-trillion valuation once the company goes public."
     },
     {
       "title": "We tested 13 power banks to help you choose the best one",
@@ -646,7 +709,7 @@
       "link": "https://www.tomshardware.com/pc-components/motherboards/asrock-x870e-challenger-wifi-motherboard-review",
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-28T13:20:00.000Z",
-      "snippet": "ASRock’s X870E Challenger Wifi packs a flagship audio codec, robust VRMs, USB4, 5 GbE, and Wi-Fi 7 into an affordable, all-white ATX board. It’s one of the best-equipped AMD options under $230."
+      "snippet": "ASRock’s X870E Challenger Wifi packs a flagship audio codec, robust VRMs, USB4, 5 GbE, and Wi-Fi 7 into an affordable, all-white ATX board. It’s one of the best-equipped AMD options under $290."
     },
     {
       "title": "UK government tells staff to stop thanking AI chatbots",
@@ -941,58 +1004,44 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-25T12:26:21.000Z",
       "snippet": "A Washington court granted Nintendo of America a $4.5 million default judgment after the defendant failed to appear in court and respond to the allegations. The company claimed that it sent a cease-and-desist letter and the respondent even answered via email saying they will comply and cooperate, but they have since cut-off communications."
-    },
-    {
-      "title": "Microsoft revamps Copilot with new tools, support for frontier models",
-      "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-revamps-copilot-with-new-tools-support-for-frontier-models-available-now-through-frontier-program",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T12:00:00.000Z",
-      "snippet": "Microsoft is revamping Copilot into a singular AI workspace, mixing your projects and agents together. It will also be able to support third-party frontier models."
-    },
-    {
-      "title": "Intel expects 14A to be 'within 5%' the performance of TSMC's A14",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-expects-14a-to-be-within-5-percent-the-performance-of-tsmcs-a14-conservative-forecast-clashes-with-18as-frequency-lead-and-promised-20-percent-gains",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T12:00:00.000Z",
-      "snippet": "Intel's Naga Chandrasekaran now claims that Intel 14A node will deliver performance 'within 5%' of TSMC's A14 technology, a claim that requires a closer examination."
-    },
-    {
-      "title": "Asus confirms eShop data breach exposed customer order records and contact details",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/asus-online-store-hit-by-data-breach-customer-contact-details-and-order-information-revealed",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T11:30:00.000Z",
-      "snippet": "Asus eShop hit by data breach — customer contact details and order information revealed"
-    },
-    {
-      "title": "New Jersey hits Microsoft-linked AI data center with record fine for 62 unpermitted power generators, issues 45-day shutdown deadline",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/new-jersey-fines-data-center-for-using-unpermitted-power-generators-microsoft-linked-site-also-in-trouble-with-community-for-noise-pollution-other-issues",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T11:00:00.000Z",
-      "snippet": "The DataOne data center is facing a record fine of $1.07 million for operating portable turbine generators without permission. Residents say that the penalty is a drop in the bucket for these big tech companies."
-    },
-    {
-      "title": "Grab this 4K-ready RTX 5070 Ti gaming PC from HP for under $1,900 right now",
-      "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-this-4k-ready-rtx-5070-ti-gaming-pc-from-hp-for-under-usd1-900-right-now-powerful-omen-35l-machine-is-a-serious-bargain-with-a-20-core-intel-cpu-32gb-ddr5-ram-and-a-1tb-ssd",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T10:51:36.000Z",
-      "snippet": "This epic HP Omen 45L gaming rig is one of the cheapest RTX 5070 Ti PC you can buy right now, fitted with a Intel Core i7-14700F, 32GB of DDR RAM, and a 1TB SSD for just $1,899.99."
-    },
-    {
-      "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T10:30:00.000Z",
-      "snippet": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W."
-    },
-    {
-      "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-25T10:00:00.000Z",
-      "snippet": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it."
     }
   ],
   "quantum": [
+    {
+      "title": "Classiq Introduces Fault Tolerance Engine for Quantum Applications",
+      "link": "https://thequantuminsider.com/2026/09/30/classiq-fault-tolerance-engine-quantum-applications-hardware/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-30T12:01:16.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Classiq today announced its Fault Tolerance Engine, a new product capability that translates optimized logical quantum programs into fault-tolerant execution plans, and measures from those same plans the physical resources and reliability required to run the application on a real machine. Fault-tolerant quantum computing introduces a fundamentally different software c"
+    },
+    {
+      "title": "Quantum eMotion to Acquire Plurilock Security",
+      "link": "https://thequantuminsider.com/2026/09/30/quantum-emotion-acquire-plurilock-quantum-ai-cybersecurity/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-30T11:52:23.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Quantum eMotion Corp. (“QeM” or the “Company”) (NYSE American: QNC; TSXV: QNC; FSE: 34Q0), a developer of quantum-secure cybersecurity technologies, and Plurilock Security Inc. (“Plurilock”) (TSXV: PLUR) are pleased to announce that they have entered into a definitive arrangement agreement (the “Arrangement Agreement”) on September 28, 2026 whereby QeM will […]"
+    },
+    {
+      "title": "QuantLase Tests Photonic Computing Platform on Financial Market Data",
+      "link": "https://thequantuminsider.com/2026/09/30/quantlase-tests-photonic-computing-platform-on-financial-market-data/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-30T11:02:17.000Z",
+      "snippet": "Insider Brief QuantLase Research and Development Center says it has tested an experimental light-based computing platform on seven financial market datasets, examining whether optical dynamics can process complex information that changes over time. The experiments evaluated how its Photonic Intelligence Processing Unit, or PIPU, followed observed data and generated predictions beyond the supplied "
+    },
+    {
+      "title": "New Quantum Algorithm Targets Bottleneck in Fluid-Flow Modeling",
+      "link": "https://thequantuminsider.com/2026/09/30/new-quantum-algorithm-targets-bottleneck-in-fluid-flow-modeling/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-30T08:23:30.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Researchers at the Department of Energy’s Oak Ridge National Laboratory used the world’s fastest supercomputer for open science to develop a quantum algorithm that could lead to more advanced models in fluid dynamics and other scientific fields. The results of the study, supported by the Oak Ridge Leadership Computing Facility’s Frontier supercomputer and Quantum Comp"
+    },
+    {
+      "title": "French National Quantum Update: September 2026",
+      "link": "https://thequantuminsider.com/2026/09/30/french-national-quantum-update-september-2026/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-30T08:13:44.000Z",
+      "snippet": "Executive Summary The summer break is definitely over. France’s quantum sector focused on the manufacturing, software and commercial relationships needed to put quantum computers into wider use in September 2026. Quobly reported progress on chips made through an industrial semiconductor process, while Alice & Bob and Quandela outlined efforts to connect quantum processors with conventional […]"
+    },
     {
       "title": "Roadrunner Quantum Lab to Open Its Doors in Albuquerque With First Eleven Tenants",
       "link": "https://thequantuminsider.com/2026/09/29/roadrunner-quantum-lab-to-open-its-doors-in-albuquerque-with-first-eleven-tenants/",
@@ -1006,6 +1055,13 @@
       "source": "The Quantum Insider",
       "published": "2026-09-29T17:25:45.000Z",
       "snippet": "Insider Brief PRESS RELEASE — Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, and Bluefors, the industry-leader in cryogenic solutions, announced today a strategic partnership to develop a novel, high-performance cryogenic prototype for utility-scale quantum computing (USQC). This work aims to realize a shared vision of scalable modul"
+    },
+    {
+      "title": "Cloudflare Plans Public Certificate Authority for Post-Quantum Security",
+      "link": "https://thequantuminsider.com/2026/09/29/cloudflare-public-certificate-authority-post-quantum-securit/",
+      "source": "The Quantum Insider",
+      "published": "2026-09-29T14:11:10.000Z",
+      "snippet": "Insider Brief PRESS RELEASE — Cloudflare, Inc. (NYSE: NET), the leading connectivity cloud company, today announced its intent to become a public Certificate Authority (CA), an open service that issues the digital certificates websites need to encrypt traffic and prove their identity to visitors. The new CA will support both traditional encryption and next-generation post-quantum […]"
     },
     {
       "title": "Project Eleven Acquires Riva Labs for Post-Quantum Security",
@@ -1125,65 +1181,16 @@
       "source": "The Quantum Insider",
       "published": "2026-09-25T12:24:49.000Z",
       "snippet": "Guest Post By Courtney Olujobi, Principal at Moon Pursuit Capital. From an investment perspective, one of the first significant markets created by quantum computing may have very little to do with buying access to quantum computers themselves. It may come from the amount of capital businesses will need to spend protecting the financial systems, digital […]"
-    },
-    {
-      "title": "DRDO Partners With Zero mK India on 20 mK Quantum Refrigerator",
-      "link": "https://thequantuminsider.com/2026/09/25/drdo-zero-mk-india-20-mk-dilution-refrigerator/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T12:13:55.000Z",
-      "snippet": "Insider Brief India’s Defence Research and Development Organisation (DRDO) has entered its first high-value deep-tech project agreement under the Technology Development Fund scheme, partnering with start-up Zero mK India Private Limited to build an indigenous 20 mK dilution refrigerator for quantum applications, India Blooms reported. The agreement was signed in New Delhi by the Director […]"
-    },
-    {
-      "title": "China’s Qingxing Raises Nearly 100 Million Yuan to Develop Quantum-Inspired AI",
-      "link": "https://thequantuminsider.com/2026/09/25/chinas-qingxing-raises-nearly-100-million-yuan-to-develop-quantum-inspired-ai/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T12:06:19.000Z",
-      "snippet": "Insider Brief Qingxing Heterogeneous Computing completed a Series A+ funding round, bringing its total raised across two rounds in three months to nearly 100 million yuan (about $14.9 million) to develop quantum-inspired AI. Its RiverONE model runs on conventional GPUs and reportedly achieved at least 95% of a larger comparison model’s performance on a specialized […]"
-    },
-    {
-      "title": "CGI Federal, DLA and UT Knoxville Study Quantum Computing for Logistics",
-      "link": "https://thequantuminsider.com/2026/09/25/dla-ut-knoxville-applied-research-agreement/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T11:54:54.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — CGI Federal Inc. (CGI Federal), a leading provider of technology and professional services for the U.S. government, today announced that it has entered into an agreement with the U.S. Defense Logistics Agency (DLA) and the University of Tennessee, Knoxville (UT) to conduct applied research and development to examine how agentic artificial intelligence […]"
-    },
-    {
-      "title": "Chinese Scientists Say Compact Quantum Magnetometer Tracks Hidden Targets in Field Tests",
-      "link": "https://thequantuminsider.com/2026/09/25/chinese-scientists-say-compact-quantum-magnetometer-tracks-hidden-targets-in-field-tests/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T11:32:11.000Z",
-      "snippet": "Insider Brief Chinese researchers developed a compact quantum magnetometer that detected underground train activity, located a buried magnet and monitored a geomagnetic storm in field tests. The instrument uses a small sensing probe — about the the size of two dice placed side by side — and automatically restores measurements within a second after strong […]"
-    },
-    {
-      "title": "Mphasis and Copa Airlines Host Quantum Computing Challenge for Airline Optimization",
-      "link": "https://thequantuminsider.com/2026/09/25/mphasis-copa-airlines-quantum-computing-challenge/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T09:54:38.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Mphasis, (BSE: 526299; NSE: MPHASIS), a global AI-led, platform-driven technology solutions provider, in partnership with Copa Airlines, recently hosted a Quantum Computing Challenge, an international innovation contest. The challenge brought together teams from various Indian Institutes of Technology (IITs) in India and the University of Calgary and the University of"
-    },
-    {
-      "title": "DigiCert Launches Quantum Central for Post-Quantum Cryptography Readiness",
-      "link": "https://thequantuminsider.com/2026/09/25/digicert-quantum-central-pqc-plans-action/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T08:35:42.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — DigiCert, a global leader in intelligent trust, today announced the general availability of DigiCert Quantum Central, part of the DigiCert ONE platform, that helps organizations manage and demonstrate progress toward post-quantum cryptography (PQC) readiness. First introduced in preview in July, Quantum Central offers expanded capabilities that help organizations move"
-    },
-    {
-      "title": "Evaluating Quantum Generative Models on Real Satellite Radar",
-      "link": "https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T07:56:35.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — IonQ researchers applied a quantum generative machine learning model to help detect changes in highly complex satellite image data. The results, detailed in a recently published paper, reveal that using quantum-based analysis shows promise for detecting and predicting changes in images where data is too sparse for classical methods to be […]"
-    },
-    {
-      "title": "UTM Becomes Base For Malaysia’s First Quantum Computing Hardware Company",
-      "link": "https://thequantuminsider.com/2026/09/25/utm-becomes-base-for-malaysias-first-quantum-computing-hardware-company/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-25T07:19:04.000Z",
-      "snippet": "Insider Brief PRESS RELEASE —  Universiti Teknologi Malaysia (UTM) is strengthening its role in Malaysia’s emerging quantum technology ecosystem as AQSolotl Pte. Ltd., a Singapore-based quantum technology company, establishes its research, development and commercialisation (R&D&C) operations at UTM Technovation Park in Johor Bahru. The development makes AQSolotl the first quantum computing hardwar"
     }
   ],
   "education": [
+    {
+      "title": "Parents worry about ed tech. Most still see a place for it, polls suggest.",
+      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/30/parents-worry-about-ed-tech-most-still-see-a-place-for-it-polls-suggest/",
+      "source": "eSchool News",
+      "published": "2026-09-30T10:00:00.000Z",
+      "snippet": "Some parents are organizing campaigns to opt their kids out of classroom tech. Others are suing education software companies. But there may be a quieter majority: Parents who support some screen time in schools."
+    },
     {
       "title": "How Colleges Are Using Technology To Attract Students on Campus Visits",
       "link": "https://edtechmagazine.com/higher/article/2026/09/how-colleges-are-using-technology-attract-students-campus-visits",
