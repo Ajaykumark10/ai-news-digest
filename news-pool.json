@@ -321,43 +321,22 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-26T14:00:00.000Z",
       "snippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
-    },
-    {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-26T01:08:57.000Z",
-      "snippet": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
-    },
-    {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T23:11:10.000Z",
-      "snippet": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-25T22:20:47.000Z",
-      "snippet": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
     }
   ],
   "cloud": [
+    {
+      "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
+      "source": "AWS News Blog",
+      "published": "2026-09-30T22:10:00.000Z",
+      "snippet": "Amazon S3 Tables now support all data types in the Apache Iceberg V3 spec, along with column default values, deletion vectors, and row lineage. Upgrade existing V2 tables or create new V3 tables with built-in compaction, maintenance, and engine compatibility."
+    },
     {
       "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
       "source": "AWS News Blog",
       "published": "2026-09-30T20:03:34.000Z",
       "snippet": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before similarity search so scoped queries return more relevant results. Ideal for RAG, agentic apps, and document search."
-    },
-    {
-      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
-      "source": "AWS News Blog",
-      "published": "2026-09-30T17:22:31.000Z",
-      "snippet": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations"
     },
     {
       "title": "Celebrating Our Newest AWS Heroes – September 2026",
@@ -479,13 +458,6 @@
       "source": " Latest from Tom's Hardware ",
       "published": "2026-09-30T18:00:39.000Z",
       "snippet": "Post-launch Geekbench 7 runs show Debian Linux instead of the leak's Ubuntu."
-    },
-    {
-      "title": "Top AI tech executives promise to ‘self-police’ AI development",
-      "link": "https://www.tomshardware.com/tech-industry/policy/top-ai-tech-executives-promise-to-self-police-ai-development-nvidia-anthropic-openai-and-more-pledge-ai-labs-will-take-steps-to-build-a-positive-future",
-      "source": " Latest from Tom's Hardware ",
-      "published": "2026-09-30T17:27:37.000Z",
-      "snippet": "The heads of the biggest AI labs — Google, Anthropic, Meta, OpenAI, SpaceXAI, and Nvidia — went to Washington and signed the 'Joint Commitment on Frontier Responsibilities,' promising to develop their own models safely. Trump says that it's the best way to move forward with AI as it balances progress with safety."
     },
     {
       "title": "Marvel's Wolverine reaches gameplay with KytyPS5 emulator",
@@ -1113,13 +1085,6 @@
       "snippet": "Insider Brief WEST PALM BEACH, Fla. — 30th September, 2026 — The Quantum Insider today announced the release of Florida Quantum Ecosystem: A Strategic Assessment of Florida’s Quantum Technology Position and Opportunities, a comprehensive study of the state’s quantum assets, competitive position and path to leadership. The report was prepared by The Quantum Insider in […]"
     },
     {
-      "title": "Classiq Introduces Fault Tolerance Engine for Quantum Applications",
-      "link": "https://thequantuminsider.com/2026/09/30/classiq-fault-tolerance-engine-quantum-applications-hardware/",
-      "source": "The Quantum Insider",
-      "published": "2026-09-30T12:01:16.000Z",
-      "snippet": "Insider Brief PRESS RELEASE — Classiq today announced its Fault Tolerance Engine, a new product capability that translates optimized logical quantum programs into fault-tolerant execution plans, and measures from those same plans the physical resources and reliability required to run the application on a real machine. Fault-tolerant quantum computing introduces a fundamentally different software c"
-    },
-    {
       "title": "Quantum eMotion to Acquire Plurilock Security",
       "link": "https://thequantuminsider.com/2026/09/30/quantum-emotion-acquire-plurilock-quantum-ai-cybersecurity/",
       "source": "The Quantum Insider",
@@ -1302,13 +1267,6 @@
       "source": "EdTech Higher Magazine",
       "published": "2026-09-29T18:43:15.000Z",
       "snippet": "Quantifying cyber risk in terms of financial exposure helps higher education IT teams justify their spending and make the case that security is an enterprise-critical endeavor. This approach pushes districts to audit existing security tools, prioritize threats based on potential financial impact and measure success in dollar-based risk exposure rather than technical metrics.\nHere’s how a quantifie"
-    },
-    {
-      "title": "5 strategies to boost U.S. K-12 math achievement",
-      "link": "https://www.eschoolnews.com/innovative-teaching/2026/09/29/5-strategies-to-boost-u-s-k-12-math-achievement/",
-      "source": "eSchool News",
-      "published": "2026-09-29T10:00:00.000Z",
-      "snippet": "A new report from the Center for American Progress details the underlying causes behind this decline and highlights promising  solutions to improve math outcomes and outlines five specific policy-based strategies to boost math achievement nationwide."
     },
     {
       "title": "5 Questions To Ask To Manage Cloud Spending in Higher Ed",
